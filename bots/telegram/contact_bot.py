@@ -1,5 +1,6 @@
 import os
 import logging
+import asyncio
 
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import (
@@ -32,7 +33,8 @@ CATEGORIES = {
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
-    print(update.effective_chat.id)  # 👈 AJOUT TEMPORAIRE
+    logger.info(f"CHAT_ID: {update.effective_chat.id}")
+
     keyboard = [
         [InlineKeyboardButton("📝 Contact", callback_data="contact")],
         [InlineKeyboardButton("🤝 Partenariat", callback_data="partenariat")],
@@ -81,6 +83,12 @@ async def receive(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     username = f"@{user.username}" if user.username else "sans username"
     user_id = user.id
 
+    if not ADMIN_CHAT_ID:
+        await update.message.reply_text(
+            "Configuration incomplète : ADMIN_CHAT_ID manquant."
+        )
+        return ConversationHandler.END
+
     final_message = (
         f"{CATEGORIES[category]}\n"
         f"#{category}\n\n"
@@ -112,7 +120,7 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
 
 def main() -> None:
     if not TOKEN:
-    raise ValueError("La variable TELEGRAM_BOT_TOKEN est manquante.")
+        raise ValueError("La variable TELEGRAM_BOT_TOKEN est manquante.")
 
     app = ApplicationBuilder().token(TOKEN).build()
 
@@ -131,7 +139,15 @@ def main() -> None:
     app.add_handler(conversation_handler)
 
     logger.info("Contact bot started")
-    app.run_polling()
+
+    async def run() -> None:
+        await app.initialize()
+        await app.start()
+        await app.updater.start_polling()
+        while True:
+            await asyncio.sleep(3600)
+
+    asyncio.run(run())
 
 
 if __name__ == "__main__":
