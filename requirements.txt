@@ -4,3 +4,4 @@ beautifulsoup4
 lxml
 pdfplumber
 openai
+python-telegram-bot==21.11.1
