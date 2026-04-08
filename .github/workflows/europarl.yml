@@ -17,7 +17,7 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - run: python -m bots.europarl.main
+      - run: python -m bots.europarl.bot
         env:
           BLUESKY_EUROPARL_IDENTIFIER: ${{ secrets.BLUESKY_EUROPARL_IDENTIFIER }}
           BLUESKY_EUROPARL_PASSWORD: ${{ secrets.BLUESKY_EUROPARL_PASSWORD }}
