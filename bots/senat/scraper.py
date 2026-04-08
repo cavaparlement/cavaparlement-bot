@@ -5,7 +5,7 @@ from pathlib import Path
 
 PDF_URL = "https://www.senat.fr/pubagas/liste_senateurs_collaborateurs.pdf"
 
-def download_pdf(path="collab_today.pdf"):
+def download_pdf(path="data/senat/collab_today.pdf"):
     r = requests.get(PDF_URL, timeout=30)
     r.raise_for_status()
     with open(path, "wb") as f:
@@ -39,11 +39,11 @@ def parse_pdf(pdf_path) -> dict:
                     result[current_senator].append(right_text)
     return result
 
-def save_snapshot(data: dict, path="snapshot.json"):
+def save_snapshot(data: dict, path="data/senat/snapshot.json"):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-def load_snapshot(path="snapshot.json") -> dict:
+def load_snapshot(path="data/senat/snapshot.json") -> dict:
     if not Path(path).exists():
         return {}
     with open(path, encoding="utf-8") as f:
