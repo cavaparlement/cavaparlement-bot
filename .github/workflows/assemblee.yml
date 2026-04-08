@@ -23,6 +23,8 @@ jobs:
           BLUESKY_ASSEMBLEE_PASSWORD: ${{ secrets.BLUESKY_ASSEMBLEE_PASSWORD }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
 
+      - run: python scripts/update_photos.py
+
       - uses: actions/checkout@v4
         with:
           ref: main
@@ -30,6 +32,6 @@ jobs:
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/assemblee/
+          git add data/assemblee/ data/photos/assemblee/
           git diff --cached --quiet || git commit -m "chore(assemblee): update data [skip ci]"
           git push
