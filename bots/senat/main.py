@@ -1,7 +1,7 @@
-from scraper import download_pdf, parse_pdf, save_snapshot, load_snapshot, fetch_senateurs_info
-from diff import compute_diff
-from twitter import post_events
-from update_history import append_events
+from bots.senat.scraper import download_pdf, parse_pdf, save_snapshot, load_snapshot, fetch_senateurs_info
+from bots.senat.diff import compute_diff
+from bots.senat.publisher import post_events
+from bots.senat.update_history import append_events
 from atproto import Client
 from datetime import date
 from pathlib import Path
