@@ -5,7 +5,7 @@ Compatible Python 3.9+
 """
 
 import unicodedata
-from senator_lookup import SENATOR_HANDLES
+from bots.senat.senator_lookup import SENATOR_HANDLES
 
 
 def _normalize(s):
