@@ -58,11 +58,11 @@ def fetch_deputes_info() -> dict:
         print("Erreur CSV députés: " + str(e))
     return info
 
-def save_snapshot(data: dict, path="snapshot_an.json"):
+def save_snapshot(data: dict, path="data/assemblee/snapshot.json"):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-def load_snapshot(path="snapshot_an.json") -> dict:
+def load_snapshot(path="data/assemblee/snapshot.json") -> dict:
     if not Path(path).exists():
         return {}
     with open(path, encoding="utf-8") as f:
