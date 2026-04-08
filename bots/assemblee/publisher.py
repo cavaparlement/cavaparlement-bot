@@ -2,35 +2,14 @@ import os, json, requests
 from datetime import date
 from pathlib import Path
 from atproto import Client
+from shared.utils import fmt_date, post_telegram
+from shared.political_mapping import get_an_groupe_info
 
 HANDLE = os.getenv("BLUESKY_ASSEMBLEE_IDENTIFIER", "")
 APP_PASSWORD = os.getenv("BLUESKY_ASSEMBLEE_PASSWORD", "")
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHANNEL = "@cavaparlement"
 DATES_FILE = "data/assemblee/dates.json"
 
-GROUPES = {
-    "RN":    {"tag": "#RN",    "emoji": "🔵"},
-    "NFP":   {"tag": "#NFP",   "emoji": "🌹"},
-    "LFI":   {"tag": "#LFI",   "emoji": "🔴"},
-    "SOC":   {"tag": "#PS",    "emoji": "🌹"},
-    "RE":    {"tag": "#RE",    "emoji": "🟡"},
-    "MODEM": {"tag": "#MoDem", "emoji": "🟡"},
-    "HOR":   {"tag": "#HOR",   "emoji": "🟠"},
-    "LR":    {"tag": "#LR",    "emoji": "🔵"},
-    "LIOT":  {"tag": "#LIOT",  "emoji": "🟤"},
-    "GDR":   {"tag": "#GDR",   "emoji": "🔴"},
-    "ECOLO": {"tag": "#GEST",  "emoji": "🟢"},
-    "NI":    {"tag": "",       "emoji": "⚪️"},
-}
-
-def get_groupe_info(groupe_sigle):
-    if groupe_sigle in GROUPES:
-        return GROUPES[groupe_sigle]
-    for key, val in GROUPES.items():
-        if key.lower() in groupe_sigle.lower():
-            return val
-    return {"tag": "", "emoji": "⚪️"}
 
 def get_groupe_display(info):
     groupe_sigle = info.get("groupe", "")
@@ -51,22 +30,18 @@ def get_groupe_display(info):
             txt += " · " + circo + "e circ."
     return txt
 
+
 def load_dates():
     if not Path(DATES_FILE).exists():
         return {}
     with open(DATES_FILE, encoding="utf-8") as f:
         return json.load(f)
 
+
 def save_dates(dates):
     with open(DATES_FILE, "w", encoding="utf-8") as f:
         json.dump(dates, f, ensure_ascii=False, indent=2)
 
-def fmt_date(date_str):
-    try:
-        d = date.fromisoformat(date_str)
-        return d.strftime("%d/%m/%Y")
-    except:
-        return date_str
 
 def lookup_depute(dep, deputes_info):
     key = dep.upper().replace("M. ", "").replace("MME ", "").strip()
@@ -78,14 +53,6 @@ def lookup_depute(dep, deputes_info):
             return v
     return {}
 
-def post_telegram(text):
-    if not TELEGRAM_TOKEN:
-        return
-    url = "https://api.telegram.org/bot" + TELEGRAM_TOKEN + "/sendMessage"
-    try:
-        requests.post(url, json={"chat_id": TELEGRAM_CHANNEL, "text": text}, timeout=10)
-    except Exception as e:
-        print("Erreur Telegram: " + str(e))
 
 def format_post(event, deputes_info, dates):
     collab = event["collaborateur"]
@@ -94,7 +61,7 @@ def format_post(event, deputes_info, dates):
     if event["type"] in ["arrivee", "arrivée"]:
         dep = event["senateur"]
         info = lookup_depute(dep, deputes_info)
-        ginfo = get_groupe_info(info.get("groupe", ""))
+        ginfo = get_an_groupe_info(info.get("groupe", ""))
         groupe_txt = get_groupe_display(info)
         dates[collab] = today_str
         lines = [
@@ -110,7 +77,7 @@ def format_post(event, deputes_info, dates):
     elif event["type"] in ["depart", "départ"]:
         dep = event["senateur"]
         info = lookup_depute(dep, deputes_info)
-        ginfo = get_groupe_info(info.get("groupe", ""))
+        ginfo = get_an_groupe_info(info.get("groupe", ""))
         groupe_txt = get_groupe_display(info)
         date_fin = fmt_date(today_str)
         date_debut = fmt_date(dates.get(collab, "")) if collab in dates else ""
@@ -130,7 +97,7 @@ def format_post(event, deputes_info, dates):
         dep_from = event["from"]
         dep_to = event["to"]
         info_to = lookup_depute(dep_to, deputes_info)
-        ginfo = get_groupe_info(info_to.get("groupe", ""))
+        ginfo = get_an_groupe_info(info_to.get("groupe", ""))
         groupe_txt = get_groupe_display(info_to)
         dates[collab] = today_str
         lines = [
@@ -142,6 +109,7 @@ def format_post(event, deputes_info, dates):
             "#Assemblee " + ginfo["tag"],
         ]
         return "\n".join(lines).strip()
+
 
 def post_events(events, deputes_info={}):
     client = Client()
