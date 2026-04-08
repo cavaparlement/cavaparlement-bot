@@ -1,11 +1,13 @@
 from bots.assemblee.scraper import download_and_parse, save_snapshot, load_snapshot, fetch_deputes_info
 from bots.assemblee.publisher import post_events
+from bots.senat.diff import compute_diff
+from bots.senat.update_history import append_events
 from atproto import Client
 from datetime import date
 from pathlib import Path
 import os, json, random
 
-COMPTEUR_FILE = "compteur_ras_an.json"
+COMPTEUR_FILE = "data/assemblee/compteur_ras.json"
 MESSAGES_RAS = [
     "RAS aujourd'hui côté collaborateurs",
     "Silence radio à l'Assemblée aujourd'hui 👀",
@@ -28,8 +30,8 @@ def save_compteur(n):
         json.dump({"jours": n}, f)
 
 def post_ras():
-    handle = os.getenv("BLUESKY_HANDLE_AN", "")
-    password = os.getenv("BLUESKY_PASSWORD_AN", "")
+    handle = os.getenv("BLUESKY_ASSEMBLEE_IDENTIFIER", "")
+    password = os.getenv("BLUESKY_ASSEMBLEE_PASSWORD", "")
     today = date.today().strftime("%d/%m/%Y")
     compteur = load_compteur() + 1
     save_compteur(compteur)
@@ -49,7 +51,7 @@ def run():
     print("Récupération infos députés...")
     deputes_info = fetch_deputes_info()
     print(str(len(deputes_info)) + " députés enrichis")
-    with open("deputes_info.json", "w", encoding="utf-8") as f:
+    with open("data/assemblee/deputes_info.json", "w", encoding="utf-8") as f:
         json.dump(deputes_info, f, ensure_ascii=False, indent=2)
     old_data = load_snapshot()
     if not old_data:
