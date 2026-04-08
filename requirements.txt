@@ -1,0 +1,6 @@
+requests
+openai
+atproto
+python-telegram-bot
+beautifulsoup4
+lxml
