@@ -1,7 +1,5 @@
-from scraper_an import download_and_parse, save_snapshot, load_snapshot, fetch_deputes_info
-from diff import compute_diff
-from twitter_an import post_events
-from update_history import append_events
+from bots.assemblee.scraper import download_and_parse, save_snapshot, load_snapshot, fetch_deputes_info
+from bots.assemblee.publisher import post_events
 from atproto import Client
 from datetime import date
 from pathlib import Path
