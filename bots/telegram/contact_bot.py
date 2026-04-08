@@ -33,7 +33,7 @@ CATEGORIES = {
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
-    logger.info(f"CHAT_ID: {update.effective_chat.id}")
+    logger.info("CHAT_ID: %s", update.effective_chat.id)
 
     keyboard = [
         [InlineKeyboardButton("📝 Contact", callback_data="contact")],
@@ -118,7 +118,7 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     return ConversationHandler.END
 
 
-def main() -> None:
+async def run_bot() -> None:
     if not TOKEN:
         raise ValueError("La variable TELEGRAM_BOT_TOKEN est manquante.")
 
@@ -140,14 +140,21 @@ def main() -> None:
 
     logger.info("Contact bot started")
 
-    async def run() -> None:
-        await app.initialize()
-        await app.start()
-        await app.updater.start_polling()
+    await app.initialize()
+    await app.start()
+    await app.updater.start_polling()
+
+    try:
         while True:
             await asyncio.sleep(3600)
+    finally:
+        await app.updater.stop()
+        await app.stop()
+        await app.shutdown()
 
-    asyncio.run(run())
+
+def main() -> None:
+    asyncio.run(run_bot())
 
 
 if __name__ == "__main__":
