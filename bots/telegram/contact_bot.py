@@ -112,9 +112,7 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
 
 def main() -> None:
     if not TOKEN:
-        raise ValueError("La variable TELEGRAM_BOT_TOKEN est manquante.")
-    if not ADMIN_CHAT_ID:
-        raise ValueError("La variable ADMIN_CHAT_ID est manquante.")
+    raise ValueError("La variable TELEGRAM_BOT_TOKEN est manquante.")
 
     app = ApplicationBuilder().token(TOKEN).build()
 
