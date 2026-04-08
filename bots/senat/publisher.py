@@ -2,8 +2,8 @@ import os, json, requests
 from datetime import date
 from pathlib import Path
 from atproto import Client
-from senator_lookup import lookup_senator as lookup_senator_info, format_political_line
-from senator_reply import post_senator_reply_bluesky
+from bots.senat.senator_lookup import lookup_senator as lookup_senator_info, format_political_line
+from bots.senat.senator_reply import post_senator_reply_bluesky
 
 HANDLE = os.getenv("BLUESKY_HANDLE", "")
 APP_PASSWORD = os.getenv("BLUESKY_PASSWORD", "")
