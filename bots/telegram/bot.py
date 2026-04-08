@@ -1,7 +1,7 @@
 import os, json, requests, time, datetime, random
 from openai import OpenAI
 
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "")
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 GITHUB_HISTORY_URL = os.getenv("GITHUB_HISTORY_URL", "")
 GITHUB_SNAPSHOT_SENAT_URL = os.getenv("GITHUB_SNAPSHOT_SENAT_URL", "")
