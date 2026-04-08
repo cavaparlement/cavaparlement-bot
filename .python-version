@@ -1,0 +1,4 @@
+echo "3.11" > .python-version
+git add .python-version
+git commit -m "chore: pin Python 3.11 pour Render"
+git push origin main
