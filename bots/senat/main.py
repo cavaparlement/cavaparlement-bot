@@ -7,7 +7,7 @@ from datetime import date
 from pathlib import Path
 import os, json, random
 
-COMPTEUR_FILE = "compteur_ras.json"
+COMPTEUR_FILE = "data/senat/compteur_ras.json"
 MESSAGES_RAS = [
     "RAS aujourd'hui cote collaborateurs",
     "Silence radio au Senat aujourd'hui 👀",
@@ -30,8 +30,8 @@ def save_compteur(n):
         json.dump({"jours": n}, f)
 
 def post_ras():
-    handle = os.getenv("BLUESKY_HANDLE", "")
-    password = os.getenv("BLUESKY_PASSWORD", "")
+    handle = os.getenv("BLUESKY_SENAT_IDENTIFIER", "")
+    password = os.getenv("BLUESKY_SENAT_PASSWORD", "")
     today = date.today().strftime("%d/%m/%Y")
     compteur = load_compteur() + 1
     save_compteur(compteur)
@@ -53,7 +53,7 @@ def run():
     print("Recuperation infos senateurs...")
     senateurs_info = fetch_senateurs_info()
     print(str(len(senateurs_info)) + " senateurs enrichis")
-    with open("senateurs_info.json", "w", encoding="utf-8") as f:
+    with open("data/senat/senateurs_info.json", "w", encoding="utf-8") as f:
         json.dump(senateurs_info, f, ensure_ascii=False, indent=2)
     old_data = load_snapshot()
     if not old_data:
