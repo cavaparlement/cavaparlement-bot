@@ -3,11 +3,11 @@ from datetime import date
 from pathlib import Path
 from atproto import Client
 
-HANDLE = os.getenv("BLUESKY_HANDLE_AN", "")
-APP_PASSWORD = os.getenv("BLUESKY_PASSWORD_AN", "")
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "")
+HANDLE = os.getenv("BLUESKY_ASSEMBLEE_IDENTIFIER", "")
+APP_PASSWORD = os.getenv("BLUESKY_ASSEMBLEE_PASSWORD", "")
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHANNEL = "@cavaparlement"
-DATES_FILE = "dates_an.json"
+DATES_FILE = "data/assemblee/dates.json"
 
 GROUPES = {
     "RN":    {"tag": "#RN",    "emoji": "🔵"},
