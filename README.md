@@ -10,9 +10,9 @@ Les changements sont publiés automatiquement sur **Bluesky** et **Telegram** ch
 
 | Chambre | Bluesky | Telegram |
 |---|---|---|
-| Sénat | [@cavasenat.bsky.social](https://bsky.app/profile/cavasenat.bsky.social) | [@cavaparlement](https://t.me/cavaparlement) |
-| Assemblée nationale | [@cavaassemblee.bsky.social](https://bsky.app/profile/cavaassemblee.bsky.social) | [@cavaparlement](https://t.me/cavaparlement) |
-| Parlement européen | [@cavaeuroparl.bsky.social](https://bsky.app/profile/cavaeuroparl.bsky.social) | [@cavaparlement](https://t.me/cavaparlement) |
+| Sénat | [@senat.cavaparlement.eu](https://bsky.app/profile/senat.cavaparlement.eu) | [@cavaparlement](https://t.me/cavaparlement) |
+| Assemblée nationale | [@an.cavaparlement.eu](https://bsky.app/profile/an.cavaparlement.eu) | [@cavaparlement](https://t.me/cavaparlement) |
+| Parlement européen | [@ep.cavaparlement.eu](https://bsky.app/profile/ep.cavaparlement.eu) | [@cavaparlement](https://t.me/cavaparlement) |
 
 ---
 
@@ -120,7 +120,7 @@ cd cavaparlement-bot
 pip install -r requirements.txt
 
 # Configurer les variables d'environnement
-export BLUESKY_SENAT_IDENTIFIER="cavasenat.bsky.social"
+export BLUESKY_SENAT_IDENTIFIER="senat.cavaparlement.eu"
 export BLUESKY_SENAT_PASSWORD="..."
 export TELEGRAM_BOT_TOKEN="..."
 
@@ -142,9 +142,9 @@ Toutes les variables sont stockées comme **secrets GitHub** et injectées dans 
 
 | Variable | Usage |
 |---|---|
-| `BLUESKY_SENAT_IDENTIFIER` | Handle du compte @cavasenat |
+| `BLUESKY_SENAT_IDENTIFIER` | Handle du compte @senat.cavaparlement.eu |
 | `BLUESKY_SENAT_PASSWORD` | Mot de passe applicatif Bluesky |
-| `BLUESKY_ASSEMBLEE_IDENTIFIER` | Handle du compte @cavaassemblee |
+| `BLUESKY_ASSEMBLEE_IDENTIFIER` | Handle du compte @an.cavaparlement.eu |
 | `BLUESKY_ASSEMBLEE_PASSWORD` | Mot de passe applicatif Bluesky |
 | `BLUESKY_EUROPARL_PASSWORD` | Mot de passe applicatif Bluesky |
 | `TELEGRAM_BOT_TOKEN` | Token du bot Telegram |
@@ -187,10 +187,14 @@ derniers mouvements       → 15 derniers événements
 stats par groupe          → répartition par groupe politique
 ```
 
-> Ce bot nécessite un déploiement sur un serveur (VPS ou équivalent), il ne peut pas tourner sur GitHub Actions.
+Le bot est déployé en continu sur **[Render](https://render.com)** (service web always-on).
 
 ---
 
 ## Licence
 
-MIT — contributions bienvenues.
+© Ça va Parlement ? — Tous droits réservés.
+
+Ce code source est publié à titre de transparence. Il ne peut pas être copié, réutilisé, modifié ou redistribué sans autorisation explicite.
+
+Pour toute demande : [hello@cavaparlement.eu](mailto:hello@cavaparlement.eu)
