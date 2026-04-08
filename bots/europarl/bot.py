@@ -21,12 +21,10 @@ from atproto import Client
 # ─── Configuration ────────────────────────────────────────────────────────────
 
 BLUESKY_HANDLE   = "cavaeuroparl.bsky.social"
-BLUESKY_PASSWORD = os.environ.get("BLUESKY_PASSWORD")
-
-TELEGRAM_TOKEN   = os.environ.get("TELEGRAM_TOKEN")
+BLUESKY_PASSWORD = os.environ.get("BLUESKY_EUROPARL_PASSWORD")
+TELEGRAM_TOKEN   = os.environ.get("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHANNEL = "@cavaparlement"
-
-STATE_FILE   = "state.json"
+STATE_FILE       = "data/europarl/state.json"
 EP_API_BASE  = "https://data.europarl.europa.eu/api/v2"
 EP_SITE_BASE = "https://www.europarl.europa.eu"
 CURRENT_TERM = 10
