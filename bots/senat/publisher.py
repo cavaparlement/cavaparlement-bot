@@ -5,11 +5,11 @@ from atproto import Client
 from bots.senat.senator_lookup import lookup_senator as lookup_senator_info, format_political_line
 from bots.senat.senator_reply import post_senator_reply_bluesky
 
-HANDLE = os.getenv("BLUESKY_HANDLE", "")
-APP_PASSWORD = os.getenv("BLUESKY_PASSWORD", "")
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "")
+HANDLE = os.getenv("BLUESKY_SENAT_IDENTIFIER", "")
+APP_PASSWORD = os.getenv("BLUESKY_SENAT_PASSWORD", "")
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHANNEL = "@cavaparlement"
-DATES_FILE = "dates.json"
+DATES_FILE = "data/senat/dates.json"
 
 def load_dates():
     if not Path(DATES_FILE).exists():
