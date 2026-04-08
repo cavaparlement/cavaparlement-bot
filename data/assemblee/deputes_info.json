@@ -1,0 +1,4041 @@
+{
+  "K/BIDI ÉMELINE": {
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine",
+    "departement": "Réunion",
+    "region": "Réunion",
+    "circo": "4"
+  },
+  "BÉNARD ÉDOUARD": {
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine",
+    "departement": "Seine-Maritime",
+    "region": "Normandie",
+    "circo": "3"
+  },
+  "LE FEUR SANDRINE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Finistère",
+    "region": "Bretagne",
+    "circo": "4"
+  },
+  "TESSON THIERRY": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "17"
+  },
+  "VILLEDIEU ANTOINE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Haute-Saône",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "1"
+  },
+  "GERNIGON FRANÇOIS": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Maine-et-Loire",
+    "region": "Pays de la Loire",
+    "circo": "1"
+  },
+  "SAS EVA": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "8"
+  },
+  "AUZANOT BÉNÉDICTE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Vaucluse",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "2"
+  },
+  "TAVERNIER BORIS": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Rhône",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "2"
+  },
+  "CHRISTOPHLE PAUL": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Drôme",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "1"
+  },
+  "THIÉBAUT VINCENT": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Bas-Rhin",
+    "region": "Grand Est",
+    "circo": "9"
+  },
+  "MAUREL EMMANUEL": {
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine",
+    "departement": "Val-d'Oise",
+    "region": "Ile-de-France",
+    "circo": "3"
+  },
+  "CASTERMAN EDDY": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Aisne",
+    "region": "Hauts-de-France",
+    "circo": "3"
+  },
+  "JOSSERAND SYLVIE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Gard",
+    "region": "Occitanie",
+    "circo": "6"
+  },
+  "GOLLIOT ANTOINE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Pas-de-Calais",
+    "region": "Hauts-de-France",
+    "circo": "5"
+  },
+  "MAZARS STÉPHANE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Aveyron",
+    "region": "Occitanie",
+    "circo": "1"
+  },
+  "CATHALA GABRIELLE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Val-d'Oise",
+    "region": "Ile-de-France",
+    "circo": "6"
+  },
+  "BONNIVARD ÉMILIE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Savoie",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "3"
+  },
+  "TRIBUIANI CYRIL": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Alpes-Maritimes",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "6"
+  },
+  "DESCOEUR VINCENT": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Cantal",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "1"
+  },
+  "PORTES THOMAS": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Seine-Saint-Denis",
+    "region": "Ile-de-France",
+    "circo": "3"
+  },
+  "DUPLESSY EMMANUEL": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Loiret",
+    "region": "Centre-Val de Loire",
+    "circo": "2"
+  },
+  "COSSON MICKAËL": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Côtes-d'Armor",
+    "region": "Bretagne",
+    "circo": "1"
+  },
+  "POTIER DOMINIQUE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Meurthe-et-Moselle",
+    "region": "Grand Est",
+    "circo": "5"
+  },
+  "RAY NICOLAS": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Allier",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "3"
+  },
+  "DUFOSSET ALEXANDRE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "18"
+  },
+  "FERNANDES EMMANUEL": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Bas-Rhin",
+    "region": "Grand Est",
+    "circo": "2"
+  },
+  "HOLLANDE FRANÇOIS": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Corrèze",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "1"
+  },
+  "PARMENTIER-LECOCQ CHARLOTTE": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "6"
+  },
+  "DIAZ EDWIGE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Gironde",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "11"
+  },
+  "PANONACLE SOPHIE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Gironde",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "8"
+  },
+  "VERNY GÉRAULT": {
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "14"
+  },
+  "MAILLOT FRÉDÉRIC": {
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine",
+    "departement": "Réunion",
+    "region": "Réunion",
+    "circo": "6"
+  },
+  "MARAIS-BEUIL CLAIRE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Oise",
+    "region": "Hauts-de-France",
+    "circo": "1"
+  },
+  "BONY JEAN-YVES": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Cantal",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "2"
+  },
+  "ALBERTINI XAVIER": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Marne",
+    "region": "Grand Est",
+    "circo": "1"
+  },
+  "HUYGHE SÉBASTIEN": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "5"
+  },
+  "BRETON XAVIER": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Ain",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "1"
+  },
+  "VIGIER JEAN-PIERRE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Haute-Loire",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "2"
+  },
+  "BROCARD BLANDINE": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Rhône",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "5"
+  },
+  "JACOBELLI LAURENT": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Moselle",
+    "region": "Grand Est",
+    "circo": "8"
+  },
+  "MAUDET DAMIEN": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Haute-Vienne",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "1"
+  },
+  "CAUSSE LIONEL": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Landes",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "2"
+  },
+  "SANQUER NICOLE": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Polynésie Française",
+    "region": "Polynésie française",
+    "circo": "2"
+  },
+  "DESSIGNY JOCELYN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Aisne",
+    "region": "Hauts-de-France",
+    "circo": "5"
+  },
+  "CHENEVARD YANNICK": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Var",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "1"
+  },
+  "EVRARD AUGUSTE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Pas-de-Calais",
+    "region": "Hauts-de-France",
+    "circo": "8"
+  },
+  "ROUSSET JEAN-FRANÇOIS": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Aveyron",
+    "region": "Occitanie",
+    "circo": "3"
+  },
+  "WILLIAM JIOVANNY": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Martinique",
+    "region": "Martinique",
+    "circo": "1"
+  },
+  "BAUMEL LAURENT": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Indre-et-Loire",
+    "region": "Centre-Val de Loire",
+    "circo": "4"
+  },
+  "LÉTARD VALÉRIE": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "21"
+  },
+  "DIOUARA ALY": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Seine-Saint-Denis",
+    "region": "Ile-de-France",
+    "circo": "5"
+  },
+  "MÉNAGÉ THOMAS": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Loiret",
+    "region": "Centre-Val de Loire",
+    "circo": "4"
+  },
+  "LATRÈCHE ALIM": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Isère",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "1"
+  },
+  "AMBLARD MAXIME": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Meuse",
+    "region": "Grand Est",
+    "circo": "1"
+  },
+  "RICOURT VAGINAY SOPHIE": {
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Alpes-de-Haute-Provence",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "2"
+  },
+  "DELAUTRETTE STÉPHANE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Haute-Vienne",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "2"
+  },
+  "RIXAIN MARIE-PIERRE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Essonne",
+    "region": "Ile-de-France",
+    "circo": "4"
+  },
+  "BOUDIÉ FLORENT": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Gironde",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "10"
+  },
+  "TACHÉ EMMANUEL": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "16"
+  },
+  "CHRISTOPHE PAUL": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "14"
+  },
+  "ALLONCLE CHARLES": {
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Hérault",
+    "region": "Occitanie",
+    "circo": "9"
+  },
+  "MICHELET MAXIME": {
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Marne",
+    "region": "Grand Est",
+    "circo": "3"
+  },
+  "CAZENAVE THOMAS": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Gironde",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "1"
+  },
+  "LAM THOMAS": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Hauts-de-Seine",
+    "region": "Ile-de-France",
+    "circo": "2"
+  },
+  "GOULET PERRINE": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Nièvre",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "1"
+  },
+  "PEU STÉPHANE": {
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine",
+    "departement": "Seine-Saint-Denis",
+    "region": "Ile-de-France",
+    "circo": "2"
+  },
+  "FESNEAU MARC": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Loir-et-Cher",
+    "region": "Centre-Val de Loire",
+    "circo": "1"
+  },
+  "PRUD'HOMME LOÏC": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Gironde",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "3"
+  },
+  "RIMBERT CATHERINE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Vaucluse",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "5"
+  },
+  "MESMEUR MARIE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Ille-et-Vilaine",
+    "region": "Bretagne",
+    "circo": "1"
+  },
+  "LOUWAGIE VÉRONIQUE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Orne",
+    "region": "Normandie",
+    "circo": "2"
+  },
+  "FIÉVET JEAN-MARIE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Deux-Sèvres",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "3"
+  },
+  "KELOUA HACHI FATIHA": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Seine-Saint-Denis",
+    "region": "Ile-de-France",
+    "circo": "8"
+  },
+  "SIMONNET DANIELLE": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "15"
+  },
+  "GOSSELIN PHILIPPE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Manche",
+    "region": "Normandie",
+    "circo": "1"
+  },
+  "LESEUL GÉRARD": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Seine-Maritime",
+    "region": "Normandie",
+    "circo": "5"
+  },
+  "THOMIN MÉLANIE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Finistère",
+    "region": "Bretagne",
+    "circo": "6"
+  },
+  "FAUCILLON ELSA": {
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine",
+    "departement": "Hauts-de-Seine",
+    "region": "Ile-de-France",
+    "circo": "1"
+  },
+  "GUEDJ JÉRÔME": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Essonne",
+    "region": "Ile-de-France",
+    "circo": "6"
+  },
+  "DUPONT STELLA": {
+    "groupe": "NI",
+    "groupe_label": "Non inscrit",
+    "departement": "Maine-et-Loire",
+    "region": "Pays de la Loire",
+    "circo": "2"
+  },
+  "CORNELOUP JOSIANE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Saône-et-Loire",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "2"
+  },
+  "RUFFIN FRANÇOIS": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Somme",
+    "region": "Hauts-de-France",
+    "circo": "1"
+  },
+  "ARENAS RODRIGO": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "10"
+  },
+  "BERGANTZ ANNE": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Yvelines",
+    "region": "Ile-de-France",
+    "circo": "2"
+  },
+  "POCHON MARIE": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Drôme",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "3"
+  },
+  "YADAN CAROLINE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Français établis hors de France",
+    "region": "Français établis hors de France",
+    "circo": "8"
+  },
+  "LEBEC MARIE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Yvelines",
+    "region": "Ile-de-France",
+    "circo": "4"
+  },
+  "DOMBRE COSTE FANNY": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Hérault",
+    "region": "Occitanie",
+    "circo": "3"
+  },
+  "LEDOUX VINCENT": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "10"
+  },
+  "OTT HUBERT": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Haut-Rhin",
+    "region": "Grand Est",
+    "circo": "2"
+  },
+  "STAMBACH-TERRENOIR ANNE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Haute-Garonne",
+    "region": "Occitanie",
+    "circo": "2"
+  },
+  "TROUVÉ AURÉLIE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Seine-Saint-Denis",
+    "region": "Ile-de-France",
+    "circo": "9"
+  },
+  "RIOTTON VÉRONIQUE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Haute-Savoie",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "1"
+  },
+  "GOT PASCALE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Gironde",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "5"
+  },
+  "HETZEL PATRICK": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Bas-Rhin",
+    "region": "Grand Est",
+    "circo": "7"
+  },
+  "LE FUR CORENTIN": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Côtes-d'Armor",
+    "region": "Bretagne",
+    "circo": "3"
+  },
+  "FLORQUIN GUILLAUME": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "20"
+  },
+  "MARTIN ÉLISA": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Isère",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "3"
+  },
+  "LINGEMANN DELPHINE": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Puy-de-Dôme",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "4"
+  },
+  "LECHON NADINE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Dordogne",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "1"
+  },
+  "LENORMAND STÉPHANE": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Saint-Pierre-et-Miquelon",
+    "region": "Saint-Pierre-et-Miquelon",
+    "circo": "1"
+  },
+  "FIRMIN LE BODO AGNÈS": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Seine-Maritime",
+    "region": "Normandie",
+    "circo": "7"
+  },
+  "BALANANT ERWAN": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Finistère",
+    "region": "Bretagne",
+    "circo": "8"
+  },
+  "SCHRECK PHILIPPE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Var",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "8"
+  },
+  "MICHOUX ÉRIC": {
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Saône-et-Loire",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "4"
+  },
+  "PANNIER-RUNACHER AGNÈS": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Pas-de-Calais",
+    "region": "Hauts-de-France",
+    "circo": "2"
+  },
+  "LEGRAIN SARAH": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "16"
+  },
+  "AMIOT SÉGOLÈNE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire",
+    "circo": "3"
+  },
+  "LAHMAR ABDELKADER": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Rhône",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "7"
+  },
+  "LOIR CHRISTINE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Eure",
+    "region": "Normandie",
+    "circo": "1"
+  },
+  "LAKRAFI AMÉLIA": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Français établis hors de France",
+    "region": "Français établis hors de France",
+    "circo": "10"
+  },
+  "BLANCHARD BENOÎT": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Val-d'Oise",
+    "region": "Ile-de-France",
+    "circo": "4"
+  },
+  "LOUBET ALEXANDRE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Moselle",
+    "region": "Grand Est",
+    "circo": "7"
+  },
+  "POUZYREFF NATALIA": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Yvelines",
+    "region": "Ile-de-France",
+    "circo": "6"
+  },
+  "SCHELLENBERGER RAPHAËL": {
+    "groupe": "NI",
+    "groupe_label": "Non inscrit",
+    "departement": "Haut-Rhin",
+    "region": "Grand Est",
+    "circo": "4"
+  },
+  "METZDORF NICOLAS": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Nouvelle-Calédonie",
+    "region": "Nouvelle-Calédonie",
+    "circo": "1"
+  },
+  "GUITTON JORDAN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Aube",
+    "region": "Grand Est",
+    "circo": "1"
+  },
+  "CAPDEVIELLE COLETTE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Pyrénées-Atlantiques",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "5"
+  },
+  "LHARDIT LAURENT": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "2"
+  },
+  "AUTAIN CLÉMENTINE": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Seine-Saint-Denis",
+    "region": "Ile-de-France",
+    "circo": "11"
+  },
+  "BELLAY BÉATRICE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Martinique",
+    "region": "Martinique",
+    "circo": "3"
+  },
+  "GUIRAUD DAVID": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "8"
+  },
+  "RAMOS RICHARD": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Loiret",
+    "region": "Centre-Val de Loire",
+    "circo": "6"
+  },
+  "BOTHOREL ÉRIC": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Côtes-d'Armor",
+    "region": "Bretagne",
+    "circo": "5"
+  },
+  "ROSSI VALÉRIE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Hautes-Alpes",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "2"
+  },
+  "BLAIRY EMMANUEL": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Pas-de-Calais",
+    "region": "Hauts-de-France",
+    "circo": "1"
+  },
+  "VIRY STÉPHANE": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Vosges",
+    "region": "Grand Est",
+    "circo": "1"
+  },
+  "POUEYTO JOSY": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Pyrénées-Atlantiques",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "1"
+  },
+  "JOUBERT FLORENCE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Dordogne",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "3"
+  },
+  "DELAPORTE ARTHUR": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Calvados",
+    "region": "Normandie",
+    "circo": "2"
+  },
+  "TACHÉ AURÉLIEN": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Val-d'Oise",
+    "region": "Ile-de-France",
+    "circo": "10"
+  },
+  "GUINIOT MICHEL": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Oise",
+    "region": "Hauts-de-France",
+    "circo": "6"
+  },
+  "WARSMANN JEAN-LUC": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Ardennes",
+    "region": "Grand Est",
+    "circo": "3"
+  },
+  "DE COURSON CHARLES": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Marne",
+    "region": "Grand Est",
+    "circo": "5"
+  },
+  "CHAVENT MARC": {
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Ain",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "5"
+  },
+  "WEISSBERG CHRISTOPHER": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Français établis hors de France",
+    "region": "Français établis hors de France",
+    "circo": "1"
+  },
+  "AMIRSHAHI POURIA": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "5"
+  },
+  "CALVEZ CÉLINE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Hauts-de-Seine",
+    "region": "Ile-de-France",
+    "circo": "5"
+  },
+  "ROUSSEL FABRICE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire",
+    "circo": "5"
+  },
+  "TRYZNA NICOLAS": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Val-de-Marne",
+    "region": "Ile-de-France",
+    "circo": "7"
+  },
+  "MAUVIEUX KÉVIN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Eure",
+    "region": "Normandie",
+    "circo": "3"
+  },
+  "GAROT GUILLAUME": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Mayenne",
+    "region": "Pays de la Loire",
+    "circo": "1"
+  },
+  "FUCHS BRUNO": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Haut-Rhin",
+    "region": "Grand Est",
+    "circo": "6"
+  },
+  "MARION CHRISTOPHE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Loir-et-Cher",
+    "region": "Centre-Val de Loire",
+    "circo": "3"
+  },
+  "GUMBS FRANTZ": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Saint-Barthélemy et Saint-Martin",
+    "region": "Saint-Barthélemy et Saint-Martin",
+    "circo": "1"
+  },
+  "DELOGU SÉBASTIEN": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "7"
+  },
+  "BELLAMY BÉATRICE": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Vendée",
+    "region": "Pays de la Loire",
+    "circo": "2"
+  },
+  "ROUAUX CLAUDIA": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Ille-et-Vilaine",
+    "region": "Bretagne",
+    "circo": "3"
+  },
+  "FERRER SYLVIE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Hautes-Pyrénées",
+    "region": "Occitanie",
+    "circo": "1"
+  },
+  "DAVI HENDRIK": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "5"
+  },
+  "CASTOR JEAN-VICTOR": {
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine",
+    "departement": "Guyane",
+    "region": "Guyane",
+    "circo": "1"
+  },
+  "BERRIOS SYLVAIN": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Val-de-Marne",
+    "region": "Ile-de-France",
+    "circo": "1"
+  },
+  "PROENÇA CHRISTOPHE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Lot",
+    "region": "Occitanie",
+    "circo": "2"
+  },
+  "TRAVERT STÉPHANE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Manche",
+    "region": "Normandie",
+    "circo": "3"
+  },
+  "MARTIN ALEXANDRA": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Alpes-Maritimes",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "8"
+  },
+  "NAEGELEN CHRISTOPHE": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Vosges",
+    "region": "Grand Est",
+    "circo": "3"
+  },
+  "HABIB DAVID": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Pyrénées-Atlantiques",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "3"
+  },
+  "GIRARD DAMIEN": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "circo": "5"
+  },
+  "CERNON BÉRENGER": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Essonne",
+    "region": "Ile-de-France",
+    "circo": "8"
+  },
+  "SAINT-PAUL LAETITIA": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Maine-et-Loire",
+    "region": "Pays de la Loire",
+    "circo": "4"
+  },
+  "BARUSSEAU FABRICE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Charente-Maritime",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "3"
+  },
+  "BAPTISTE CHRISTIAN": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Guadeloupe",
+    "region": "Guadeloupe",
+    "circo": "2"
+  },
+  "RENAULT MATTHIAS": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Somme",
+    "region": "Hauts-de-France",
+    "circo": "3"
+  },
+  "JOURDAN CHANTAL": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Orne",
+    "region": "Normandie",
+    "circo": "1"
+  },
+  "BAZIN-MALGRAS VALÉRIE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Aube",
+    "region": "Grand Est",
+    "circo": "2"
+  },
+  "GALZY STÉPHANIE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Hérault",
+    "region": "Occitanie",
+    "circo": "5"
+  },
+  "MONNET YANNICK": {
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine",
+    "departement": "Allier",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "1"
+  },
+  "MONGARDIEN CHRISTOPHE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Hauts-de-Seine",
+    "region": "Ile-de-France",
+    "circo": "13"
+  },
+  "THEVENOT PRISCA": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Hauts-de-Seine",
+    "region": "Ile-de-France",
+    "circo": "8"
+  },
+  "JOSSO SANDRINE": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire",
+    "circo": "7"
+  },
+  "FAVENNEC-BÉCOT YANNICK": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Mayenne",
+    "region": "Pays de la Loire",
+    "circo": "3"
+  },
+  "TAURINYA ANDRÉE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Loire",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "2"
+  },
+  "BESSE VÉRONIQUE": {
+    "groupe": "NI",
+    "groupe_label": "Non inscrit",
+    "departement": "Vendée",
+    "region": "Pays de la Loire",
+    "circo": "4"
+  },
+  "LE NABOUR CHRISTINE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Ille-et-Vilaine",
+    "region": "Bretagne",
+    "circo": "5"
+  },
+  "SITZENSTUHL CHARLES": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Bas-Rhin",
+    "region": "Grand Est",
+    "circo": "5"
+  },
+  "PORTIER ALEXANDRE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Rhône",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "9"
+  },
+  "IORDANOFF JÉRÉMIE": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Isère",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "5"
+  },
+  "PETIT MAUD": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Val-de-Marne",
+    "region": "Ile-de-France",
+    "circo": "4"
+  },
+  "LAPORTE HÉLÈNE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Lot-et-Garonne",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "2"
+  },
+  "RIESTER FRANCK": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Seine-et-Marne",
+    "region": "Ile-de-France",
+    "circo": "5"
+  },
+  "SIMION ARNAUD": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Haute-Garonne",
+    "region": "Occitanie",
+    "circo": "6"
+  },
+  "PIRÈS BEAUNE CHRISTINE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Puy-de-Dôme",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "2"
+  },
+  "SAULIGNAC HERVÉ": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Ardèche",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "1"
+  },
+  "GRENON DANIEL": {
+    "groupe": "NI",
+    "groupe_label": "Non inscrit",
+    "departement": "Yonne",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "1"
+  },
+  "BELHADDAD BELKHIR": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Moselle",
+    "region": "Grand Est",
+    "circo": "1"
+  },
+  "COLOMBANI PAUL-ANDRÉ": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Corse-du-Sud",
+    "region": "Corse",
+    "circo": "2"
+  },
+  "SANTIAGO ISABELLE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Val-de-Marne",
+    "region": "Ile-de-France",
+    "circo": "9"
+  },
+  "LÉAUMENT ANTOINE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Essonne",
+    "region": "Ile-de-France",
+    "circo": "10"
+  },
+  "DUBRÉ-CHIRAT NICOLE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Maine-et-Loire",
+    "region": "Pays de la Loire",
+    "circo": "6"
+  },
+  "DELPECH JULIE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Sarthe",
+    "region": "Pays de la Loire",
+    "circo": "1"
+  },
+  "BONNECARRÈRE PHILIPPE": {
+    "groupe": "NI",
+    "groupe_label": "Non inscrit",
+    "departement": "Tarn",
+    "region": "Occitanie",
+    "circo": "1"
+  },
+  "DUPARAY LIONEL": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Saône-et-Loire",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "5"
+  },
+  "GOULET FLORENCE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Meuse",
+    "region": "Grand Est",
+    "circo": "2"
+  },
+  "LUCAS-LUNDY BENJAMIN": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Yvelines",
+    "region": "Ile-de-France",
+    "circo": "8"
+  },
+  "JOLIVET FRANÇOIS": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Indre",
+    "region": "Centre-Val de Loire",
+    "circo": "1"
+  },
+  "BLANCHET CHRISTOPHE": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Calvados",
+    "region": "Normandie",
+    "circo": "4"
+  },
+  "IBLED CATHERINE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "13"
+  },
+  "LE BOURGEOIS ROBERT": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Seine-Maritime",
+    "region": "Normandie",
+    "circo": "10"
+  },
+  "HABLOT STÉPHANE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Meurthe-et-Moselle",
+    "region": "Grand Est",
+    "circo": "2"
+  },
+  "VANNIER PAUL": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Val-d'Oise",
+    "region": "Ile-de-France",
+    "circo": "5"
+  },
+  "BONNET SYLVIE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Loire",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "4"
+  },
+  "VIOLLAND ANNE-CÉCILE": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Haute-Savoie",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "5"
+  },
+  "HUWART HAROLD": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Eure-et-Loir",
+    "region": "Centre-Val de Loire",
+    "circo": "3"
+  },
+  "CARBONNEL PIERRE-HENRI": {
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Tarn-et-Garonne",
+    "region": "Occitanie",
+    "circo": "1"
+  },
+  "BOUCARD IAN": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Territoire de Belfort",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "1"
+  },
+  "ENGRAND CHRISTINE": {
+    "groupe": "NI",
+    "groupe_label": "Non inscrit",
+    "departement": "Pas-de-Calais",
+    "region": "Hauts-de-France",
+    "circo": "6"
+  },
+  "CROIZIER LAURENT": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Doubs",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "1"
+  },
+  "SOUDAIS ERSILIA": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Seine-et-Marne",
+    "region": "Ile-de-France",
+    "circo": "7"
+  },
+  "AVIRAGNET JOËL": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Haute-Garonne",
+    "region": "Occitanie",
+    "circo": "8"
+  },
+  "CECCOLI FRANÇOIS-XAVIER": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Haute-Corse",
+    "region": "Corse",
+    "circo": "2"
+  },
+  "TAILLÉ-POLIAN SOPHIE": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Val-de-Marne",
+    "region": "Ile-de-France",
+    "circo": "11"
+  },
+  "HOULIÉ SACHA": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Vienne",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "2"
+  },
+  "MARTINEAU ÉRIC": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Sarthe",
+    "region": "Pays de la Loire",
+    "circo": "3"
+  },
+  "MARSAUD SANDRA": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Charente",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "2"
+  },
+  "LOTTIAUX PHILIPPE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Var",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "4"
+  },
+  "FRUCHON ALIX": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Indre",
+    "region": "Centre-Val de Loire",
+    "circo": "2"
+  },
+  "FUGIT JEAN-LUC": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Rhône",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "11"
+  },
+  "GODARD OCÉANE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Côte-d'Or",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "1"
+  },
+  "GENETET ANNE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Français établis hors de France",
+    "region": "Français établis hors de France",
+    "circo": "11"
+  },
+  "LE PEN MARINE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Pas-de-Calais",
+    "region": "Hauts-de-France",
+    "circo": "11"
+  },
+  "FOURNIER CHARLES": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Indre-et-Loire",
+    "region": "Centre-Val de Loire",
+    "circo": "1"
+  },
+  "FÉGNÉ DENIS": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Hautes-Pyrénées",
+    "region": "Occitanie",
+    "circo": "2"
+  },
+  "VALLETOUX FRÉDÉRIC": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Seine-et-Marne",
+    "region": "Ile-de-France",
+    "circo": "2"
+  },
+  "MEIZONNET NICOLAS": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Gard",
+    "region": "Occitanie",
+    "circo": "2"
+  },
+  "TONUSSI ROMAIN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "8"
+  },
+  "BILONGO CARLOS MARTENS": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Val-d'Oise",
+    "region": "Ile-de-France",
+    "circo": "8"
+  },
+  "NAILLET PHILIPPE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Réunion",
+    "region": "Réunion",
+    "circo": "1"
+  },
+  "MAILLARD SYLVAIN": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "1"
+  },
+  "LE MEUR ANNAÏG": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Finistère",
+    "region": "Bretagne",
+    "circo": "1"
+  },
+  "GOKEL JULIEN": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "13"
+  },
+  "DE MAISTRE ÉLISABETH": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Hauts-de-Seine",
+    "region": "Ile-de-France",
+    "circo": "9"
+  },
+  "ISAAC-SIBILLE CYRILLE": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Rhône",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "12"
+  },
+  "GARIN MARIE-CHARLOTTE": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Rhône",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "3"
+  },
+  "BLOCH MATTHIEU": {
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Doubs",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "3"
+  },
+  "CAURE VINCENT": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Français établis hors de France",
+    "region": "Français établis hors de France",
+    "circo": "3"
+  },
+  "PLASSARD CHRISTOPHE": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Charente-Maritime",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "5"
+  },
+  "POUSSIER-WINSBACK MARIE-AGNÈS": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Seine-Maritime",
+    "region": "Normandie",
+    "circo": "9"
+  },
+  "CALIFER ELIE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Guadeloupe",
+    "region": "Guadeloupe",
+    "circo": "4"
+  },
+  "D'INTORNI CHRISTELLE": {
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Alpes-Maritimes",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "5"
+  },
+  "BORDES PASCALE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Gard",
+    "region": "Occitanie",
+    "circo": "3"
+  },
+  "NURY JÉRÔME": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Orne",
+    "region": "Normandie",
+    "circo": "3"
+  },
+  "BARTHÈS CHRISTOPHE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Aude",
+    "region": "Occitanie",
+    "circo": "1"
+  },
+  "GRELIER JEAN-CARLES": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Sarthe",
+    "region": "Pays de la Loire",
+    "circo": "5"
+  },
+  "LE PEIH NICOLE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "circo": "3"
+  },
+  "GILETTI FRANK": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Var",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "6"
+  },
+  "ATTAL GABRIEL": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Hauts-de-Seine",
+    "region": "Ile-de-France",
+    "circo": "10"
+  },
+  "BRARD JEAN-MICHEL": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire",
+    "circo": "9"
+  },
+  "PRIBETICH PIERRE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Côte-d'Or",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "3"
+  },
+  "DELANNOY SANDRA": {
+    "groupe": "NI",
+    "groupe_label": "Non inscrit",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "3"
+  },
+  "DOGOR-SUCH SANDRINE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Pyrénées-Orientales",
+    "region": "Occitanie",
+    "circo": "3"
+  },
+  "CORMIER-BOULIGEON FRANÇOIS": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Cher",
+    "region": "Centre-Val de Loire",
+    "circo": "1"
+  },
+  "LUDMANN VÉRONIQUE": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Oise",
+    "region": "Hauts-de-France",
+    "circo": "4"
+  },
+  "OZIOL NATHALIE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Hérault",
+    "region": "Occitanie",
+    "circo": "2"
+  },
+  "COGGIA NATHALIE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Français établis hors de France",
+    "region": "Français établis hors de France",
+    "circo": "5"
+  },
+  "BOURGEAUX JEAN-LUC": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Ille-et-Vilaine",
+    "region": "Bretagne",
+    "circo": "7"
+  },
+  "GONZALEZ JOSÉ": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "10"
+  },
+  "RIVIÈRE JOSEPH": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Réunion",
+    "region": "Réunion",
+    "circo": "3"
+  },
+  "VIDAL ANNIE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Seine-Maritime",
+    "region": "Normandie",
+    "circo": "2"
+  },
+  "BATAILLE JEAN-PIERRE": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "15"
+  },
+  "GOUFFIER VALENTE GUILLAUME": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Val-de-Marne",
+    "region": "Ile-de-France",
+    "circo": "6"
+  },
+  "PANTEL SOPHIE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Lozère",
+    "region": "Occitanie",
+    "circo": "1"
+  },
+  "LE COQ AURÉLIEN": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "1"
+  },
+  "CIOTTI ÉRIC": {
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Alpes-Maritimes",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "1"
+  },
+  "GRÉGOIRE EMMANUEL": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "7"
+  },
+  "ARNAULT RAPHAËL": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Vaucluse",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "1"
+  },
+  "COLIN-OESTERLÉ NATHALIE": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Moselle",
+    "region": "Grand Est",
+    "circo": "3"
+  },
+  "BERNHARDT THÉO": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Bas-Rhin",
+    "region": "Grand Est",
+    "circo": "8"
+  },
+  "HADIZADEH AYDA": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Val-d'Oise",
+    "region": "Ile-de-France",
+    "circo": "2"
+  },
+  "DRAGON NICOLAS": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Aisne",
+    "region": "Hauts-de-France",
+    "circo": "1"
+  },
+  "TERLIER JEAN": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Tarn",
+    "region": "Occitanie",
+    "circo": "3"
+  },
+  "FAIT PHILIPPE": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Pas-de-Calais",
+    "region": "Hauts-de-France",
+    "circo": "4"
+  },
+  "RANCOULE JULIEN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Aude",
+    "region": "Occitanie",
+    "circo": "3"
+  },
+  "BAZIN THIBAULT": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Meurthe-et-Moselle",
+    "region": "Grand Est",
+    "circo": "4"
+  },
+  "TAITE JEAN-PIERRE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Loire",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "6"
+  },
+  "BOULOUX MICKAËL": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Ille-et-Vilaine",
+    "region": "Bretagne",
+    "circo": "8"
+  },
+  "AMRANI FARIDA": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Essonne",
+    "region": "Ile-de-France",
+    "circo": "1"
+  },
+  "SAINT-PASTEUR SÉBASTIEN": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Gironde",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "7"
+  },
+  "FOUQUART EMMANUEL": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "13"
+  },
+  "RATENON JEAN-HUGUES": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Réunion",
+    "region": "Réunion",
+    "circo": "5"
+  },
+  "NOSBÉ SANDRINE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Isère",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "9"
+  },
+  "PIC ANNA": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Manche",
+    "region": "Normandie",
+    "circo": "4"
+  },
+  "THIÉBAULT-MARTINEZ CÉLINE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Seine-et-Marne",
+    "region": "Ile-de-France",
+    "circo": "9"
+  },
+  "OBERTI JACQUES": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Haute-Garonne",
+    "region": "Occitanie",
+    "circo": "10"
+  },
+  "LISO BRIGITTE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "4"
+  },
+  "CHAIX BERNARD": {
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Alpes-Maritimes",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "3"
+  },
+  "LORHO MARIE-FRANCE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Vaucluse",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "4"
+  },
+  "WAUQUIEZ LAURENT": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Haute-Loire",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "1"
+  },
+  "THIÉRIOT JEAN-LOUIS": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Seine-et-Marne",
+    "region": "Ile-de-France",
+    "circo": "3"
+  },
+  "JENFT PASCAL": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Moselle",
+    "region": "Grand Est",
+    "circo": "5"
+  },
+  "CAZENEUVE PIERRE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Hauts-de-Seine",
+    "region": "Ile-de-France",
+    "circo": "7"
+  },
+  "LUBET MARIE-PHILIPPE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Loiret",
+    "region": "Centre-Val de Loire",
+    "circo": "1"
+  },
+  "TURQUOIS NICOLAS": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Vienne",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "4"
+  },
+  "FALORNI OLIVIER": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Charente-Maritime",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "1"
+  },
+  "HAMELET MARINE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Tarn-et-Garonne",
+    "region": "Occitanie",
+    "circo": "2"
+  },
+  "DE FLEURIAN MARC": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Pas-de-Calais",
+    "region": "Hauts-de-France",
+    "circo": "7"
+  },
+  "OLIVE KARL": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Yvelines",
+    "region": "Ile-de-France",
+    "circo": "12"
+  },
+  "ALFANDARI HENRI": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Indre-et-Loire",
+    "region": "Centre-Val de Loire",
+    "circo": "3"
+  },
+  "BOUROUAHA SOUMYA": {
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine",
+    "departement": "Seine-Saint-Denis",
+    "region": "Ile-de-France",
+    "circo": "4"
+  },
+  "GRÉGOIRE OLIVIA": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "12"
+  },
+  "BOULOGNE ANTHONY": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Meurthe-et-Moselle",
+    "region": "Grand Est",
+    "circo": "6"
+  },
+  "GIRARD CHRISTIAN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Alpes-de-Haute-Provence",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "1"
+  },
+  "GUILLERM CAROLE": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Hauts-de-Seine",
+    "region": "Ile-de-France",
+    "circo": "12"
+  },
+  "FRÉBAULT MOERANI": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Polynésie Française",
+    "region": "Polynésie française",
+    "circo": "1"
+  },
+  "LE GAC DIDIER": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Finistère",
+    "region": "Bretagne",
+    "circo": "3"
+  },
+  "GUSTAVE STEEVY": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Essonne",
+    "region": "Ile-de-France",
+    "circo": "3"
+  },
+  "METTE SOPHIE": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Gironde",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "9"
+  },
+  "BOUMERTIT IDIR": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Rhône",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "14"
+  },
+  "CARRIÈRE SYLVAIN": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Hérault",
+    "region": "Occitanie",
+    "circo": "8"
+  },
+  "RODWELL CHARLES": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Yvelines",
+    "region": "Ile-de-France",
+    "circo": "1"
+  },
+  "TAUPIAC DAVID": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Gers",
+    "region": "Occitanie",
+    "circo": "2"
+  },
+  "ALLEGRET-PILOT ALEXANDRE": {
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Gard",
+    "region": "Occitanie",
+    "circo": "5"
+  },
+  "COQUEREL ÉRIC": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Seine-Saint-Denis",
+    "region": "Ile-de-France",
+    "circo": "1"
+  },
+  "VALLAUD BORIS": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Landes",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "3"
+  },
+  "ROLLAND VINCENT": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Savoie",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "2"
+  },
+  "THIERRY NICOLAS": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Gironde",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "2"
+  },
+  "RAMBAUD STÉPHANE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Var",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "3"
+  },
+  "MÉNACHÉ YAËL": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Somme",
+    "region": "Hauts-de-France",
+    "circo": "5"
+  },
+  "DALLOZ MARIE-CHRISTINE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Jura",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "2"
+  },
+  "LIORET RENÉ": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Côte-d'Or",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "5"
+  },
+  "MARCHIO MATTHIEU": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "16"
+  },
+  "BATHO DELPHINE": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Deux-Sèvres",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "2"
+  },
+  "THILLAYE SABINE": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Indre-et-Loire",
+    "region": "Centre-Val de Loire",
+    "circo": "5"
+  },
+  "REGOL SANDRA": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Bas-Rhin",
+    "region": "Grand Est",
+    "circo": "1"
+  },
+  "KERVRAN LOÏC": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Cher",
+    "region": "Centre-Val de Loire",
+    "circo": "3"
+  },
+  "DUFOUR ALMA": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Seine-Maritime",
+    "region": "Normandie",
+    "circo": "4"
+  },
+  "MELCHIOR GRAZIELLA": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Finistère",
+    "region": "Bretagne",
+    "circo": "5"
+  },
+  "LAVALETTE LAURE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Var",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "2"
+  },
+  "DIRX BENJAMIN": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Saône-et-Loire",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "1"
+  },
+  "VALENTIN ANTOINE": {
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Haute-Savoie",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "3"
+  },
+  "ROUSSEAU SANDRINE": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "9"
+  },
+  "RUNEL SANDRINE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Rhône",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "4"
+  },
+  "POLLET LISETTE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Drôme",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "2"
+  },
+  "PETIT FRÉDÉRIC": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Français établis hors de France",
+    "region": "Français établis hors de France",
+    "circo": "7"
+  },
+  "PIRON BÉATRICE": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Yvelines",
+    "region": "Ile-de-France",
+    "circo": "3"
+  },
+  "KLINKERT BRIGITTE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Haut-Rhin",
+    "region": "Grand Est",
+    "circo": "1"
+  },
+  "BAMANA ANCHYA": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Mayotte",
+    "region": "Mayotte",
+    "circo": "2"
+  },
+  "BEAURAIN JOSÉ": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Aisne",
+    "region": "Hauts-de-France",
+    "circo": "4"
+  },
+  "CLOUET HADRIEN": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Haute-Garonne",
+    "region": "Occitanie",
+    "circo": "1"
+  },
+  "ALEXANDRE LAURENT": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Aveyron",
+    "region": "Occitanie",
+    "circo": "2"
+  },
+  "LACHAUD BASTIEN": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Seine-Saint-Denis",
+    "region": "Ile-de-France",
+    "circo": "6"
+  },
+  "ESKENAZI ROMAIN": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Val-d'Oise",
+    "region": "Ile-de-France",
+    "circo": "7"
+  },
+  "COULOMME JEAN-FRANÇOIS": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Savoie",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "4"
+  },
+  "DAVID ALAIN": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Gironde",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "4"
+  },
+  "DE PÉLICHY CONSTANCE": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Loiret",
+    "region": "Centre-Val de Loire",
+    "circo": "3"
+  },
+  "BERVILLE HERVÉ": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Côtes-d'Armor",
+    "region": "Bretagne",
+    "circo": "2"
+  },
+  "CHENU SÉBASTIEN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "19"
+  },
+  "SOTHER THIERRY": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Bas-Rhin",
+    "region": "Grand Est",
+    "circo": "3"
+  },
+  "MEUNIER FRÉDÉRIQUE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Corrèze",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "2"
+  },
+  "KERBRAT ANDY": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire",
+    "circo": "2"
+  },
+  "BAUBRY ROMAIN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "15"
+  },
+  "GAILLARD PERCEVAL": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Réunion",
+    "region": "Réunion",
+    "circo": "7"
+  },
+  "MARTIN PATRICE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Seine-Maritime",
+    "region": "Normandie",
+    "circo": "6"
+  },
+  "TANGUY LILIANA": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Finistère",
+    "region": "Bretagne",
+    "circo": "7"
+  },
+  "SABATOU ALEXANDRE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Oise",
+    "region": "Hauts-de-France",
+    "circo": "3"
+  },
+  "BRUN FABRICE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Ardèche",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "3"
+  },
+  "PANOSYAN-BOUVET ASTRID": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "4"
+  },
+  "DUTREMBLE AURÉLIEN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Saône-et-Loire",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "3"
+  },
+  "MILLER LAURE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Marne",
+    "region": "Grand Est",
+    "circo": "2"
+  },
+  "DAUBIÉ ROMAIN": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Ain",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "2"
+  },
+  "CARON AYMERIC": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "18"
+  },
+  "HERBILLON MICHEL": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Val-de-Marne",
+    "region": "Ile-de-France",
+    "circo": "8"
+  },
+  "BENBRAHIM KARIM": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire",
+    "circo": "1"
+  },
+  "AMARD GABRIEL": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Rhône",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "6"
+  },
+  "MONNIER THIBAUT": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Drôme",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "4"
+  },
+  "RAUCH ISABELLE": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Moselle",
+    "region": "Grand Est",
+    "circo": "9"
+  },
+  "BEN CHEIKH KARIM": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Français établis hors de France",
+    "region": "Français établis hors de France",
+    "circo": "9"
+  },
+  "PFEFFER KÉVIN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Moselle",
+    "region": "Grand Est",
+    "circo": "6"
+  },
+  "LEMAIRE DIDIER": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Haut-Rhin",
+    "region": "Grand Est",
+    "circo": "3"
+  },
+  "REID ARBELOT MEREANA": {
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine",
+    "departement": "Polynésie Française",
+    "region": "Polynésie française",
+    "circo": "3"
+  },
+  "FROGER MARTINE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Ariège",
+    "region": "Occitanie",
+    "circo": "1"
+  },
+  "PARMENTIER CAROLINE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Pas-de-Calais",
+    "region": "Hauts-de-France",
+    "circo": "9"
+  },
+  "GRISETI MONIQUE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "1"
+  },
+  "NADEAU MARCELLIN": {
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine",
+    "departement": "Martinique",
+    "region": "Martinique",
+    "circo": "2"
+  },
+  "GÉRARD FÉLICIE": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "7"
+  },
+  "CORBIÈRE ALEXIS": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Seine-Saint-Denis",
+    "region": "Ile-de-France",
+    "circo": "7"
+  },
+  "BROSSE ANTHONY": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Loiret",
+    "region": "Centre-Val de Loire",
+    "circo": "5"
+  },
+  "LEPVRAUD MURIELLE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Côtes-d'Armor",
+    "region": "Bretagne",
+    "circo": "4"
+  },
+  "BOLO PHILIPPE": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Maine-et-Loire",
+    "region": "Pays de la Loire",
+    "circo": "7"
+  },
+  "ALLEMAND MARIE-JOSÉ": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Hautes-Alpes",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "1"
+  },
+  "MEUNIER MANON": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Haute-Vienne",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "3"
+  },
+  "MIDY PAUL": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Essonne",
+    "region": "Ile-de-France",
+    "circo": "5"
+  },
+  "FELD MATHILDE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Gironde",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "12"
+  },
+  "BRUNEAU JOËL": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Calvados",
+    "region": "Normandie",
+    "circo": "1"
+  },
+  "LE GALL ARNAUD": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Val-d'Oise",
+    "region": "Ile-de-France",
+    "circo": "9"
+  },
+  "FERRACCI MARC": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Français établis hors de France",
+    "region": "Français établis hors de France",
+    "circo": "6"
+  },
+  "VOS FRÉDÉRIC-PIERRE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Oise",
+    "region": "Hauts-de-France",
+    "circo": "5"
+  },
+  "CORDIER PIERRE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Ardennes",
+    "region": "Grand Est",
+    "circo": "2"
+  },
+  "BORNE ÉLISABETH": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Calvados",
+    "region": "Normandie",
+    "circo": "6"
+  },
+  "MAGNIER LISE": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Marne",
+    "region": "Grand Est",
+    "circo": "4"
+  },
+  "ROUMÉGAS JEAN-LOUIS": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Hérault",
+    "region": "Occitanie",
+    "circo": "1"
+  },
+  "BUISSON JÉRÔME": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Ain",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "4"
+  },
+  "SEBAIHI SABRINA": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Hauts-de-Seine",
+    "region": "Ile-de-France",
+    "circo": "4"
+  },
+  "LAERNOES JULIE": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire",
+    "circo": "4"
+  },
+  "GERY JONATHAN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Rhône",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "8"
+  },
+  "GUIBERT JULIEN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Nièvre",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "2"
+  },
+  "CHUDEAU ROGER": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Loir-et-Cher",
+    "region": "Centre-Val de Loire",
+    "circo": "2"
+  },
+  "TJIBAOU EMMANUEL": {
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine",
+    "departement": "Nouvelle-Calédonie",
+    "region": "Nouvelle-Calédonie",
+    "circo": "2"
+  },
+  "BOMPARD MANUEL": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "4"
+  },
+  "LATOMBE PHILIPPE": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Vendée",
+    "region": "Pays de la Loire",
+    "circo": "1"
+  },
+  "LAHAIS TRISTAN": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Ille-et-Vilaine",
+    "region": "Bretagne",
+    "circo": "2"
+  },
+  "KASBARIAN GUILLAUME": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Eure-et-Loir",
+    "region": "Centre-Val de Loire",
+    "circo": "1"
+  },
+  "DUFAU PEIO": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Pyrénées-Atlantiques",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "6"
+  },
+  "LELOUIS GISÈLE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "3"
+  },
+  "SPILLEBOUT VIOLETTE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "9"
+  },
+  "CHATELAIN CYRIELLE": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Isère",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "2"
+  },
+  "LEGAVRE JÉRÔME": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Seine-Saint-Denis",
+    "region": "Ile-de-France",
+    "circo": "12"
+  },
+  "PRADIÉ AURÉLIEN": {
+    "groupe": "NI",
+    "groupe_label": "Non inscrit",
+    "departement": "Lot",
+    "region": "Occitanie",
+    "circo": "1"
+  },
+  "BOCCALETTI FRÉDÉRIC": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Var",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "7"
+  },
+  "SORRE BERTRAND": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Manche",
+    "region": "Normandie",
+    "circo": "2"
+  },
+  "PAUGET ÉRIC": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Alpes-Maritimes",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "7"
+  },
+  "DUSSAUSAYE GAËTAN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Vosges",
+    "region": "Grand Est",
+    "circo": "2"
+  },
+  "MOLAC PAUL": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "circo": "4"
+  },
+  "ODOUL JULIEN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Yonne",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "3"
+  },
+  "LEJEUNE CLAIRE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Essonne",
+    "region": "Ile-de-France",
+    "circo": "7"
+  },
+  "BLIN ANNE-LAURE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Maine-et-Loire",
+    "region": "Pays de la Loire",
+    "circo": "3"
+  },
+  "GIVERNET OLGA": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Ain",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "3"
+  },
+  "MARCANGELI LAURENT": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Corse-du-Sud",
+    "region": "Corse",
+    "circo": "1"
+  },
+  "HAMDANE ZAHIA": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Somme",
+    "region": "Hauts-de-France",
+    "circo": "2"
+  },
+  "BENTZ CHRISTOPHE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Haute-Marne",
+    "region": "Grand Est",
+    "circo": "1"
+  },
+  "BRAUN-PIVET YAËL": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Yvelines",
+    "region": "Ile-de-France",
+    "circo": "5"
+  },
+  "BOUQUIN MANON": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Hérault",
+    "region": "Occitanie",
+    "circo": "4"
+  },
+  "DIVE JULIEN": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Aisne",
+    "region": "Hauts-de-France",
+    "circo": "2"
+  },
+  "PADEY DIDIER": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Savoie",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "1"
+  },
+  "LE GRIP CONSTANCE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Hauts-de-Seine",
+    "region": "Ile-de-France",
+    "circo": "6"
+  },
+  "BANNIER GÉRALDINE": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Mayenne",
+    "region": "Pays de la Loire",
+    "circo": "2"
+  },
+  "VIGNON CORINNE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Haute-Garonne",
+    "region": "Occitanie",
+    "circo": "3"
+  },
+  "ABOMANGOLI NADÈGE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Seine-Saint-Denis",
+    "region": "Ile-de-France",
+    "circo": "10"
+  },
+  "COURBON PIERRICK": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Loire",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "1"
+  },
+  "HOUSSIN TIMOTHÉE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Eure",
+    "region": "Normandie",
+    "circo": "5"
+  },
+  "BUCHOU STÉPHANE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Vendée",
+    "region": "Pays de la Loire",
+    "circo": "3"
+  },
+  "HIGNET MATHILDE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Ille-et-Vilaine",
+    "region": "Bretagne",
+    "circo": "4"
+  },
+  "BALLARD PHILIPPE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Oise",
+    "region": "Hauts-de-France",
+    "circo": "2"
+  },
+  "BATTISTEL MARIE-NOËLLE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Isère",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "4"
+  },
+  "MULLER SERGE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Dordogne",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "2"
+  },
+  "LIMONGI JULIEN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Seine-et-Marne",
+    "region": "Ile-de-France",
+    "circo": "4"
+  },
+  "PORTARRIEU JEAN-FRANÇOIS": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Haute-Garonne",
+    "region": "Occitanie",
+    "circo": "5"
+  },
+  "MAXIMI MARIANNE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Puy-de-Dôme",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "1"
+  },
+  "LECOQ JEAN-PAUL": {
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine",
+    "departement": "Seine-Maritime",
+    "region": "Normandie",
+    "circo": "8"
+  },
+  "DE LÉPINAU HERVÉ": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Vaucluse",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "3"
+  },
+  "NEUDER YANNICK": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Isère",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "7"
+  },
+  "OZENNE JULIE": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Essonne",
+    "region": "Ile-de-France",
+    "circo": "9"
+  },
+  "MINARD CHRISTELLE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Eure-et-Loir",
+    "region": "Centre-Val de Loire",
+    "circo": "2"
+  },
+  "OBONO DANIÈLE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "17"
+  },
+  "LEVAVASSEUR KATIANA": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Eure",
+    "region": "Normandie",
+    "circo": "2"
+  },
+  "ABADIE-AMIEL AUDREY": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Ariège",
+    "region": "Occitanie",
+    "circo": "2"
+  },
+  "ROBERT-DEHAULT LAURENCE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Haute-Marne",
+    "region": "Grand Est",
+    "circo": "2"
+  },
+  "ROUSSEAU AURÉLIEN": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Yvelines",
+    "region": "Ile-de-France",
+    "circo": "7"
+  },
+  "GABARRON JULIEN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Hérault",
+    "region": "Occitanie",
+    "circo": "6"
+  },
+  "BECHT OLIVIER": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Haut-Rhin",
+    "region": "Grand Est",
+    "circo": "5"
+  },
+  "GUETTÉ CLÉMENCE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Val-de-Marne",
+    "region": "Ile-de-France",
+    "circo": "2"
+  },
+  "NILOR JEAN-PHILIPPE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Martinique",
+    "region": "Martinique",
+    "circo": "4"
+  },
+  "DUBY-MULLER VIRGINIE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Haute-Savoie",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "4"
+  },
+  "BARNIER MICHEL": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "2"
+  },
+  "LENOIR BARTOLOMÉ": {
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Creuse",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "1"
+  },
+  "CLAVET BRUNO": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Pas-de-Calais",
+    "region": "Hauts-de-France",
+    "circo": "3"
+  },
+  "MISSOFFE JOSÉPHINE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "14"
+  },
+  "JOLLY ALEXIS": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Isère",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "6"
+  },
+  "MATTEI JEAN-PAUL": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Pyrénées-Atlantiques",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "2"
+  },
+  "PEYTAVIE SÉBASTIEN": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Dordogne",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "4"
+  },
+  "ROULLAUD BÉATRICE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Seine-et-Marne",
+    "region": "Ile-de-France",
+    "circo": "6"
+  },
+  "PATRIER-LEITUS JÉRÉMIE": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Calvados",
+    "region": "Normandie",
+    "circo": "3"
+  },
+  "SERVA OLIVIER": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Guadeloupe",
+    "region": "Guadeloupe",
+    "circo": "1"
+  },
+  "CASTELLANI MICHEL": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Haute-Corse",
+    "region": "Corse",
+    "circo": "1"
+  },
+  "MAGNIER DAVID": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Oise",
+    "region": "Hauts-de-France",
+    "circo": "7"
+  },
+  "PANOT MATHILDE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Val-de-Marne",
+    "region": "Ile-de-France",
+    "circo": "10"
+  },
+  "KARAMANLI MARIETTA": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Sarthe",
+    "region": "Pays de la Loire",
+    "circo": "2"
+  },
+  "PILATO RENÉ": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Charente",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "1"
+  },
+  "CHIKIROU SOPHIA": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "6"
+  },
+  "RAUX JEAN-CLAUDE": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire",
+    "circo": "6"
+  },
+  "LALANNE SANDRINE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Val-de-Marne",
+    "region": "Ile-de-France",
+    "circo": "5"
+  },
+  "GASSILLOUD THOMAS": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Rhône",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "10"
+  },
+  "BRUN PHILIPPE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Eure",
+    "region": "Normandie",
+    "circo": "4"
+  },
+  "FRAPPÉ THIERRY": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Pas-de-Calais",
+    "region": "Hauts-de-France",
+    "circo": "10"
+  },
+  "ARMAND ANTOINE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Haute-Savoie",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "2"
+  },
+  "BELOUASSA-CHERIFI ANAÏS": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Rhône",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "1"
+  },
+  "ALLISIO FRANCK": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "12"
+  },
+  "BUFFET FRANÇOISE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Bas-Rhin",
+    "region": "Grand Est",
+    "circo": "4"
+  },
+  "FAYSSAT OLIVIER": {
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "6"
+  },
+  "RIMANE DAVY": {
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine",
+    "departement": "Guyane",
+    "region": "Guyane",
+    "circo": "2"
+  },
+  "ROSEREN XAVIER": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Haute-Savoie",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "6"
+  },
+  "VICOT ROGER": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "11"
+  },
+  "BOYARD LOUIS": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Val-de-Marne",
+    "region": "Ile-de-France",
+    "circo": "3"
+  },
+  "LAUZZANA MICHEL": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Lot-et-Garonne",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "1"
+  },
+  "TABAROT MICHÈLE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Alpes-Maritimes",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "9"
+  },
+  "SABATINI ANAÏS": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Pyrénées-Orientales",
+    "region": "Occitanie",
+    "circo": "2"
+  },
+  "HUMBERT SÉBASTIEN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Vosges",
+    "region": "Grand Est",
+    "circo": "4"
+  },
+  "ECHANIZ INAKI": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Pyrénées-Atlantiques",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "4"
+  },
+  "VOYNET DOMINIQUE": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Doubs",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "2"
+  },
+  "JACQUES JEAN-MICHEL": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "circo": "6"
+  },
+  "BRUGEROLLES JULIEN": {
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine",
+    "departement": "Puy-de-Dôme",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "5"
+  },
+  "MASSÉGLIA DENIS": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Maine-et-Loire",
+    "region": "Pays de la Loire",
+    "circo": "5"
+  },
+  "MARKOWSKY PASCAL": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Charente-Maritime",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "4"
+  },
+  "MATHIASIN MAX": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Guadeloupe",
+    "region": "Guadeloupe",
+    "circo": "3"
+  },
+  "RONCERET ANNE-SOPHIE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Yvelines",
+    "region": "Ile-de-France",
+    "circo": "10"
+  },
+  "MASSON ALEXANDRA": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Alpes-Maritimes",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "4"
+  },
+  "TANGUY JEAN-PHILIPPE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Somme",
+    "region": "Hauts-de-France",
+    "circo": "4"
+  },
+  "RANC ANGÉLIQUE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Aube",
+    "region": "Grand Est",
+    "circo": "3"
+  },
+  "PAHUN JIMMY": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "circo": "2"
+  },
+  "BOVET JORYS": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Allier",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "2"
+  },
+  "CRIAUD MICHEL": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "circo": "1"
+  },
+  "LECHANTEUX JULIE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Var",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "5"
+  },
+  "TAVEL MATTHIAS": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire",
+    "circo": "8"
+  },
+  "HERVIEU CATHERINE": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Côte-d'Or",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "2"
+  },
+  "MERCIER ESTELLE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Meurthe-et-Moselle",
+    "region": "Grand Est",
+    "circo": "1"
+  },
+  "BLANC SOPHIE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Pyrénées-Orientales",
+    "region": "Occitanie",
+    "circo": "1"
+  },
+  "MANDON EMMANUEL": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Loire",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "3"
+  },
+  "PIQUEMAL FRANÇOIS": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Haute-Garonne",
+    "region": "Occitanie",
+    "circo": "4"
+  },
+  "HENRIET PIERRE": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Vendée",
+    "region": "Pays de la Loire",
+    "circo": "5"
+  },
+  "BENOIT THIERRY": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Ille-et-Vilaine",
+    "region": "Bretagne",
+    "circo": "6"
+  },
+  "MOREL LOUISE": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Bas-Rhin",
+    "region": "Grand Est",
+    "circo": "6"
+  },
+  "MÉLIN JOËLLE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "9"
+  },
+  "LEBON KARINE": {
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine",
+    "departement": "Réunion",
+    "region": "Réunion",
+    "circo": "2"
+  },
+  "LEPERS GUILLAUME": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Lot-et-Garonne",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "3"
+  },
+  "BEX CHRISTOPHE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Haute-Garonne",
+    "region": "Occitanie",
+    "circo": "7"
+  },
+  "BONNET NICOLAS": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Puy-de-Dôme",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "3"
+  },
+  "TRÉBUCHET VINCENT": {
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Ardèche",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "2"
+  },
+  "ROY SOPHIE-LAURENCE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Yonne",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "2"
+  },
+  "MENDES LUDOVIC": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Moselle",
+    "region": "Grand Est",
+    "circo": "2"
+  },
+  "BELLUCO LISA": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Vienne",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "1"
+  },
+  "BRULEBOIS DANIELLE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Jura",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "1"
+  },
+  "SICARD ANNE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Val-d'Oise",
+    "region": "Ile-de-France",
+    "circo": "1"
+  },
+  "ERODI KAREN": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Tarn",
+    "region": "Occitanie",
+    "circo": "2"
+  },
+  "LARROUQUIS BENOÎT": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Français établis hors de France",
+    "region": "Français établis hors de France",
+    "circo": "2"
+  },
+  "DIOP DIEYNABA": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Yvelines",
+    "region": "Ile-de-France",
+    "circo": "9"
+  },
+  "BOUYX BERTRAND": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Calvados",
+    "region": "Normandie",
+    "circo": "5"
+  },
+  "DARRIEUSSECQ GENEVIÈVE": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Landes",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "1"
+  },
+  "ERRANTE SOPHIE": {
+    "groupe": "NI",
+    "groupe_label": "Non inscrit",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire",
+    "circo": "10"
+  },
+  "SAINT-MARTIN ARNAUD": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Seine-et-Marne",
+    "region": "Ile-de-France",
+    "circo": "1"
+  },
+  "WEBER FRÉDÉRIC": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Meurthe-et-Moselle",
+    "region": "Grand Est",
+    "circo": "3"
+  },
+  "YOUSSOUFFA ESTELLE": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Mayotte",
+    "region": "Mayotte",
+    "circo": "1"
+  },
+  "VUIBERT LIONEL": {
+    "groupe": "NI",
+    "groupe_label": "Non inscrit",
+    "departement": "Ardennes",
+    "region": "Grand Est",
+    "circo": "1"
+  },
+  "VERMOREL-MARQUES ANTOINE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Loire",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "5"
+  },
+  "VIGIER PHILIPPE": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Eure-et-Loir",
+    "region": "Centre-Val de Loire",
+    "circo": "4"
+  },
+  "BIGOT GUILLAUME": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Territoire de Belfort",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "2"
+  },
+  "RÉCALDE MARIE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Gironde",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "6"
+  },
+  "MANSOURI HANANE": {
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Isère",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "8"
+  },
+  "BONNET ARNAUD": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Seine-et-Marne",
+    "region": "Ile-de-France",
+    "circo": "8"
+  },
+  "ARRIGHI CHRISTINE": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Haute-Garonne",
+    "region": "Occitanie",
+    "circo": "9"
+  },
+  "BERNALICIS UGO": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "2"
+  },
+  "TIVOLI LIONEL": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Alpes-Maritimes",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "2"
+  },
+  "DI FILIPPO FABIEN": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Moselle",
+    "region": "Grand Est",
+    "circo": "4"
+  },
+  "GILLET YOANN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Gard",
+    "region": "Occitanie",
+    "circo": "1"
+  },
+  "JUVIN PHILIPPE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Hauts-de-Seine",
+    "region": "Ile-de-France",
+    "circo": "3"
+  },
+  "LECAMP PASCAL": {
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Vienne",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "3"
+  },
+  "GRUET JUSTINE": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Jura",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "3"
+  },
+  "LEBOUCHER ÉLISE": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Sarthe",
+    "region": "Pays de la Loire",
+    "circo": "4"
+  },
+  "COLOMBIER CAROLINE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Charente",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "3"
+  },
+  "BILDE BRUNO": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Pas-de-Calais",
+    "region": "Hauts-de-France",
+    "circo": "12"
+  },
+  "MAZAURY LAURENT": {
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires",
+    "departement": "Yvelines",
+    "region": "Ile-de-France",
+    "circo": "11"
+  },
+  "LABARONNE DANIEL": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Indre-et-Loire",
+    "region": "Centre-Val de Loire",
+    "circo": "2"
+  },
+  "HERVIEU CÉLINE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "11"
+  },
+  "SEO MIKAELE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Wallis-et-Futuna",
+    "region": "Wallis-et-Futuna",
+    "circo": "1"
+  },
+  "HEROUIN-LÉAUTEY FLORENCE": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Seine-Maritime",
+    "region": "Normandie",
+    "circo": "1"
+  },
+  "CADALEN PIERRE-YVES": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Finistère",
+    "region": "Bretagne",
+    "circo": "2"
+  },
+  "DA CONCEICAO CARVALHO NATHALIE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Essonne",
+    "region": "Ile-de-France",
+    "circo": "2"
+  },
+  "JONCOUR TIFFANY": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Rhône",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "13"
+  },
+  "LIÉGEON ERIC": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Doubs",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "5"
+  },
+  "SALMON EMERIC": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Haute-Saône",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "2"
+  },
+  "PEREZ THIERRY": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Isère",
+    "region": "Auvergne-Rhône-Alpes",
+    "circo": "10"
+  },
+  "BALAGE EL MARIKY LÉA": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Paris",
+    "region": "Ile-de-France",
+    "circo": "3"
+  },
+  "GRANGIER GÉRALDINE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Doubs",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "4"
+  },
+  "ANGLADE PIEYRE-ALEXANDRE": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Français établis hors de France",
+    "region": "Français établis hors de France",
+    "circo": "4"
+  },
+  "LAISNEY MAXIME": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Seine-et-Marne",
+    "region": "Ile-de-France",
+    "circo": "10"
+  },
+  "CAZENEUVE JEAN-RENÉ": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Gers",
+    "region": "Occitanie",
+    "circo": "1"
+  },
+  "MEURIN PIERRE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Gard",
+    "region": "Occitanie",
+    "circo": "4"
+  },
+  "FALCON FRÉDÉRIC": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Aude",
+    "region": "Occitanie",
+    "circo": "2"
+  },
+  "SAINTOUL AURÉLIEN": {
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Hauts-de-Seine",
+    "region": "Ile-de-France",
+    "circo": "11"
+  },
+  "BITEAU BENOÎT": {
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Charente-Maritime",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "2"
+  },
+  "FAURE OLIVIER": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Seine-et-Marne",
+    "region": "Ile-de-France",
+    "circo": "11"
+  },
+  "BRIGAND HUBERT": {
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Côte-d'Or",
+    "region": "Bourgogne-Franche-Comté",
+    "circo": "4"
+  },
+  "TAVERNE MICHAËL": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "12"
+  },
+  "MARCHIVE BASTIEN": {
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Deux-Sèvres",
+    "region": "Nouvelle-Aquitaine",
+    "circo": "1"
+  },
+  "MARTINEZ MICHÈLE": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Pyrénées-Orientales",
+    "region": "Occitanie",
+    "circo": "4"
+  },
+  "SANSU NICOLAS": {
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine",
+    "departement": "Cher",
+    "region": "Centre-Val de Loire",
+    "circo": "2"
+  },
+  "LOPEZ-LIGUORI AURÉLIEN": {
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Hérault",
+    "region": "Occitanie",
+    "circo": "7"
+  },
+  "PENA MARC": {
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Bouches-du-Rhône",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "circo": "11"
+  }
+}

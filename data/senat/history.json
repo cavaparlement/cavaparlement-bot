@@ -1,0 +1,785 @@
+[
+  {
+    "date": "2026-04-02",
+    "chambre": "senat",
+    "type": "départ",
+    "collaborateur": "Mme ALLAIRAT Christelle",
+    "parlementaire": "Mme BERTHET Martine",
+    "groupe": "",
+    "groupe_label": "",
+    "departement": ""
+  },
+  {
+    "date": "2026-04-06",
+    "chambre": "senat",
+    "type": "arrivée",
+    "collaborateur": "Mme ALLAIRAT Christelle",
+    "parlementaire": "Mme BERTHET Martine",
+    "groupe": "",
+    "groupe_label": "",
+    "departement": ""
+  },
+  {
+    "date": "2026-04-06",
+    "chambre": "senat",
+    "type": "départ",
+    "collaborateur": "M. DEROTHE Benjamin",
+    "parlementaire": "Mme NARASSIGUIN Corinne",
+    "groupe": "",
+    "groupe_label": "",
+    "departement": ""
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Chazé Cendrine",
+    "parlementaire": "Nury Jérôme",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Orne"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Imbert Judith",
+    "parlementaire": "Rousseau Aurélien",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Yvelines"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Cales Anthony",
+    "parlementaire": "Darrieussecq Geneviève",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Landes"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Guillot Isabelle",
+    "parlementaire": "Ludmann Véronique",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Oise"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "transfert",
+    "collaborateur": "Danklu Karla",
+    "parlementaire_from": "Soudais Ersilia",
+    "parlementaire_to": "Cernon Bérenger",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Essonne"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Borgniet Isabelle",
+    "parlementaire": "Baubry Romain",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Bouches-du-Rhône"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Torrens Alexiane",
+    "parlementaire": "Parmentier-Lecocq Charlotte",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Nord"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Azéma Florian",
+    "parlementaire": "Weber Frédéric",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Meurthe-et-Moselle"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Beaudouin Romane",
+    "parlementaire": "Maudet Damien",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Haute-Vienne"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Malek Elodie",
+    "parlementaire": "Delogu Sébastien",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Bouches-du-Rhône"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Mouillon Emma",
+    "parlementaire": "Ruffin François",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Somme"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Breda Aulène",
+    "parlementaire": "Barthès Christophe",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Aude"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Tefrit Noha",
+    "parlementaire": "Brun Philippe",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Eure"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Quessada Rafael",
+    "parlementaire": "Masson Bryan",
+    "groupe": "",
+    "groupe_label": "",
+    "departement": ""
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Tavan Nicolas",
+    "parlementaire": "Pollet Lisette",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Drôme"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Vandier Loïc",
+    "parlementaire": "Le Fur Corentin",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Côtes-d'Armor"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Dos Santos Riscado Nathan",
+    "parlementaire": "Thevenot Prisca",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Hauts-de-Seine"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Bès Christian",
+    "parlementaire": "Barthès Christophe",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Aude"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Gendreau Louis",
+    "parlementaire": "Balanant Erwan",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Finistère"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Mercier Marion",
+    "parlementaire": "Lhardit Laurent",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Bouches-du-Rhône"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Tribuiani-De Agostini Cyril",
+    "parlementaire": "Masson Bryan",
+    "groupe": "",
+    "groupe_label": "",
+    "departement": ""
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Imbert Tony",
+    "parlementaire": "Fruchon Alix",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Indre"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Laude Ariane",
+    "parlementaire": "Bex Christophe",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Haute-Garonne"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Muller Berthe",
+    "parlementaire": "Lemaire Didier",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Haut-Rhin"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Haquet Clément",
+    "parlementaire": "Vigier Philippe",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Eure-et-Loir"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Payet-Maugeron Michaël",
+    "parlementaire": "Bilde Bruno",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Pas-de-Calais"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Bourrée Gwénolé",
+    "parlementaire": "Amrani Farida",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Essonne"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Besse Anais",
+    "parlementaire": "Amiot Ségolène",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Loire-Atlantique"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Smaili Khadija",
+    "parlementaire": "Cathala Gabrielle",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Val-d'Oise"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Simon Hervé",
+    "parlementaire": "Loubet Alexandre",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Moselle"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Lybrecht Marie-Line",
+    "parlementaire": "Lhardit Laurent",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Bouches-du-Rhône"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Menichini Laurence",
+    "parlementaire": "Giletti Frank",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Var"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Miffre Paul",
+    "parlementaire": "Dogor-Such Sandrine",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Pyrénées-Orientales"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Rigaud François",
+    "parlementaire": "Goulet Perrine",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates",
+    "departement": "Nièvre"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Bouabbache Sofiane",
+    "parlementaire": "Cernon Bérenger",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Essonne"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "transfert",
+    "collaborateur": "Rioult Olivier",
+    "parlementaire_from": "Griseti Monique",
+    "parlementaire_to": "Fayssat Olivier",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Bouches-du-Rhône"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Rosier Madeleine",
+    "parlementaire": "Hamdane Zahia",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Somme"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Lebrun Guillaume",
+    "parlementaire": "Dessigny Jocelyn",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Aisne"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Farrugia Cécile",
+    "parlementaire": "Ciotti Éric",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Alpes-Maritimes"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Hayot Nathan",
+    "parlementaire": "Masson Bryan",
+    "groupe": "",
+    "groupe_label": "",
+    "departement": ""
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "transfert",
+    "collaborateur": "Maillot Esteban",
+    "parlementaire_from": "Diaz Edwige",
+    "parlementaire_to": "Gery Jonathan",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Rhône"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Bennani Hisham",
+    "parlementaire": "Cernon Bérenger",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Essonne"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Yvan Raphaël",
+    "parlementaire": "Bernalicis Ugo",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Nord"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Ros Carine",
+    "parlementaire": "Ciotti Éric",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Alpes-Maritimes"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Millereau Marc-William",
+    "parlementaire": "Coggia Nathalie",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Français établis hors de France"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Bentorki Shéhérazade",
+    "parlementaire": "Guiraud David",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Nord"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Schmit Maëlle",
+    "parlementaire": "Bex Christophe",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Haute-Garonne"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Rabany Arnaud",
+    "parlementaire": "Hamdane Zahia",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Somme"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Faure Larralde Aline",
+    "parlementaire": "Batho Delphine",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Deux-Sèvres"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Mancini Alvarez Nathalie",
+    "parlementaire": "Delogu Sébastien",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Bouches-du-Rhône"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Crosnier Pablo",
+    "parlementaire": "Belluco Lisa",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Vienne"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Eraldi Raphaël",
+    "parlementaire": "Parmentier Caroline",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Pas-de-Calais"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Grew Shauna",
+    "parlementaire": "Givernet Olga",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Ain"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Chaudière Claire",
+    "parlementaire": "Coggia Nathalie",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Français établis hors de France"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Vincent Théophane",
+    "parlementaire": "Caure Vincent",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Français établis hors de France"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Martinovic Clara",
+    "parlementaire": "Corneloup Josiane",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Saône-et-Loire"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Martin Manoëlle",
+    "parlementaire": "Ludmann Véronique",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Oise"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Arce-Menso Bastien",
+    "parlementaire": "Allemand Marie-José",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Hautes-Alpes"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Clolot Elisa",
+    "parlementaire": "Cormier-Bouligeon François",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République",
+    "departement": "Cher"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Delbos-Corfield Gwendoline",
+    "parlementaire": "Chatelain Cyrielle",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Isère"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "de Pillot de Coligny Luc",
+    "parlementaire": "Michoux Éric",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République",
+    "departement": "Saône-et-Loire"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Le Rigoleur Donatienne",
+    "parlementaire": "Le Fur Corentin",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine",
+    "departement": "Côtes-d'Armor"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Senez Clara",
+    "parlementaire": "Poussier-Winsback Marie-Agnès",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Seine-Maritime"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Gaillard Corentin",
+    "parlementaire": "Girard Damien",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Morbihan"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Valette Raphaël",
+    "parlementaire": "Roumégas Jean-Louis",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social",
+    "departement": "Hérault"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Latrèche Adrien",
+    "parlementaire": "Pena Marc",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés",
+    "departement": "Bouches-du-Rhône"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Panero Christian",
+    "parlementaire": "Barthès Christophe",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Aude"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Maeseele Alexandre",
+    "parlementaire": "Parmentier Caroline",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Pas-de-Calais"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Delavenne Augustin",
+    "parlementaire": "Magnier Lise",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Marne"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "arrivée",
+    "collaborateur": "Viancin Maxime",
+    "parlementaire": "Amiot Ségolène",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire",
+    "departement": "Loire-Atlantique"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "assemblee",
+    "type": "départ",
+    "collaborateur": "Fresse Pauline",
+    "parlementaire": "Dussausaye Gaëtan",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National",
+    "departement": "Vosges"
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "senat",
+    "type": "départ",
+    "collaborateur": "Mme ALLAIRAT Christelle",
+    "parlementaire": "Mme BERTHET Martine",
+    "groupe": "",
+    "groupe_label": "",
+    "departement": ""
+  },
+  {
+    "date": "2026-04-07",
+    "chambre": "senat",
+    "type": "départ",
+    "collaborateur": "Mme FLERET Aurianne",
+    "parlementaire": "M. CANÉVET Michel",
+    "groupe": "",
+    "groupe_label": "",
+    "departement": ""
+  },
+  {
+    "date": "2026-04-08",
+    "chambre": "senat",
+    "type": "arrivée",
+    "collaborateur": "Mme ZELLER Anne",
+    "parlementaire": "M. POINTEREAU Rémy",
+    "groupe": "",
+    "groupe_label": "",
+    "departement": ""
+  },
+  {
+    "date": "2026-04-08",
+    "chambre": "senat",
+    "type": "arrivée",
+    "collaborateur": "Mme ALLAIRAT Christelle",
+    "parlementaire": "Mme BERTHET Martine",
+    "groupe": "",
+    "groupe_label": "",
+    "departement": ""
+  }
+]
