@@ -1,0 +1,28 @@
+name: Europarl Bot
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run-europarl-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Europarl bot
+        env:
+          BLUESKY_IDENTIFIER_EU: ${{ secrets.BLUESKY_IDENTIFIER_EU }}
+          BLUESKY_PASSWORD_EU: ${{ secrets.BLUESKY_PASSWORD_EU }}
+        run: python bots/europarl/bot.py
