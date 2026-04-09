@@ -30,92 +30,65 @@ BLUESKY_PASSWORD = os.environ.get("BLUESKY_EUROPARL_PASSWORD")
 TELEGRAM_CHANNEL = "@cavaparlement"
 
 STATE_FILE   = "data/europarl/state.json"
-EP_API_BASE  = "https://data.europarl.europa.eu/api/v2"
 EP_SITE_BASE = "https://www.europarl.europa.eu"
-CURRENT_TERM = 10
 
 HEADERS = {
     "User-Agent": "CavaEuroparl/1.0 (@cavaeuroparl.bsky.social) - Civic transparency bot",
     "Accept": "text/html,application/xhtml+xml",
 }
-API_HEADERS = {
-    "User-Agent": "CavaEuroparl/1.0 (@cavaeuroparl.bsky.social)",
-    "Accept": "application/ld+json",
-}
 
 SESSION  = make_session()
-
-
-# ─── Helpers groupes ──────────────────────────────────────────────────────────
-
-def _extract_group_key(item: dict) -> str:
-    for field in ("ep-core:politicalGroup", "politicalGroup", "hasGroup"):
-        val = item.get(field)
-        if isinstance(val, str):
-            return val.rstrip("/").split("/")[-1].upper()
-        if isinstance(val, dict):
-            return (val.get("notation") or val.get("label") or "").upper()
-    for field in ("hasMembership", "memberOf", "ep-core:hasMembership"):
-        memberships = item.get(field, [])
-        if isinstance(memberships, dict):
-            memberships = [memberships]
-        for m in memberships:
-            if isinstance(m, dict):
-                role = m.get("role", m.get("ep-core:role", ""))
-                if "political" in str(role).lower() or "group" in str(role).lower():
-                    org = m.get("organization", m.get("ep-core:organization", {}))
-                    if isinstance(org, dict):
-                        key = org.get("notation") or org.get("label") or ""
-                        return str(key).upper()
-                    if isinstance(org, str):
-                        return org.rstrip("/").split("/")[-1].upper()
-    return ""
 
 
 # ─── Récupération des eurodéputés français ────────────────────────────────────
 
 def get_french_meps() -> dict:
-    print("-> Récupération des eurodéputés français via EP Open Data API...")
-    url = f"{EP_API_BASE}/meps"
-    params = {
-        "country-of-representation": "FR",
-        "format":             "application/ld+json",
-        "parliamentary-term": CURRENT_TERM,
-        "json-layout":        "framed",
-        "limit":              200,
-        "offset":             0,
-    }
-    last_exc = None
-    for attempt in range(1, 5):  # 4 tentatives max
+    """
+    Récupère les eurodéputés français depuis la page HTML full-list du site EP.
+    Beaucoup plus fiable que l'API Open Data qui timeout fréquemment.
+    """
+    print("-> Récupération des eurodéputés français via full-list EP...")
+    url = f"{EP_SITE_BASE}/meps/en/full-list/html"
+    for attempt in range(1, 4):
         try:
-            resp = SESSION.get(url, params=params, headers=API_HEADERS, timeout=90)
+            resp = SESSION.get(url, headers=HEADERS, timeout=30)
             resp.raise_for_status()
             break
         except Exception as e:
-            last_exc = e
-            wait = 15 * attempt
-            print(f"  [tentative {attempt}/4] Erreur API EP : {e} — retry dans {wait}s")
-            time.sleep(wait)
-    else:
-        raise last_exc
-    data = resp.json()
-    items = data.get("data", [])
-    meps = {}
-    for item in items:
-        at_id  = item.get("@id", "")
-        mep_id = at_id.rstrip("/").split("/")[-1] if at_id else ""
-        if not mep_id or not mep_id.isdigit():
-            mep_id = str(item.get("identifier", ""))
-        mep_name = (
-            item.get("label")
-            or item.get("foaf:name")
-            or item.get("skos:prefLabel")
-            or f"{item.get('foaf:givenName', '')} {item.get('foaf:familyName', '')}".strip()
-            or f"MEP#{mep_id}"
-        )
-        group_key = _extract_group_key(item)
-        if mep_id and mep_id.isdigit():
-            meps[mep_id] = {"name": mep_name, "group": group_key}
+            if attempt < 3:
+                print(f"  [tentative {attempt}/3] : {e} — retry dans {10 * attempt}s")
+                time.sleep(10 * attempt)
+            else:
+                raise
+
+    soup  = BeautifulSoup(resp.text, "html.parser")
+    meps  = {}
+
+    for card in soup.select("div.erpl_member-list-item"):
+        # ID depuis le lien
+        link  = card.select_one("a[href*='/meps/en/']")
+        if not link:
+            continue
+        m = re.search(r"/meps/en/(\d+)/", link["href"])
+        if not m:
+            continue
+        mep_id = m.group(1)
+
+        # Pays : on filtre sur la France
+        country = card.select_one("span.erpl_member-list-item-country")
+        if not country or "France" not in country.get_text():
+            continue
+
+        # Nom
+        name_el = card.select_one("span.erpl_member-list-item-name, .erpl_title-h5")
+        mep_name = name_el.get_text(strip=True) if name_el else f"MEP#{mep_id}"
+
+        # Groupe
+        group_el = card.select_one("span.erpl_member-list-item-group")
+        group_key = group_el.get_text(strip=True) if group_el else ""
+
+        meps[mep_id] = {"name": mep_name, "group": group_key}
+
     print(f"  {len(meps)} eurodéputés français trouvés")
     return meps
 
