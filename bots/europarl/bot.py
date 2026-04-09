@@ -86,8 +86,19 @@ def get_french_meps() -> dict:
         "limit":              200,
         "offset":             0,
     }
-    resp = SESSION.get(url, params=params, headers=API_HEADERS, timeout=60)
-    resp.raise_for_status()
+    last_exc = None
+    for attempt in range(1, 5):  # 4 tentatives max
+        try:
+            resp = SESSION.get(url, params=params, headers=API_HEADERS, timeout=90)
+            resp.raise_for_status()
+            break
+        except Exception as e:
+            last_exc = e
+            wait = 15 * attempt
+            print(f"  [tentative {attempt}/4] Erreur API EP : {e} — retry dans {wait}s")
+            time.sleep(wait)
+    else:
+        raise last_exc
     data = resp.json()
     items = data.get("data", [])
     meps = {}
