@@ -1,108 +1,71 @@
 """
 mep_lookup.py
-Lookup groupe politique + handle Bluesky pour les eurodéputés français.
+Lookup handle Bluesky pour les eurodéputés français.
 Compatible Python 3.9+
 
-Les clés de MEP_HANDLES suivent le format "Nom Prénom"
-(ex: "Glucksmann Raphaël", "Aubry Manon").
+Les clés de MEP_HANDLES suivent le format retourné par l'API EP Open Data :
+"Prénom Nom" (ex: "Raphaël Glucksmann", "Manon Aubry").
+
+La fonction get_mep_handle() essaie aussi le format inversé "Nom Prénom"
+et la normalisation sans accents pour couvrir les variantes.
 """
 
 import unicodedata
 from typing import Optional
 
 # ---------------------------------------------------------------------------
-# Groupes politiques PE (10e législature 2024-2029)
-# ---------------------------------------------------------------------------
-
-GROUP_SHORT = {
-    "Groupe des Socialistes et Démocrates": "S&D",
-    "Groupe du Parti Populaire Européen": "PPE",
-    "Groupe Renew Europe": "Renew",
-    "Les Verts / Alliance Libre Européenne": "Verts/ALE",
-    "Gauche de l'Europe": "GUE/NGL",
-    "Groupe des Conservateurs et Réformistes Européens": "CRE",
-    "Groupe Patriotes pour l'Europe": "PfE",
-    "Groupe Europe des Nations Souveraines": "ENS",
-    "Non-inscrit": "NI",
-}
-
-GROUP_EMOJI = {
-    "Groupe des Socialistes et Démocrates": "🌹",
-    "Groupe du Parti Populaire Européen": "🔵",
-    "Groupe Renew Europe": "🟡",
-    "Les Verts / Alliance Libre Européenne": "🌿",
-    "Gauche de l'Europe": "🔴",
-    "Groupe des Conservateurs et Réformistes Européens": "🟤",
-    "Groupe Patriotes pour l'Europe": "⚫",
-    "Groupe Europe des Nations Souveraines": "⚫",
-    "Non-inscrit": "🏛️",
-}
-
-GROUP_HASHTAG = {
-    "Groupe des Socialistes et Démocrates": "SD",
-    "Groupe du Parti Populaire Européen": "PPE",
-    "Groupe Renew Europe": "Renew",
-    "Les Verts / Alliance Libre Européenne": "VertsALE",
-    "Gauche de l'Europe": "GUE",
-    "Groupe des Conservateurs et Réformistes Européens": "CRE",
-    "Groupe Patriotes pour l'Europe": "PatriotesEurope",
-    "Groupe Europe des Nations Souveraines": "ENS",
-    "Non-inscrit": "NonInscrit",
-}
-
-# ---------------------------------------------------------------------------
 # Handles Bluesky
-# Clé : "Nom Prénom" (format attendu dans history.json Europarl)
+# Clé : "Prénom Nom" tel que retourné par l'API EP (foaf:givenName + foaf:familyName)
 # ---------------------------------------------------------------------------
 
 MEP_HANDLES = {
-    "Pellerin-Carlin Thomas": "@tpellerincarlin.bsky.social",
-    "Glucksmann Raphaël": "@raphaelglucksmann.bsky.social",
-    "Jouvet Pierre": "@pierrejouvet.fr",
-    "Cormand David": "@davidcormand.bsky.social",
-    "Grudler Christophe": "@grudlerch.bsky.social",
-    "Saeidi Arash": "@arashsaeidi.bsky.social",
-    "Allione Grégory": "@gregoryallione.bsky.social",
-    "Canfin Pascal": "@pcanfin.bsky.social",
-    "Carême Damien": "@damiencareme.bsky.social",
-    "Gozi Sandro": "@sandrogozi.bsky.social",
-    "Satouri Mounir": "@mounirsatouri.bsky.social",
-    "Clergeau Christophe": "@christopheclergeau.bsky.social",
-    "Smith Anthony": "@smithanthony.bsky.social",
-    "Larrouturou Pierre": "@pierrelarrouturou.bsky.social",
-    "Decerle Jérémy": "@jdecerle.bsky.social",
-    "Kalfon François": "@francoiskalfon.bsky.social",
-    "Sargiacomo Eric": "@erics40.bsky.social",
-    "Boyer Gilles": "@gillesboyer.bsky.social",
-    "Loiseau Nathalie": "@nathalieloiseau.bsky.social",
-    "Hayer Valérie": "@valeriehayer.bsky.social",
-    "Devaux Valérie": "@devauxvalerie.bsky.social",
-    "Rafowicz Emma": "@emmarafowicz.bsky.social",
-    "Camara Mélissa": "@melissacamara.bsky.social",
-    "Mesure Marina": "@marinamesure.bsky.social",
-    "Sbaï Majdouline": "@majdoulinesbai.bsky.social",
-    "Mebarek Nora": "@noramebarek.bsky.social",
-    "Keller Fabienne": "@fabiennekeller.bsky.social",
-    "Yenbou Salima": "@salimayenbou.bsky.social",
-    "Tolleret Irène": "@itolleret.bsky.social",
-    "Ridel Chloé": "@chloe-ridel.fr",
-    "Fita Claire": "@clairefita.bsky.social",
-    "Laurent Murielle": "@muriellelaurent.bsky.social",
-    "Lalucq Aurore": "@aurorelalucq.bsky.social",
-    "Aubry Manon": "@manonaubryfr.bsky.social",
-    "Chaibi Leïla": "@leilachaibi.bsky.social",
-    "Farreng Laurence": "@laurencefarreng.bsky.social",
-    "Fourreau Emma": "@emma-fourreau.bsky.social",
-    "Germain Jean-Marc": "@jmgermain.bsky.social",
-    "Guetta Bernard": "@dodolasaumure.bsky.social",
-    "Omarjee Younous": "@younousomarjee.bsky.social",
-    "Toussaint Marie": "@marietouss1.bsky.social",
-    "Yon-Courtin Stéphanie": "@syoncourtin.bsky.social",
+    "Thomas Pellerin-Carlin": "@tpellerincarlin.bsky.social",
+    "Raphaël Glucksmann": "@raphaelglucksmann.bsky.social",
+    "Pierre Jouvet": "@pierrejouvet.fr",
+    "David Cormand": "@davidcormand.bsky.social",
+    "Christophe Grudler": "@grudlerch.bsky.social",
+    "Arash Saeidi": "@arashsaeidi.bsky.social",
+    "Grégory Allione": "@gregoryallione.bsky.social",
+    "Pascal Canfin": "@pcanfin.bsky.social",
+    "Damien Carême": "@damiencareme.bsky.social",
+    "Sandro Gozi": "@sandrogozi.bsky.social",
+    "Mounir Satouri": "@mounirsatouri.bsky.social",
+    "Christophe Clergeau": "@christopheclergeau.bsky.social",
+    "Anthony Smith": "@smithanthony.bsky.social",
+    "Pierre Larrouturou": "@pierrelarrouturou.bsky.social",
+    "Jérémy Decerle": "@jdecerle.bsky.social",
+    "François Kalfon": "@francoiskalfon.bsky.social",
+    "Eric Sargiacomo": "@erics40.bsky.social",
+    "Gilles Boyer": "@gillesboyer.bsky.social",
+    "Nathalie Loiseau": "@nathalieloiseau.bsky.social",
+    "Valérie Hayer": "@valeriehayer.bsky.social",
+    "Valérie Devaux": "@devauxvalerie.bsky.social",
+    "Emma Rafowicz": "@emmarafowicz.bsky.social",
+    "Mélissa Camara": "@melissacamara.bsky.social",
+    "Marina Mesure": "@marinamesure.bsky.social",
+    "Majdouline Sbaï": "@majdoulinesbai.bsky.social",
+    "Nora Mebarek": "@noramebarek.bsky.social",
+    "Fabienne Keller": "@fabiennekeller.bsky.social",
+    "Salima Yenbou": "@salimayenbou.bsky.social",
+    "Irène Tolleret": "@itolleret.bsky.social",
+    "Chloé Ridel": "@chloe-ridel.fr",
+    "Claire Fita": "@clairefita.bsky.social",
+    "Murielle Laurent": "@muriellelaurent.bsky.social",
+    "Aurore Lalucq": "@aurorelalucq.bsky.social",
+    "Manon Aubry": "@manonaubryfr.bsky.social",
+    "Leïla Chaibi": "@leilachaibi.bsky.social",
+    "Laurence Farreng": "@laurencefarreng.bsky.social",
+    "Emma Fourreau": "@emma-fourreau.bsky.social",
+    "Jean-Marc Germain": "@jmgermain.bsky.social",
+    "Bernard Guetta": "@dodolasaumure.bsky.social",
+    "Younous Omarjee": "@younousomarjee.bsky.social",
+    "Marie Toussaint": "@marietouss1.bsky.social",
+    "Stéphanie Yon-Courtin": "@syoncourtin.bsky.social",
 }
 
 
 # ---------------------------------------------------------------------------
-# Fonctions de lookup
+# Lookup
 # ---------------------------------------------------------------------------
 
 def _normalize(s):
@@ -111,31 +74,41 @@ def _normalize(s):
     return "".join(c for c in nfkd if not unicodedata.combining(c)).upper()
 
 
-def get_mep_handle(parlementaire):
+def get_mep_handle(mep_name):
     # type: (str) -> Optional[str]
     """
-    Retourne le handle Bluesky d'un eurodéputé à partir de son nom complet.
-    Format attendu : "Nom Prénom" (ex: "Glucksmann Raphaël", "Aubry Manon").
+    Retourne le handle Bluesky d'un eurodéputé à partir de son nom.
+
+    Essaie dans l'ordre :
+    1. Correspondance directe (format API : "Prénom Nom")
+    2. Correspondance normalisée sans accents
+    3. Format inversé "Nom Prénom" (au cas où l'API renverrait ce format)
+
+    Ex:
+        get_mep_handle("Raphaël Glucksmann") -> "@raphaelglucksmann.bsky.social"
+        get_mep_handle("GLUCKSMANN Raphaël") -> "@raphaelglucksmann.bsky.social"
     """
-    if parlementaire in MEP_HANDLES:
-        return MEP_HANDLES[parlementaire]
-    key_norm = _normalize(parlementaire)
+    mep_name = mep_name.strip()
+
+    # 1. Correspondance directe
+    if mep_name in MEP_HANDLES:
+        return MEP_HANDLES[mep_name]
+
+    # 2. Sans accents
+    name_norm = _normalize(mep_name)
     for k, v in MEP_HANDLES.items():
-        if _normalize(k) == key_norm:
+        if _normalize(k) == name_norm:
             return v
+
+    # 3. Format inversé "Nom Prénom" -> essaie "Prénom Nom"
+    parts = mep_name.split(" ", 1)
+    if len(parts) == 2:
+        inverted = "{} {}".format(parts[1], parts[0])
+        if inverted in MEP_HANDLES:
+            return MEP_HANDLES[inverted]
+        inv_norm = _normalize(inverted)
+        for k, v in MEP_HANDLES.items():
+            if _normalize(k) == inv_norm:
+                return v
+
     return None
-
-
-def format_group_line(groupe_label, short=False):
-    # type: (str, bool) -> str
-    emoji = GROUP_EMOJI.get(groupe_label, "🏛️")
-    short_name = GROUP_SHORT.get(groupe_label, groupe_label)
-    if short:
-        return "{} {}".format(emoji, short_name)
-    return "{} {} · {}".format(emoji, short_name, groupe_label)
-
-
-def get_group_hashtag(groupe_label):
-    # type: (str) -> str
-    tag = GROUP_HASHTAG.get(groupe_label, groupe_label.replace(" ", ""))
-    return "#" + tag
