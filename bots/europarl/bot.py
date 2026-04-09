@@ -21,6 +21,7 @@ from shared.political_mapping import (
     EP_TYPE_EMOJIS, EP_TYPE_LABELS_FR,
     format_ep_group,
 )
+from bots.europarl.mep_lookup import get_mep_handle
 
 # ─── Configuration ────────────────────────────────────────────────────────────
 
@@ -238,22 +239,66 @@ def _build_message(change: dict) -> dict:
 
 # ─── Publication ──────────────────────────────────────────────────────────────
 
-def post_to_bluesky(text: str) -> None:
-    client = Client()
-    client.login(BLUESKY_HANDLE, BLUESKY_PASSWORD)
-    client.send_post(text=text)
+def post_to_bluesky(client: Client, text: str):
+    """
+    Poste sur Bluesky et retourne la réponse (uri + cid pour le reply).
+    """
+    response = client.send_post(text=text)
     print(f"  ✓ Bluesky ({len(text)} car.)")
+    return response
+
+
+def post_mep_reply(client: Client, parent_uri: str, parent_cid: str, mep_name: str) -> None:
+    """
+    Poste un reply avec le @handle du MEP si disponible.
+    """
+    handle = get_mep_handle(mep_name)
+    if not handle:
+        return
+
+    try:
+        from atproto import models
+
+        handle_clean = handle.lstrip("@")
+        resolved = client.resolve_handle(handle_clean)
+        did = resolved.did
+
+        text     = handle
+        byte_end = len(handle.encode("utf-8"))
+
+        reply_ref = models.AppBskyFeedPost.ReplyRef(
+            root=models.ComAtprotoRepoStrongRef.Main(uri=parent_uri, cid=parent_cid),
+            parent=models.ComAtprotoRepoStrongRef.Main(uri=parent_uri, cid=parent_cid),
+        )
+        facets = [
+            models.AppBskyRichtextFacet.Main(
+                index=models.AppBskyRichtextFacet.ByteSlice(byte_start=0, byte_end=byte_end),
+                features=[models.AppBskyRichtextFacet.Mention(did=did)],
+            )
+        ]
+
+        client.send_post(text=text, reply_to=reply_ref, facets=facets)
+        print(f"  ✓ Reply Bluesky : {handle}")
+
+    except Exception as e:
+        print(f"  ✗ Reply Bluesky : {e}")
 
 
 def publish_change(change: dict) -> None:
     messages = _build_message(change)
+
     if BLUESKY_PASSWORD:
         try:
-            post_to_bluesky(messages["bluesky"])
+            client = Client()
+            client.login(BLUESKY_HANDLE, BLUESKY_PASSWORD)
+            response = post_to_bluesky(client, messages["bluesky"])
+            # Reply avec le @handle du MEP si connu
+            post_mep_reply(client, response.uri, response.cid, change["mep_name"])
         except Exception as e:
             print(f"  ✗ Bluesky : {e}")
     else:
         print("  ⚠️  BLUESKY_EUROPARL_PASSWORD absent")
+
     post_telegram(messages["telegram"])
 
 
