@@ -5,7 +5,7 @@
     "departement": "Réunion",
     "region": "Réunion",
     "circo": "4",
-    "an_id": "795998"
+    "mandat_clos": true
   },
   "BÉNARD ÉDOUARD": {
     "groupe": "GDR",
@@ -13,7 +13,7 @@
     "departement": "Seine-Maritime",
     "region": "Normandie",
     "circo": "3",
-    "an_id": "796106"
+    "mandat_clos": true
   },
   "LE FEUR SANDRINE": {
     "groupe": "EPR",
@@ -21,7 +21,7 @@
     "departement": "Finistère",
     "region": "Bretagne",
     "circo": "4",
-    "an_id": "719412"
+    "mandat_clos": true
   },
   "TESSON THIERRY": {
     "groupe": "RN",
@@ -29,7 +29,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "17",
-    "an_id": "841553"
+    "mandat_clos": true
   },
   "VILLEDIEU ANTOINE": {
     "groupe": "RN",
@@ -37,7 +37,7 @@
     "departement": "Haute-Saône",
     "region": "Bourgogne-Franche-Comté",
     "circo": "1",
-    "an_id": "794946"
+    "mandat_clos": true
   },
   "GERNIGON FRANÇOIS": {
     "groupe": "HOR",
@@ -45,7 +45,7 @@
     "departement": "Maine-et-Loire",
     "region": "Pays de la Loire",
     "circo": "1",
-    "an_id": "794234"
+    "mandat_clos": true
   },
   "SAS EVA": {
     "groupe": "EcoS",
@@ -53,7 +53,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "8",
-    "an_id": "610002"
+    "mandat_clos": true
   },
   "AUZANOT BÉNÉDICTE": {
     "groupe": "RN",
@@ -61,7 +61,7 @@
     "departement": "Vaucluse",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "2",
-    "an_id": "796118"
+    "mandat_clos": true
   },
   "TAVERNIER BORIS": {
     "groupe": "EcoS",
@@ -69,7 +69,7 @@
     "departement": "Rhône",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "2",
-    "an_id": "841713"
+    "mandat_clos": true
   },
   "CHRISTOPHLE PAUL": {
     "groupe": "SOC",
@@ -77,7 +77,7 @@
     "departement": "Drôme",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "1",
-    "an_id": "840903"
+    "mandat_clos": true
   },
   "THIÉBAUT VINCENT": {
     "groupe": "HOR",
@@ -85,7 +85,7 @@
     "departement": "Bas-Rhin",
     "region": "Grand Est",
     "circo": "9",
-    "an_id": "722336"
+    "mandat_clos": true
   },
   "MAUREL EMMANUEL": {
     "groupe": "GDR",
@@ -93,7 +93,7 @@
     "departement": "Val-d'Oise",
     "region": "Ile-de-France",
     "circo": "3",
-    "an_id": "842271"
+    "mandat_clos": true
   },
   "CASTERMAN EDDY": {
     "groupe": "RN",
@@ -101,7 +101,7 @@
     "departement": "Aisne",
     "region": "Hauts-de-France",
     "circo": "3",
-    "an_id": "840075"
+    "mandat_clos": true
   },
   "JOSSERAND SYLVIE": {
     "groupe": "RN",
@@ -109,7 +109,7 @@
     "departement": "Gard",
     "region": "Occitanie",
     "circo": "6",
-    "an_id": "841075"
+    "mandat_clos": true
   },
   "GOLLIOT ANTOINE": {
     "groupe": "RN",
@@ -117,7 +117,7 @@
     "departement": "Pas-de-Calais",
     "region": "Hauts-de-France",
     "circo": "5",
-    "an_id": "841605"
+    "mandat_clos": true
   },
   "MAZARS STÉPHANE": {
     "groupe": "EPR",
@@ -125,7 +125,7 @@
     "departement": "Aveyron",
     "region": "Occitanie",
     "circo": "1",
-    "an_id": "677483"
+    "mandat_clos": true
   },
   "CATHALA GABRIELLE": {
     "groupe": "LFI-NFP",
@@ -133,7 +133,7 @@
     "departement": "Val-d'Oise",
     "region": "Ile-de-France",
     "circo": "6",
-    "an_id": "842187"
+    "mandat_clos": true
   },
   "BONNIVARD ÉMILIE": {
     "groupe": "DR",
@@ -141,7 +141,7 @@
     "departement": "Savoie",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "3",
-    "an_id": "721410"
+    "mandat_clos": true
   },
   "TRIBUIANI CYRIL": {
     "groupe": "RN",
@@ -149,7 +149,7 @@
     "departement": "Alpes-Maritimes",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "6",
-    "an_id": "793334"
+    "mandat_clos": true
   },
   "DESCOEUR VINCENT": {
     "groupe": "DR",
@@ -157,7 +157,7 @@
     "departement": "Cantal",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "1",
-    "an_id": "330909"
+    "mandat_clos": true
   },
   "PORTES THOMAS": {
     "groupe": "LFI-NFP",
@@ -165,7 +165,7 @@
     "departement": "Seine-Saint-Denis",
     "region": "Ile-de-France",
     "circo": "3",
-    "an_id": "796062"
+    "mandat_clos": true
   },
   "DUPLESSY EMMANUEL": {
     "groupe": "EcoS",
@@ -173,7 +173,7 @@
     "departement": "Loiret",
     "region": "Centre-Val de Loire",
     "circo": "2",
-    "an_id": "841351"
+    "mandat_clos": true
   },
   "COSSON MICKAËL": {
     "groupe": "Dem",
@@ -181,7 +181,7 @@
     "departement": "Côtes-d'Armor",
     "region": "Bretagne",
     "circo": "1",
-    "an_id": "793520"
+    "mandat_clos": true
   },
   "POTIER DOMINIQUE": {
     "groupe": "SOC",
@@ -189,7 +189,7 @@
     "departement": "Meurthe-et-Moselle",
     "region": "Grand Est",
     "circo": "5",
-    "an_id": "607553"
+    "mandat_clos": true
   },
   "RAY NICOLAS": {
     "groupe": "DR",
@@ -197,7 +197,7 @@
     "departement": "Allier",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "3",
-    "an_id": "793094"
+    "mandat_clos": true
   },
   "DUFOSSET ALEXANDRE": {
     "groupe": "RN",
@@ -205,7 +205,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "18",
-    "an_id": "840135"
+    "mandat_clos": true
   },
   "FERNANDES EMMANUEL": {
     "groupe": "LFI-NFP",
@@ -213,7 +213,7 @@
     "departement": "Bas-Rhin",
     "region": "Grand Est",
     "circo": "2",
-    "an_id": "794786"
+    "mandat_clos": true
   },
   "HOLLANDE FRANÇOIS": {
     "groupe": "SOC",
@@ -221,7 +221,7 @@
     "departement": "Corrèze",
     "region": "Nouvelle-Aquitaine",
     "circo": "1",
-    "an_id": "1654"
+    "mandat_clos": true
   },
   "PARMENTIER-LECOCQ CHARLOTTE": {
     "groupe": "HOR",
@@ -229,7 +229,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "6",
-    "an_id": "720480"
+    "mandat_clos": true
   },
   "DIAZ EDWIGE": {
     "groupe": "RN",
@@ -237,7 +237,7 @@
     "departement": "Gironde",
     "region": "Nouvelle-Aquitaine",
     "circo": "11",
-    "an_id": "793928"
+    "mandat_clos": true
   },
   "PANONACLE SOPHIE": {
     "groupe": "EPR",
@@ -245,7 +245,7 @@
     "departement": "Gironde",
     "region": "Nouvelle-Aquitaine",
     "circo": "8",
-    "an_id": "719632"
+    "mandat_clos": true
   },
   "VERNY GÉRAULT": {
     "groupe": "UDR",
@@ -253,7 +253,7 @@
     "departement": "Bouches-du-Rhône",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "14",
-    "an_id": "840809"
+    "mandat_clos": true
   },
   "MAILLOT FRÉDÉRIC": {
     "groupe": "GDR",
@@ -261,7 +261,7 @@
     "departement": "Réunion",
     "region": "Réunion",
     "circo": "6",
-    "an_id": "796010"
+    "mandat_clos": true
   },
   "MARAIS-BEUIL CLAIRE": {
     "groupe": "RN",
@@ -269,7 +269,7 @@
     "departement": "Oise",
     "region": "Hauts-de-France",
     "circo": "1",
-    "an_id": "841563"
+    "mandat_clos": true
   },
   "BONY JEAN-YVES": {
     "groupe": "DR",
@@ -277,7 +277,7 @@
     "departement": "Cantal",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "2",
-    "an_id": "266793"
+    "mandat_clos": true
   },
   "ALBERTINI XAVIER": {
     "groupe": "HOR",
@@ -285,7 +285,7 @@
     "departement": "Marne",
     "region": "Grand Est",
     "circo": "1",
-    "an_id": "794278"
+    "mandat_clos": true
   },
   "HUYGHE SÉBASTIEN": {
     "groupe": "EPR",
@@ -293,7 +293,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "5",
-    "an_id": "267200"
+    "mandat_clos": true
   },
   "BRETON XAVIER": {
     "groupe": "DR",
@@ -301,7 +301,7 @@
     "departement": "Ain",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "1",
-    "an_id": "330008"
+    "mandat_clos": true
   },
   "VIGIER JEAN-PIERRE": {
     "groupe": "DR",
@@ -309,7 +309,7 @@
     "departement": "Haute-Loire",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "2",
-    "an_id": "607090"
+    "mandat_clos": true
   },
   "BROCARD BLANDINE": {
     "groupe": "Dem",
@@ -317,7 +317,7 @@
     "departement": "Rhône",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "5",
-    "an_id": "721336"
+    "mandat_clos": true
   },
   "JACOBELLI LAURENT": {
     "groupe": "RN",
@@ -325,7 +325,7 @@
     "departement": "Moselle",
     "region": "Grand Est",
     "circo": "8",
-    "an_id": "794598"
+    "mandat_clos": true
   },
   "MAUDET DAMIEN": {
     "groupe": "LFI-NFP",
@@ -333,7 +333,7 @@
     "departement": "Haute-Vienne",
     "region": "Nouvelle-Aquitaine",
     "circo": "1",
-    "an_id": "795422"
+    "mandat_clos": true
   },
   "CAUSSE LIONEL": {
     "groupe": "EPR",
@@ -341,7 +341,7 @@
     "departement": "Landes",
     "region": "Nouvelle-Aquitaine",
     "circo": "2",
-    "an_id": "719922"
+    "mandat_clos": true
   },
   "SANQUER NICOLE": {
     "groupe": "LIOT",
@@ -349,7 +349,7 @@
     "departement": "Polynésie Française",
     "region": "Polynésie française",
     "circo": "2",
-    "an_id": "721110"
+    "mandat_clos": true
   },
   "DESSIGNY JOCELYN": {
     "groupe": "RN",
@@ -357,7 +357,7 @@
     "departement": "Aisne",
     "region": "Hauts-de-France",
     "circo": "5",
-    "an_id": "793166"
+    "mandat_clos": true
   },
   "CHENEVARD YANNICK": {
     "groupe": "EPR",
@@ -365,7 +365,7 @@
     "departement": "Var",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "1",
-    "an_id": "795908"
+    "mandat_clos": true
   },
   "EVRARD AUGUSTE": {
     "groupe": "RN",
@@ -373,7 +373,7 @@
     "departement": "Pas-de-Calais",
     "region": "Hauts-de-France",
     "circo": "8",
-    "an_id": "841621"
+    "mandat_clos": true
   },
   "ROUSSET JEAN-FRANÇOIS": {
     "groupe": "EPR",
@@ -381,7 +381,7 @@
     "departement": "Aveyron",
     "region": "Occitanie",
     "circo": "3",
-    "an_id": "793270"
+    "mandat_clos": true
   },
   "WILLIAM JIOVANNY": {
     "groupe": "SOC",
@@ -389,7 +389,7 @@
     "departement": "Martinique",
     "region": "Martinique",
     "circo": "1",
-    "an_id": "720992"
+    "mandat_clos": true
   },
   "BAUMEL LAURENT": {
     "groupe": "SOC",
@@ -397,7 +397,7 @@
     "departement": "Indre-et-Loire",
     "region": "Centre-Val de Loire",
     "circo": "4",
-    "an_id": "606793"
+    "mandat_clos": true
   },
   "LÉTARD VALÉRIE": {
     "groupe": "LIOT",
@@ -405,7 +405,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "21",
-    "an_id": "227089"
+    "mandat_clos": true
   },
   "DIOUARA ALY": {
     "groupe": "LFI-NFP",
@@ -413,7 +413,7 @@
     "departement": "Seine-Saint-Denis",
     "region": "Ile-de-France",
     "circo": "5",
-    "an_id": "842155"
+    "mandat_clos": true
   },
   "MÉNAGÉ THOMAS": {
     "groupe": "RN",
@@ -421,7 +421,7 @@
     "departement": "Loiret",
     "region": "Centre-Val de Loire",
     "circo": "4",
-    "an_id": "794322"
+    "mandat_clos": true
   },
   "LATRÈCHE ALIM": {
     "groupe": "EPR",
@@ -429,7 +429,7 @@
     "departement": "Isère",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "1",
-    "an_id": "857021"
+    "mandat_clos": true
   },
   "AMBLARD MAXIME": {
     "groupe": "RN",
@@ -437,7 +437,7 @@
     "departement": "Meuse",
     "region": "Grand Est",
     "circo": "1",
-    "an_id": "841495"
+    "mandat_clos": true
   },
   "RICOURT VAGINAY SOPHIE": {
     "groupe": "UDR",
@@ -445,7 +445,7 @@
     "departement": "Alpes-de-Haute-Provence",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "2",
-    "an_id": "840657"
+    "mandat_clos": true
   },
   "DELAUTRETTE STÉPHANE": {
     "groupe": "SOC",
@@ -453,7 +453,15 @@
     "departement": "Haute-Vienne",
     "region": "Nouvelle-Aquitaine",
     "circo": "2",
-    "an_id": "795430"
+    "mandat_clos": true
+  },
+  "BENTORKI SHÉHÉRAZADE": {
+    "groupe": "NI",
+    "groupe_label": "Non inscrit",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "8",
+    "mandat_clos": true
   },
   "RIXAIN MARIE-PIERRE": {
     "groupe": "EPR",
@@ -461,7 +469,7 @@
     "departement": "Essonne",
     "region": "Ile-de-France",
     "circo": "4",
-    "an_id": "722252"
+    "mandat_clos": true
   },
   "BOUDIÉ FLORENT": {
     "groupe": "EPR",
@@ -469,7 +477,7 @@
     "departement": "Gironde",
     "region": "Nouvelle-Aquitaine",
     "circo": "10",
-    "an_id": "606507"
+    "mandat_clos": true
   },
   "TACHÉ EMMANUEL": {
     "groupe": "RN",
@@ -477,15 +485,7 @@
     "departement": "Bouches-du-Rhône",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "16",
-    "an_id": "793382"
-  },
-  "CHRISTOPHE PAUL": {
-    "groupe": "HOR",
-    "groupe_label": "Horizons & Indépendants",
-    "departement": "Nord",
-    "region": "Hauts-de-France",
-    "circo": "14",
-    "an_id": "642868"
+    "mandat_clos": true
   },
   "ALLONCLE CHARLES": {
     "groupe": "UDR",
@@ -493,7 +493,7 @@
     "departement": "Hérault",
     "region": "Occitanie",
     "circo": "9",
-    "an_id": "841207"
+    "mandat_clos": true
   },
   "MICHELET MAXIME": {
     "groupe": "UDR",
@@ -501,7 +501,7 @@
     "departement": "Marne",
     "region": "Grand Est",
     "circo": "3",
-    "an_id": "841395"
+    "mandat_clos": true
   },
   "CAZENAVE THOMAS": {
     "groupe": "EPR",
@@ -509,7 +509,7 @@
     "departement": "Gironde",
     "region": "Nouvelle-Aquitaine",
     "circo": "1",
-    "an_id": "793940"
+    "mandat_clos": true
   },
   "LAM THOMAS": {
     "groupe": "HOR",
@@ -517,7 +517,7 @@
     "departement": "Hauts-de-Seine",
     "region": "Ile-de-France",
     "circo": "2",
-    "an_id": "842125"
+    "mandat_clos": true
   },
   "GOULET PERRINE": {
     "groupe": "Dem",
@@ -525,7 +525,7 @@
     "departement": "Nièvre",
     "region": "Bourgogne-Franche-Comté",
     "circo": "1",
-    "an_id": "720560"
+    "mandat_clos": true
   },
   "PEU STÉPHANE": {
     "groupe": "GDR",
@@ -533,7 +533,7 @@
     "departement": "Seine-Saint-Denis",
     "region": "Ile-de-France",
     "circo": "2",
-    "an_id": "721270"
+    "mandat_clos": true
   },
   "FESNEAU MARC": {
     "groupe": "Dem",
@@ -541,7 +541,7 @@
     "departement": "Loir-et-Cher",
     "region": "Centre-Val de Loire",
     "circo": "1",
-    "an_id": "719938"
+    "mandat_clos": true
   },
   "PRUD'HOMME LOÏC": {
     "groupe": "LFI-NFP",
@@ -549,7 +549,7 @@
     "departement": "Gironde",
     "region": "Nouvelle-Aquitaine",
     "circo": "3",
-    "an_id": "719578"
+    "mandat_clos": true
   },
   "RIMBERT CATHERINE": {
     "groupe": "RN",
@@ -557,7 +557,7 @@
     "departement": "Vaucluse",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "5",
-    "an_id": "841981"
+    "mandat_clos": true
   },
   "MESMEUR MARIE": {
     "groupe": "LFI-NFP",
@@ -565,7 +565,7 @@
     "departement": "Ille-et-Vilaine",
     "region": "Bretagne",
     "circo": "1",
-    "an_id": "841215"
+    "mandat_clos": true
   },
   "LOUWAGIE VÉRONIQUE": {
     "groupe": "DR",
@@ -573,7 +573,7 @@
     "departement": "Orne",
     "region": "Normandie",
     "circo": "2",
-    "an_id": "608016"
+    "mandat_clos": true
   },
   "FIÉVET JEAN-MARIE": {
     "groupe": "EPR",
@@ -581,7 +581,7 @@
     "departement": "Deux-Sèvres",
     "region": "Nouvelle-Aquitaine",
     "circo": "3",
-    "an_id": "722134"
+    "mandat_clos": true
   },
   "KELOUA HACHI FATIHA": {
     "groupe": "SOC",
@@ -589,7 +589,7 @@
     "departement": "Seine-Saint-Denis",
     "region": "Ile-de-France",
     "circo": "8",
-    "an_id": "795156"
+    "mandat_clos": true
   },
   "SIMONNET DANIELLE": {
     "groupe": "EcoS",
@@ -597,7 +597,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "15",
-    "an_id": "796018"
+    "mandat_clos": true
   },
   "GOSSELIN PHILIPPE": {
     "groupe": "DR",
@@ -605,7 +605,7 @@
     "departement": "Manche",
     "region": "Normandie",
     "circo": "1",
-    "an_id": "266797"
+    "mandat_clos": true
   },
   "LESEUL GÉRARD": {
     "groupe": "SOC",
@@ -613,7 +613,7 @@
     "departement": "Seine-Maritime",
     "region": "Normandie",
     "circo": "5",
-    "an_id": "774958"
+    "mandat_clos": true
   },
   "THOMIN MÉLANIE": {
     "groupe": "SOC",
@@ -621,7 +621,7 @@
     "departement": "Finistère",
     "region": "Bretagne",
     "circo": "6",
-    "an_id": "793816"
+    "mandat_clos": true
   },
   "FAUCILLON ELSA": {
     "groupe": "GDR",
@@ -629,7 +629,7 @@
     "departement": "Hauts-de-Seine",
     "region": "Ile-de-France",
     "circo": "1",
-    "an_id": "721896"
+    "mandat_clos": true
   },
   "GUEDJ JÉRÔME": {
     "groupe": "SOC",
@@ -637,7 +637,7 @@
     "departement": "Essonne",
     "region": "Ile-de-France",
     "circo": "6",
-    "an_id": "1567"
+    "mandat_clos": true
   },
   "DUPONT STELLA": {
     "groupe": "NI",
@@ -645,7 +645,7 @@
     "departement": "Maine-et-Loire",
     "region": "Pays de la Loire",
     "circo": "2",
-    "an_id": "643175"
+    "mandat_clos": true
   },
   "CORNELOUP JOSIANE": {
     "groupe": "DR",
@@ -653,7 +653,7 @@
     "departement": "Saône-et-Loire",
     "region": "Bourgogne-Franche-Comté",
     "circo": "2",
-    "an_id": "722390"
+    "mandat_clos": true
   },
   "RUFFIN FRANÇOIS": {
     "groupe": "EcoS",
@@ -661,7 +661,7 @@
     "departement": "Somme",
     "region": "Hauts-de-France",
     "circo": "1",
-    "an_id": "722142"
+    "mandat_clos": true
   },
   "ARENAS RODRIGO": {
     "groupe": "LFI-NFP",
@@ -669,7 +669,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "10",
-    "an_id": "795084"
+    "mandat_clos": true
   },
   "BERGANTZ ANNE": {
     "groupe": "Dem",
@@ -677,7 +677,7 @@
     "departement": "Yvelines",
     "region": "Ile-de-France",
     "circo": "2",
-    "an_id": "805166"
+    "mandat_clos": true
   },
   "POCHON MARIE": {
     "groupe": "EcoS",
@@ -685,7 +685,7 @@
     "departement": "Drôme",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "3",
-    "an_id": "793664"
+    "mandat_clos": true
   },
   "YADAN CAROLINE": {
     "groupe": "EPR",
@@ -693,7 +693,7 @@
     "departement": "Français établis hors de France",
     "region": "Français établis hors de France",
     "circo": "8",
-    "an_id": "795046"
+    "mandat_clos": true
   },
   "LEBEC MARIE": {
     "groupe": "EPR",
@@ -701,7 +701,7 @@
     "departement": "Yvelines",
     "region": "Ile-de-France",
     "circo": "4",
-    "an_id": "721852"
+    "mandat_clos": true
   },
   "DOMBRE COSTE FANNY": {
     "groupe": "SOC",
@@ -709,7 +709,7 @@
     "departement": "Hérault",
     "region": "Occitanie",
     "circo": "3",
-    "an_id": "606573"
+    "mandat_clos": true
   },
   "LEDOUX VINCENT": {
     "groupe": "EPR",
@@ -717,7 +717,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "10",
-    "an_id": "712014"
+    "mandat_clos": true
   },
   "OTT HUBERT": {
     "groupe": "Dem",
@@ -725,7 +725,7 @@
     "departement": "Haut-Rhin",
     "region": "Grand Est",
     "circo": "2",
-    "an_id": "794830"
+    "mandat_clos": true
   },
   "STAMBACH-TERRENOIR ANNE": {
     "groupe": "LFI-NFP",
@@ -733,7 +733,7 @@
     "departement": "Haute-Garonne",
     "region": "Occitanie",
     "circo": "2",
-    "an_id": "793744"
+    "mandat_clos": true
   },
   "TROUVÉ AURÉLIE": {
     "groupe": "LFI-NFP",
@@ -741,7 +741,7 @@
     "departement": "Seine-Saint-Denis",
     "region": "Ile-de-France",
     "circo": "9",
-    "an_id": "795164"
+    "mandat_clos": true
   },
   "RIOTTON VÉRONIQUE": {
     "groupe": "EPR",
@@ -749,7 +749,7 @@
     "departement": "Haute-Savoie",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "1",
-    "an_id": "721426"
+    "mandat_clos": true
   },
   "GOT PASCALE": {
     "groupe": "SOC",
@@ -757,7 +757,7 @@
     "departement": "Gironde",
     "region": "Nouvelle-Aquitaine",
     "circo": "5",
-    "an_id": "331973"
+    "mandat_clos": true
   },
   "HETZEL PATRICK": {
     "groupe": "DR",
@@ -765,7 +765,7 @@
     "departement": "Bas-Rhin",
     "region": "Grand Est",
     "circo": "7",
-    "an_id": "608416"
+    "mandat_clos": true
   },
   "LE FUR CORENTIN": {
     "groupe": "DR",
@@ -773,7 +773,7 @@
     "departement": "Côtes-d'Armor",
     "region": "Bretagne",
     "circo": "3",
-    "an_id": "840979"
+    "mandat_clos": true
   },
   "FLORQUIN GUILLAUME": {
     "groupe": "RN",
@@ -781,7 +781,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "20",
-    "an_id": "840143"
+    "mandat_clos": true
   },
   "MARTIN ÉLISA": {
     "groupe": "LFI-NFP",
@@ -789,7 +789,7 @@
     "departement": "Isère",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "3",
-    "an_id": "342384"
+    "mandat_clos": true
   },
   "LINGEMANN DELPHINE": {
     "groupe": "Dem",
@@ -797,7 +797,7 @@
     "departement": "Puy-de-Dôme",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "4",
-    "an_id": "794702"
+    "mandat_clos": true
   },
   "LECHON NADINE": {
     "groupe": "RN",
@@ -805,7 +805,7 @@
     "departement": "Dordogne",
     "region": "Nouvelle-Aquitaine",
     "circo": "1",
-    "an_id": "840857"
+    "mandat_clos": true
   },
   "LENORMAND STÉPHANE": {
     "groupe": "LIOT",
@@ -813,7 +813,7 @@
     "departement": "Saint-Pierre-et-Miquelon",
     "region": "Saint-Pierre-et-Miquelon",
     "circo": "1",
-    "an_id": "795244"
+    "mandat_clos": true
   },
   "FIRMIN LE BODO AGNÈS": {
     "groupe": "HOR",
@@ -821,7 +821,7 @@
     "departement": "Seine-Maritime",
     "region": "Normandie",
     "circo": "7",
-    "an_id": "267780"
+    "mandat_clos": true
   },
   "BALANANT ERWAN": {
     "groupe": "Dem",
@@ -829,7 +829,7 @@
     "departement": "Finistère",
     "region": "Bretagne",
     "circo": "8",
-    "an_id": "719558"
+    "mandat_clos": true
   },
   "SCHRECK PHILIPPE": {
     "groupe": "RN",
@@ -837,7 +837,7 @@
     "departement": "Var",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "8",
-    "an_id": "796050"
+    "mandat_clos": true
   },
   "MICHOUX ÉRIC": {
     "groupe": "UDR",
@@ -845,7 +845,7 @@
     "departement": "Saône-et-Loire",
     "region": "Bourgogne-Franche-Comté",
     "circo": "4",
-    "an_id": "841769"
+    "mandat_clos": true
   },
   "PANNIER-RUNACHER AGNÈS": {
     "groupe": "EPR",
@@ -853,7 +853,7 @@
     "departement": "Pas-de-Calais",
     "region": "Hauts-de-France",
     "circo": "2",
-    "an_id": "759832"
+    "mandat_clos": true
   },
   "LEGRAIN SARAH": {
     "groupe": "LFI-NFP",
@@ -861,7 +861,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "16",
-    "an_id": "791824"
+    "mandat_clos": true
   },
   "AMIOT SÉGOLÈNE": {
     "groupe": "LFI-NFP",
@@ -869,7 +869,7 @@
     "departement": "Loire-Atlantique",
     "region": "Pays de la Loire",
     "circo": "3",
-    "an_id": "794138"
+    "mandat_clos": true
   },
   "LAHMAR ABDELKADER": {
     "groupe": "LFI-NFP",
@@ -877,7 +877,7 @@
     "departement": "Rhône",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "7",
-    "an_id": "841729"
+    "mandat_clos": true
   },
   "LOIR CHRISTINE": {
     "groupe": "RN",
@@ -885,7 +885,7 @@
     "departement": "Eure",
     "region": "Normandie",
     "circo": "1",
-    "an_id": "793672"
+    "mandat_clos": true
   },
   "LAKRAFI AMÉLIA": {
     "groupe": "EPR",
@@ -893,7 +893,7 @@
     "departement": "Français établis hors de France",
     "region": "Français établis hors de France",
     "circo": "10",
-    "an_id": "721004"
+    "mandat_clos": true
   },
   "BLANCHARD BENOÎT": {
     "groupe": "HOR",
@@ -901,7 +901,7 @@
     "departement": "Val-d'Oise",
     "region": "Ile-de-France",
     "circo": "4",
-    "an_id": "842183"
+    "mandat_clos": true
   },
   "LOUBET ALEXANDRE": {
     "groupe": "RN",
@@ -909,7 +909,7 @@
     "departement": "Moselle",
     "region": "Grand Est",
     "circo": "7",
-    "an_id": "794590"
+    "mandat_clos": true
   },
   "POUZYREFF NATALIA": {
     "groupe": "EPR",
@@ -917,7 +917,7 @@
     "departement": "Yvelines",
     "region": "Ile-de-France",
     "circo": "6",
-    "an_id": "721916"
+    "mandat_clos": true
   },
   "SCHELLENBERGER RAPHAËL": {
     "groupe": "NI",
@@ -925,7 +925,7 @@
     "departement": "Haut-Rhin",
     "region": "Grand Est",
     "circo": "4",
-    "an_id": "721314"
+    "mandat_clos": true
   },
   "METZDORF NICOLAS": {
     "groupe": "EPR",
@@ -933,7 +933,7 @@
     "departement": "Nouvelle-Calédonie",
     "region": "Nouvelle-Calédonie",
     "circo": "1",
-    "an_id": "795176"
+    "mandat_clos": true
   },
   "GUITTON JORDAN": {
     "groupe": "RN",
@@ -941,7 +941,7 @@
     "departement": "Aube",
     "region": "Grand Est",
     "circo": "1",
-    "an_id": "793218"
+    "mandat_clos": true
   },
   "CAPDEVIELLE COLETTE": {
     "groupe": "SOC",
@@ -949,7 +949,7 @@
     "departement": "Pyrénées-Atlantiques",
     "region": "Nouvelle-Aquitaine",
     "circo": "5",
-    "an_id": "608264"
+    "mandat_clos": true
   },
   "LHARDIT LAURENT": {
     "groupe": "SOC",
@@ -957,7 +957,7 @@
     "departement": "Bouches-du-Rhône",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "2",
-    "an_id": "840765"
+    "mandat_clos": true
   },
   "AUTAIN CLÉMENTINE": {
     "groupe": "EcoS",
@@ -965,7 +965,7 @@
     "departement": "Seine-Saint-Denis",
     "region": "Ile-de-France",
     "circo": "11",
-    "an_id": "588884"
+    "mandat_clos": true
   },
   "BELLAY BÉATRICE": {
     "groupe": "SOC",
@@ -973,15 +973,7 @@
     "departement": "Martinique",
     "region": "Martinique",
     "circo": "3",
-    "an_id": "842211"
-  },
-  "GUIRAUD DAVID": {
-    "groupe": "LFI-NFP",
-    "groupe_label": "La France insoumise - Nouveau Front Populaire",
-    "departement": "Nord",
-    "region": "Hauts-de-France",
-    "circo": "8",
-    "an_id": "794478"
+    "mandat_clos": true
   },
   "RAMOS RICHARD": {
     "groupe": "Dem",
@@ -989,7 +981,7 @@
     "departement": "Loiret",
     "region": "Centre-Val de Loire",
     "circo": "6",
-    "an_id": "720092"
+    "mandat_clos": true
   },
   "BOTHOREL ÉRIC": {
     "groupe": "EPR",
@@ -997,7 +989,7 @@
     "departement": "Côtes-d'Armor",
     "region": "Bretagne",
     "circo": "5",
-    "an_id": "642695"
+    "mandat_clos": true
   },
   "ROSSI VALÉRIE": {
     "groupe": "SOC",
@@ -1005,7 +997,7 @@
     "departement": "Hautes-Alpes",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "2",
-    "an_id": "840673"
+    "mandat_clos": true
   },
   "BLAIRY EMMANUEL": {
     "groupe": "RN",
@@ -1013,7 +1005,7 @@
     "departement": "Pas-de-Calais",
     "region": "Hauts-de-France",
     "circo": "1",
-    "an_id": "720668"
+    "mandat_clos": true
   },
   "VIRY STÉPHANE": {
     "groupe": "LIOT",
@@ -1021,7 +1013,7 @@
     "departement": "Vosges",
     "region": "Grand Est",
     "circo": "1",
-    "an_id": "721474"
+    "mandat_clos": true
   },
   "POUEYTO JOSY": {
     "groupe": "Dem",
@@ -1029,7 +1021,7 @@
     "departement": "Pyrénées-Atlantiques",
     "region": "Nouvelle-Aquitaine",
     "circo": "1",
-    "an_id": "720720"
+    "mandat_clos": true
   },
   "JOUBERT FLORENCE": {
     "groupe": "RN",
@@ -1037,7 +1029,7 @@
     "departement": "Dordogne",
     "region": "Nouvelle-Aquitaine",
     "circo": "3",
-    "an_id": "840869"
+    "mandat_clos": true
   },
   "DELAPORTE ARTHUR": {
     "groupe": "SOC",
@@ -1045,7 +1037,7 @@
     "departement": "Calvados",
     "region": "Normandie",
     "circo": "2",
-    "an_id": "793394"
+    "mandat_clos": true
   },
   "TACHÉ AURÉLIEN": {
     "groupe": "LFI-NFP",
@@ -1053,7 +1045,7 @@
     "departement": "Val-d'Oise",
     "region": "Ile-de-France",
     "circo": "10",
-    "an_id": "720952"
+    "mandat_clos": true
   },
   "GUINIOT MICHEL": {
     "groupe": "RN",
@@ -1061,7 +1053,7 @@
     "departement": "Oise",
     "region": "Hauts-de-France",
     "circo": "6",
-    "an_id": "794734"
+    "mandat_clos": true
   },
   "WARSMANN JEAN-LUC": {
     "groupe": "LIOT",
@@ -1069,7 +1061,7 @@
     "departement": "Ardennes",
     "region": "Grand Est",
     "circo": "3",
-    "an_id": "2952"
+    "mandat_clos": true
   },
   "DE COURSON CHARLES": {
     "groupe": "LIOT",
@@ -1077,7 +1069,7 @@
     "departement": "Marne",
     "region": "Grand Est",
     "circo": "5",
-    "an_id": "942"
+    "mandat_clos": true
   },
   "CHAVENT MARC": {
     "groupe": "UDR",
@@ -1085,7 +1077,7 @@
     "departement": "Ain",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "5",
-    "an_id": "840721"
+    "mandat_clos": true
   },
   "WEISSBERG CHRISTOPHER": {
     "groupe": "EPR",
@@ -1093,7 +1085,7 @@
     "departement": "Français établis hors de France",
     "region": "Français établis hors de France",
     "circo": "1",
-    "an_id": "795326"
+    "mandat_clos": true
   },
   "AMIRSHAHI POURIA": {
     "groupe": "EcoS",
@@ -1101,7 +1093,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "5",
-    "an_id": "610968"
+    "mandat_clos": true
   },
   "CALVEZ CÉLINE": {
     "groupe": "EPR",
@@ -1109,7 +1101,7 @@
     "departement": "Hauts-de-Seine",
     "region": "Ile-de-France",
     "circo": "5",
-    "an_id": "721750"
+    "mandat_clos": true
   },
   "ROUSSEL FABRICE": {
     "groupe": "SOC",
@@ -1117,7 +1109,7 @@
     "departement": "Loire-Atlantique",
     "region": "Pays de la Loire",
     "circo": "5",
-    "an_id": "841327"
+    "mandat_clos": true
   },
   "TRYZNA NICOLAS": {
     "groupe": "DR",
@@ -1125,7 +1117,7 @@
     "departement": "Val-de-Marne",
     "region": "Ile-de-France",
     "circo": "7",
-    "an_id": "842121"
+    "mandat_clos": true
   },
   "MAUVIEUX KÉVIN": {
     "groupe": "RN",
@@ -1133,7 +1125,7 @@
     "departement": "Eure",
     "region": "Normandie",
     "circo": "3",
-    "an_id": "793616"
+    "mandat_clos": true
   },
   "GAROT GUILLAUME": {
     "groupe": "SOC",
@@ -1141,7 +1133,7 @@
     "departement": "Mayenne",
     "region": "Pays de la Loire",
     "circo": "1",
-    "an_id": "333285"
+    "mandat_clos": true
   },
   "FUCHS BRUNO": {
     "groupe": "Dem",
@@ -1149,7 +1141,7 @@
     "departement": "Haut-Rhin",
     "region": "Grand Est",
     "circo": "6",
-    "an_id": "722284"
+    "mandat_clos": true
   },
   "MARION CHRISTOPHE": {
     "groupe": "EPR",
@@ -1157,7 +1149,7 @@
     "departement": "Loir-et-Cher",
     "region": "Centre-Val de Loire",
     "circo": "3",
-    "an_id": "794206"
+    "mandat_clos": true
   },
   "GUMBS FRANTZ": {
     "groupe": "Dem",
@@ -1165,7 +1157,7 @@
     "departement": "Saint-Barthélemy et Saint-Martin",
     "region": "Saint-Barthélemy et Saint-Martin",
     "circo": "1",
-    "an_id": "795258"
+    "mandat_clos": true
   },
   "DELOGU SÉBASTIEN": {
     "groupe": "LFI-NFP",
@@ -1173,7 +1165,7 @@
     "departement": "Bouches-du-Rhône",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "7",
-    "an_id": "793464"
+    "mandat_clos": true
   },
   "BELLAMY BÉATRICE": {
     "groupe": "HOR",
@@ -1181,7 +1173,7 @@
     "departement": "Vendée",
     "region": "Pays de la Loire",
     "circo": "2",
-    "an_id": "795278"
+    "mandat_clos": true
   },
   "ROUAUX CLAUDIA": {
     "groupe": "SOC",
@@ -1189,7 +1181,7 @@
     "departement": "Ille-et-Vilaine",
     "region": "Bretagne",
     "circo": "3",
-    "an_id": "342196"
+    "mandat_clos": true
   },
   "FERRER SYLVIE": {
     "groupe": "LFI-NFP",
@@ -1197,7 +1189,7 @@
     "departement": "Hautes-Pyrénées",
     "region": "Occitanie",
     "circo": "1",
-    "an_id": "794870"
+    "mandat_clos": true
   },
   "DAVI HENDRIK": {
     "groupe": "EcoS",
@@ -1205,7 +1197,7 @@
     "departement": "Bouches-du-Rhône",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "5",
-    "an_id": "793452"
+    "mandat_clos": true
   },
   "CASTOR JEAN-VICTOR": {
     "groupe": "GDR",
@@ -1213,7 +1205,7 @@
     "departement": "Guyane",
     "region": "Guyane",
     "circo": "1",
-    "an_id": "795868"
+    "mandat_clos": true
   },
   "BERRIOS SYLVAIN": {
     "groupe": "HOR",
@@ -1221,7 +1213,7 @@
     "departement": "Val-de-Marne",
     "region": "Ile-de-France",
     "circo": "1",
-    "an_id": "687214"
+    "mandat_clos": true
   },
   "PROENÇA CHRISTOPHE": {
     "groupe": "SOC",
@@ -1229,7 +1221,7 @@
     "departement": "Lot",
     "region": "Occitanie",
     "circo": "2",
-    "an_id": "841367"
+    "mandat_clos": true
   },
   "TRAVERT STÉPHANE": {
     "groupe": "EPR",
@@ -1237,7 +1229,7 @@
     "departement": "Manche",
     "region": "Normandie",
     "circo": "3",
-    "an_id": "607395"
+    "mandat_clos": true
   },
   "MARTIN ALEXANDRA": {
     "groupe": "DR",
@@ -1245,7 +1237,7 @@
     "departement": "Alpes-Maritimes",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "8",
-    "an_id": "793342"
+    "mandat_clos": true
   },
   "NAEGELEN CHRISTOPHE": {
     "groupe": "LIOT",
@@ -1253,7 +1245,7 @@
     "departement": "Vosges",
     "region": "Grand Est",
     "circo": "3",
-    "an_id": "721486"
+    "mandat_clos": true
   },
   "HABIB DAVID": {
     "groupe": "LIOT",
@@ -1261,7 +1253,7 @@
     "departement": "Pyrénées-Atlantiques",
     "region": "Nouvelle-Aquitaine",
     "circo": "3",
-    "an_id": "1592"
+    "mandat_clos": true
   },
   "GIRARD DAMIEN": {
     "groupe": "EcoS",
@@ -1269,7 +1261,7 @@
     "departement": "Morbihan",
     "region": "Bretagne",
     "circo": "5",
-    "an_id": "841419"
+    "mandat_clos": true
   },
   "CERNON BÉRENGER": {
     "groupe": "LFI-NFP",
@@ -1277,7 +1269,7 @@
     "departement": "Essonne",
     "region": "Ile-de-France",
     "circo": "8",
-    "an_id": "842037"
+    "mandat_clos": true
   },
   "SAINT-PAUL LAETITIA": {
     "groupe": "HOR",
@@ -1285,7 +1277,7 @@
     "departement": "Maine-et-Loire",
     "region": "Pays de la Loire",
     "circo": "4",
-    "an_id": "720138"
+    "mandat_clos": true
   },
   "BARUSSEAU FABRICE": {
     "groupe": "SOC",
@@ -1293,7 +1285,7 @@
     "departement": "Charente-Maritime",
     "region": "Nouvelle-Aquitaine",
     "circo": "3",
-    "an_id": "840829"
+    "mandat_clos": true
   },
   "BAPTISTE CHRISTIAN": {
     "groupe": "SOC",
@@ -1301,7 +1293,7 @@
     "departement": "Guadeloupe",
     "region": "Guadeloupe",
     "circo": "2",
-    "an_id": "643143"
+    "mandat_clos": true
   },
   "RENAULT MATTHIAS": {
     "groupe": "RN",
@@ -1309,7 +1301,7 @@
     "departement": "Somme",
     "region": "Hauts-de-France",
     "circo": "3",
-    "an_id": "841955"
+    "mandat_clos": true
   },
   "JOURDAN CHANTAL": {
     "groupe": "SOC",
@@ -1317,7 +1309,7 @@
     "departement": "Orne",
     "region": "Normandie",
     "circo": "1",
-    "an_id": "643192"
+    "mandat_clos": true
   },
   "BAZIN-MALGRAS VALÉRIE": {
     "groupe": "DR",
@@ -1325,7 +1317,15 @@
     "departement": "Aube",
     "region": "Grand Est",
     "circo": "2",
-    "an_id": "718884"
+    "mandat_clos": true
+  },
+  "MARLE PIERRE": {
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants",
+    "departement": "Nord",
+    "region": "Hauts-de-France",
+    "circo": "14",
+    "mandat_clos": true
   },
   "GALZY STÉPHANIE": {
     "groupe": "RN",
@@ -1333,7 +1333,7 @@
     "departement": "Hérault",
     "region": "Occitanie",
     "circo": "5",
-    "an_id": "793892"
+    "mandat_clos": true
   },
   "MONNET YANNICK": {
     "groupe": "GDR",
@@ -1341,7 +1341,7 @@
     "departement": "Allier",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "1",
-    "an_id": "793174"
+    "mandat_clos": true
   },
   "MONGARDIEN CHRISTOPHE": {
     "groupe": "EPR",
@@ -1349,7 +1349,7 @@
     "departement": "Hauts-de-Seine",
     "region": "Ile-de-France",
     "circo": "13",
-    "an_id": "842147"
+    "mandat_clos": true
   },
   "THEVENOT PRISCA": {
     "groupe": "EPR",
@@ -1357,7 +1357,7 @@
     "departement": "Hauts-de-Seine",
     "region": "Ile-de-France",
     "circo": "8",
-    "an_id": "795920"
+    "mandat_clos": true
   },
   "JOSSO SANDRINE": {
     "groupe": "Dem",
@@ -1365,7 +1365,7 @@
     "departement": "Loire-Atlantique",
     "region": "Pays de la Loire",
     "circo": "7",
-    "an_id": "720038"
+    "mandat_clos": true
   },
   "FAVENNEC-BÉCOT YANNICK": {
     "groupe": "LIOT",
@@ -1373,7 +1373,7 @@
     "departement": "Mayenne",
     "region": "Pays de la Loire",
     "circo": "3",
-    "an_id": "267042"
+    "mandat_clos": true
   },
   "TAURINYA ANDRÉE": {
     "groupe": "LFI-NFP",
@@ -1381,7 +1381,7 @@
     "departement": "Loire",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "2",
-    "an_id": "794106"
+    "mandat_clos": true
   },
   "BESSE VÉRONIQUE": {
     "groupe": "NI",
@@ -1389,7 +1389,7 @@
     "departement": "Vendée",
     "region": "Pays de la Loire",
     "circo": "4",
-    "an_id": "309643"
+    "mandat_clos": true
   },
   "LE NABOUR CHRISTINE": {
     "groupe": "EPR",
@@ -1397,7 +1397,7 @@
     "departement": "Ille-et-Vilaine",
     "region": "Bretagne",
     "circo": "5",
-    "an_id": "719756"
+    "mandat_clos": true
   },
   "SITZENSTUHL CHARLES": {
     "groupe": "EPR",
@@ -1405,7 +1405,7 @@
     "departement": "Bas-Rhin",
     "region": "Grand Est",
     "circo": "5",
-    "an_id": "794802"
+    "mandat_clos": true
   },
   "PORTIER ALEXANDRE": {
     "groupe": "DR",
@@ -1413,7 +1413,7 @@
     "departement": "Rhône",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "9",
-    "an_id": "794994"
+    "mandat_clos": true
   },
   "IORDANOFF JÉRÉMIE": {
     "groupe": "EcoS",
@@ -1421,7 +1421,7 @@
     "departement": "Isère",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "5",
-    "an_id": "794022"
+    "mandat_clos": true
   },
   "PETIT MAUD": {
     "groupe": "Dem",
@@ -1429,7 +1429,7 @@
     "departement": "Val-de-Marne",
     "region": "Ile-de-France",
     "circo": "4",
-    "an_id": "721234"
+    "mandat_clos": true
   },
   "LAPORTE HÉLÈNE": {
     "groupe": "RN",
@@ -1437,7 +1437,7 @@
     "departement": "Lot-et-Garonne",
     "region": "Nouvelle-Aquitaine",
     "circo": "2",
-    "an_id": "794354"
+    "mandat_clos": true
   },
   "RIESTER FRANCK": {
     "groupe": "EPR",
@@ -1445,7 +1445,7 @@
     "departement": "Seine-et-Marne",
     "region": "Ile-de-France",
     "circo": "5",
-    "an_id": "335758"
+    "mandat_clos": true
   },
   "SIMION ARNAUD": {
     "groupe": "SOC",
@@ -1453,7 +1453,7 @@
     "departement": "Haute-Garonne",
     "region": "Occitanie",
     "circo": "6",
-    "an_id": "841091"
+    "mandat_clos": true
   },
   "PIRÈS BEAUNE CHRISTINE": {
     "groupe": "SOC",
@@ -1461,7 +1461,7 @@
     "departement": "Puy-de-Dôme",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "2",
-    "an_id": "608172"
+    "mandat_clos": true
   },
   "SAULIGNAC HERVÉ": {
     "groupe": "SOC",
@@ -1469,7 +1469,7 @@
     "departement": "Ardèche",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "1",
-    "an_id": "340343"
+    "mandat_clos": true
   },
   "GRENON DANIEL": {
     "groupe": "NI",
@@ -1477,7 +1477,7 @@
     "departement": "Yonne",
     "region": "Bourgogne-Franche-Comté",
     "circo": "1",
-    "an_id": "795540"
+    "mandat_clos": true
   },
   "BELHADDAD BELKHIR": {
     "groupe": "SOC",
@@ -1485,7 +1485,7 @@
     "departement": "Moselle",
     "region": "Grand Est",
     "circo": "1",
-    "an_id": "720362"
+    "mandat_clos": true
   },
   "COLOMBANI PAUL-ANDRÉ": {
     "groupe": "LIOT",
@@ -1493,7 +1493,7 @@
     "departement": "Corse-du-Sud",
     "region": "Corse",
     "circo": "2",
-    "an_id": "719286"
+    "mandat_clos": true
   },
   "SANTIAGO ISABELLE": {
     "groupe": "SOC",
@@ -1501,7 +1501,7 @@
     "departement": "Val-de-Marne",
     "region": "Ile-de-France",
     "circo": "9",
-    "an_id": "774960"
+    "mandat_clos": true
   },
   "LÉAUMENT ANTOINE": {
     "groupe": "LFI-NFP",
@@ -1509,7 +1509,7 @@
     "departement": "Essonne",
     "region": "Ile-de-France",
     "circo": "10",
-    "an_id": "795746"
+    "mandat_clos": true
   },
   "DUBRÉ-CHIRAT NICOLE": {
     "groupe": "EPR",
@@ -1517,7 +1517,7 @@
     "departement": "Maine-et-Loire",
     "region": "Pays de la Loire",
     "circo": "6",
-    "an_id": "720154"
+    "mandat_clos": true
   },
   "DELPECH JULIE": {
     "groupe": "EPR",
@@ -1525,7 +1525,7 @@
     "departement": "Sarthe",
     "region": "Pays de la Loire",
     "circo": "1",
-    "an_id": "794982"
+    "mandat_clos": true
   },
   "BONNECARRÈRE PHILIPPE": {
     "groupe": "NI",
@@ -1533,7 +1533,7 @@
     "departement": "Tarn",
     "region": "Occitanie",
     "circo": "1",
-    "an_id": "569"
+    "mandat_clos": true
   },
   "DUPARAY LIONEL": {
     "groupe": "DR",
@@ -1541,7 +1541,7 @@
     "departement": "Saône-et-Loire",
     "region": "Bourgogne-Franche-Comté",
     "circo": "5",
-    "an_id": "870009"
+    "mandat_clos": true
   },
   "GOULET FLORENCE": {
     "groupe": "RN",
@@ -1549,7 +1549,7 @@
     "departement": "Meuse",
     "region": "Grand Est",
     "circo": "2",
-    "an_id": "794418"
+    "mandat_clos": true
   },
   "LUCAS-LUNDY BENJAMIN": {
     "groupe": "EcoS",
@@ -1557,7 +1557,7 @@
     "departement": "Yvelines",
     "region": "Ile-de-France",
     "circo": "8",
-    "an_id": "795636"
+    "mandat_clos": true
   },
   "JOLIVET FRANÇOIS": {
     "groupe": "HOR",
@@ -1565,7 +1565,7 @@
     "departement": "Indre",
     "region": "Centre-Val de Loire",
     "circo": "1",
-    "an_id": "719778"
+    "mandat_clos": true
   },
   "BLANCHET CHRISTOPHE": {
     "groupe": "Dem",
@@ -1573,7 +1573,7 @@
     "departement": "Calvados",
     "region": "Normandie",
     "circo": "4",
-    "an_id": "719024"
+    "mandat_clos": true
   },
   "IBLED CATHERINE": {
     "groupe": "EPR",
@@ -1581,7 +1581,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "13",
-    "an_id": "795954"
+    "mandat_clos": true
   },
   "LE BOURGEOIS ROBERT": {
     "groupe": "RN",
@@ -1589,7 +1589,7 @@
     "departement": "Seine-Maritime",
     "region": "Normandie",
     "circo": "10",
-    "an_id": "841837"
+    "mandat_clos": true
   },
   "HABLOT STÉPHANE": {
     "groupe": "SOC",
@@ -1597,7 +1597,7 @@
     "departement": "Meurthe-et-Moselle",
     "region": "Grand Est",
     "circo": "2",
-    "an_id": "841471"
+    "mandat_clos": true
   },
   "VANNIER PAUL": {
     "groupe": "LFI-NFP",
@@ -1605,7 +1605,7 @@
     "departement": "Val-d'Oise",
     "region": "Ile-de-France",
     "circo": "5",
-    "an_id": "795596"
+    "mandat_clos": true
   },
   "BONNET SYLVIE": {
     "groupe": "DR",
@@ -1613,7 +1613,7 @@
     "departement": "Loire",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "4",
-    "an_id": "719968"
+    "mandat_clos": true
   },
   "VIOLLAND ANNE-CÉCILE": {
     "groupe": "HOR",
@@ -1621,7 +1621,7 @@
     "departement": "Haute-Savoie",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "5",
-    "an_id": "795026"
+    "mandat_clos": true
   },
   "HUWART HAROLD": {
     "groupe": "LIOT",
@@ -1629,7 +1629,7 @@
     "departement": "Eure-et-Loir",
     "region": "Centre-Val de Loire",
     "circo": "3",
-    "an_id": "841017"
+    "mandat_clos": true
   },
   "CARBONNEL PIERRE-HENRI": {
     "groupe": "UDR",
@@ -1637,7 +1637,7 @@
     "departement": "Tarn-et-Garonne",
     "region": "Occitanie",
     "circo": "1",
-    "an_id": "841973"
+    "mandat_clos": true
   },
   "BOUCARD IAN": {
     "groupe": "DR",
@@ -1645,7 +1645,7 @@
     "departement": "Territoire de Belfort",
     "region": "Bourgogne-Franche-Comté",
     "circo": "1",
-    "an_id": "721816"
+    "mandat_clos": true
   },
   "ENGRAND CHRISTINE": {
     "groupe": "NI",
@@ -1653,7 +1653,7 @@
     "departement": "Pas-de-Calais",
     "region": "Hauts-de-France",
     "circo": "6",
-    "an_id": "794718"
+    "mandat_clos": true
   },
   "CROIZIER LAURENT": {
     "groupe": "Dem",
@@ -1661,7 +1661,7 @@
     "departement": "Doubs",
     "region": "Bourgogne-Franche-Comté",
     "circo": "1",
-    "an_id": "793716"
+    "mandat_clos": true
   },
   "SOUDAIS ERSILIA": {
     "groupe": "LFI-NFP",
@@ -1669,7 +1669,7 @@
     "departement": "Seine-et-Marne",
     "region": "Ile-de-France",
     "circo": "7",
-    "an_id": "795466"
+    "mandat_clos": true
   },
   "AVIRAGNET JOËL": {
     "groupe": "SOC",
@@ -1677,7 +1677,7 @@
     "departement": "Haute-Garonne",
     "region": "Occitanie",
     "circo": "8",
-    "an_id": "642764"
+    "mandat_clos": true
   },
   "CECCOLI FRANÇOIS-XAVIER": {
     "groupe": "DR",
@@ -1685,7 +1685,7 @@
     "departement": "Haute-Corse",
     "region": "Corse",
     "circo": "2",
-    "an_id": "841047"
+    "mandat_clos": true
   },
   "TAILLÉ-POLIAN SOPHIE": {
     "groupe": "EcoS",
@@ -1693,7 +1693,7 @@
     "departement": "Val-de-Marne",
     "region": "Ile-de-France",
     "circo": "11",
-    "an_id": "736201"
+    "mandat_clos": true
   },
   "HOULIÉ SACHA": {
     "groupe": "SOC",
@@ -1701,7 +1701,7 @@
     "departement": "Vienne",
     "region": "Nouvelle-Aquitaine",
     "circo": "2",
-    "an_id": "722150"
+    "mandat_clos": true
   },
   "MARTINEAU ÉRIC": {
     "groupe": "Dem",
@@ -1709,7 +1709,7 @@
     "departement": "Sarthe",
     "region": "Pays de la Loire",
     "circo": "3",
-    "an_id": "795100"
+    "mandat_clos": true
   },
   "MARSAUD SANDRA": {
     "groupe": "EPR",
@@ -1717,7 +1717,7 @@
     "departement": "Charente",
     "region": "Nouvelle-Aquitaine",
     "circo": "2",
-    "an_id": "719080"
+    "mandat_clos": true
   },
   "LOTTIAUX PHILIPPE": {
     "groupe": "RN",
@@ -1725,7 +1725,7 @@
     "departement": "Var",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "4",
-    "an_id": "795974"
+    "mandat_clos": true
   },
   "FRUCHON ALIX": {
     "groupe": "DR",
@@ -1733,7 +1733,7 @@
     "departement": "Indre",
     "region": "Centre-Val de Loire",
     "circo": "2",
-    "an_id": "841151"
+    "mandat_clos": true
   },
   "FUGIT JEAN-LUC": {
     "groupe": "EPR",
@@ -1741,7 +1741,7 @@
     "departement": "Rhône",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "11",
-    "an_id": "722366"
+    "mandat_clos": true
   },
   "GODARD OCÉANE": {
     "groupe": "SOC",
@@ -1749,7 +1749,7 @@
     "departement": "Côte-d'Or",
     "region": "Bourgogne-Franche-Comté",
     "circo": "1",
-    "an_id": "840939"
+    "mandat_clos": true
   },
   "GENETET ANNE": {
     "groupe": "EPR",
@@ -1757,7 +1757,7 @@
     "departement": "Français établis hors de France",
     "region": "Français établis hors de France",
     "circo": "11",
-    "an_id": "721024"
+    "mandat_clos": true
   },
   "LE PEN MARINE": {
     "groupe": "RN",
@@ -1765,7 +1765,7 @@
     "departement": "Pas-de-Calais",
     "region": "Hauts-de-France",
     "circo": "11",
-    "an_id": "720614"
+    "mandat_clos": true
   },
   "FOURNIER CHARLES": {
     "groupe": "EcoS",
@@ -1773,7 +1773,7 @@
     "departement": "Indre-et-Loire",
     "region": "Centre-Val de Loire",
     "circo": "1",
-    "an_id": "793980"
+    "mandat_clos": true
   },
   "FÉGNÉ DENIS": {
     "groupe": "SOC",
@@ -1781,7 +1781,7 @@
     "departement": "Hautes-Pyrénées",
     "region": "Occitanie",
     "circo": "2",
-    "an_id": "841665"
+    "mandat_clos": true
   },
   "VALLETOUX FRÉDÉRIC": {
     "groupe": "HOR",
@@ -1789,7 +1789,7 @@
     "departement": "Seine-et-Marne",
     "region": "Ile-de-France",
     "circo": "2",
-    "an_id": "795350"
+    "mandat_clos": true
   },
   "MEIZONNET NICOLAS": {
     "groupe": "RN",
@@ -1797,7 +1797,7 @@
     "departement": "Gard",
     "region": "Occitanie",
     "circo": "2",
-    "an_id": "719436"
+    "mandat_clos": true
   },
   "TONUSSI ROMAIN": {
     "groupe": "RN",
@@ -1805,7 +1805,7 @@
     "departement": "Bouches-du-Rhône",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "8",
-    "an_id": "840781"
+    "mandat_clos": true
   },
   "BILONGO CARLOS MARTENS": {
     "groupe": "LFI-NFP",
@@ -1813,7 +1813,7 @@
     "departement": "Val-d'Oise",
     "region": "Ile-de-France",
     "circo": "8",
-    "an_id": "795616"
+    "mandat_clos": true
   },
   "NAILLET PHILIPPE": {
     "groupe": "SOC",
@@ -1821,7 +1821,7 @@
     "departement": "Réunion",
     "region": "Réunion",
     "circo": "1",
-    "an_id": "643157"
+    "mandat_clos": true
   },
   "MAILLARD SYLVAIN": {
     "groupe": "EPR",
@@ -1829,7 +1829,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "1",
-    "an_id": "717379"
+    "mandat_clos": true
   },
   "LE MEUR ANNAÏG": {
     "groupe": "EPR",
@@ -1837,7 +1837,7 @@
     "departement": "Finistère",
     "region": "Bretagne",
     "circo": "1",
-    "an_id": "719388"
+    "mandat_clos": true
   },
   "GOKEL JULIEN": {
     "groupe": "SOC",
@@ -1845,7 +1845,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "13",
-    "an_id": "841539"
+    "mandat_clos": true
   },
   "DE MAISTRE ÉLISABETH": {
     "groupe": "DR",
@@ -1853,7 +1853,7 @@
     "departement": "Hauts-de-Seine",
     "region": "Ile-de-France",
     "circo": "9",
-    "an_id": "842141"
+    "mandat_clos": true
   },
   "ISAAC-SIBILLE CYRILLE": {
     "groupe": "Dem",
@@ -1861,7 +1861,7 @@
     "departement": "Rhône",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "12",
-    "an_id": "722374"
+    "mandat_clos": true
   },
   "GARIN MARIE-CHARLOTTE": {
     "groupe": "EcoS",
@@ -1869,7 +1869,7 @@
     "departement": "Rhône",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "3",
-    "an_id": "795010"
+    "mandat_clos": true
   },
   "BLOCH MATTHIEU": {
     "groupe": "UDR",
@@ -1877,7 +1877,7 @@
     "departement": "Doubs",
     "region": "Bourgogne-Franche-Comté",
     "circo": "3",
-    "an_id": "840889"
+    "mandat_clos": true
   },
   "CAURE VINCENT": {
     "groupe": "EPR",
@@ -1885,7 +1885,7 @@
     "departement": "Français établis hors de France",
     "region": "Français établis hors de France",
     "circo": "3",
-    "an_id": "842311"
+    "mandat_clos": true
   },
   "PLASSARD CHRISTOPHE": {
     "groupe": "HOR",
@@ -1893,7 +1893,7 @@
     "departement": "Charente-Maritime",
     "region": "Nouvelle-Aquitaine",
     "circo": "5",
-    "an_id": "793572"
+    "mandat_clos": true
   },
   "POUSSIER-WINSBACK MARIE-AGNÈS": {
     "groupe": "HOR",
@@ -1901,7 +1901,7 @@
     "departement": "Seine-Maritime",
     "region": "Normandie",
     "circo": "9",
-    "an_id": "795270"
+    "mandat_clos": true
   },
   "CALIFER ELIE": {
     "groupe": "SOC",
@@ -1909,7 +1909,7 @@
     "departement": "Guadeloupe",
     "region": "Guadeloupe",
     "circo": "4",
-    "an_id": "795762"
+    "mandat_clos": true
   },
   "D'INTORNI CHRISTELLE": {
     "groupe": "UDR",
@@ -1917,7 +1917,7 @@
     "departement": "Alpes-Maritimes",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "5",
-    "an_id": "793322"
+    "mandat_clos": true
   },
   "BORDES PASCALE": {
     "groupe": "RN",
@@ -1925,7 +1925,7 @@
     "departement": "Gard",
     "region": "Occitanie",
     "circo": "3",
-    "an_id": "793844"
+    "mandat_clos": true
   },
   "NURY JÉRÔME": {
     "groupe": "DR",
@@ -1933,7 +1933,7 @@
     "departement": "Orne",
     "region": "Normandie",
     "circo": "3",
-    "an_id": "720644"
+    "mandat_clos": true
   },
   "BARTHÈS CHRISTOPHE": {
     "groupe": "RN",
@@ -1941,7 +1941,7 @@
     "departement": "Aude",
     "region": "Occitanie",
     "circo": "1",
-    "an_id": "793238"
+    "mandat_clos": true
   },
   "GRELIER JEAN-CARLES": {
     "groupe": "Dem",
@@ -1949,7 +1949,7 @@
     "departement": "Sarthe",
     "region": "Pays de la Loire",
     "circo": "5",
-    "an_id": "267318"
+    "mandat_clos": true
   },
   "LE PEIH NICOLE": {
     "groupe": "EPR",
@@ -1957,7 +1957,7 @@
     "departement": "Morbihan",
     "region": "Bretagne",
     "circo": "3",
-    "an_id": "720342"
+    "mandat_clos": true
   },
   "GILETTI FRANK": {
     "groupe": "RN",
@@ -1965,7 +1965,7 @@
     "departement": "Var",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "6",
-    "an_id": "796034"
+    "mandat_clos": true
   },
   "ATTAL GABRIEL": {
     "groupe": "EPR",
@@ -1973,7 +1973,7 @@
     "departement": "Hauts-de-Seine",
     "region": "Ile-de-France",
     "circo": "10",
-    "an_id": "722190"
+    "mandat_clos": true
   },
   "BRARD JEAN-MICHEL": {
     "groupe": "HOR",
@@ -1981,7 +1981,7 @@
     "departement": "Loire-Atlantique",
     "region": "Pays de la Loire",
     "circo": "9",
-    "an_id": "841339"
+    "mandat_clos": true
   },
   "PRIBETICH PIERRE": {
     "groupe": "SOC",
@@ -1989,7 +1989,7 @@
     "departement": "Côte-d'Or",
     "region": "Bourgogne-Franche-Comté",
     "circo": "3",
-    "an_id": "840955"
+    "mandat_clos": true
   },
   "DELANNOY SANDRA": {
     "groupe": "NI",
@@ -1997,7 +1997,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "3",
-    "an_id": "840119"
+    "mandat_clos": true
   },
   "DOGOR-SUCH SANDRINE": {
     "groupe": "RN",
@@ -2005,7 +2005,7 @@
     "departement": "Pyrénées-Orientales",
     "region": "Occitanie",
     "circo": "3",
-    "an_id": "794762"
+    "mandat_clos": true
   },
   "CORMIER-BOULIGEON FRANÇOIS": {
     "groupe": "EPR",
@@ -2013,7 +2013,7 @@
     "departement": "Cher",
     "region": "Centre-Val de Loire",
     "circo": "1",
-    "an_id": "719118"
+    "mandat_clos": true
   },
   "LUDMANN VÉRONIQUE": {
     "groupe": "HOR",
@@ -2021,7 +2021,7 @@
     "departement": "Oise",
     "region": "Hauts-de-France",
     "circo": "4",
-    "an_id": "794578"
+    "mandat_clos": true
   },
   "OZIOL NATHALIE": {
     "groupe": "LFI-NFP",
@@ -2029,7 +2029,7 @@
     "departement": "Hérault",
     "region": "Occitanie",
     "circo": "2",
-    "an_id": "793872"
+    "mandat_clos": true
   },
   "COGGIA NATHALIE": {
     "groupe": "EPR",
@@ -2037,7 +2037,7 @@
     "departement": "Français établis hors de France",
     "region": "Français établis hors de France",
     "circo": "5",
-    "an_id": "795402"
+    "mandat_clos": true
   },
   "BOURGEAUX JEAN-LUC": {
     "groupe": "DR",
@@ -2045,7 +2045,7 @@
     "departement": "Ille-et-Vilaine",
     "region": "Bretagne",
     "circo": "7",
-    "an_id": "342240"
+    "mandat_clos": true
   },
   "GONZALEZ JOSÉ": {
     "groupe": "RN",
@@ -2053,7 +2053,7 @@
     "departement": "Bouches-du-Rhône",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "10",
-    "an_id": "793362"
+    "mandat_clos": true
   },
   "RIVIÈRE JOSEPH": {
     "groupe": "RN",
@@ -2061,7 +2061,7 @@
     "departement": "Réunion",
     "region": "Réunion",
     "circo": "3",
-    "an_id": "842227"
+    "mandat_clos": true
   },
   "VIDAL ANNIE": {
     "groupe": "EPR",
@@ -2069,7 +2069,7 @@
     "departement": "Seine-Maritime",
     "region": "Normandie",
     "circo": "2",
-    "an_id": "722102"
+    "mandat_clos": true
   },
   "BATAILLE JEAN-PIERRE": {
     "groupe": "LIOT",
@@ -2077,7 +2077,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "15",
-    "an_id": "267763"
+    "mandat_clos": true
   },
   "GOUFFIER VALENTE GUILLAUME": {
     "groupe": "EPR",
@@ -2085,7 +2085,7 @@
     "departement": "Val-de-Marne",
     "region": "Ile-de-France",
     "circo": "6",
-    "an_id": "721296"
+    "mandat_clos": true
   },
   "PANTEL SOPHIE": {
     "groupe": "SOC",
@@ -2093,7 +2093,7 @@
     "departement": "Lozère",
     "region": "Occitanie",
     "circo": "1",
-    "an_id": "841381"
+    "mandat_clos": true
   },
   "LE COQ AURÉLIEN": {
     "groupe": "LFI-NFP",
@@ -2101,7 +2101,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "1",
-    "an_id": "841515"
+    "mandat_clos": true
   },
   "CIOTTI ÉRIC": {
     "groupe": "UDR",
@@ -2109,7 +2109,7 @@
     "departement": "Alpes-Maritimes",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "1",
-    "an_id": "330240"
+    "mandat_clos": true
   },
   "GRÉGOIRE EMMANUEL": {
     "groupe": "SOC",
@@ -2117,7 +2117,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "7",
-    "an_id": "840171"
+    "mandat_clos": true
   },
   "ARNAULT RAPHAËL": {
     "groupe": "LFI-NFP",
@@ -2125,7 +2125,7 @@
     "departement": "Vaucluse",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "1",
-    "an_id": "842105"
+    "mandat_clos": true
   },
   "COLIN-OESTERLÉ NATHALIE": {
     "groupe": "HOR",
@@ -2133,7 +2133,7 @@
     "departement": "Moselle",
     "region": "Grand Est",
     "circo": "3",
-    "an_id": "841431"
+    "mandat_clos": true
   },
   "BERNHARDT THÉO": {
     "groupe": "RN",
@@ -2141,7 +2141,7 @@
     "departement": "Bas-Rhin",
     "region": "Grand Est",
     "circo": "8",
-    "an_id": "841645"
+    "mandat_clos": true
   },
   "HADIZADEH AYDA": {
     "groupe": "SOC",
@@ -2149,7 +2149,7 @@
     "departement": "Val-d'Oise",
     "region": "Ile-de-France",
     "circo": "2",
-    "an_id": "842263"
+    "mandat_clos": true
   },
   "DRAGON NICOLAS": {
     "groupe": "RN",
@@ -2157,7 +2157,7 @@
     "departement": "Aisne",
     "region": "Hauts-de-France",
     "circo": "1",
-    "an_id": "793146"
+    "mandat_clos": true
   },
   "TERLIER JEAN": {
     "groupe": "EPR",
@@ -2165,7 +2165,7 @@
     "departement": "Tarn",
     "region": "Occitanie",
     "circo": "3",
-    "an_id": "721584"
+    "mandat_clos": true
   },
   "FAIT PHILIPPE": {
     "groupe": "HOR",
@@ -2173,7 +2173,7 @@
     "departement": "Pas-de-Calais",
     "region": "Hauts-de-France",
     "circo": "4",
-    "an_id": "794658"
+    "mandat_clos": true
   },
   "RANCOULE JULIEN": {
     "groupe": "RN",
@@ -2181,7 +2181,7 @@
     "departement": "Aude",
     "region": "Occitanie",
     "circo": "3",
-    "an_id": "793254"
+    "mandat_clos": true
   },
   "BAZIN THIBAULT": {
     "groupe": "DR",
@@ -2189,7 +2189,7 @@
     "departement": "Meurthe-et-Moselle",
     "region": "Grand Est",
     "circo": "4",
-    "an_id": "642847"
+    "mandat_clos": true
   },
   "TAITE JEAN-PIERRE": {
     "groupe": "DR",
@@ -2197,7 +2197,7 @@
     "departement": "Loire",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "6",
-    "an_id": "794178"
+    "mandat_clos": true
   },
   "BOULOUX MICKAËL": {
     "groupe": "SOC",
@@ -2205,7 +2205,7 @@
     "departement": "Ille-et-Vilaine",
     "region": "Bretagne",
     "circo": "8",
-    "an_id": "794094"
+    "mandat_clos": true
   },
   "AMRANI FARIDA": {
     "groupe": "LFI-NFP",
@@ -2213,7 +2213,7 @@
     "departement": "Essonne",
     "region": "Ile-de-France",
     "circo": "1",
-    "an_id": "795588"
+    "mandat_clos": true
   },
   "SAINT-PASTEUR SÉBASTIEN": {
     "groupe": "SOC",
@@ -2221,7 +2221,7 @@
     "departement": "Gironde",
     "region": "Nouvelle-Aquitaine",
     "circo": "7",
-    "an_id": "841243"
+    "mandat_clos": true
   },
   "FOUQUART EMMANUEL": {
     "groupe": "RN",
@@ -2229,7 +2229,7 @@
     "departement": "Bouches-du-Rhône",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "13",
-    "an_id": "840801"
+    "mandat_clos": true
   },
   "RATENON JEAN-HUGUES": {
     "groupe": "LFI-NFP",
@@ -2237,7 +2237,7 @@
     "departement": "Réunion",
     "region": "Réunion",
     "circo": "5",
-    "an_id": "721062"
+    "mandat_clos": true
   },
   "NOSBÉ SANDRINE": {
     "groupe": "LFI-NFP",
@@ -2245,7 +2245,7 @@
     "departement": "Isère",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "9",
-    "an_id": "841191"
+    "mandat_clos": true
   },
   "PIC ANNA": {
     "groupe": "SOC",
@@ -2253,7 +2253,7 @@
     "departement": "Manche",
     "region": "Normandie",
     "circo": "4",
-    "an_id": "794270"
+    "mandat_clos": true
   },
   "THIÉBAULT-MARTINEZ CÉLINE": {
     "groupe": "SOC",
@@ -2261,7 +2261,7 @@
     "departement": "Seine-et-Marne",
     "region": "Ile-de-France",
     "circo": "9",
-    "an_id": "841893"
+    "mandat_clos": true
   },
   "OBERTI JACQUES": {
     "groupe": "SOC",
@@ -2269,7 +2269,7 @@
     "departement": "Haute-Garonne",
     "region": "Occitanie",
     "circo": "10",
-    "an_id": "841107"
+    "mandat_clos": true
   },
   "LISO BRIGITTE": {
     "groupe": "EPR",
@@ -2277,7 +2277,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "4",
-    "an_id": "720446"
+    "mandat_clos": true
   },
   "CHAIX BERNARD": {
     "groupe": "UDR",
@@ -2285,7 +2285,7 @@
     "departement": "Alpes-Maritimes",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "3",
-    "an_id": "840701"
+    "mandat_clos": true
   },
   "LORHO MARIE-FRANCE": {
     "groupe": "RN",
@@ -2293,7 +2293,7 @@
     "departement": "Vaucluse",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "4",
-    "an_id": "721932"
+    "mandat_clos": true
   },
   "WAUQUIEZ LAURENT": {
     "groupe": "DR",
@@ -2301,7 +2301,7 @@
     "departement": "Haute-Loire",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "1",
-    "an_id": "267285"
+    "mandat_clos": true
   },
   "THIÉRIOT JEAN-LOUIS": {
     "groupe": "DR",
@@ -2309,7 +2309,7 @@
     "departement": "Seine-et-Marne",
     "region": "Ile-de-France",
     "circo": "3",
-    "an_id": "643089"
+    "mandat_clos": true
   },
   "JENFT PASCAL": {
     "groupe": "RN",
@@ -2317,7 +2317,7 @@
     "departement": "Moselle",
     "region": "Grand Est",
     "circo": "5",
-    "an_id": "841439"
+    "mandat_clos": true
   },
   "CAZENEUVE PIERRE": {
     "groupe": "EPR",
@@ -2325,7 +2325,7 @@
     "departement": "Hauts-de-Seine",
     "region": "Ile-de-France",
     "circo": "7",
-    "an_id": "795864"
+    "mandat_clos": true
   },
   "LUBET MARIE-PHILIPPE": {
     "groupe": "EPR",
@@ -2333,7 +2333,7 @@
     "departement": "Loiret",
     "region": "Centre-Val de Loire",
     "circo": "1",
-    "an_id": "879389"
+    "mandat_clos": true
   },
   "TURQUOIS NICOLAS": {
     "groupe": "Dem",
@@ -2341,7 +2341,7 @@
     "departement": "Vienne",
     "region": "Nouvelle-Aquitaine",
     "circo": "4",
-    "an_id": "722162"
+    "mandat_clos": true
   },
   "FALORNI OLIVIER": {
     "groupe": "Dem",
@@ -2349,7 +2349,7 @@
     "departement": "Charente-Maritime",
     "region": "Nouvelle-Aquitaine",
     "circo": "1",
-    "an_id": "605694"
+    "mandat_clos": true
   },
   "HAMELET MARINE": {
     "groupe": "RN",
@@ -2357,7 +2357,7 @@
     "departement": "Tarn-et-Garonne",
     "region": "Occitanie",
     "circo": "2",
-    "an_id": "795900"
+    "mandat_clos": true
   },
   "DE FLEURIAN MARC": {
     "groupe": "RN",
@@ -2365,7 +2365,7 @@
     "departement": "Pas-de-Calais",
     "region": "Hauts-de-France",
     "circo": "7",
-    "an_id": "841613"
+    "mandat_clos": true
   },
   "OLIVE KARL": {
     "groupe": "EPR",
@@ -2373,7 +2373,7 @@
     "departement": "Yvelines",
     "region": "Ile-de-France",
     "circo": "12",
-    "an_id": "795722"
+    "mandat_clos": true
   },
   "ALFANDARI HENRI": {
     "groupe": "HOR",
@@ -2381,7 +2381,7 @@
     "departement": "Indre-et-Loire",
     "region": "Centre-Val de Loire",
     "circo": "3",
-    "an_id": "793992"
+    "mandat_clos": true
   },
   "BOUROUAHA SOUMYA": {
     "groupe": "GDR",
@@ -2389,7 +2389,7 @@
     "departement": "Seine-Saint-Denis",
     "region": "Ile-de-France",
     "circo": "4",
-    "an_id": "720838"
+    "mandat_clos": true
   },
   "GRÉGOIRE OLIVIA": {
     "groupe": "EPR",
@@ -2397,7 +2397,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "12",
-    "an_id": "721764"
+    "mandat_clos": true
   },
   "BOULOGNE ANTHONY": {
     "groupe": "RN",
@@ -2405,7 +2405,7 @@
     "departement": "Meurthe-et-Moselle",
     "region": "Grand Est",
     "circo": "6",
-    "an_id": "841487"
+    "mandat_clos": true
   },
   "GIRARD CHRISTIAN": {
     "groupe": "RN",
@@ -2413,7 +2413,7 @@
     "departement": "Alpes-de-Haute-Provence",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "1",
-    "an_id": "793102"
+    "mandat_clos": true
   },
   "GUILLERM CAROLE": {
     "groupe": "Dem",
@@ -2421,7 +2421,7 @@
     "departement": "Hauts-de-Seine",
     "region": "Ile-de-France",
     "circo": "12",
-    "an_id": "721612"
+    "mandat_clos": true
   },
   "FRÉBAULT MOERANI": {
     "groupe": "EPR",
@@ -2429,7 +2429,7 @@
     "departement": "Polynésie Française",
     "region": "Polynésie française",
     "circo": "1",
-    "an_id": "840235"
+    "mandat_clos": true
   },
   "LE GAC DIDIER": {
     "groupe": "EPR",
@@ -2437,7 +2437,7 @@
     "departement": "Finistère",
     "region": "Bretagne",
     "circo": "3",
-    "an_id": "719404"
+    "mandat_clos": true
   },
   "GUSTAVE STEEVY": {
     "groupe": "EcoS",
@@ -2445,7 +2445,7 @@
     "departement": "Essonne",
     "region": "Ile-de-France",
     "circo": "3",
-    "an_id": "842013"
+    "mandat_clos": true
   },
   "METTE SOPHIE": {
     "groupe": "Dem",
@@ -2453,7 +2453,7 @@
     "departement": "Gironde",
     "region": "Nouvelle-Aquitaine",
     "circo": "9",
-    "an_id": "719640"
+    "mandat_clos": true
   },
   "BOUMERTIT IDIR": {
     "groupe": "LFI-NFP",
@@ -2461,7 +2461,7 @@
     "departement": "Rhône",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "14",
-    "an_id": "794938"
+    "mandat_clos": true
   },
   "CARRIÈRE SYLVAIN": {
     "groupe": "LFI-NFP",
@@ -2469,7 +2469,7 @@
     "departement": "Hérault",
     "region": "Occitanie",
     "circo": "8",
-    "an_id": "793912"
+    "mandat_clos": true
   },
   "RODWELL CHARLES": {
     "groupe": "EPR",
@@ -2477,7 +2477,7 @@
     "departement": "Yvelines",
     "region": "Ile-de-France",
     "circo": "1",
-    "an_id": "795528"
+    "mandat_clos": true
   },
   "TAUPIAC DAVID": {
     "groupe": "LIOT",
@@ -2485,7 +2485,7 @@
     "departement": "Gers",
     "region": "Occitanie",
     "circo": "2",
-    "an_id": "793796"
+    "mandat_clos": true
   },
   "ALLEGRET-PILOT ALEXANDRE": {
     "groupe": "UDR",
@@ -2493,7 +2493,7 @@
     "departement": "Gard",
     "region": "Occitanie",
     "circo": "5",
-    "an_id": "841067"
+    "mandat_clos": true
   },
   "COQUEREL ÉRIC": {
     "groupe": "LFI-NFP",
@@ -2501,7 +2501,7 @@
     "departement": "Seine-Saint-Denis",
     "region": "Ile-de-France",
     "circo": "1",
-    "an_id": "721202"
+    "mandat_clos": true
   },
   "VALLAUD BORIS": {
     "groupe": "SOC",
@@ -2509,7 +2509,7 @@
     "departement": "Landes",
     "region": "Nouvelle-Aquitaine",
     "circo": "3",
-    "an_id": "719930"
+    "mandat_clos": true
   },
   "ROLLAND VINCENT": {
     "groupe": "DR",
@@ -2517,7 +2517,7 @@
     "departement": "Savoie",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "2",
-    "an_id": "266808"
+    "mandat_clos": true
   },
   "THIERRY NICOLAS": {
     "groupe": "EcoS",
@@ -2525,7 +2525,7 @@
     "departement": "Gironde",
     "region": "Nouvelle-Aquitaine",
     "circo": "2",
-    "an_id": "793948"
+    "mandat_clos": true
   },
   "RAMBAUD STÉPHANE": {
     "groupe": "RN",
@@ -2533,7 +2533,7 @@
     "departement": "Var",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "3",
-    "an_id": "795966"
+    "mandat_clos": true
   },
   "MÉNACHÉ YAËL": {
     "groupe": "RN",
@@ -2541,7 +2541,7 @@
     "departement": "Somme",
     "region": "Hauts-de-France",
     "circo": "5",
-    "an_id": "795786"
+    "mandat_clos": true
   },
   "DALLOZ MARIE-CHRISTINE": {
     "groupe": "DR",
@@ -2549,7 +2549,7 @@
     "departement": "Jura",
     "region": "Bourgogne-Franche-Comté",
     "circo": "2",
-    "an_id": "332523"
+    "mandat_clos": true
   },
   "LIORET RENÉ": {
     "groupe": "RN",
@@ -2557,7 +2557,7 @@
     "departement": "Côte-d'Or",
     "region": "Bourgogne-Franche-Comté",
     "circo": "5",
-    "an_id": "840967"
+    "mandat_clos": true
   },
   "MARCHIO MATTHIEU": {
     "groupe": "RN",
@@ -2565,7 +2565,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "16",
-    "an_id": "794530"
+    "mandat_clos": true
   },
   "BATHO DELPHINE": {
     "groupe": "EcoS",
@@ -2573,7 +2573,7 @@
     "departement": "Deux-Sèvres",
     "region": "Nouvelle-Aquitaine",
     "circo": "2",
-    "an_id": "335999"
+    "mandat_clos": true
   },
   "THILLAYE SABINE": {
     "groupe": "Dem",
@@ -2581,7 +2581,7 @@
     "departement": "Indre-et-Loire",
     "region": "Centre-Val de Loire",
     "circo": "5",
-    "an_id": "719822"
+    "mandat_clos": true
   },
   "REGOL SANDRA": {
     "groupe": "EcoS",
@@ -2589,7 +2589,7 @@
     "departement": "Bas-Rhin",
     "region": "Grand Est",
     "circo": "1",
-    "an_id": "794778"
+    "mandat_clos": true
   },
   "KERVRAN LOÏC": {
     "groupe": "HOR",
@@ -2597,7 +2597,7 @@
     "departement": "Cher",
     "region": "Centre-Val de Loire",
     "circo": "3",
-    "an_id": "719052"
+    "mandat_clos": true
   },
   "DUFOUR ALMA": {
     "groupe": "LFI-NFP",
@@ -2605,7 +2605,7 @@
     "departement": "Seine-Maritime",
     "region": "Normandie",
     "circo": "4",
-    "an_id": "795200"
+    "mandat_clos": true
   },
   "MELCHIOR GRAZIELLA": {
     "groupe": "EPR",
@@ -2613,7 +2613,7 @@
     "departement": "Finistère",
     "region": "Bretagne",
     "circo": "5",
-    "an_id": "719338"
+    "mandat_clos": true
   },
   "LAVALETTE LAURE": {
     "groupe": "RN",
@@ -2621,7 +2621,7 @@
     "departement": "Var",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "2",
-    "an_id": "795912"
+    "mandat_clos": true
   },
   "DIRX BENJAMIN": {
     "groupe": "EPR",
@@ -2629,7 +2629,7 @@
     "departement": "Saône-et-Loire",
     "region": "Bourgogne-Franche-Comté",
     "circo": "1",
-    "an_id": "722382"
+    "mandat_clos": true
   },
   "VALENTIN ANTOINE": {
     "groupe": "UDR",
@@ -2637,7 +2637,7 @@
     "departement": "Haute-Savoie",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "3",
-    "an_id": "878242"
+    "mandat_clos": true
   },
   "ROUSSEAU SANDRINE": {
     "groupe": "EcoS",
@@ -2645,7 +2645,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "9",
-    "an_id": "795076"
+    "mandat_clos": true
   },
   "RUNEL SANDRINE": {
     "groupe": "SOC",
@@ -2653,7 +2653,7 @@
     "departement": "Rhône",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "4",
-    "an_id": "841717"
+    "mandat_clos": true
   },
   "POLLET LISETTE": {
     "groupe": "RN",
@@ -2661,7 +2661,7 @@
     "departement": "Drôme",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "2",
-    "an_id": "793656"
+    "mandat_clos": true
   },
   "PETIT FRÉDÉRIC": {
     "groupe": "Dem",
@@ -2669,7 +2669,7 @@
     "departement": "Français établis hors de France",
     "region": "Français établis hors de France",
     "circo": "7",
-    "an_id": "721182"
+    "mandat_clos": true
   },
   "PIRON BÉATRICE": {
     "groupe": "HOR",
@@ -2677,7 +2677,7 @@
     "departement": "Yvelines",
     "region": "Ile-de-France",
     "circo": "3",
-    "an_id": "721844"
+    "mandat_clos": true
   },
   "KLINKERT BRIGITTE": {
     "groupe": "EPR",
@@ -2685,7 +2685,7 @@
     "departement": "Haut-Rhin",
     "region": "Grand Est",
     "circo": "1",
-    "an_id": "643184"
+    "mandat_clos": true
   },
   "BAMANA ANCHYA": {
     "groupe": "RN",
@@ -2693,7 +2693,7 @@
     "departement": "Mayotte",
     "region": "Mayotte",
     "circo": "2",
-    "an_id": "842279"
+    "mandat_clos": true
   },
   "BEAURAIN JOSÉ": {
     "groupe": "RN",
@@ -2701,7 +2701,7 @@
     "departement": "Aisne",
     "region": "Hauts-de-France",
     "circo": "4",
-    "an_id": "793158"
+    "mandat_clos": true
   },
   "CLOUET HADRIEN": {
     "groupe": "LFI-NFP",
@@ -2709,7 +2709,7 @@
     "departement": "Haute-Garonne",
     "region": "Occitanie",
     "circo": "1",
-    "an_id": "793736"
+    "mandat_clos": true
   },
   "ALEXANDRE LAURENT": {
     "groupe": "LFI-NFP",
@@ -2717,7 +2717,7 @@
     "departement": "Aveyron",
     "region": "Occitanie",
     "circo": "2",
-    "an_id": "793262"
+    "mandat_clos": true
   },
   "LACHAUD BASTIEN": {
     "groupe": "LFI-NFP",
@@ -2725,7 +2725,7 @@
     "departement": "Seine-Saint-Denis",
     "region": "Ile-de-France",
     "circo": "6",
-    "an_id": "720846"
+    "mandat_clos": true
   },
   "ESKENAZI ROMAIN": {
     "groupe": "SOC",
@@ -2733,7 +2733,7 @@
     "departement": "Val-d'Oise",
     "region": "Ile-de-France",
     "circo": "7",
-    "an_id": "842195"
+    "mandat_clos": true
   },
   "COULOMME JEAN-FRANÇOIS": {
     "groupe": "LFI-NFP",
@@ -2741,7 +2741,7 @@
     "departement": "Savoie",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "4",
-    "an_id": "795136"
+    "mandat_clos": true
   },
   "DAVID ALAIN": {
     "groupe": "SOC",
@@ -2749,7 +2749,7 @@
     "departement": "Gironde",
     "region": "Nouvelle-Aquitaine",
     "circo": "4",
-    "an_id": "1008"
+    "mandat_clos": true
   },
   "DE PÉLICHY CONSTANCE": {
     "groupe": "LIOT",
@@ -2757,7 +2757,7 @@
     "departement": "Loiret",
     "region": "Centre-Val de Loire",
     "circo": "3",
-    "an_id": "841359"
+    "mandat_clos": true
   },
   "BERVILLE HERVÉ": {
     "groupe": "EPR",
@@ -2765,7 +2765,7 @@
     "departement": "Côtes-d'Armor",
     "region": "Bretagne",
     "circo": "2",
-    "an_id": "719218"
+    "mandat_clos": true
   },
   "CHENU SÉBASTIEN": {
     "groupe": "RN",
@@ -2773,7 +2773,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "19",
-    "an_id": "720468"
+    "mandat_clos": true
   },
   "SOTHER THIERRY": {
     "groupe": "SOC",
@@ -2781,7 +2781,7 @@
     "departement": "Bas-Rhin",
     "region": "Grand Est",
     "circo": "3",
-    "an_id": "841681"
+    "mandat_clos": true
   },
   "MEUNIER FRÉDÉRIQUE": {
     "groupe": "DR",
@@ -2789,7 +2789,7 @@
     "departement": "Corrèze",
     "region": "Nouvelle-Aquitaine",
     "circo": "2",
-    "an_id": "719272"
+    "mandat_clos": true
   },
   "KERBRAT ANDY": {
     "groupe": "LFI-NFP",
@@ -2797,7 +2797,7 @@
     "departement": "Loire-Atlantique",
     "region": "Pays de la Loire",
     "circo": "2",
-    "an_id": "794130"
+    "mandat_clos": true
   },
   "BAUBRY ROMAIN": {
     "groupe": "RN",
@@ -2805,7 +2805,7 @@
     "departement": "Bouches-du-Rhône",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "15",
-    "an_id": "793374"
+    "mandat_clos": true
   },
   "GAILLARD PERCEVAL": {
     "groupe": "LFI-NFP",
@@ -2813,7 +2813,7 @@
     "departement": "Réunion",
     "region": "Réunion",
     "circo": "7",
-    "an_id": "796070"
+    "mandat_clos": true
   },
   "MARTIN PATRICE": {
     "groupe": "RN",
@@ -2821,7 +2821,7 @@
     "departement": "Seine-Maritime",
     "region": "Normandie",
     "circo": "6",
-    "an_id": "841825"
+    "mandat_clos": true
   },
   "TANGUY LILIANA": {
     "groupe": "EPR",
@@ -2829,7 +2829,7 @@
     "departement": "Finistère",
     "region": "Bretagne",
     "circo": "7",
-    "an_id": "719550"
+    "mandat_clos": true
   },
   "SABATOU ALEXANDRE": {
     "groupe": "RN",
@@ -2837,7 +2837,7 @@
     "departement": "Oise",
     "region": "Hauts-de-France",
     "circo": "3",
-    "an_id": "794570"
+    "mandat_clos": true
   },
   "BRUN FABRICE": {
     "groupe": "DR",
@@ -2845,7 +2845,7 @@
     "departement": "Ardèche",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "3",
-    "an_id": "718838"
+    "mandat_clos": true
   },
   "PANOSYAN-BOUVET ASTRID": {
     "groupe": "EPR",
@@ -2853,7 +2853,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "4",
-    "an_id": "795050"
+    "mandat_clos": true
   },
   "DUTREMBLE AURÉLIEN": {
     "groupe": "RN",
@@ -2861,7 +2861,7 @@
     "departement": "Saône-et-Loire",
     "region": "Bourgogne-Franche-Comté",
     "circo": "3",
-    "an_id": "841761"
+    "mandat_clos": true
   },
   "MILLER LAURE": {
     "groupe": "EPR",
@@ -2869,7 +2869,7 @@
     "departement": "Marne",
     "region": "Grand Est",
     "circo": "2",
-    "an_id": "817203"
+    "mandat_clos": true
   },
   "DAUBIÉ ROMAIN": {
     "groupe": "Dem",
@@ -2877,7 +2877,7 @@
     "departement": "Ain",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "2",
-    "an_id": "793122"
+    "mandat_clos": true
   },
   "CARON AYMERIC": {
     "groupe": "LFI-NFP",
@@ -2885,7 +2885,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "18",
-    "an_id": "796090"
+    "mandat_clos": true
   },
   "HERBILLON MICHEL": {
     "groupe": "DR",
@@ -2893,7 +2893,7 @@
     "departement": "Val-de-Marne",
     "region": "Ile-de-France",
     "circo": "8",
-    "an_id": "1630"
+    "mandat_clos": true
   },
   "BENBRAHIM KARIM": {
     "groupe": "SOC",
@@ -2901,7 +2901,7 @@
     "departement": "Loire-Atlantique",
     "region": "Pays de la Loire",
     "circo": "1",
-    "an_id": "841315"
+    "mandat_clos": true
   },
   "AMARD GABRIEL": {
     "groupe": "LFI-NFP",
@@ -2909,7 +2909,7 @@
     "departement": "Rhône",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "6",
-    "an_id": "794906"
+    "mandat_clos": true
   },
   "MONNIER THIBAUT": {
     "groupe": "RN",
@@ -2917,7 +2917,7 @@
     "departement": "Drôme",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "4",
-    "an_id": "840915"
+    "mandat_clos": true
   },
   "RAUCH ISABELLE": {
     "groupe": "HOR",
@@ -2925,7 +2925,7 @@
     "departement": "Moselle",
     "region": "Grand Est",
     "circo": "9",
-    "an_id": "720552"
+    "mandat_clos": true
   },
   "BEN CHEIKH KARIM": {
     "groupe": "EcoS",
@@ -2933,7 +2933,7 @@
     "departement": "Français établis hors de France",
     "region": "Français établis hors de France",
     "circo": "9",
-    "an_id": "795454"
+    "mandat_clos": true
   },
   "PFEFFER KÉVIN": {
     "groupe": "RN",
@@ -2941,7 +2941,7 @@
     "departement": "Moselle",
     "region": "Grand Est",
     "circo": "6",
-    "an_id": "794582"
+    "mandat_clos": true
   },
   "LEMAIRE DIDIER": {
     "groupe": "HOR",
@@ -2949,7 +2949,7 @@
     "departement": "Haut-Rhin",
     "region": "Grand Est",
     "circo": "3",
-    "an_id": "794838"
+    "mandat_clos": true
   },
   "REID ARBELOT MEREANA": {
     "groupe": "GDR",
@@ -2957,7 +2957,7 @@
     "departement": "Polynésie Française",
     "region": "Polynésie française",
     "circo": "3",
-    "an_id": "795240"
+    "mandat_clos": true
   },
   "FROGER MARTINE": {
     "groupe": "SOC",
@@ -2965,7 +2965,7 @@
     "departement": "Ariège",
     "region": "Occitanie",
     "circo": "1",
-    "an_id": "822617"
+    "mandat_clos": true
   },
   "PARMENTIER CAROLINE": {
     "groupe": "RN",
@@ -2973,7 +2973,7 @@
     "departement": "Pas-de-Calais",
     "region": "Hauts-de-France",
     "circo": "9",
-    "an_id": "794670"
+    "mandat_clos": true
   },
   "GRISETI MONIQUE": {
     "groupe": "RN",
@@ -2981,7 +2981,7 @@
     "departement": "Bouches-du-Rhône",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "1",
-    "an_id": "840757"
+    "mandat_clos": true
   },
   "NADEAU MARCELLIN": {
     "groupe": "GDR",
@@ -2989,7 +2989,7 @@
     "departement": "Martinique",
     "region": "Martinique",
     "circo": "2",
-    "an_id": "795820"
+    "mandat_clos": true
   },
   "GÉRARD FÉLICIE": {
     "groupe": "HOR",
@@ -2997,7 +2997,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "7",
-    "an_id": "794470"
+    "mandat_clos": true
   },
   "CORBIÈRE ALEXIS": {
     "groupe": "EcoS",
@@ -3005,7 +3005,7 @@
     "departement": "Seine-Saint-Denis",
     "region": "Ile-de-France",
     "circo": "7",
-    "an_id": "721210"
+    "mandat_clos": true
   },
   "BROSSE ANTHONY": {
     "groupe": "EPR",
@@ -3013,7 +3013,7 @@
     "departement": "Loiret",
     "region": "Centre-Val de Loire",
     "circo": "5",
-    "an_id": "794330"
+    "mandat_clos": true
   },
   "LEPVRAUD MURIELLE": {
     "groupe": "LFI-NFP",
@@ -3021,7 +3021,7 @@
     "departement": "Côtes-d'Armor",
     "region": "Bretagne",
     "circo": "4",
-    "an_id": "793532"
+    "mandat_clos": true
   },
   "BOLO PHILIPPE": {
     "groupe": "Dem",
@@ -3029,7 +3029,7 @@
     "departement": "Maine-et-Loire",
     "region": "Pays de la Loire",
     "circo": "7",
-    "an_id": "720162"
+    "mandat_clos": true
   },
   "ALLEMAND MARIE-JOSÉ": {
     "groupe": "SOC",
@@ -3037,7 +3037,7 @@
     "departement": "Hautes-Alpes",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "1",
-    "an_id": "840665"
+    "mandat_clos": true
   },
   "MEUNIER MANON": {
     "groupe": "LFI-NFP",
@@ -3045,7 +3045,7 @@
     "departement": "Haute-Vienne",
     "region": "Nouvelle-Aquitaine",
     "circo": "3",
-    "an_id": "795482"
+    "mandat_clos": true
   },
   "MIDY PAUL": {
     "groupe": "EPR",
@@ -3053,7 +3053,7 @@
     "departement": "Essonne",
     "region": "Ile-de-France",
     "circo": "5",
-    "an_id": "795664"
+    "mandat_clos": true
   },
   "FELD MATHILDE": {
     "groupe": "LFI-NFP",
@@ -3061,7 +3061,7 @@
     "departement": "Gironde",
     "region": "Nouvelle-Aquitaine",
     "circo": "12",
-    "an_id": "841251"
+    "mandat_clos": true
   },
   "BRUNEAU JOËL": {
     "groupe": "LIOT",
@@ -3069,7 +3069,7 @@
     "departement": "Calvados",
     "region": "Normandie",
     "circo": "1",
-    "an_id": "840817"
+    "mandat_clos": true
   },
   "LE GALL ARNAUD": {
     "groupe": "LFI-NFP",
@@ -3077,7 +3077,7 @@
     "departement": "Val-d'Oise",
     "region": "Ile-de-France",
     "circo": "9",
-    "an_id": "795672"
+    "mandat_clos": true
   },
   "FERRACCI MARC": {
     "groupe": "EPR",
@@ -3085,7 +3085,7 @@
     "departement": "Français établis hors de France",
     "region": "Français établis hors de France",
     "circo": "6",
-    "an_id": "795884"
+    "mandat_clos": true
   },
   "VOS FRÉDÉRIC-PIERRE": {
     "groupe": "RN",
@@ -3093,7 +3093,7 @@
     "departement": "Oise",
     "region": "Hauts-de-France",
     "circo": "5",
-    "an_id": "841575"
+    "mandat_clos": true
   },
   "CORDIER PIERRE": {
     "groupe": "DR",
@@ -3101,7 +3101,7 @@
     "departement": "Ardennes",
     "region": "Grand Est",
     "circo": "2",
-    "an_id": "718850"
+    "mandat_clos": true
   },
   "BORNE ÉLISABETH": {
     "groupe": "EPR",
@@ -3109,7 +3109,7 @@
     "departement": "Calvados",
     "region": "Normandie",
     "circo": "6",
-    "an_id": "717161"
+    "mandat_clos": true
   },
   "MAGNIER LISE": {
     "groupe": "HOR",
@@ -3117,7 +3117,7 @@
     "departement": "Marne",
     "region": "Grand Est",
     "circo": "4",
-    "an_id": "720230"
+    "mandat_clos": true
   },
   "ROUMÉGAS JEAN-LOUIS": {
     "groupe": "EcoS",
@@ -3125,7 +3125,7 @@
     "departement": "Hérault",
     "region": "Occitanie",
     "circo": "1",
-    "an_id": "606545"
+    "mandat_clos": true
   },
   "BUISSON JÉRÔME": {
     "groupe": "RN",
@@ -3133,7 +3133,7 @@
     "departement": "Ain",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "4",
-    "an_id": "793134"
+    "mandat_clos": true
   },
   "SEBAIHI SABRINA": {
     "groupe": "EcoS",
@@ -3141,7 +3141,7 @@
     "departement": "Hauts-de-Seine",
     "region": "Ile-de-France",
     "circo": "4",
-    "an_id": "795808"
+    "mandat_clos": true
   },
   "LAERNOES JULIE": {
     "groupe": "EcoS",
@@ -3149,7 +3149,7 @@
     "departement": "Loire-Atlantique",
     "region": "Pays de la Loire",
     "circo": "4",
-    "an_id": "794146"
+    "mandat_clos": true
   },
   "GERY JONATHAN": {
     "groupe": "RN",
@@ -3157,7 +3157,7 @@
     "departement": "Rhône",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "8",
-    "an_id": "841737"
+    "mandat_clos": true
   },
   "GUIBERT JULIEN": {
     "groupe": "RN",
@@ -3165,7 +3165,7 @@
     "departement": "Nièvre",
     "region": "Bourgogne-Franche-Comté",
     "circo": "2",
-    "an_id": "841451"
+    "mandat_clos": true
   },
   "CHUDEAU ROGER": {
     "groupe": "RN",
@@ -3173,7 +3173,7 @@
     "departement": "Loir-et-Cher",
     "region": "Centre-Val de Loire",
     "circo": "2",
-    "an_id": "794198"
+    "mandat_clos": true
   },
   "TJIBAOU EMMANUEL": {
     "groupe": "GDR",
@@ -3181,7 +3181,7 @@
     "departement": "Nouvelle-Calédonie",
     "region": "Nouvelle-Calédonie",
     "circo": "2",
-    "an_id": "842299"
+    "mandat_clos": true
   },
   "BOMPARD MANUEL": {
     "groupe": "LFI-NFP",
@@ -3189,7 +3189,7 @@
     "departement": "Bouches-du-Rhône",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "4",
-    "an_id": "793444"
+    "mandat_clos": true
   },
   "LATOMBE PHILIPPE": {
     "groupe": "Dem",
@@ -3197,7 +3197,7 @@
     "departement": "Vendée",
     "region": "Pays de la Loire",
     "circo": "1",
-    "an_id": "721984"
+    "mandat_clos": true
   },
   "LAHAIS TRISTAN": {
     "groupe": "EcoS",
@@ -3205,7 +3205,7 @@
     "departement": "Ille-et-Vilaine",
     "region": "Bretagne",
     "circo": "2",
-    "an_id": "841223"
+    "mandat_clos": true
   },
   "KASBARIAN GUILLAUME": {
     "groupe": "EPR",
@@ -3213,7 +3213,7 @@
     "departement": "Eure-et-Loir",
     "region": "Centre-Val de Loire",
     "circo": "1",
-    "an_id": "719372"
+    "mandat_clos": true
   },
   "DUFAU PEIO": {
     "groupe": "SOC",
@@ -3221,7 +3221,7 @@
     "departement": "Pyrénées-Atlantiques",
     "region": "Nouvelle-Aquitaine",
     "circo": "6",
-    "an_id": "841633"
+    "mandat_clos": true
   },
   "LELOUIS GISÈLE": {
     "groupe": "RN",
@@ -3229,7 +3229,7 @@
     "departement": "Bouches-du-Rhône",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "3",
-    "an_id": "793290"
+    "mandat_clos": true
   },
   "SPILLEBOUT VIOLETTE": {
     "groupe": "EPR",
@@ -3237,7 +3237,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "9",
-    "an_id": "794486"
+    "mandat_clos": true
   },
   "CHATELAIN CYRIELLE": {
     "groupe": "EcoS",
@@ -3245,7 +3245,7 @@
     "departement": "Isère",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "2",
-    "an_id": "794008"
+    "mandat_clos": true
   },
   "LEGAVRE JÉRÔME": {
     "groupe": "LFI-NFP",
@@ -3253,7 +3253,7 @@
     "departement": "Seine-Saint-Denis",
     "region": "Ile-de-France",
     "circo": "12",
-    "an_id": "795298"
+    "mandat_clos": true
   },
   "PRADIÉ AURÉLIEN": {
     "groupe": "NI",
@@ -3261,7 +3261,7 @@
     "departement": "Lot",
     "region": "Occitanie",
     "circo": "1",
-    "an_id": "720100"
+    "mandat_clos": true
   },
   "BOCCALETTI FRÉDÉRIC": {
     "groupe": "RN",
@@ -3269,7 +3269,7 @@
     "departement": "Var",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "7",
-    "an_id": "796042"
+    "mandat_clos": true
   },
   "SORRE BERTRAND": {
     "groupe": "EPR",
@@ -3277,7 +3277,7 @@
     "departement": "Manche",
     "region": "Normandie",
     "circo": "2",
-    "an_id": "720190"
+    "mandat_clos": true
   },
   "PAUGET ÉRIC": {
     "groupe": "DR",
@@ -3285,7 +3285,7 @@
     "departement": "Alpes-Maritimes",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "7",
-    "an_id": "718784"
+    "mandat_clos": true
   },
   "DUSSAUSAYE GAËTAN": {
     "groupe": "RN",
@@ -3293,7 +3293,7 @@
     "departement": "Vosges",
     "region": "Grand Est",
     "circo": "2",
-    "an_id": "842073"
+    "mandat_clos": true
   },
   "MOLAC PAUL": {
     "groupe": "LIOT",
@@ -3301,7 +3301,7 @@
     "departement": "Morbihan",
     "region": "Bretagne",
     "circo": "4",
-    "an_id": "607619"
+    "mandat_clos": true
   },
   "ODOUL JULIEN": {
     "groupe": "RN",
@@ -3309,7 +3309,7 @@
     "departement": "Yonne",
     "region": "Bourgogne-Franche-Comté",
     "circo": "3",
-    "an_id": "795552"
+    "mandat_clos": true
   },
   "LEJEUNE CLAIRE": {
     "groupe": "LFI-NFP",
@@ -3317,7 +3317,7 @@
     "departement": "Essonne",
     "region": "Ile-de-France",
     "circo": "7",
-    "an_id": "842029"
+    "mandat_clos": true
   },
   "BLIN ANNE-LAURE": {
     "groupe": "DR",
@@ -3325,7 +3325,7 @@
     "departement": "Maine-et-Loire",
     "region": "Pays de la Loire",
     "circo": "3",
-    "an_id": "774954"
+    "mandat_clos": true
   },
   "GIVERNET OLGA": {
     "groupe": "EPR",
@@ -3333,7 +3333,7 @@
     "departement": "Ain",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "3",
-    "an_id": "718674"
+    "mandat_clos": true
   },
   "MARCANGELI LAURENT": {
     "groupe": "HOR",
@@ -3341,7 +3341,7 @@
     "departement": "Corse-du-Sud",
     "region": "Corse",
     "circo": "1",
-    "an_id": "605782"
+    "mandat_clos": true
   },
   "HAMDANE ZAHIA": {
     "groupe": "LFI-NFP",
@@ -3349,7 +3349,7 @@
     "departement": "Somme",
     "region": "Hauts-de-France",
     "circo": "2",
-    "an_id": "841947"
+    "mandat_clos": true
   },
   "BENTZ CHRISTOPHE": {
     "groupe": "RN",
@@ -3357,7 +3357,7 @@
     "departement": "Haute-Marne",
     "region": "Grand Est",
     "circo": "1",
-    "an_id": "794434"
+    "mandat_clos": true
   },
   "BRAUN-PIVET YAËL": {
     "groupe": "EPR",
@@ -3365,7 +3365,7 @@
     "departement": "Yvelines",
     "region": "Ile-de-France",
     "circo": "5",
-    "an_id": "721908"
+    "mandat_clos": true
   },
   "BOUQUIN MANON": {
     "groupe": "RN",
@@ -3373,7 +3373,7 @@
     "departement": "Hérault",
     "region": "Occitanie",
     "circo": "4",
-    "an_id": "841131"
+    "mandat_clos": true
   },
   "DIVE JULIEN": {
     "groupe": "DR",
@@ -3381,7 +3381,7 @@
     "departement": "Aisne",
     "region": "Hauts-de-France",
     "circo": "2",
-    "an_id": "712015"
+    "mandat_clos": true
   },
   "PADEY DIDIER": {
     "groupe": "Dem",
@@ -3389,7 +3389,7 @@
     "departement": "Savoie",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "1",
-    "an_id": "795124"
+    "mandat_clos": true
   },
   "LE GRIP CONSTANCE": {
     "groupe": "EPR",
@@ -3397,7 +3397,7 @@
     "departement": "Hauts-de-Seine",
     "region": "Ile-de-France",
     "circo": "6",
-    "an_id": "345722"
+    "mandat_clos": true
   },
   "BANNIER GÉRALDINE": {
     "groupe": "Dem",
@@ -3405,7 +3405,7 @@
     "departement": "Mayenne",
     "region": "Pays de la Loire",
     "circo": "2",
-    "an_id": "720256"
+    "mandat_clos": true
   },
   "VIGNON CORINNE": {
     "groupe": "EPR",
@@ -3413,7 +3413,7 @@
     "departement": "Haute-Garonne",
     "region": "Occitanie",
     "circo": "3",
-    "an_id": "719512"
+    "mandat_clos": true
   },
   "ABOMANGOLI NADÈGE": {
     "groupe": "LFI-NFP",
@@ -3421,7 +3421,7 @@
     "departement": "Seine-Saint-Denis",
     "region": "Ile-de-France",
     "circo": "10",
-    "an_id": "795228"
+    "mandat_clos": true
   },
   "COURBON PIERRICK": {
     "groupe": "SOC",
@@ -3429,7 +3429,7 @@
     "departement": "Loire",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "1",
-    "an_id": "841295"
+    "mandat_clos": true
   },
   "HOUSSIN TIMOTHÉE": {
     "groupe": "RN",
@@ -3437,7 +3437,7 @@
     "departement": "Eure",
     "region": "Normandie",
     "circo": "5",
-    "an_id": "793632"
+    "mandat_clos": true
   },
   "BUCHOU STÉPHANE": {
     "groupe": "EPR",
@@ -3445,7 +3445,7 @@
     "departement": "Vendée",
     "region": "Pays de la Loire",
     "circo": "3",
-    "an_id": "722000"
+    "mandat_clos": true
   },
   "HIGNET MATHILDE": {
     "groupe": "LFI-NFP",
@@ -3453,7 +3453,7 @@
     "departement": "Ille-et-Vilaine",
     "region": "Bretagne",
     "circo": "4",
-    "an_id": "794082"
+    "mandat_clos": true
   },
   "BALLARD PHILIPPE": {
     "groupe": "RN",
@@ -3461,7 +3461,7 @@
     "departement": "Oise",
     "region": "Hauts-de-France",
     "circo": "2",
-    "an_id": "794562"
+    "mandat_clos": true
   },
   "BATTISTEL MARIE-NOËLLE": {
     "groupe": "SOC",
@@ -3469,7 +3469,7 @@
     "departement": "Isère",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "4",
-    "an_id": "342415"
+    "mandat_clos": true
   },
   "MULLER SERGE": {
     "groupe": "RN",
@@ -3477,7 +3477,7 @@
     "departement": "Dordogne",
     "region": "Nouvelle-Aquitaine",
     "circo": "2",
-    "an_id": "793696"
+    "mandat_clos": true
   },
   "LIMONGI JULIEN": {
     "groupe": "RN",
@@ -3485,7 +3485,7 @@
     "departement": "Seine-et-Marne",
     "region": "Ile-de-France",
     "circo": "4",
-    "an_id": "841873"
+    "mandat_clos": true
   },
   "PORTARRIEU JEAN-FRANÇOIS": {
     "groupe": "HOR",
@@ -3493,7 +3493,7 @@
     "departement": "Haute-Garonne",
     "region": "Occitanie",
     "circo": "5",
-    "an_id": "719528"
+    "mandat_clos": true
   },
   "MAXIMI MARIANNE": {
     "groupe": "LFI-NFP",
@@ -3501,7 +3501,7 @@
     "departement": "Puy-de-Dôme",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "1",
-    "an_id": "794686"
+    "mandat_clos": true
   },
   "LECOQ JEAN-PAUL": {
     "groupe": "GDR",
@@ -3509,7 +3509,7 @@
     "departement": "Seine-Maritime",
     "region": "Normandie",
     "circo": "8",
-    "an_id": "335612"
+    "mandat_clos": true
   },
   "DE LÉPINAU HERVÉ": {
     "groupe": "RN",
@@ -3517,7 +3517,7 @@
     "departement": "Vaucluse",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "3",
-    "an_id": "642988"
+    "mandat_clos": true
   },
   "NEUDER YANNICK": {
     "groupe": "DR",
@@ -3525,7 +3525,7 @@
     "departement": "Isère",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "7",
-    "an_id": "794038"
+    "mandat_clos": true
   },
   "OZENNE JULIE": {
     "groupe": "EcoS",
@@ -3533,7 +3533,7 @@
     "departement": "Essonne",
     "region": "Ile-de-France",
     "circo": "9",
-    "an_id": "842045"
+    "mandat_clos": true
   },
   "MINARD CHRISTELLE": {
     "groupe": "DR",
@@ -3541,7 +3541,7 @@
     "departement": "Eure-et-Loir",
     "region": "Centre-Val de Loire",
     "circo": "2",
-    "an_id": "643104"
+    "mandat_clos": true
   },
   "OBONO DANIÈLE": {
     "groupe": "LFI-NFP",
@@ -3549,7 +3549,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "17",
-    "an_id": "721960"
+    "mandat_clos": true
   },
   "LEVAVASSEUR KATIANA": {
     "groupe": "RN",
@@ -3557,7 +3557,7 @@
     "departement": "Eure",
     "region": "Normandie",
     "circo": "2",
-    "an_id": "793608"
+    "mandat_clos": true
   },
   "ABADIE-AMIEL AUDREY": {
     "groupe": "LIOT",
@@ -3565,7 +3565,7 @@
     "departement": "Ariège",
     "region": "Occitanie",
     "circo": "2",
-    "an_id": "793214"
+    "mandat_clos": true
   },
   "ROBERT-DEHAULT LAURENCE": {
     "groupe": "RN",
@@ -3573,7 +3573,7 @@
     "departement": "Haute-Marne",
     "region": "Grand Est",
     "circo": "2",
-    "an_id": "794442"
+    "mandat_clos": true
   },
   "ROUSSEAU AURÉLIEN": {
     "groupe": "SOC",
@@ -3581,7 +3581,7 @@
     "departement": "Yvelines",
     "region": "Ile-de-France",
     "circo": "7",
-    "an_id": "826635"
+    "mandat_clos": true
   },
   "GABARRON JULIEN": {
     "groupe": "RN",
@@ -3589,7 +3589,7 @@
     "departement": "Hérault",
     "region": "Occitanie",
     "circo": "6",
-    "an_id": "841139"
+    "mandat_clos": true
   },
   "BECHT OLIVIER": {
     "groupe": "EPR",
@@ -3597,7 +3597,7 @@
     "departement": "Haut-Rhin",
     "region": "Grand Est",
     "circo": "5",
-    "an_id": "642935"
+    "mandat_clos": true
   },
   "GUETTÉ CLÉMENCE": {
     "groupe": "LFI-NFP",
@@ -3605,7 +3605,7 @@
     "departement": "Val-de-Marne",
     "region": "Ile-de-France",
     "circo": "2",
-    "an_id": "795310"
+    "mandat_clos": true
   },
   "NILOR JEAN-PHILIPPE": {
     "groupe": "LFI-NFP",
@@ -3613,7 +3613,7 @@
     "departement": "Martinique",
     "region": "Martinique",
     "circo": "4",
-    "an_id": "610654"
+    "mandat_clos": true
   },
   "DUBY-MULLER VIRGINIE": {
     "groupe": "DR",
@@ -3621,7 +3621,7 @@
     "departement": "Haute-Savoie",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "4",
-    "an_id": "608826"
+    "mandat_clos": true
   },
   "BARNIER MICHEL": {
     "groupe": "DR",
@@ -3629,7 +3629,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "2",
-    "an_id": "368"
+    "mandat_clos": true
   },
   "LENOIR BARTOLOMÉ": {
     "groupe": "UDR",
@@ -3637,7 +3637,7 @@
     "departement": "Creuse",
     "region": "Nouvelle-Aquitaine",
     "circo": "1",
-    "an_id": "840983"
+    "mandat_clos": true
   },
   "CLAVET BRUNO": {
     "groupe": "RN",
@@ -3645,7 +3645,7 @@
     "departement": "Pas-de-Calais",
     "region": "Hauts-de-France",
     "circo": "3",
-    "an_id": "840159"
+    "mandat_clos": true
   },
   "MISSOFFE JOSÉPHINE": {
     "groupe": "EPR",
@@ -3653,7 +3653,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "14",
-    "an_id": "795962"
+    "mandat_clos": true
   },
   "JOLLY ALEXIS": {
     "groupe": "RN",
@@ -3661,7 +3661,7 @@
     "departement": "Isère",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "6",
-    "an_id": "794030"
+    "mandat_clos": true
   },
   "MATTEI JEAN-PAUL": {
     "groupe": "Dem",
@@ -3669,7 +3669,7 @@
     "departement": "Pyrénées-Atlantiques",
     "region": "Nouvelle-Aquitaine",
     "circo": "2",
-    "an_id": "720728"
+    "mandat_clos": true
   },
   "PEYTAVIE SÉBASTIEN": {
     "groupe": "EcoS",
@@ -3677,7 +3677,7 @@
     "departement": "Dordogne",
     "region": "Nouvelle-Aquitaine",
     "circo": "4",
-    "an_id": "793708"
+    "mandat_clos": true
   },
   "ROULLAUD BÉATRICE": {
     "groupe": "RN",
@@ -3685,7 +3685,7 @@
     "departement": "Seine-et-Marne",
     "region": "Ile-de-France",
     "circo": "6",
-    "an_id": "795410"
+    "mandat_clos": true
   },
   "PATRIER-LEITUS JÉRÉMIE": {
     "groupe": "HOR",
@@ -3693,7 +3693,7 @@
     "departement": "Calvados",
     "region": "Normandie",
     "circo": "3",
-    "an_id": "793398"
+    "mandat_clos": true
   },
   "SERVA OLIVIER": {
     "groupe": "LIOT",
@@ -3701,7 +3701,7 @@
     "departement": "Guadeloupe",
     "region": "Guadeloupe",
     "circo": "1",
-    "an_id": "720960"
+    "mandat_clos": true
   },
   "CASTELLANI MICHEL": {
     "groupe": "LIOT",
@@ -3709,7 +3709,7 @@
     "departement": "Haute-Corse",
     "region": "Corse",
     "circo": "1",
-    "an_id": "719138"
+    "mandat_clos": true
   },
   "MAGNIER DAVID": {
     "groupe": "RN",
@@ -3717,7 +3717,7 @@
     "departement": "Oise",
     "region": "Hauts-de-France",
     "circo": "7",
-    "an_id": "841587"
+    "mandat_clos": true
   },
   "PANOT MATHILDE": {
     "groupe": "LFI-NFP",
@@ -3725,7 +3725,7 @@
     "departement": "Val-de-Marne",
     "region": "Ile-de-France",
     "circo": "10",
-    "an_id": "720892"
+    "mandat_clos": true
   },
   "KARAMANLI MARIETTA": {
     "groupe": "SOC",
@@ -3733,7 +3733,7 @@
     "departement": "Sarthe",
     "region": "Pays de la Loire",
     "circo": "2",
-    "an_id": "335054"
+    "mandat_clos": true
   },
   "PILATO RENÉ": {
     "groupe": "LFI-NFP",
@@ -3741,7 +3741,7 @@
     "departement": "Charente",
     "region": "Nouvelle-Aquitaine",
     "circo": "1",
-    "an_id": "817211"
+    "mandat_clos": true
   },
   "CHIKIROU SOPHIA": {
     "groupe": "LFI-NFP",
@@ -3749,7 +3749,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "6",
-    "an_id": "791812"
+    "mandat_clos": true
   },
   "RAUX JEAN-CLAUDE": {
     "groupe": "EcoS",
@@ -3757,7 +3757,7 @@
     "departement": "Loire-Atlantique",
     "region": "Pays de la Loire",
     "circo": "6",
-    "an_id": "794154"
+    "mandat_clos": true
   },
   "LALANNE SANDRINE": {
     "groupe": "EPR",
@@ -3765,7 +3765,7 @@
     "departement": "Val-de-Marne",
     "region": "Ile-de-France",
     "circo": "5",
-    "an_id": "795390"
+    "mandat_clos": true
   },
   "GASSILLOUD THOMAS": {
     "groupe": "EPR",
@@ -3773,7 +3773,7 @@
     "departement": "Rhône",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "10",
-    "an_id": "722358"
+    "mandat_clos": true
   },
   "BRUN PHILIPPE": {
     "groupe": "SOC",
@@ -3781,7 +3781,7 @@
     "departement": "Eure",
     "region": "Normandie",
     "circo": "4",
-    "an_id": "793624"
+    "mandat_clos": true
   },
   "FRAPPÉ THIERRY": {
     "groupe": "RN",
@@ -3789,7 +3789,7 @@
     "departement": "Pas-de-Calais",
     "region": "Hauts-de-France",
     "circo": "10",
-    "an_id": "794678"
+    "mandat_clos": true
   },
   "ARMAND ANTOINE": {
     "groupe": "EPR",
@@ -3797,7 +3797,7 @@
     "departement": "Haute-Savoie",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "2",
-    "an_id": "795144"
+    "mandat_clos": true
   },
   "BELOUASSA-CHERIFI ANAÏS": {
     "groupe": "LFI-NFP",
@@ -3805,7 +3805,7 @@
     "departement": "Rhône",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "1",
-    "an_id": "841657"
+    "mandat_clos": true
   },
   "ALLISIO FRANCK": {
     "groupe": "RN",
@@ -3813,7 +3813,7 @@
     "departement": "Bouches-du-Rhône",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "12",
-    "an_id": "793432"
+    "mandat_clos": true
   },
   "BUFFET FRANÇOISE": {
     "groupe": "EPR",
@@ -3821,7 +3821,7 @@
     "departement": "Bas-Rhin",
     "region": "Grand Est",
     "circo": "4",
-    "an_id": "794798"
+    "mandat_clos": true
   },
   "FAYSSAT OLIVIER": {
     "groupe": "UDR",
@@ -3829,7 +3829,7 @@
     "departement": "Bouches-du-Rhône",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "6",
-    "an_id": "840773"
+    "mandat_clos": true
   },
   "RIMANE DAVY": {
     "groupe": "GDR",
@@ -3837,7 +3837,7 @@
     "departement": "Guyane",
     "region": "Guyane",
     "circo": "2",
-    "an_id": "795876"
+    "mandat_clos": true
   },
   "ROSEREN XAVIER": {
     "groupe": "HOR",
@@ -3845,7 +3845,7 @@
     "departement": "Haute-Savoie",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "6",
-    "an_id": "721458"
+    "mandat_clos": true
   },
   "VICOT ROGER": {
     "groupe": "SOC",
@@ -3853,7 +3853,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "11",
-    "an_id": "794494"
+    "mandat_clos": true
   },
   "BOYARD LOUIS": {
     "groupe": "LFI-NFP",
@@ -3861,7 +3861,7 @@
     "departement": "Val-de-Marne",
     "region": "Ile-de-France",
     "circo": "3",
-    "an_id": "795318"
+    "mandat_clos": true
   },
   "LAUZZANA MICHEL": {
     "groupe": "EPR",
@@ -3869,7 +3869,7 @@
     "departement": "Lot-et-Garonne",
     "region": "Nouvelle-Aquitaine",
     "circo": "1",
-    "an_id": "720022"
+    "mandat_clos": true
   },
   "TABAROT MICHÈLE": {
     "groupe": "DR",
@@ -3877,7 +3877,7 @@
     "departement": "Alpes-Maritimes",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "9",
-    "an_id": "267794"
+    "mandat_clos": true
   },
   "SABATINI ANAÏS": {
     "groupe": "RN",
@@ -3885,7 +3885,7 @@
     "departement": "Pyrénées-Orientales",
     "region": "Occitanie",
     "circo": "2",
-    "an_id": "794894"
+    "mandat_clos": true
   },
   "HUMBERT SÉBASTIEN": {
     "groupe": "RN",
@@ -3893,7 +3893,7 @@
     "departement": "Vosges",
     "region": "Grand Est",
     "circo": "4",
-    "an_id": "842085"
+    "mandat_clos": true
   },
   "ECHANIZ INAKI": {
     "groupe": "SOC",
@@ -3901,7 +3901,7 @@
     "departement": "Pyrénées-Atlantiques",
     "region": "Nouvelle-Aquitaine",
     "circo": "4",
-    "an_id": "794854"
+    "mandat_clos": true
   },
   "VOYNET DOMINIQUE": {
     "groupe": "EcoS",
@@ -3909,7 +3909,7 @@
     "departement": "Doubs",
     "region": "Bourgogne-Franche-Comté",
     "circo": "2",
-    "an_id": "2940"
+    "mandat_clos": true
   },
   "JACQUES JEAN-MICHEL": {
     "groupe": "EPR",
@@ -3917,7 +3917,7 @@
     "departement": "Morbihan",
     "region": "Bretagne",
     "circo": "6",
-    "an_id": "720354"
+    "mandat_clos": true
   },
   "BRUGEROLLES JULIEN": {
     "groupe": "GDR",
@@ -3925,7 +3925,7 @@
     "departement": "Puy-de-Dôme",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "5",
-    "an_id": "794710"
+    "mandat_clos": true
   },
   "MASSÉGLIA DENIS": {
     "groupe": "EPR",
@@ -3933,7 +3933,7 @@
     "departement": "Maine-et-Loire",
     "region": "Pays de la Loire",
     "circo": "5",
-    "an_id": "720146"
+    "mandat_clos": true
   },
   "MARKOWSKY PASCAL": {
     "groupe": "RN",
@@ -3941,7 +3941,7 @@
     "departement": "Charente-Maritime",
     "region": "Nouvelle-Aquitaine",
     "circo": "4",
-    "an_id": "840837"
+    "mandat_clos": true
   },
   "MATHIASIN MAX": {
     "groupe": "LIOT",
@@ -3949,7 +3949,7 @@
     "departement": "Guadeloupe",
     "region": "Guadeloupe",
     "circo": "3",
-    "an_id": "720976"
+    "mandat_clos": true
   },
   "RONCERET ANNE-SOPHIE": {
     "groupe": "EPR",
@@ -3957,7 +3957,7 @@
     "departement": "Yvelines",
     "region": "Ile-de-France",
     "circo": "10",
-    "an_id": "841927"
+    "mandat_clos": true
   },
   "MASSON ALEXANDRA": {
     "groupe": "RN",
@@ -3965,7 +3965,7 @@
     "departement": "Alpes-Maritimes",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "4",
-    "an_id": "793314"
+    "mandat_clos": true
   },
   "TANGUY JEAN-PHILIPPE": {
     "groupe": "RN",
@@ -3973,7 +3973,7 @@
     "departement": "Somme",
     "region": "Hauts-de-France",
     "circo": "4",
-    "an_id": "795778"
+    "mandat_clos": true
   },
   "RANC ANGÉLIQUE": {
     "groupe": "RN",
@@ -3981,7 +3981,7 @@
     "departement": "Aube",
     "region": "Grand Est",
     "circo": "3",
-    "an_id": "793230"
+    "mandat_clos": true
   },
   "PAHUN JIMMY": {
     "groupe": "Dem",
@@ -3989,7 +3989,7 @@
     "departement": "Morbihan",
     "region": "Bretagne",
     "circo": "2",
-    "an_id": "720334"
+    "mandat_clos": true
   },
   "BOVET JORYS": {
     "groupe": "RN",
@@ -3997,7 +3997,7 @@
     "departement": "Allier",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "2",
-    "an_id": "793182"
+    "mandat_clos": true
   },
   "CRIAUD MICHEL": {
     "groupe": "HOR",
@@ -4005,7 +4005,7 @@
     "departement": "Morbihan",
     "region": "Bretagne",
     "circo": "1",
-    "an_id": "794430"
+    "mandat_clos": true
   },
   "LECHANTEUX JULIE": {
     "groupe": "RN",
@@ -4013,7 +4013,7 @@
     "departement": "Var",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "5",
-    "an_id": "796026"
+    "mandat_clos": true
   },
   "TAVEL MATTHIAS": {
     "groupe": "LFI-NFP",
@@ -4021,7 +4021,7 @@
     "departement": "Loire-Atlantique",
     "region": "Pays de la Loire",
     "circo": "8",
-    "an_id": "794166"
+    "mandat_clos": true
   },
   "HERVIEU CATHERINE": {
     "groupe": "EcoS",
@@ -4029,7 +4029,7 @@
     "departement": "Côte-d'Or",
     "region": "Bourgogne-Franche-Comté",
     "circo": "2",
-    "an_id": "840947"
+    "mandat_clos": true
   },
   "MERCIER ESTELLE": {
     "groupe": "SOC",
@@ -4037,7 +4037,7 @@
     "departement": "Meurthe-et-Moselle",
     "region": "Grand Est",
     "circo": "1",
-    "an_id": "841463"
+    "mandat_clos": true
   },
   "BLANC SOPHIE": {
     "groupe": "RN",
@@ -4045,7 +4045,7 @@
     "departement": "Pyrénées-Orientales",
     "region": "Occitanie",
     "circo": "1",
-    "an_id": "794886"
+    "mandat_clos": true
   },
   "MANDON EMMANUEL": {
     "groupe": "Dem",
@@ -4053,7 +4053,7 @@
     "departement": "Loire",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "3",
-    "an_id": "794114"
+    "mandat_clos": true
   },
   "PIQUEMAL FRANÇOIS": {
     "groupe": "LFI-NFP",
@@ -4061,7 +4061,7 @@
     "departement": "Haute-Garonne",
     "region": "Occitanie",
     "circo": "4",
-    "an_id": "793756"
+    "mandat_clos": true
   },
   "HENRIET PIERRE": {
     "groupe": "HOR",
@@ -4069,7 +4069,7 @@
     "departement": "Vendée",
     "region": "Pays de la Loire",
     "circo": "5",
-    "an_id": "722070"
+    "mandat_clos": true
   },
   "BENOIT THIERRY": {
     "groupe": "HOR",
@@ -4077,7 +4077,7 @@
     "departement": "Ille-et-Vilaine",
     "region": "Bretagne",
     "circo": "6",
-    "an_id": "332228"
+    "mandat_clos": true
   },
   "MOREL LOUISE": {
     "groupe": "Dem",
@@ -4085,7 +4085,7 @@
     "departement": "Bas-Rhin",
     "region": "Grand Est",
     "circo": "6",
-    "an_id": "794810"
+    "mandat_clos": true
   },
   "MÉLIN JOËLLE": {
     "groupe": "RN",
@@ -4093,7 +4093,7 @@
     "departement": "Bouches-du-Rhône",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "9",
-    "an_id": "793354"
+    "mandat_clos": true
   },
   "LEBON KARINE": {
     "groupe": "GDR",
@@ -4101,7 +4101,7 @@
     "departement": "Réunion",
     "region": "Réunion",
     "circo": "2",
-    "an_id": "774962"
+    "mandat_clos": true
   },
   "LEPERS GUILLAUME": {
     "groupe": "DR",
@@ -4109,7 +4109,7 @@
     "departement": "Lot-et-Garonne",
     "region": "Nouvelle-Aquitaine",
     "circo": "3",
-    "an_id": "695512"
+    "mandat_clos": true
   },
   "BEX CHRISTOPHE": {
     "groupe": "LFI-NFP",
@@ -4117,7 +4117,7 @@
     "departement": "Haute-Garonne",
     "region": "Occitanie",
     "circo": "7",
-    "an_id": "793772"
+    "mandat_clos": true
   },
   "BONNET NICOLAS": {
     "groupe": "EcoS",
@@ -4125,7 +4125,7 @@
     "departement": "Puy-de-Dôme",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "3",
-    "an_id": "841507"
+    "mandat_clos": true
   },
   "TRÉBUCHET VINCENT": {
     "groupe": "UDR",
@@ -4133,7 +4133,7 @@
     "departement": "Ardèche",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "2",
-    "an_id": "840685"
+    "mandat_clos": true
   },
   "ROY SOPHIE-LAURENCE": {
     "groupe": "RN",
@@ -4141,7 +4141,7 @@
     "departement": "Yonne",
     "region": "Bourgogne-Franche-Comté",
     "circo": "2",
-    "an_id": "842097"
+    "mandat_clos": true
   },
   "MENDES LUDOVIC": {
     "groupe": "EPR",
@@ -4149,7 +4149,7 @@
     "departement": "Moselle",
     "region": "Grand Est",
     "circo": "2",
-    "an_id": "720370"
+    "mandat_clos": true
   },
   "BELLUCO LISA": {
     "groupe": "EcoS",
@@ -4157,7 +4157,7 @@
     "departement": "Vienne",
     "region": "Nouvelle-Aquitaine",
     "circo": "1",
-    "an_id": "795362"
+    "mandat_clos": true
   },
   "BRULEBOIS DANIELLE": {
     "groupe": "EPR",
@@ -4165,7 +4165,7 @@
     "departement": "Jura",
     "region": "Bourgogne-Franche-Comté",
     "circo": "1",
-    "an_id": "719890"
+    "mandat_clos": true
   },
   "SICARD ANNE": {
     "groupe": "RN",
@@ -4173,7 +4173,7 @@
     "departement": "Val-d'Oise",
     "region": "Ile-de-France",
     "circo": "1",
-    "an_id": "842255"
+    "mandat_clos": true
   },
   "ERODI KAREN": {
     "groupe": "LFI-NFP",
@@ -4181,7 +4181,7 @@
     "departement": "Tarn",
     "region": "Occitanie",
     "circo": "2",
-    "an_id": "795844"
+    "mandat_clos": true
   },
   "LARROUQUIS BENOÎT": {
     "groupe": "EPR",
@@ -4189,7 +4189,7 @@
     "departement": "Français établis hors de France",
     "region": "Français établis hors de France",
     "circo": "2",
-    "an_id": "795334"
+    "mandat_clos": true
   },
   "DIOP DIEYNABA": {
     "groupe": "SOC",
@@ -4197,7 +4197,7 @@
     "departement": "Yvelines",
     "region": "Ile-de-France",
     "circo": "9",
-    "an_id": "841919"
+    "mandat_clos": true
   },
   "BOUYX BERTRAND": {
     "groupe": "HOR",
@@ -4205,7 +4205,7 @@
     "departement": "Calvados",
     "region": "Normandie",
     "circo": "5",
-    "an_id": "719032"
+    "mandat_clos": true
   },
   "DARRIEUSSECQ GENEVIÈVE": {
     "groupe": "Dem",
@@ -4213,7 +4213,7 @@
     "departement": "Landes",
     "region": "Nouvelle-Aquitaine",
     "circo": "1",
-    "an_id": "719914"
+    "mandat_clos": true
   },
   "ERRANTE SOPHIE": {
     "groupe": "NI",
@@ -4221,7 +4221,7 @@
     "departement": "Loire-Atlantique",
     "region": "Pays de la Loire",
     "circo": "10",
-    "an_id": "607193"
+    "mandat_clos": true
   },
   "SAINT-MARTIN ARNAUD": {
     "groupe": "LFI-NFP",
@@ -4229,7 +4229,7 @@
     "departement": "Seine-et-Marne",
     "region": "Ile-de-France",
     "circo": "1",
-    "an_id": "841845"
+    "mandat_clos": true
   },
   "WEBER FRÉDÉRIC": {
     "groupe": "RN",
@@ -4237,7 +4237,7 @@
     "departement": "Meurthe-et-Moselle",
     "region": "Grand Est",
     "circo": "3",
-    "an_id": "841479"
+    "mandat_clos": true
   },
   "YOUSSOUFFA ESTELLE": {
     "groupe": "LIOT",
@@ -4245,7 +4245,7 @@
     "departement": "Mayotte",
     "region": "Mayotte",
     "circo": "1",
-    "an_id": "796078"
+    "mandat_clos": true
   },
   "VUIBERT LIONEL": {
     "groupe": "NI",
@@ -4253,7 +4253,7 @@
     "departement": "Ardennes",
     "region": "Grand Est",
     "circo": "1",
-    "an_id": "793194"
+    "mandat_clos": true
   },
   "VERMOREL-MARQUES ANTOINE": {
     "groupe": "DR",
@@ -4261,7 +4261,7 @@
     "departement": "Loire",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "5",
-    "an_id": "794118"
+    "mandat_clos": true
   },
   "VIGIER PHILIPPE": {
     "groupe": "Dem",
@@ -4269,7 +4269,7 @@
     "departement": "Eure-et-Loir",
     "region": "Centre-Val de Loire",
     "circo": "4",
-    "an_id": "331582"
+    "mandat_clos": true
   },
   "BIGOT GUILLAUME": {
     "groupe": "RN",
@@ -4277,7 +4277,7 @@
     "departement": "Territoire de Belfort",
     "region": "Bourgogne-Franche-Comté",
     "circo": "2",
-    "an_id": "842001"
+    "mandat_clos": true
   },
   "RÉCALDE MARIE": {
     "groupe": "SOC",
@@ -4285,7 +4285,7 @@
     "departement": "Gironde",
     "region": "Nouvelle-Aquitaine",
     "circo": "6",
-    "an_id": "341981"
+    "mandat_clos": true
   },
   "MANSOURI HANANE": {
     "groupe": "UDR",
@@ -4293,7 +4293,7 @@
     "departement": "Isère",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "8",
-    "an_id": "841183"
+    "mandat_clos": true
   },
   "BONNET ARNAUD": {
     "groupe": "EcoS",
@@ -4301,7 +4301,7 @@
     "departement": "Seine-et-Marne",
     "region": "Ile-de-France",
     "circo": "8",
-    "an_id": "841885"
+    "mandat_clos": true
   },
   "ARRIGHI CHRISTINE": {
     "groupe": "EcoS",
@@ -4309,7 +4309,7 @@
     "departement": "Haute-Garonne",
     "region": "Occitanie",
     "circo": "9",
-    "an_id": "793780"
+    "mandat_clos": true
   },
   "BERNALICIS UGO": {
     "groupe": "LFI-NFP",
@@ -4317,7 +4317,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "2",
-    "an_id": "720430"
+    "mandat_clos": true
   },
   "TIVOLI LIONEL": {
     "groupe": "RN",
@@ -4325,7 +4325,7 @@
     "departement": "Alpes-Maritimes",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "2",
-    "an_id": "793298"
+    "mandat_clos": true
   },
   "DI FILIPPO FABIEN": {
     "groupe": "DR",
@@ -4333,7 +4333,7 @@
     "departement": "Moselle",
     "region": "Grand Est",
     "circo": "4",
-    "an_id": "720386"
+    "mandat_clos": true
   },
   "GILLET YOANN": {
     "groupe": "RN",
@@ -4341,7 +4341,7 @@
     "departement": "Gard",
     "region": "Occitanie",
     "circo": "1",
-    "an_id": "793832"
+    "mandat_clos": true
   },
   "JUVIN PHILIPPE": {
     "groupe": "DR",
@@ -4349,7 +4349,7 @@
     "departement": "Hauts-de-Seine",
     "region": "Ile-de-France",
     "circo": "3",
-    "an_id": "346782"
+    "mandat_clos": true
   },
   "LECAMP PASCAL": {
     "groupe": "Dem",
@@ -4357,7 +4357,7 @@
     "departement": "Vienne",
     "region": "Nouvelle-Aquitaine",
     "circo": "3",
-    "an_id": "795374"
+    "mandat_clos": true
   },
   "GRUET JUSTINE": {
     "groupe": "DR",
@@ -4365,7 +4365,7 @@
     "departement": "Jura",
     "region": "Bourgogne-Franche-Comté",
     "circo": "3",
-    "an_id": "794058"
+    "mandat_clos": true
   },
   "LEBOUCHER ÉLISE": {
     "groupe": "LFI-NFP",
@@ -4373,7 +4373,7 @@
     "departement": "Sarthe",
     "region": "Pays de la Loire",
     "circo": "4",
-    "an_id": "795108"
+    "mandat_clos": true
   },
   "COLOMBIER CAROLINE": {
     "groupe": "RN",
@@ -4381,7 +4381,7 @@
     "departement": "Charente",
     "region": "Nouvelle-Aquitaine",
     "circo": "3",
-    "an_id": "793548"
+    "mandat_clos": true
   },
   "BILDE BRUNO": {
     "groupe": "RN",
@@ -4389,7 +4389,7 @@
     "departement": "Pas-de-Calais",
     "region": "Hauts-de-France",
     "circo": "12",
-    "an_id": "720822"
+    "mandat_clos": true
   },
   "MAZAURY LAURENT": {
     "groupe": "LIOT",
@@ -4397,7 +4397,7 @@
     "departement": "Yvelines",
     "region": "Ile-de-France",
     "circo": "11",
-    "an_id": "841931"
+    "mandat_clos": true
   },
   "LABARONNE DANIEL": {
     "groupe": "EPR",
@@ -4405,7 +4405,7 @@
     "departement": "Indre-et-Loire",
     "region": "Centre-Val de Loire",
     "circo": "2",
-    "an_id": "719798"
+    "mandat_clos": true
   },
   "HERVIEU CÉLINE": {
     "groupe": "SOC",
@@ -4413,7 +4413,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "11",
-    "an_id": "841853"
+    "mandat_clos": true
   },
   "SEO MIKAELE": {
     "groupe": "EPR",
@@ -4421,7 +4421,7 @@
     "departement": "Wallis-et-Futuna",
     "region": "Wallis-et-Futuna",
     "circo": "1",
-    "an_id": "757225"
+    "mandat_clos": true
   },
   "HEROUIN-LÉAUTEY FLORENCE": {
     "groupe": "SOC",
@@ -4429,7 +4429,7 @@
     "departement": "Seine-Maritime",
     "region": "Normandie",
     "circo": "1",
-    "an_id": "841813"
+    "mandat_clos": true
   },
   "CADALEN PIERRE-YVES": {
     "groupe": "LFI-NFP",
@@ -4437,7 +4437,7 @@
     "departement": "Finistère",
     "region": "Bretagne",
     "circo": "2",
-    "an_id": "841023"
+    "mandat_clos": true
   },
   "DA CONCEICAO CARVALHO NATHALIE": {
     "groupe": "RN",
@@ -4445,7 +4445,7 @@
     "departement": "Essonne",
     "region": "Ile-de-France",
     "circo": "2",
-    "an_id": "795644"
+    "mandat_clos": true
   },
   "JONCOUR TIFFANY": {
     "groupe": "RN",
@@ -4453,7 +4453,7 @@
     "departement": "Rhône",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "13",
-    "an_id": "841749"
+    "mandat_clos": true
   },
   "LIÉGEON ERIC": {
     "groupe": "DR",
@@ -4461,7 +4461,7 @@
     "departement": "Doubs",
     "region": "Bourgogne-Franche-Comté",
     "circo": "5",
-    "an_id": "642725"
+    "mandat_clos": true
   },
   "SALMON EMERIC": {
     "groupe": "RN",
@@ -4469,7 +4469,7 @@
     "departement": "Haute-Saône",
     "region": "Bourgogne-Franche-Comté",
     "circo": "2",
-    "an_id": "794954"
+    "mandat_clos": true
   },
   "PEREZ THIERRY": {
     "groupe": "RN",
@@ -4477,7 +4477,7 @@
     "departement": "Isère",
     "region": "Auvergne-Rhône-Alpes",
     "circo": "10",
-    "an_id": "841199"
+    "mandat_clos": true
   },
   "BALAGE EL MARIKY LÉA": {
     "groupe": "EcoS",
@@ -4485,7 +4485,7 @@
     "departement": "Paris",
     "region": "Ile-de-France",
     "circo": "3",
-    "an_id": "841701"
+    "mandat_clos": true
   },
   "GRANGIER GÉRALDINE": {
     "groupe": "RN",
@@ -4493,7 +4493,7 @@
     "departement": "Doubs",
     "region": "Bourgogne-Franche-Comté",
     "circo": "4",
-    "an_id": "793592"
+    "mandat_clos": true
   },
   "ANGLADE PIEYRE-ALEXANDRE": {
     "groupe": "EPR",
@@ -4501,7 +4501,7 @@
     "departement": "Français établis hors de France",
     "region": "Français établis hors de France",
     "circo": "4",
-    "an_id": "721158"
+    "mandat_clos": true
   },
   "LAISNEY MAXIME": {
     "groupe": "LFI-NFP",
@@ -4509,7 +4509,7 @@
     "departement": "Seine-et-Marne",
     "region": "Ile-de-France",
     "circo": "10",
-    "an_id": "795516"
+    "mandat_clos": true
   },
   "CAZENEUVE JEAN-RENÉ": {
     "groupe": "EPR",
@@ -4517,7 +4517,7 @@
     "departement": "Gers",
     "region": "Occitanie",
     "circo": "1",
-    "an_id": "719472"
+    "mandat_clos": true
   },
   "MEURIN PIERRE": {
     "groupe": "RN",
@@ -4525,7 +4525,7 @@
     "departement": "Gard",
     "region": "Occitanie",
     "circo": "4",
-    "an_id": "793852"
+    "mandat_clos": true
   },
   "FALCON FRÉDÉRIC": {
     "groupe": "RN",
@@ -4533,7 +4533,7 @@
     "departement": "Aude",
     "region": "Occitanie",
     "circo": "2",
-    "an_id": "793246"
+    "mandat_clos": true
   },
   "SAINTOUL AURÉLIEN": {
     "groupe": "LFI-NFP",
@@ -4541,7 +4541,7 @@
     "departement": "Hauts-de-Seine",
     "region": "Ile-de-France",
     "circo": "11",
-    "an_id": "795982"
+    "mandat_clos": true
   },
   "BITEAU BENOÎT": {
     "groupe": "EcoS",
@@ -4549,7 +4549,7 @@
     "departement": "Charente-Maritime",
     "region": "Nouvelle-Aquitaine",
     "circo": "2",
-    "an_id": "840997"
+    "mandat_clos": true
   },
   "FAURE OLIVIER": {
     "groupe": "SOC",
@@ -4557,7 +4557,7 @@
     "departement": "Seine-et-Marne",
     "region": "Ile-de-France",
     "circo": "11",
-    "an_id": "609332"
+    "mandat_clos": true
   },
   "BRIGAND HUBERT": {
     "groupe": "DR",
@@ -4565,7 +4565,7 @@
     "departement": "Côte-d'Or",
     "region": "Bourgogne-Franche-Comté",
     "circo": "4",
-    "an_id": "793508"
+    "mandat_clos": true
   },
   "TAVERNE MICHAËL": {
     "groupe": "RN",
@@ -4573,7 +4573,7 @@
     "departement": "Nord",
     "region": "Hauts-de-France",
     "circo": "12",
-    "an_id": "794502"
+    "mandat_clos": true
   },
   "MARCHIVE BASTIEN": {
     "groupe": "EPR",
@@ -4581,7 +4581,7 @@
     "departement": "Deux-Sèvres",
     "region": "Nouvelle-Aquitaine",
     "circo": "1",
-    "an_id": "795730"
+    "mandat_clos": true
   },
   "MARTINEZ MICHÈLE": {
     "groupe": "RN",
@@ -4589,7 +4589,7 @@
     "departement": "Pyrénées-Orientales",
     "region": "Occitanie",
     "circo": "4",
-    "an_id": "794770"
+    "mandat_clos": true
   },
   "SANSU NICOLAS": {
     "groupe": "GDR",
@@ -4597,7 +4597,7 @@
     "departement": "Cher",
     "region": "Centre-Val de Loire",
     "circo": "2",
-    "an_id": "605745"
+    "mandat_clos": true
   },
   "LOPEZ-LIGUORI AURÉLIEN": {
     "groupe": "RN",
@@ -4605,7 +4605,7 @@
     "departement": "Hérault",
     "region": "Occitanie",
     "circo": "7",
-    "an_id": "793904"
+    "mandat_clos": true
   },
   "PENA MARC": {
     "groupe": "SOC",
@@ -4613,6 +4613,1719 @@
     "departement": "Bouches-du-Rhône",
     "region": "Provence-Alpes-Côte d'Azur",
     "circo": "11",
+    "mandat_clos": true
+  },
+  "Houlié Sacha": {
+    "an_id": "722150"
+  },
+  "Evrard Auguste": {
+    "an_id": "841621"
+  },
+  "Sorre Bertrand": {
+    "an_id": "720190"
+  },
+  "Schellenberger Raphaël": {
+    "an_id": "721314"
+  },
+  "Padey Didier": {
+    "an_id": "795124"
+  },
+  "Poussier-Winsback Marie-Agnès": {
+    "an_id": "795270"
+  },
+  "Nadeau Marcellin": {
+    "an_id": "795820"
+  },
+  "Clouet Hadrien": {
+    "an_id": "793736"
+  },
+  "Rolland Vincent": {
+    "an_id": "266808"
+  },
+  "Jenft Pascal": {
+    "an_id": "841439"
+  },
+  "Diouara Aly": {
+    "an_id": "842155"
+  },
+  "Mongardien Christophe": {
+    "an_id": "842147"
+  },
+  "Belluco Lisa": {
+    "an_id": "795362"
+  },
+  "Gery Jonathan": {
+    "an_id": "841737"
+  },
+  "Pannier-Runacher Agnès": {
+    "an_id": "759832"
+  },
+  "Bovet Jorys": {
+    "an_id": "793182"
+  },
+  "Thiériot Jean-Louis": {
+    "an_id": "643089"
+  },
+  "Goulet Perrine": {
+    "an_id": "720560"
+  },
+  "Laernoes Julie": {
+    "an_id": "794146"
+  },
+  "Clavet Bruno": {
+    "an_id": "840159"
+  },
+  "Coggia Nathalie": {
+    "an_id": "795402"
+  },
+  "Bompard Manuel": {
+    "an_id": "793444"
+  },
+  "Griseti Monique": {
+    "an_id": "840757"
+  },
+  "Fouquart Emmanuel": {
+    "an_id": "840801"
+  },
+  "Grégoire Emmanuel": {
+    "an_id": "840171"
+  },
+  "Blin Anne-Laure": {
+    "an_id": "774954"
+  },
+  "Biteau Benoît": {
+    "an_id": "840997"
+  },
+  "Le Gall Arnaud": {
+    "an_id": "795672"
+  },
+  "Isaac-Sibille Cyrille": {
+    "an_id": "722374"
+  },
+  "Keloua Hachi Fatiha": {
+    "an_id": "795156"
+  },
+  "K/Bidi Émeline": {
+    "an_id": "795998"
+  },
+  "Boudié Florent": {
+    "an_id": "606507"
+  },
+  "Renault Matthias": {
+    "an_id": "841955"
+  },
+  "Gouffier Valente Guillaume": {
+    "an_id": "721296"
+  },
+  "Caure Vincent": {
+    "an_id": "842311"
+  },
+  "Delpech Julie": {
+    "an_id": "794982"
+  },
+  "Maudet Damien": {
+    "an_id": "795422"
+  },
+  "Trébuchet Vincent": {
+    "an_id": "840685"
+  },
+  "Taché Aurélien": {
+    "an_id": "720952"
+  },
+  "D'Intorni Christelle": {
+    "an_id": "793322"
+  },
+  "Le Peih Nicole": {
+    "an_id": "720342"
+  },
+  "Vignon Corinne": {
+    "an_id": "719512"
+  },
+  "Sabatini Anaïs": {
+    "an_id": "794894"
+  },
+  "Pribetich Pierre": {
+    "an_id": "840955"
+  },
+  "Rambaud Stéphane": {
+    "an_id": "795966"
+  },
+  "Bilde Bruno": {
+    "an_id": "720822"
+  },
+  "Prud'homme Loïc": {
+    "an_id": "719578"
+  },
+  "Girard Damien": {
+    "an_id": "841419"
+  },
+  "Cazeneuve Jean-René": {
+    "an_id": "719472"
+  },
+  "Boumertit Idir": {
+    "an_id": "794938"
+  },
+  "Califer Elie": {
+    "an_id": "795762"
+  },
+  "Grangier Géraldine": {
+    "an_id": "793592"
+  },
+  "Boccaletti Frédéric": {
+    "an_id": "796042"
+  },
+  "Garot Guillaume": {
+    "an_id": "333285"
+  },
+  "Thillaye Sabine": {
+    "an_id": "719822"
+  },
+  "Nilor Jean-Philippe": {
+    "an_id": "610654"
+  },
+  "Ferrer Sylvie": {
+    "an_id": "794870"
+  },
+  "Rivière Joseph": {
+    "an_id": "842227"
+  },
+  "Molac Paul": {
+    "an_id": "607619"
+  },
+  "Jourdan Chantal": {
+    "an_id": "643192"
+  },
+  "Oberti Jacques": {
+    "an_id": "841107"
+  },
+  "Rancoule Julien": {
+    "an_id": "793254"
+  },
+  "Thomin Mélanie": {
+    "an_id": "793816"
+  },
+  "Arrighi Christine": {
+    "an_id": "793780"
+  },
+  "Mendes Ludovic": {
+    "an_id": "720370"
+  },
+  "Pirès Beaune Christine": {
+    "an_id": "608172"
+  },
+  "Allegret-Pilot Alexandre": {
+    "an_id": "841067"
+  },
+  "Iordanoff Jérémie": {
+    "an_id": "794022"
+  },
+  "Allisio Franck": {
+    "an_id": "793432"
+  },
+  "Duparay Lionel": {
+    "an_id": "870009"
+  },
+  "Mercier Estelle": {
+    "an_id": "841463"
+  },
+  "Lakrafi Amélia": {
+    "an_id": "721004"
+  },
+  "Patrier-Leitus Jérémie": {
+    "an_id": "793398"
+  },
+  "Piquemal François": {
+    "an_id": "793756"
+  },
+  "Dombre Coste Fanny": {
+    "an_id": "606573"
+  },
+  "Baubry Romain": {
+    "an_id": "793374"
+  },
+  "Allemand Marie-José": {
+    "an_id": "840665"
+  },
+  "Fayssat Olivier": {
+    "an_id": "840773"
+  },
+  "Fernandes Emmanuel": {
+    "an_id": "794786"
+  },
+  "Taverne Michaël": {
+    "an_id": "794502"
+  },
+  "Abomangoli Nadège": {
+    "an_id": "795228"
+  },
+  "Taché Emmanuel": {
+    "an_id": "793382"
+  },
+  "Petit Frédéric": {
+    "an_id": "721182"
+  },
+  "Anglade Pieyre-Alexandre": {
+    "an_id": "721158"
+  },
+  "de Fleurian Marc": {
+    "an_id": "841613"
+  },
+  "Echaniz Inaki": {
+    "an_id": "794854"
+  },
+  "Peu Stéphane": {
+    "an_id": "721270"
+  },
+  "Tryzna Nicolas": {
+    "an_id": "842121"
+  },
+  "Habib David": {
+    "an_id": "1592"
+  },
+  "Breton Xavier": {
+    "an_id": "330008"
+  },
+  "Galzy Stéphanie": {
+    "an_id": "793892"
+  },
+  "Ceccoli François-Xavier": {
+    "an_id": "841047"
+  },
+  "Colin-Oesterlé Nathalie": {
+    "an_id": "841431"
+  },
+  "Vannier Paul": {
+    "an_id": "795596"
+  },
+  "Récalde Marie": {
+    "an_id": "341981"
+  },
+  "Jolivet François": {
+    "an_id": "719778"
+  },
+  "Lenormand Stéphane": {
+    "an_id": "795244"
+  },
+  "Le Fur Corentin": {
+    "an_id": "840979"
+  },
+  "Brun Philippe": {
+    "an_id": "793624"
+  },
+  "Sanquer Nicole": {
+    "an_id": "721110"
+  },
+  "Vicot Roger": {
+    "an_id": "794494"
+  },
+  "Laisney Maxime": {
+    "an_id": "795516"
+  },
+  "Odoul Julien": {
+    "an_id": "795552"
+  },
+  "Fuchs Bruno": {
+    "an_id": "722284"
+  },
+  "Frappé Thierry": {
+    "an_id": "794678"
+  },
+  "Armand Antoine": {
+    "an_id": "795144"
+  },
+  "Boulogne Anthony": {
+    "an_id": "841487"
+  },
+  "Girard Christian": {
+    "an_id": "793102"
+  },
+  "Amblard Maxime": {
+    "an_id": "841495"
+  },
+  "Gonzalez José": {
+    "an_id": "793362"
+  },
+  "Lahais Tristan": {
+    "an_id": "841223"
+  },
+  "Rousseau Aurélien": {
+    "an_id": "826635"
+  },
+  "Braun-Pivet Yaël": {
+    "an_id": "721908"
+  },
+  "Bordes Pascale": {
+    "an_id": "793844"
+  },
+  "Taillé-Polian Sophie": {
+    "an_id": "736201"
+  },
+  "Thevenot Prisca": {
+    "an_id": "795920"
+  },
+  "Joubert Florence": {
+    "an_id": "840869"
+  },
+  "Arenas Rodrigo": {
+    "an_id": "795084"
+  },
+  "Rimane Davy": {
+    "an_id": "795876"
+  },
+  "Le Coq Aurélien": {
+    "an_id": "841515"
+  },
+  "Balanant Erwan": {
+    "an_id": "719558"
+  },
+  "Regol Sandra": {
+    "an_id": "794778"
+  },
+  "Runel Sandrine": {
+    "an_id": "841717"
+  },
+  "Alexandre Laurent": {
+    "an_id": "793262"
+  },
+  "Loir Christine": {
+    "an_id": "793672"
+  },
+  "Eskenazi Romain": {
+    "an_id": "842195"
+  },
+  "Léaument Antoine": {
+    "an_id": "795746"
+  },
+  "Leseul Gérard": {
+    "an_id": "774958"
+  },
+  "Hablot Stéphane": {
+    "an_id": "841471"
+  },
+  "Dufour Alma": {
+    "an_id": "795200"
+  },
+  "Michoux Éric": {
+    "an_id": "841769"
+  },
+  "Riotton Véronique": {
+    "an_id": "721426"
+  },
+  "Reid Arbelot Mereana": {
+    "an_id": "795240"
+  },
+  "de Maistre Élisabeth": {
+    "an_id": "842141"
+  },
+  "Proença Christophe": {
+    "an_id": "841367"
+  },
+  "Fiévet Jean-Marie": {
+    "an_id": "722134"
+  },
+  "Golliot Antoine": {
+    "an_id": "841605"
+  },
+  "Robert-Dehault Laurence": {
+    "an_id": "794442"
+  },
+  "Falorni Olivier": {
+    "an_id": "605694"
+  },
+  "Le Grip Constance": {
+    "an_id": "345722"
+  },
+  "Trouvé Aurélie": {
+    "an_id": "795164"
+  },
+  "Masséglia Denis": {
+    "an_id": "720146"
+  },
+  "Lubet Marie-Philippe": {
+    "an_id": "879389"
+  },
+  "Pollet Lisette": {
+    "an_id": "793656"
+  },
+  "Le Gac Didier": {
+    "an_id": "719404"
+  },
+  "Cosson Mickaël": {
+    "an_id": "793520"
+  },
+  "Froger Martine": {
+    "an_id": "822617"
+  },
+  "Josso Sandrine": {
+    "an_id": "720038"
+  },
+  "Hervieu Céline": {
+    "an_id": "841853"
+  },
+  "Dutremble Aurélien": {
+    "an_id": "841761"
+  },
+  "Tivoli Lionel": {
+    "an_id": "793298"
+  },
+  "Parmentier-Lecocq Charlotte": {
+    "an_id": "720480"
+  },
+  "Bazin-Malgras Valérie": {
+    "an_id": "718884"
+  },
+  "Portier Alexandre": {
+    "an_id": "794994"
+  },
+  "Ledoux Vincent": {
+    "an_id": "712014"
+  },
+  "Mandon Emmanuel": {
+    "an_id": "794114"
+  },
+  "Givernet Olga": {
+    "an_id": "718674"
+  },
+  "Saintoul Aurélien": {
+    "an_id": "795982"
+  },
+  "Weber Frédéric": {
+    "an_id": "841479"
+  },
+  "Bouquin Manon": {
+    "an_id": "841131"
+  },
+  "Buisson Jérôme": {
+    "an_id": "793134"
+  },
+  "Latombe Philippe": {
+    "an_id": "721984"
+  },
+  "Taupiac David": {
+    "an_id": "793796"
+  },
+  "Buffet Françoise": {
+    "an_id": "794798"
+  },
+  "Corbière Alexis": {
+    "an_id": "721210"
+  },
+  "Lebon Karine": {
+    "an_id": "774962"
+  },
+  "Missoffe Joséphine": {
+    "an_id": "795962"
+  },
+  "Huwart Harold": {
+    "an_id": "841017"
+  },
+  "Fugit Jean-Luc": {
+    "an_id": "722366"
+  },
+  "Terlier Jean": {
+    "an_id": "721584"
+  },
+  "Dufosset Alexandre": {
+    "an_id": "840135"
+  },
+  "Bonnet Arnaud": {
+    "an_id": "841885"
+  },
+  "Lauzzana Michel": {
+    "an_id": "720022"
+  },
+  "Le Feur Sandrine": {
+    "an_id": "719412"
+  },
+  "Dessigny Jocelyn": {
+    "an_id": "793166"
+  },
+  "Engrand Christine": {
+    "an_id": "794718"
+  },
+  "Bamana Anchya": {
+    "an_id": "842279"
+  },
+  "Masson Alexandra": {
+    "an_id": "793314"
+  },
+  "Pilato René": {
+    "an_id": "817211"
+  },
+  "Lottiaux Philippe": {
+    "an_id": "795974"
+  },
+  "Houssin Timothée": {
+    "an_id": "793632"
+  },
+  "Rixain Marie-Pierre": {
+    "an_id": "722252"
+  },
+  "Meunier Frédérique": {
+    "an_id": "719272"
+  },
+  "Brigand Hubert": {
+    "an_id": "793508"
+  },
+  "Herbillon Michel": {
+    "an_id": "1630"
+  },
+  "Guedj Jérôme": {
+    "an_id": "1567"
+  },
+  "Spillebout Violette": {
+    "an_id": "794486"
+  },
+  "Duby-Muller Virginie": {
+    "an_id": "608826"
+  },
+  "Pradié Aurélien": {
+    "an_id": "720100"
+  },
+  "Brun Fabrice": {
+    "an_id": "718838"
+  },
+  "Criaud Michel": {
+    "an_id": "794430"
+  },
+  "Midy Paul": {
+    "an_id": "795664"
+  },
+  "Rouaux Claudia": {
+    "an_id": "342196"
+  },
+  "Amirshahi Pouria": {
+    "an_id": "610968"
+  },
+  "Pahun Jimmy": {
+    "an_id": "720334"
+  },
+  "Brard Jean-Michel": {
+    "an_id": "841339"
+  },
+  "Delaporte Arthur": {
+    "an_id": "793394"
+  },
+  "Attal Gabriel": {
+    "an_id": "722190"
+  },
+  "Grenon Daniel": {
+    "an_id": "795540"
+  },
+  "Martin Alexandra": {
+    "an_id": "793342"
+  },
+  "Lachaud Bastien": {
+    "an_id": "720846"
+  },
+  "Bruneau Joël": {
+    "an_id": "840817"
+  },
+  "Brosse Anthony": {
+    "an_id": "794330"
+  },
+  "Ott Hubert": {
+    "an_id": "794830"
+  },
+  "Tavernier Boris": {
+    "an_id": "841713"
+  },
+  "Olive Karl": {
+    "an_id": "795722"
+  },
+  "Lecoq Jean-Paul": {
+    "an_id": "335612"
+  },
+  "Batho Delphine": {
+    "an_id": "335999"
+  },
+  "Bilongo Carlos Martens": {
+    "an_id": "795616"
+  },
+  "Mattei Jean-Paul": {
+    "an_id": "720728"
+  },
+  "Martineau Éric": {
+    "an_id": "795100"
+  },
+  "Melchior Graziella": {
+    "an_id": "719338"
+  },
+  "Croizier Laurent": {
+    "an_id": "793716"
+  },
+  "Mette Sophie": {
+    "an_id": "719640"
+  },
+  "Bernalicis Ugo": {
+    "an_id": "720430"
+  },
+  "Calvez Céline": {
+    "an_id": "721750"
+  },
+  "Wauquiez Laurent": {
+    "an_id": "267285"
+  },
+  "Bolo Philippe": {
+    "an_id": "720162"
+  },
+  "Violland Anne-Cécile": {
+    "an_id": "795026"
+  },
+  "Weissberg Christopher": {
+    "an_id": "795326"
+  },
+  "Bothorel Éric": {
+    "an_id": "642695"
+  },
+  "Buchou Stéphane": {
+    "an_id": "722000"
+  },
+  "Ciotti Éric": {
+    "an_id": "330240"
+  },
+  "Gumbs Frantz": {
+    "an_id": "795258"
+  },
+  "Legrain Sarah": {
+    "an_id": "791824"
+  },
+  "Juvin Philippe": {
+    "an_id": "346782"
+  },
+  "Hollande François": {
+    "an_id": "1654"
+  },
+  "Sicard Anne": {
+    "an_id": "842255"
+  },
+  "Poueyto Josy": {
+    "an_id": "720720"
+  },
+  "Ménagé Thomas": {
+    "an_id": "794322"
+  },
+  "Pfeffer Kévin": {
+    "an_id": "794582"
+  },
+  "Hetzel Patrick": {
+    "an_id": "608416"
+  },
+  "Cazenave Thomas": {
+    "an_id": "793940"
+  },
+  "Cernon Bérenger": {
+    "an_id": "842037"
+  },
+  "Santiago Isabelle": {
+    "an_id": "774960"
+  },
+  "Neuder Yannick": {
+    "an_id": "794038"
+  },
+  "Alloncle Charles": {
+    "an_id": "841207"
+  },
+  "Coulomme Jean-François": {
+    "an_id": "795136"
+  },
+  "Bonnecarrère Philippe": {
+    "an_id": "569"
+  },
+  "Muller Serge": {
+    "an_id": "793696"
+  },
+  "Naegelen Christophe": {
+    "an_id": "721486"
+  },
+  "Saint-Martin Arnaud": {
+    "an_id": "841845"
+  },
+  "Errante Sophie": {
+    "an_id": "607193"
+  },
+  "Bannier Géraldine": {
+    "an_id": "720256"
+  },
+  "Gérard Félicie": {
+    "an_id": "794470"
+  },
+  "Cadalen Pierre-Yves": {
+    "an_id": "841023"
+  },
+  "Cormier-Bouligeon François": {
+    "an_id": "719118"
+  },
+  "Maillot Frédéric": {
+    "an_id": "796010"
+  },
+  "Rodwell Charles": {
+    "an_id": "795528"
+  },
+  "Lopez-Liguori Aurélien": {
+    "an_id": "793904"
+  },
+  "Lorho Marie-France": {
+    "an_id": "721932"
+  },
+  "Davi Hendrik": {
+    "an_id": "793452"
+  },
+  "Panot Mathilde": {
+    "an_id": "720892"
+  },
+  "Le Pen Marine": {
+    "an_id": "720614"
+  },
+  "Auzanot Bénédicte": {
+    "an_id": "796118"
+  },
+  "Gosselin Philippe": {
+    "an_id": "266797"
+  },
+  "Castellani Michel": {
+    "an_id": "719138"
+  },
+  "Lechanteux Julie": {
+    "an_id": "796026"
+  },
+  "Aviragnet Joël": {
+    "an_id": "642764"
+  },
+  "Tjibaou Emmanuel": {
+    "an_id": "842299"
+  },
+  "Bataille Jean-Pierre": {
+    "an_id": "267763"
+  },
+  "Morel Louise": {
+    "an_id": "794810"
+  },
+  "Erodi Karen": {
+    "an_id": "795844"
+  },
+  "Martinez Michèle": {
+    "an_id": "794770"
+  },
+  "Bellay Béatrice": {
+    "an_id": "842211"
+  },
+  "Besse Véronique": {
+    "an_id": "309643"
+  },
+  "Baptiste Christian": {
+    "an_id": "643143"
+  },
+  "Labaronne Daniel": {
+    "an_id": "719798"
+  },
+  "Rousset Jean-François": {
+    "an_id": "793270"
+  },
+  "Favennec-Bécot Yannick": {
+    "an_id": "267042"
+  },
+  "Benbrahim Karim": {
+    "an_id": "841315"
+  },
+  "Loubet Alexandre": {
+    "an_id": "794590"
+  },
+  "Mazaury Laurent": {
+    "an_id": "841931"
+  },
+  "Da Conceicao Carvalho Nathalie": {
+    "an_id": "795644"
+  },
+  "Michelet Maxime": {
+    "an_id": "841395"
+  },
+  "Boucard Ian": {
+    "an_id": "721816"
+  },
+  "Bouyx Bertrand": {
+    "an_id": "719032"
+  },
+  "Jacobelli Laurent": {
+    "an_id": "794598"
+  },
+  "Portarrieu Jean-François": {
+    "an_id": "719528"
+  },
+  "Faucillon Elsa": {
+    "an_id": "721896"
+  },
+  "Panosyan-Bouvet Astrid": {
+    "an_id": "795050"
+  },
+  "Minard Christelle": {
+    "an_id": "643104"
+  },
+  "Guiniot Michel": {
+    "an_id": "794734"
+  },
+  "Monnier Thibaut": {
+    "an_id": "840915"
+  },
+  "Coquerel Éric": {
+    "an_id": "721202"
+  },
+  "Mesmeur Marie": {
+    "an_id": "841215"
+  },
+  "Chaix Bernard": {
+    "an_id": "840701"
+  },
+  "Vallaud Boris": {
+    "an_id": "719930"
+  },
+  "Stambach-Terrenoir Anne": {
+    "an_id": "793744"
+  },
+  "Le Nabour Christine": {
+    "an_id": "719756"
+  },
+  "Bergantz Anne": {
+    "an_id": "805166"
+  },
+  "Pochon Marie": {
+    "an_id": "793664"
+  },
+  "Amrani Farida": {
+    "an_id": "795588"
+  },
+  "Lingemann Delphine": {
+    "an_id": "794702"
+  },
+  "Valletoux Frédéric": {
+    "an_id": "795350"
+  },
+  "Liso Brigitte": {
+    "an_id": "720446"
+  },
+  "Lahmar Abdelkader": {
+    "an_id": "841729"
+  },
+  "Pouzyreff Natalia": {
+    "an_id": "721916"
+  },
+  "Le Bourgeois Robert": {
+    "an_id": "841837"
+  },
+  "Lepers Guillaume": {
+    "an_id": "695512"
+  },
+  "Gassilloud Thomas": {
+    "an_id": "722358"
+  },
+  "Colombani Paul-André": {
+    "an_id": "719286"
+  },
+  "Louwagie Véronique": {
+    "an_id": "608016"
+  },
+  "Borne Élisabeth": {
+    "an_id": "717161"
+  },
+  "Ronceret Anne-Sophie": {
+    "an_id": "841927"
+  },
+  "Seo Mikaele": {
+    "an_id": "757225"
+  },
+  "Magnier David": {
+    "an_id": "841587"
+  },
+  "Tanguy Jean-Philippe": {
+    "an_id": "795778"
+  },
+  "Marais-Beuil Claire": {
+    "an_id": "841563"
+  },
+  "Marchio Matthieu": {
+    "an_id": "794530"
+  },
+  "Rousseau Sandrine": {
+    "an_id": "795076"
+  },
+  "Viry Stéphane": {
+    "an_id": "721474"
+  },
+  "Capdevielle Colette": {
+    "an_id": "608264"
+  },
+  "Taurinya Andrée": {
+    "an_id": "794106"
+  },
+  "Yadan Caroline": {
+    "an_id": "795046"
+  },
+  "Kasbarian Guillaume": {
+    "an_id": "719372"
+  },
+  "Rossi Valérie": {
+    "an_id": "840673"
+  },
+  "Bénard Édouard": {
+    "an_id": "796106"
+  },
+  "Abadie-Amiel Audrey": {
+    "an_id": "793214"
+  },
+  "Meizonnet Nicolas": {
+    "an_id": "719436"
+  },
+  "Thiébault-Martinez Céline": {
+    "an_id": "841893"
+  },
+  "Rimbert Catherine": {
+    "an_id": "841981"
+  },
+  "Balage El Mariky Léa": {
+    "an_id": "841701"
+  },
+  "Genetet Anne": {
+    "an_id": "721024"
+  },
+  "Diaz Edwige": {
+    "an_id": "793928"
+  },
+  "Ricourt Vaginay Sophie": {
+    "an_id": "840657"
+  },
+  "Carbonnel Pierre-Henri": {
+    "an_id": "841973"
+  },
+  "Becht Olivier": {
+    "an_id": "642935"
+  },
+  "Tonussi Romain": {
+    "an_id": "840781"
+  },
+  "Chenu Sébastien": {
+    "an_id": "720468"
+  },
+  "Falcon Frédéric": {
+    "an_id": "793246"
+  },
+  "Meurin Pierre": {
+    "an_id": "793852"
+  },
+  "Henriet Pierre": {
+    "an_id": "722070"
+  },
+  "Belouassa-Cherifi Anaïs": {
+    "an_id": "841657"
+  },
+  "Belhaddad Belkhir": {
+    "an_id": "720362"
+  },
+  "Plassard Christophe": {
+    "an_id": "793572"
+  },
+  "Liégeon Eric": {
+    "an_id": "642725"
+  },
+  "Mauvieux Kévin": {
+    "an_id": "793616"
+  },
+  "Bonnet Sylvie": {
+    "an_id": "719968"
+  },
+  "Roy Sophie-Laurence": {
+    "an_id": "842097"
+  },
+  "Dupont Stella": {
+    "an_id": "643175"
+  },
+  "Pic Anna": {
+    "an_id": "794270"
+  },
+  "Marchive Bastien": {
+    "an_id": "795730"
+  },
+  "Ray Nicolas": {
+    "an_id": "793094"
+  },
+  "Mathiasin Max": {
+    "an_id": "720976"
+  },
+  "Sabatou Alexandre": {
+    "an_id": "794570"
+  },
+  "Hamelet Marine": {
+    "an_id": "795900"
+  },
+  "Chikirou Sophia": {
+    "an_id": "791812"
+  },
+  "Nury Jérôme": {
+    "an_id": "720644"
+  },
+  "Frébault Moerani": {
+    "an_id": "840235"
+  },
+  "Gillet Yoann": {
+    "an_id": "793832"
+  },
+  "Limongi Julien": {
+    "an_id": "841873"
+  },
+  "Dufau Peio": {
+    "an_id": "841633"
+  },
+  "Pena Marc": {
     "an_id": "840793"
+  },
+  "Blanc Sophie": {
+    "an_id": "794886"
+  },
+  "Ferracci Marc": {
+    "an_id": "795884"
+  },
+  "Dogor-Such Sandrine": {
+    "an_id": "794762"
+  },
+  "Alfandari Henri": {
+    "an_id": "793992"
+  },
+  "Lenoir Bartolomé": {
+    "an_id": "840983"
+  },
+  "Gokel Julien": {
+    "an_id": "841539"
+  },
+  "Lebec Marie": {
+    "an_id": "721852"
+  },
+  "Raux Jean-Claude": {
+    "an_id": "794154"
+  },
+  "Roussel Fabrice": {
+    "an_id": "841327"
+  },
+  "Gernigon François": {
+    "an_id": "794234"
+  },
+  "Sas Eva": {
+    "an_id": "610002"
+  },
+  "Tesson Thierry": {
+    "an_id": "841553"
+  },
+  "Colombier Caroline": {
+    "an_id": "793548"
+  },
+  "Dubré-Chirat Nicole": {
+    "an_id": "720154"
+  },
+  "Vos Frédéric-Pierre": {
+    "an_id": "841575"
+  },
+  "Ranc Angélique": {
+    "an_id": "793230"
+  },
+  "Saint-Paul Laetitia": {
+    "an_id": "720138"
+  },
+  "Gaillard Perceval": {
+    "an_id": "796070"
+  },
+  "Darrieussecq Geneviève": {
+    "an_id": "719914"
+  },
+  "Tanguy Liliana": {
+    "an_id": "719550"
+  },
+  "Bellamy Béatrice": {
+    "an_id": "795278"
+  },
+  "Panonacle Sophie": {
+    "an_id": "719632"
+  },
+  "Oziol Nathalie": {
+    "an_id": "793872"
+  },
+  "Brulebois Danielle": {
+    "an_id": "719890"
+  },
+  "Riester Franck": {
+    "an_id": "335758"
+  },
+  "Cazeneuve Pierre": {
+    "an_id": "795864"
+  },
+  "Huyghe Sébastien": {
+    "an_id": "267200"
+  },
+  "Castor Jean-Victor": {
+    "an_id": "795868"
+  },
+  "Lemaire Didier": {
+    "an_id": "794838"
+  },
+  "Ibled Catherine": {
+    "an_id": "795954"
+  },
+  "Sebaihi Sabrina": {
+    "an_id": "795808"
+  },
+  "Roullaud Béatrice": {
+    "an_id": "795410"
+  },
+  "Mazars Stéphane": {
+    "an_id": "677483"
+  },
+  "Blairy Emmanuel": {
+    "an_id": "720668"
+  },
+  "Obono Danièle": {
+    "an_id": "721960"
+  },
+  "Faure Olivier": {
+    "an_id": "609332"
+  },
+  "Diop Dieynaba": {
+    "an_id": "841919"
+  },
+  "Le Meur Annaïg": {
+    "an_id": "719388"
+  },
+  "Roumégas Jean-Louis": {
+    "an_id": "606545"
+  },
+  "Karamanli Marietta": {
+    "an_id": "335054"
+  },
+  "Barthès Christophe": {
+    "an_id": "793238"
+  },
+  "Lelouis Gisèle": {
+    "an_id": "793290"
+  },
+  "Vidal Annie": {
+    "an_id": "722102"
+  },
+  "Albertini Xavier": {
+    "an_id": "794278"
+  },
+  "Mélin Joëlle": {
+    "an_id": "793354"
+  },
+  "Battistel Marie-Noëlle": {
+    "an_id": "342415"
+  },
+  "Miller Laure": {
+    "an_id": "817203"
+  },
+  "Gustave Steevy": {
+    "an_id": "842013"
+  },
+  "Simion Arnaud": {
+    "an_id": "841091"
+  },
+  "Kerbrat Andy": {
+    "an_id": "794130"
+  },
+  "Barnier Michel": {
+    "an_id": "368"
+  },
+  "Bigot Guillaume": {
+    "an_id": "842001"
+  },
+  "Sother Thierry": {
+    "an_id": "841681"
+  },
+  "Duplessy Emmanuel": {
+    "an_id": "841351"
+  },
+  "Descoeur Vincent": {
+    "an_id": "330909"
+  },
+  "Gabarron Julien": {
+    "an_id": "841139"
+  },
+  "Fait Philippe": {
+    "an_id": "794658"
+  },
+  "Lalanne Sandrine": {
+    "an_id": "795390"
+  },
+  "Saint-Pasteur Sébastien": {
+    "an_id": "841243"
+  },
+  "Laporte Hélène": {
+    "an_id": "794354"
+  },
+  "Ozenne Julie": {
+    "an_id": "842045"
+  },
+  "Di Filippo Fabien": {
+    "an_id": "720386"
+  },
+  "Ludmann Véronique": {
+    "an_id": "794578"
+  },
+  "Corneloup Josiane": {
+    "an_id": "722390"
+  },
+  "Baumel Laurent": {
+    "an_id": "606793"
+  },
+  "Chenevard Yannick": {
+    "an_id": "795908"
+  },
+  "Martin Patrice": {
+    "an_id": "841825"
+  },
+  "Vigier Jean-Pierre": {
+    "an_id": "607090"
+  },
+  "Ballard Philippe": {
+    "an_id": "794562"
+  },
+  "Meunier Manon": {
+    "an_id": "795482"
+  },
+  "Hamdane Zahia": {
+    "an_id": "841947"
+  },
+  "Caron Aymeric": {
+    "an_id": "796090"
+  },
+  "Nosbé Sandrine": {
+    "an_id": "841191"
+  },
+  "Bonnet Nicolas": {
+    "an_id": "841507"
+  },
+  "Bourouaha Soumya": {
+    "an_id": "720838"
+  },
+  "Guitton Jordan": {
+    "an_id": "793218"
+  },
+  "Perez Thierry": {
+    "an_id": "841199"
+  },
+  "Lecamp Pascal": {
+    "an_id": "795374"
+  },
+  "Schreck Philippe": {
+    "an_id": "796050"
+  },
+  "Arnault Raphaël": {
+    "an_id": "842105"
+  },
+  "Joncour Tiffany": {
+    "an_id": "841749"
+  },
+  "Blanchet Christophe": {
+    "an_id": "719024"
+  },
+  "Marcangeli Laurent": {
+    "an_id": "605782"
+  },
+  "Fruchon Alix": {
+    "an_id": "841151"
+  },
+  "Berrios Sylvain": {
+    "an_id": "687214"
+  },
+  "Piron Béatrice": {
+    "an_id": "721844"
+  },
+  "Petit Maud": {
+    "an_id": "721234"
+  },
+  "Giletti Frank": {
+    "an_id": "796034"
+  },
+  "Cordier Pierre": {
+    "an_id": "718850"
+  },
+  "Portes Thomas": {
+    "an_id": "796062"
+  },
+  "Ben Cheikh Karim": {
+    "an_id": "795454"
+  },
+  "Salmon Emeric": {
+    "an_id": "794954"
+  },
+  "Lhardit Laurent": {
+    "an_id": "840765"
+  },
+  "Saulignac Hervé": {
+    "an_id": "340343"
+  },
+  "David Alain": {
+    "an_id": "1008"
+  },
+  "Christophle Paul": {
+    "an_id": "840903"
+  },
+  "Leboucher Élise": {
+    "an_id": "795108"
+  },
+  "Dragon Nicolas": {
+    "an_id": "793146"
+  },
+  "Florquin Guillaume": {
+    "an_id": "840143"
+  },
+  "Lioret René": {
+    "an_id": "840967"
+  },
+  "Tabarot Michèle": {
+    "an_id": "267794"
+  },
+  "Potier Dominique": {
+    "an_id": "607553"
+  },
+  "Courbon Pierrick": {
+    "an_id": "841295"
+  },
+  "Marion Christophe": {
+    "an_id": "794206"
+  },
+  "Hignet Mathilde": {
+    "an_id": "794082"
+  },
+  "Autain Clémentine": {
+    "an_id": "588884"
+  },
+  "Jolly Alexis": {
+    "an_id": "794030"
+  },
+  "Sansu Nicolas": {
+    "an_id": "605745"
+  },
+  "Bloch Matthieu": {
+    "an_id": "840889"
+  },
+  "Simonnet Danielle": {
+    "an_id": "796018"
+  },
+  "Maurel Emmanuel": {
+    "an_id": "842271"
+  },
+  "Valentin Antoine": {
+    "an_id": "878242"
+  },
+  "Grelier Jean-Carles": {
+    "an_id": "267318"
+  },
+  "Barusseau Fabrice": {
+    "an_id": "840829"
+  },
+  "Brocard Blandine": {
+    "an_id": "721336"
+  },
+  "Travert Stéphane": {
+    "an_id": "607395"
+  },
+  "Rauch Isabelle": {
+    "an_id": "720552"
+  },
+  "Bouloux Mickaël": {
+    "an_id": "794094"
+  },
+  "Benoit Thierry": {
+    "an_id": "332228"
+  },
+  "Delannoy Sandra": {
+    "an_id": "840119"
+  },
+  "Bernhardt Théo": {
+    "an_id": "841645"
+  },
+  "Villedieu Antoine": {
+    "an_id": "794946"
+  },
+  "Maximi Marianne": {
+    "an_id": "794686"
+  },
+  "Blanchard Benoît": {
+    "an_id": "842183"
+  },
+  "Ramos Richard": {
+    "an_id": "720092"
+  },
+  "Dalloz Marie-Christine": {
+    "an_id": "332523"
+  },
+  "Bony Jean-Yves": {
+    "an_id": "266793"
+  },
+  "Kervran Loïc": {
+    "an_id": "719052"
+  },
+  "Hadizadeh Ayda": {
+    "an_id": "842263"
+  },
+  "Chudeau Roger": {
+    "an_id": "794198"
+  },
+  "Beaurain José": {
+    "an_id": "793158"
+  },
+  "Got Pascale": {
+    "an_id": "331973"
+  },
+  "Turquois Nicolas": {
+    "an_id": "722162"
+  },
+  "Bourgeaux Jean-Luc": {
+    "an_id": "342240"
+  },
+  "Bex Christophe": {
+    "an_id": "793772"
+  },
+  "Pantel Sophie": {
+    "an_id": "841381"
+  },
+  "Lam Thomas": {
+    "an_id": "842125"
+  },
+  "Dussausaye Gaëtan": {
+    "an_id": "842073"
+  },
+  "Fesneau Marc": {
+    "an_id": "719938"
+  },
+  "Maillard Sylvain": {
+    "an_id": "717379"
+  },
+  "Dirx Benjamin": {
+    "an_id": "722382"
+  },
+  "Lejeune Claire": {
+    "an_id": "842029"
+  },
+  "Godard Océane": {
+    "an_id": "840939"
+  },
+  "Magnier Lise": {
+    "an_id": "720230"
+  },
+  "Berville Hervé": {
+    "an_id": "719218"
+  },
+  "Verny Gérault": {
+    "an_id": "840809"
+  },
+  "Lechon Nadine": {
+    "an_id": "840857"
+  },
+  "Chavent Marc": {
+    "an_id": "840721"
+  },
+  "Martin Élisa": {
+    "an_id": "342384"
+  },
+  "Peytavie Sébastien": {
+    "an_id": "793708"
+  },
+  "Fournier Charles": {
+    "an_id": "793980"
+  },
+  "Létard Valérie": {
+    "an_id": "227089"
+  },
+  "Markowsky Pascal": {
+    "an_id": "840837"
+  },
+  "Ménaché Yaël": {
+    "an_id": "795786"
+  },
+  "Vigier Philippe": {
+    "an_id": "331582"
+  },
+  "Guibert Julien": {
+    "an_id": "841451"
+  },
+  "Daubié Romain": {
+    "an_id": "793122"
+  },
+  "Tavel Matthias": {
+    "an_id": "794166"
+  },
+  "Serva Olivier": {
+    "an_id": "720960"
+  },
+  "Carrière Sylvain": {
+    "an_id": "793912"
+  },
+  "Cathala Gabrielle": {
+    "an_id": "842187"
+  },
+  "Lucas-Lundy Benjamin": {
+    "an_id": "795636"
+  },
+  "Parmentier Caroline": {
+    "an_id": "794670"
+  },
+  "Thiébaut Vincent": {
+    "an_id": "722336"
+  },
+  "Boyard Louis": {
+    "an_id": "795318"
+  },
+  "Klinkert Brigitte": {
+    "an_id": "643184"
+  },
+  "Sitzenstuhl Charles": {
+    "an_id": "794802"
+  },
+  "Lavalette Laure": {
+    "an_id": "795912"
+  },
+  "William Jiovanny": {
+    "an_id": "720992"
+  },
+  "Monnet Yannick": {
+    "an_id": "793174"
+  },
+  "Youssouffa Estelle": {
+    "an_id": "796078"
+  },
+  "Fégné Denis": {
+    "an_id": "841665"
+  },
+  "Firmin Le Bodo Agnès": {
+    "an_id": "267780"
+  },
+  "Voynet Dominique": {
+    "an_id": "2940"
+  },
+  "Roseren Xavier": {
+    "an_id": "721458"
+  },
+  "Causse Lionel": {
+    "an_id": "719922"
+  },
+  "Amard Gabriel": {
+    "an_id": "794906"
+  },
+  "Naillet Philippe": {
+    "an_id": "643157"
+  },
+  "Warsmann Jean-Luc": {
+    "an_id": "2952"
+  },
+  "Thierry Nicolas": {
+    "an_id": "793948"
+  },
+  "Lepvraud Murielle": {
+    "an_id": "793532"
+  },
+  "Ratenon Jean-Hugues": {
+    "an_id": "721062"
+  },
+  "Pauget Éric": {
+    "an_id": "718784"
+  },
+  "Garin Marie-Charlotte": {
+    "an_id": "795010"
+  },
+  "Bentz Christophe": {
+    "an_id": "794434"
+  },
+  "Grégoire Olivia": {
+    "an_id": "721764"
+  },
+  "Ruffin François": {
+    "an_id": "722142"
+  },
+  "Vermorel-Marques Antoine": {
+    "an_id": "794118"
+  },
+  "Amiot Ségolène": {
+    "an_id": "794138"
+  },
+  "Soudais Ersilia": {
+    "an_id": "795466"
+  },
+  "Metzdorf Nicolas": {
+    "an_id": "795176"
+  },
+  "Marsaud Sandra": {
+    "an_id": "719080"
+  },
+  "Vuibert Lionel": {
+    "an_id": "793194"
+  },
+  "Casterman Eddy": {
+    "an_id": "840075"
+  },
+  "Chatelain Cyrielle": {
+    "an_id": "794008"
+  },
+  "Guetté Clémence": {
+    "an_id": "795310"
+  },
+  "Legavre Jérôme": {
+    "an_id": "795298"
+  },
+  "Josserand Sylvie": {
+    "an_id": "841075"
+  },
+  "Herouin-Léautey Florence": {
+    "an_id": "841813"
+  },
+  "Feld Mathilde": {
+    "an_id": "841251"
+  },
+  "Larrouquis Benoît": {
+    "an_id": "795334"
+  },
+  "de Lépinau Hervé": {
+    "an_id": "642988"
+  },
+  "Mansouri Hanane": {
+    "an_id": "841183"
+  },
+  "Humbert Sébastien": {
+    "an_id": "842085"
+  },
+  "Jacques Jean-Michel": {
+    "an_id": "720354"
+  },
+  "Taite Jean-Pierre": {
+    "an_id": "794178"
+  },
+  "Hervieu Catherine": {
+    "an_id": "840947"
+  },
+  "de Courson Charles": {
+    "an_id": "942"
+  },
+  "de Pélichy Constance": {
+    "an_id": "841359"
+  },
+  "Delautrette Stéphane": {
+    "an_id": "795430"
+  },
+  "Bazin Thibault": {
+    "an_id": "642847"
+  },
+  "Gruet Justine": {
+    "an_id": "794058"
+  },
+  "Dive Julien": {
+    "an_id": "712015"
+  },
+  "Brugerolles Julien": {
+    "an_id": "794710"
+  },
+  "Goulet Florence": {
+    "an_id": "794418"
+  },
+  "Bonnivard Émilie": {
+    "an_id": "721410"
+  },
+  "Levavasseur Katiana": {
+    "an_id": "793608"
   }
 }
