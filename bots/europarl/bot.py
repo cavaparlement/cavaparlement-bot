@@ -43,7 +43,6 @@ API_HEADERS = {
     "Accept": "application/ld+json",
 }
 
-ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 SESSION  = make_session()
 
 
@@ -123,70 +122,66 @@ def get_french_meps() -> dict:
 
 # ─── Récupération des assistants ──────────────────────────────────────────────
 
-def _parse_assistants_table(soup: BeautifulSoup) -> list:
+def _parse_mep_assistants_page(soup: BeautifulSoup) -> list:
+    """
+    Parse la page /assistants d'un MEP individuel.
+    Essaie plusieurs structures HTML connues du site EP.
+    """
     results = []
-    table = soup.find("table")
-    if not table:
-        return results
-    for row in table.find_all("tr")[1:]:
-        cols = row.find_all("td")
-        if len(cols) < 3:
-            continue
-        assistant_name = cols[0].get_text(separator=" ", strip=True)
-        assistant_type = cols[1].get_text(separator=" ", strip=True)
-        mep_ids = []
-        for a in cols[2].find_all("a", href=True):
-            m = re.search(r"/meps/en/(\d+)", a["href"])
-            if m:
-                mep_ids.append(m.group(1))
-        if assistant_name and mep_ids:
-            results.append({"name": assistant_name, "type": assistant_type, "mep_ids": mep_ids})
+
+    # Structure principale : blocs par type d'assistant
+    for section in soup.select("div.erpl_mep-assistants-type, div.ep_gridrow"):
+        type_el   = section.select_one("h3, span.erpl_mep-assistants-type-title, strong")
+        type_text = type_el.get_text(strip=True) if type_el else "Assistant"
+        for item in section.select("li, div.erpl_mep-assistants-name, span.ep_name"):
+            name = item.get_text(strip=True)
+            if name and name != type_text:
+                results.append({"name": name, "type": type_text})
+
+    # Fallback : table classique
+    if not results:
+        table = soup.find("table")
+        if table:
+            for row in table.find_all("tr")[1:]:
+                cols = row.find_all("td")
+                if len(cols) >= 2:
+                    name      = cols[0].get_text(strip=True)
+                    type_text = cols[1].get_text(strip=True)
+                    if name:
+                        results.append({"name": name, "type": type_text})
+
     return results
 
 
-def _fetch_assistants_for_letter(letter: str, offset: int = 0):
-    url = f"{EP_SITE_BASE}/meps/en/assistants"
-    params = {"letter": letter, "searchType": "BY_ASSISTANT", "assistantType": "", "name": ""}
-    if offset > 0:
-        params["offset"] = offset
-    try:
-        resp = SESSION.get(url, params=params, headers=HEADERS, timeout=60)
-        resp.raise_for_status()
-    except Exception as e:
-        print(f"  [ERREUR] Lettre {letter} offset {offset} : {e}")
-        return [], False
-    soup     = BeautifulSoup(resp.text, "html.parser")
-    rows     = _parse_assistants_table(soup)
-    has_more = bool(soup.find(string=re.compile(r"Load more", re.I)))
-    return rows, has_more
+def get_assistants_for_mep(mep_id: str) -> list:
+    """
+    Scrape la page assistants d'un MEP via son ID.
+    URL pattern : /meps/en/{mep_id}/HOME/assistants
+    """
+    url = f"{EP_SITE_BASE}/meps/en/{mep_id}/HOME/assistants"
+    for attempt in range(1, 4):
+        try:
+            resp = SESSION.get(url, headers=HEADERS, timeout=30)
+            resp.raise_for_status()
+            return _parse_mep_assistants_page(BeautifulSoup(resp.text, "html.parser"))
+        except Exception as e:
+            if attempt < 3:
+                time.sleep(5 * attempt)
+            else:
+                print(f"  [ERREUR] MEP {mep_id} : {e}")
+                return []
 
 
 def get_all_assistants_by_mep(french_mep_ids: set) -> dict:
-    print("-> Scan des assistants (A-Z)...")
-    mep_to_assistants = {mid: [] for mid in french_mep_ids}
-    seen = set()
-    for letter in ALPHABET:
-        offset, has_more, page_num = 0, True, 0
-        while has_more:
-            rows, has_more = _fetch_assistants_for_letter(letter, offset)
-            page_num += 1
-            for row in rows:
-                for mep_id in row["mep_ids"]:
-                    if mep_id in french_mep_ids:
-                        key = (row["name"], row["type"], mep_id)
-                        if key not in seen:
-                            seen.add(key)
-                            mep_to_assistants[mep_id].append(
-                                {"name": row["name"], "type": row["type"]}
-                            )
-            if not rows or page_num > 30:
-                break
-            if has_more:
-                offset += 10
-                time.sleep(0.3)
-        time.sleep(0.2)
+    print(f"-> Scraping des pages assistants ({len(french_mep_ids)} MEPs)...")
+    mep_to_assistants = {}
+    for i, mep_id in enumerate(sorted(french_mep_ids), 1):
+        assistants = get_assistants_for_mep(mep_id)
+        mep_to_assistants[mep_id] = assistants
+        print(f"  [{i}/{len(french_mep_ids)}] MEP {mep_id} : {len(assistants)} assistant(s)")
+        time.sleep(0.5)
     total = sum(len(v) for v in mep_to_assistants.values())
-    print(f"  {total} entrées trouvées pour les eurodéputés français")
+    print(f"  {total} entrées trouvées au total")
     return mep_to_assistants
 
 
