@@ -31,3 +31,6 @@ jobs:
           git add data/senat/ data/photos/senat/
           git diff --cached --quiet || git commit -m "chore(senat): update data [skip ci]"
           git push
+
+      - name: Trigger Vercel redeploy
+        run: curl -s -X POST "https://api.vercel.com/v1/integrations/deploy/prj_3CtAIr5AZJyK3A3mOolVd005y22K/ZBCNbJNAM9"
