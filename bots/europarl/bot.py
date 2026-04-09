@@ -44,14 +44,15 @@ SESSION  = make_session()
 
 def get_french_meps() -> dict:
     """
-    Récupère les eurodéputés français depuis la page HTML full-list du site EP.
-    Beaucoup plus fiable que l'API Open Data qui timeout fréquemment.
+    Récupère les eurodéputés français depuis la page de recherche EP filtrée sur FR.
+    Structure : div.es_member-list-item[id="member-block-{id}"]
     """
-    print("-> Récupération des eurodéputés français via full-list EP...")
-    url = f"{EP_SITE_BASE}/meps/en/full-list/html"
+    print("-> Récupération des eurodéputés français (search EP)...")
+    url    = f"{EP_SITE_BASE}/meps/en/search/advanced"
+    params = {"countryCode": "FR", "leg": "10"}
     for attempt in range(1, 4):
         try:
-            resp = SESSION.get(url, headers=HEADERS, timeout=30)
+            resp = SESSION.get(url, params=params, headers=HEADERS, timeout=30)
             resp.raise_for_status()
             break
         except Exception as e:
@@ -61,32 +62,15 @@ def get_french_meps() -> dict:
             else:
                 raise
 
-    soup  = BeautifulSoup(resp.text, "html.parser")
-    meps  = {}
+    soup = BeautifulSoup(resp.text, "html.parser")
+    meps = {}
 
-    for card in soup.select("div.erpl_member-list-item"):
-        # ID depuis le lien
-        link  = card.select_one("a[href*='/meps/en/']")
-        if not link:
-            continue
-        m = re.search(r"/meps/en/(\d+)/", link["href"])
-        if not m:
-            continue
-        mep_id = m.group(1)
-
-        # Pays : on filtre sur la France
-        country = card.select_one("span.erpl_member-list-item-country")
-        if not country or "France" not in country.get_text():
-            continue
-
-        # Nom
-        name_el = card.select_one("span.erpl_member-list-item-name, .erpl_title-h5")
-        mep_name = name_el.get_text(strip=True) if name_el else f"MEP#{mep_id}"
-
-        # Groupe
-        group_el = card.select_one("span.erpl_member-list-item-group")
+    for card in soup.select("div.es_member-list-item[id^='member-block-']"):
+        mep_id   = card["id"].replace("member-block-", "")
+        name_el  = card.select_one("div.es_title-h4")
+        group_el = card.select_one("span.sln-additional-info")
+        mep_name  = name_el.get_text(strip=True)  if name_el  else f"MEP#{mep_id}"
         group_key = group_el.get_text(strip=True) if group_el else ""
-
         meps[mep_id] = {"name": mep_name, "group": group_key}
 
     print(f"  {len(meps)} eurodéputés français trouvés")
