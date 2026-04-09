@@ -1,0 +1,1222 @@
+{
+  "jorys bovet": {
+    "handle": "jorysb3.bsky.social",
+    "nom": "Jorys Bovet",
+    "chambre": "assemblee"
+  },
+  "constance de pelichy": {
+    "handle": "cdepelichy.bsky.social",
+    "nom": "Constance de Pélichy",
+    "chambre": "assemblee"
+  },
+  "elsa faucillon": {
+    "handle": "elsafaucillon.bsky.social",
+    "nom": "Elsa Faucillon",
+    "chambre": "assemblee"
+  },
+  "yoann gillet": {
+    "handle": "yoanngillet30.bsky.social",
+    "nom": "Yoann Gillet",
+    "chambre": "assemblee"
+  },
+  "guillaume lepers": {
+    "handle": "lepers.bsky.social",
+    "nom": "Guillaume Lepers",
+    "chambre": "assemblee"
+  },
+  "sylvain maillard": {
+    "handle": "sylvain-maillard.bsky.social",
+    "nom": "Sylvain Maillard",
+    "chambre": "assemblee"
+  },
+  "christophe plassard": {
+    "handle": "cplassard.bsky.social",
+    "nom": "Christophe Plassard",
+    "chambre": "assemblee"
+  },
+  "jeanfrancois portarrieu": {
+    "handle": "jfportarrieu.bsky.social",
+    "nom": "Jean-François Portarrieu",
+    "chambre": "assemblee"
+  },
+  "davy rimane": {
+    "handle": "davyrimane.bsky.social",
+    "nom": "Davy Rimane",
+    "chambre": "assemblee"
+  },
+  "sebastien huyghe": {
+    "handle": "sebastienhuyghe.bsky.social",
+    "nom": "Sébastien Huyghe",
+    "chambre": "assemblee"
+  },
+  "bertrand pancher": {
+    "handle": "bertrandpancher.bsky.social",
+    "nom": "Bertrand Pancher",
+    "chambre": "assemblee"
+  },
+  "nicolas sansu": {
+    "handle": "nicolas-sansu.bsky.social",
+    "nom": "Nicolas Sansu",
+    "chambre": "assemblee"
+  },
+  "andre chassaigne": {
+    "handle": "andrechassaigne.bsky.social",
+    "nom": "André Chassaigne",
+    "chambre": "assemblee"
+  },
+  "catherine hervieu": {
+    "handle": "cathervieu.bsky.social",
+    "nom": "Catherine Hervieu",
+    "chambre": "assemblee"
+  },
+  "christine arrighi": {
+    "handle": "christinearrighi.bsky.social",
+    "nom": "Christine Arrighi",
+    "chambre": "assemblee"
+  },
+  "delphine batho": {
+    "handle": "delphinebatho.bsky.social",
+    "nom": "Delphine Batho",
+    "chambre": "assemblee"
+  },
+  "jeanlouis roumegas": {
+    "handle": "jeanlouisroumegas.bsky.social",
+    "nom": "Jean-Louis Roumégas",
+    "chambre": "assemblee"
+  },
+  "clementine autain": {
+    "handle": "clementineautain.bsky.social",
+    "nom": "Clémentine Autain",
+    "chambre": "assemblee"
+  },
+  "marie pochon": {
+    "handle": "mariepochon.fr",
+    "nom": "Marie Pochon",
+    "chambre": "assemblee"
+  },
+  "julie ozenne": {
+    "handle": "julieozenne.bsky.social",
+    "nom": "Julie Ozenne",
+    "chambre": "assemblee"
+  },
+  "arnaud bonnet": {
+    "handle": "arnaud-bonnet.bsky.social",
+    "nom": "Arnaud Bonnet",
+    "chambre": "assemblee"
+  },
+  "danielle simonnet": {
+    "handle": "daniellesimonnet.fr",
+    "nom": "Danielle Simonnet",
+    "chambre": "assemblee"
+  },
+  "tristan lahais": {
+    "handle": "tristanlahais.fr",
+    "nom": "Tristan Lahais",
+    "chambre": "assemblee"
+  },
+  "damien girard": {
+    "handle": "damiengirard.bsky.social",
+    "nom": "Damien Girard",
+    "chambre": "assemblee"
+  },
+  "lea balage el mariky": {
+    "handle": "leabalage.bsky.social",
+    "nom": "Léa Balage El Mariky",
+    "chambre": "assemblee"
+  },
+  "sophie taillepolian": {
+    "handle": "sophietaillepolian.bsky.social",
+    "nom": "Sophie Taillé-Polian",
+    "chambre": "assemblee"
+  },
+  "sabrina sebaihi": {
+    "handle": "sabrinasebaihi.bsky.social",
+    "nom": "Sabrina Sebaihi",
+    "chambre": "assemblee"
+  },
+  "eva sas": {
+    "handle": "eva-sas.fr",
+    "nom": "Eva Sas",
+    "chambre": "assemblee"
+  },
+  "sandra regol": {
+    "handle": "sandraregol.bsky.social",
+    "nom": "Sandra Regol",
+    "chambre": "assemblee"
+  },
+  "julie laernoes": {
+    "handle": "julielaernoes.bsky.social",
+    "nom": "Julie Laernoes",
+    "chambre": "assemblee"
+  },
+  "lisa belluco": {
+    "handle": "lisabelluco.bsky.social",
+    "nom": "Lisa Belluco",
+    "chambre": "assemblee"
+  },
+  "francois ruffin": {
+    "handle": "francoisruffin.fr",
+    "nom": "François Ruffin",
+    "chambre": "assemblee"
+  },
+  "mariecharlotte garin": {
+    "handle": "mcgarin.bsky.social",
+    "nom": "Marie-Charlotte Garin",
+    "chambre": "assemblee"
+  },
+  "sandrine rousseau": {
+    "handle": "sandrousseau.bsky.social",
+    "nom": "Sandrine Rousseau",
+    "chambre": "assemblee"
+  },
+  "cyrielle chatelain": {
+    "handle": "cyriellechatelain.fr",
+    "nom": "Cyrielle Chatelain",
+    "chambre": "assemblee"
+  },
+  "laurent lhardit": {
+    "handle": "laurent-lhardit.bsky.social",
+    "nom": "Laurent Lhardit",
+    "chambre": "assemblee"
+  },
+  "laurent baumel": {
+    "handle": "laurentbaumel.bsky.social",
+    "nom": "Laurent Baumel",
+    "chambre": "assemblee"
+  },
+  "anna pic": {
+    "handle": "annapic.fr",
+    "nom": "Anna Pic",
+    "chambre": "assemblee"
+  },
+  "ayda hadizadeh": {
+    "handle": "aydahadi.bsky.social",
+    "nom": "Ayda Hadizadeh",
+    "chambre": "assemblee"
+  },
+  "florence herouin leautey": {
+    "handle": "fleautey.bsky.social",
+    "nom": "Florence Herouin Léautey",
+    "chambre": "assemblee"
+  },
+  "claudia rouaux": {
+    "handle": "claudiarouaux.bsky.social",
+    "nom": "Claudia Rouaux",
+    "chambre": "assemblee"
+  },
+  "fabrice roussel": {
+    "handle": "froussel44240.bsky.social",
+    "nom": "Fabrice Roussel",
+    "chambre": "assemblee"
+  },
+  "roger vicot": {
+    "handle": "rogervicot.bsky.social",
+    "nom": "Roger Vicot",
+    "chambre": "assemblee"
+  },
+  "fanny dombrecoste": {
+    "handle": "fannydombrecoste.bsky.social",
+    "nom": "Fanny Dombre-Coste",
+    "chambre": "assemblee"
+  },
+  "thierry sother": {
+    "handle": "thierrysother.bsky.social",
+    "nom": "Thierry Sother",
+    "chambre": "assemblee"
+  },
+  "chantal jourdan": {
+    "handle": "chantaljourdan.bsky.social",
+    "nom": "Chantal Jourdan",
+    "chambre": "assemblee"
+  },
+  "celine hervieu": {
+    "handle": "celinehervieu.bsky.social",
+    "nom": "Céline Hervieu",
+    "chambre": "assemblee"
+  },
+  "joel aviragnet": {
+    "handle": "joelaviragnet.bsky.social",
+    "nom": "Joël Aviragnet",
+    "chambre": "assemblee"
+  },
+  "paul christophle": {
+    "handle": "paulchristophle.bsky.social",
+    "nom": "Paul Christophle",
+    "chambre": "assemblee"
+  },
+  "jacques oberti": {
+    "handle": "jacquesoberti.bsky.social",
+    "nom": "Jacques Oberti",
+    "chambre": "assemblee"
+  },
+  "sandrine runel": {
+    "handle": "sandrinerunel.bsky.social",
+    "nom": "Sandrine Runel",
+    "chambre": "assemblee"
+  },
+  "estelle mercier": {
+    "handle": "estellemercieran.bsky.social",
+    "nom": "Estelle Mercier",
+    "chambre": "assemblee"
+  },
+  "francois hollande": {
+    "handle": "fhollande.bsky.social",
+    "nom": "François Hollande",
+    "chambre": "assemblee"
+  },
+  "stephane delautrette": {
+    "handle": "sdelautrette.bsky.social",
+    "nom": "Stéphane Delautrette",
+    "chambre": "assemblee"
+  },
+  "arnaud simion": {
+    "handle": "arnaudsimion.bsky.social",
+    "nom": "Arnaud Simion",
+    "chambre": "assemblee"
+  },
+  "fatiha keloua hachi": {
+    "handle": "kelouaf.bsky.social",
+    "nom": "Fatiha Keloua Hachi",
+    "chambre": "assemblee"
+  },
+  "melanie thomin": {
+    "handle": "melaniethomin.bsky.social",
+    "nom": "Mélanie Thomin",
+    "chambre": "assemblee"
+  },
+  "inaki echaniz": {
+    "handle": "inakiechaniz.bsky.social",
+    "nom": "Iñaki Echaniz",
+    "chambre": "assemblee"
+  },
+  "marienoelle battistel": {
+    "handle": "mnbattistel.bsky.social",
+    "nom": "Marie-Noëlle Battistel",
+    "chambre": "assemblee"
+  },
+  "alain david": {
+    "handle": "alaindavid.bsky.social",
+    "nom": "Alain David",
+    "chambre": "assemblee"
+  },
+  "peio dufau": {
+    "handle": "peiodufau.bsky.social",
+    "nom": "Peio Dufau",
+    "chambre": "assemblee"
+  },
+  "christine pires beaune": {
+    "handle": "c-piresbeaune.bsky.social",
+    "nom": "Christine Pirès Beaune",
+    "chambre": "assemblee"
+  },
+  "pierre pribetich": {
+    "handle": "pierrepribetich.bsky.social",
+    "nom": "Pierre Pribetich",
+    "chambre": "assemblee"
+  },
+  "herve saulignac": {
+    "handle": "hsaulignac.bsky.social",
+    "nom": "Hervé Saulignac",
+    "chambre": "assemblee"
+  },
+  "celine thiebauldmartinez": {
+    "handle": "thiebaultceline.bsky.social",
+    "nom": "Céline Thiébauld-Martinez",
+    "chambre": "assemblee"
+  },
+  "romain eskenazi": {
+    "handle": "romaineskenazi.bsky.social",
+    "nom": "Romain Eskenazi",
+    "chambre": "assemblee"
+  },
+  "dominique potier": {
+    "handle": "dominiquepotier.bsky.social",
+    "nom": "Dominique Potier",
+    "chambre": "assemblee"
+  },
+  "isabelle santiago": {
+    "handle": "isadef-enf94.bsky.social",
+    "nom": "Isabelle Santiago",
+    "chambre": "assemblee"
+  },
+  "beatrice bellay": {
+    "handle": "beabellay972.bsky.social",
+    "nom": "Béatrice Bellay",
+    "chambre": "assemblee"
+  },
+  "philippe brun": {
+    "handle": "philippebrun.bsky.social",
+    "nom": "Philippe Brun",
+    "chambre": "assemblee"
+  },
+  "valerie rossi": {
+    "handle": "vrossi-deputee05.bsky.social",
+    "nom": "Valérie Rossi",
+    "chambre": "assemblee"
+  },
+  "mathilde panot": {
+    "handle": "mathildepanot.bsky.social",
+    "nom": "Mathilde Panot",
+    "chambre": "assemblee"
+  },
+  "andree taurinya": {
+    "handle": "andreetaurinya.bsky.social",
+    "nom": "Andrée Taurinya",
+    "chambre": "assemblee"
+  },
+  "raphael arnault": {
+    "handle": "arnaultraphael.bsky.social",
+    "nom": "Raphaël Arnault",
+    "chambre": "assemblee"
+  },
+  "clemence guette": {
+    "handle": "clemenceguette.bsky.social",
+    "nom": "Clémence Guetté",
+    "chambre": "assemblee"
+  },
+  "gabrielle cathala": {
+    "handle": "gabriellecthl.bsky.social",
+    "nom": "Gabrielle Cathala",
+    "chambre": "assemblee"
+  },
+  "mathilde feld": {
+    "handle": "mathildefeld.bsky.social",
+    "nom": "Mathilde Feld",
+    "chambre": "assemblee"
+  },
+  "anais belouassacherifi": {
+    "handle": "anaisbelouassa.bsky.social",
+    "nom": "Anaïs Belouassa-Cherifi",
+    "chambre": "assemblee"
+  },
+  "zahia hamdane": {
+    "handle": "zahiahamdane.bsky.social",
+    "nom": "Zahia Hamdane",
+    "chambre": "assemblee"
+  },
+  "jerome legavre": {
+    "handle": "legavrejerome.bsky.social",
+    "nom": "Jérôme Legavre",
+    "chambre": "assemblee"
+  },
+  "elise leboucher": {
+    "handle": "eliseleboucher.bsky.social",
+    "nom": "Élise Leboucher",
+    "chambre": "assemblee"
+  },
+  "nathalie oziol": {
+    "handle": "nathalieoziol.bsky.social",
+    "nom": "Nathalie Oziol",
+    "chambre": "assemblee"
+  },
+  "marie mesmeur": {
+    "handle": "mariemesmeur.bsky.social",
+    "nom": "Marie Mesmeur",
+    "chambre": "assemblee"
+  },
+  "mathilde hignet": {
+    "handle": "mathilde-hignet.bsky.social",
+    "nom": "Mathilde Hignet",
+    "chambre": "assemblee"
+  },
+  "berenger cernon": {
+    "handle": "slappy-w.bsky.social",
+    "nom": "Bérenger Cernon",
+    "chambre": "assemblee"
+  },
+  "hadrien clouet": {
+    "handle": "hadrienclouet.bsky.social",
+    "nom": "Hadrien Clouet",
+    "chambre": "assemblee"
+  },
+  "marianne maximi": {
+    "handle": "mariannemaximi.bsky.social",
+    "nom": "Marianne Maximi",
+    "chambre": "assemblee"
+  },
+  "aurelie trouve": {
+    "handle": "trouveaurelie.bsky.social",
+    "nom": "Aurélie Trouvé",
+    "chambre": "assemblee"
+  },
+  "nadege abomangoli": {
+    "handle": "nadege-abomangoli.bsky.social",
+    "nom": "Nadège Abomangoli",
+    "chambre": "assemblee"
+  },
+  "anne stambachterrenoir": {
+    "handle": "annestambach.bsky.social",
+    "nom": "Anne Stambach-Terrenoir",
+    "chambre": "assemblee"
+  },
+  "segolene amiot": {
+    "handle": "segoleneamiot.bsky.social",
+    "nom": "Ségolène Amiot",
+    "chambre": "assemblee"
+  },
+  "manon meunier": {
+    "handle": "manonmeunier.bsky.social",
+    "nom": "Manon Meunier",
+    "chambre": "assemblee"
+  },
+  "sandrine nosbe": {
+    "handle": "snosbe.bsky.social",
+    "nom": "Sandrine Nosbé",
+    "chambre": "assemblee"
+  },
+  "damien maudet": {
+    "handle": "damienmaudet.bsky.social",
+    "nom": "Damien Maudet",
+    "chambre": "assemblee"
+  },
+  "alma dufour": {
+    "handle": "almadufour.bsky.social",
+    "nom": "Alma Dufour",
+    "chambre": "assemblee"
+  },
+  "murielle lepvraud": {
+    "handle": "muriellelepvraud.bsky.social",
+    "nom": "Murielle Lepvraud",
+    "chambre": "assemblee"
+  },
+  "ersilia soudais": {
+    "handle": "ersiliasoudais.bsky.social",
+    "nom": "Ersilia Soudais",
+    "chambre": "assemblee"
+  },
+  "sylvie ferrer": {
+    "handle": "sylvieferrer.bsky.social",
+    "nom": "Sylvie Ferrer",
+    "chambre": "assemblee"
+  },
+  "rene pilato": {
+    "handle": "renepilato.bsky.social",
+    "nom": "René Pilato",
+    "chambre": "assemblee"
+  },
+  "laurent alexandre": {
+    "handle": "deputealexandre.bsky.social",
+    "nom": "Laurent Alexandre",
+    "chambre": "assemblee"
+  },
+  "jeanclaude raux": {
+    "handle": "jeanclauderaux.fr",
+    "nom": "Jean-Claude Raux",
+    "chambre": "assemblee"
+  },
+  "arthur delaporte": {
+    "handle": "arthurdelaporte.bsky.social",
+    "nom": "Arthur Delaporte",
+    "chambre": "assemblee"
+  },
+  "nicolas bonnet": {
+    "handle": "nicolasbonnet.fr",
+    "nom": "Nicolas Bonnet",
+    "chambre": "assemblee"
+  },
+  "idir boumertit": {
+    "handle": "idirboumertit.bsky.social",
+    "nom": "Idir Boumertit",
+    "chambre": "assemblee"
+  },
+  "sacha houlie": {
+    "handle": "sachahoulie.bsky.social",
+    "nom": "Sacha Houlié",
+    "chambre": "assemblee"
+  },
+  "sebastien peytavie": {
+    "handle": "peytavie.fr",
+    "nom": "Sébastien Peytavie",
+    "chambre": "assemblee"
+  },
+  "gabriel amard": {
+    "handle": "gabrielamard.bsky.social",
+    "nom": "Gabriel Amard",
+    "chambre": "assemblee"
+  },
+  "alexis corbiere": {
+    "handle": "alexiscorbiere.bsky.social",
+    "nom": "Alexis Corbière",
+    "chambre": "assemblee"
+  },
+  "benoit biteau": {
+    "handle": "benoit-biteau.bsky.social",
+    "nom": "Benoît Biteau",
+    "chambre": "assemblee"
+  },
+  "abdelkader lahmar": {
+    "handle": "abdelkaderlahmar.bsky.social",
+    "nom": "Abdelkader Lahmar",
+    "chambre": "assemblee"
+  },
+  "philippe latombe": {
+    "handle": "platombe.bsky.social",
+    "nom": "Philippe Latombe",
+    "chambre": "assemblee"
+  },
+  "maxime laisney": {
+    "handle": "maximelaisney.bsky.social",
+    "nom": "Maxime Laisney",
+    "chambre": "assemblee"
+  },
+  "nicolas thierry": {
+    "handle": "nicolas-thierry.bsky.social",
+    "nom": "Nicolas Thierry",
+    "chambre": "assemblee"
+  },
+  "boris tavernier": {
+    "handle": "boristavernier.bsky.social",
+    "nom": "Boris Tavernier",
+    "chambre": "assemblee"
+  },
+  "hendrik davi": {
+    "handle": "hendrikdavi.bsky.social",
+    "nom": "Hendrik Davi",
+    "chambre": "assemblee"
+  },
+  "ugo bernalicis": {
+    "handle": "ugobernalicis.bsky.social",
+    "nom": "Ugo Bernalicis",
+    "chambre": "assemblee"
+  },
+  "arnaud le gall": {
+    "handle": "arnaudlegall.bsky.social",
+    "nom": "Arnaud Le Gall",
+    "chambre": "assemblee"
+  },
+  "damien careme": {
+    "handle": "damiencareme.bsky.social",
+    "nom": "Damien Carême",
+    "chambre": "europarl"
+  },
+  "sylvain carriere": {
+    "handle": "sylvaincarriere.bsky.social",
+    "nom": "Sylvain Carrière",
+    "chambre": "assemblee"
+  },
+  "pouria amirshahi": {
+    "handle": "pouriaamirshahi.fr",
+    "nom": "Pouria Amirshahi",
+    "chambre": "assemblee"
+  },
+  "jeanfrancois coulomme": {
+    "handle": "jfcoulomme.bsky.social",
+    "nom": "Jean-François Coulomme",
+    "chambre": "assemblee"
+  },
+  "emmanuel fernandes": {
+    "handle": "emmanfernandes.bsky.social",
+    "nom": "Emmanuel Fernandes",
+    "chambre": "assemblee"
+  },
+  "jeremie iordanoff": {
+    "handle": "iordanoff.bsky.social",
+    "nom": "Jérémie Iordanoff",
+    "chambre": "assemblee"
+  },
+  "carlos martens bilongo": {
+    "handle": "cmbilongo.bsky.social",
+    "nom": "Carlos Martens Bilongo",
+    "chambre": "assemblee"
+  },
+  "frederic petit": {
+    "handle": "fpetit.bsky.social",
+    "nom": "Frédéric Petit",
+    "chambre": "assemblee"
+  },
+  "paul vannier": {
+    "handle": "paulvannier.bsky.social",
+    "nom": "Paul Vannier",
+    "chambre": "assemblee"
+  },
+  "aurelien le coq": {
+    "handle": "aurelienlecoq.bsky.social",
+    "nom": "Aurélien Le Coq",
+    "chambre": "assemblee"
+  },
+  "boris vallaud": {
+    "handle": "borisvallaud.bsky.social",
+    "nom": "Boris Vallaud",
+    "chambre": "assemblee"
+  },
+  "christophe bex": {
+    "handle": "christophebex.bsky.social",
+    "nom": "Christophe Bex",
+    "chambre": "assemblee"
+  },
+  "matthias tavel": {
+    "handle": "matthiastavel.bsky.social",
+    "nom": "Matthias Tavel",
+    "chambre": "assemblee"
+  },
+  "loic prudhomme": {
+    "handle": "loicprudhomme.bsky.social",
+    "nom": "Loïc Prud’homme",
+    "chambre": "assemblee"
+  },
+  "aurelien saintoul": {
+    "handle": "asaintoul.bsky.social",
+    "nom": "Aurélien Saintoul",
+    "chambre": "assemblee"
+  },
+  "francois piquemal": {
+    "handle": "francoispiquemal.bsky.social",
+    "nom": "François Piquemal",
+    "chambre": "assemblee"
+  },
+  "eric bothorel": {
+    "handle": "ericbothorel.fr",
+    "nom": "Eric Bothorel",
+    "chambre": "assemblee"
+  },
+  "daniele obono": {
+    "handle": "deputeeobono.bsky.social",
+    "nom": "Danièle Obono",
+    "chambre": "assemblee"
+  },
+  "bastien lachaud": {
+    "handle": "blachaud.bsky.social",
+    "nom": "Bastien Lachaud",
+    "chambre": "assemblee"
+  },
+  "benjamin lucas": {
+    "handle": "benjaminlucas.fr",
+    "nom": "Benjamin Lucas",
+    "chambre": "assemblee"
+  },
+  "louis boyard": {
+    "handle": "louisboyard.bsky.social",
+    "nom": "Louis Boyard",
+    "chambre": "assemblee"
+  },
+  "sebastien delogu": {
+    "handle": "delogusebastien.bsky.social",
+    "nom": "Sébastien Delogu",
+    "chambre": "assemblee"
+  },
+  "thomas portes": {
+    "handle": "thomasportes.bsky.social",
+    "nom": "Thomas Portes",
+    "chambre": "assemblee"
+  },
+  "arnaud saintmartin": {
+    "handle": "arnaudsaint-martin.bsky.social",
+    "nom": "Arnaud Saint-Martin",
+    "chambre": "assemblee"
+  },
+  "antoine leaument": {
+    "handle": "antoine-leaument.bsky.social",
+    "nom": "Antoine Léaument",
+    "chambre": "assemblee"
+  },
+  "david guiraud": {
+    "handle": "davidguiraud.bsky.social",
+    "nom": "David Guiraud",
+    "chambre": "assemblee"
+  },
+  "olivier faure": {
+    "handle": "olivierfaure.bsky.social",
+    "nom": "Olivier Faure",
+    "chambre": "assemblee"
+  },
+  "eric coquerel": {
+    "handle": "ericcoquerel.bsky.social",
+    "nom": "Eric Coquerel",
+    "chambre": "assemblee"
+  },
+  "manuel bompard": {
+    "handle": "mbompard.bsky.social",
+    "nom": "Manuel Bompard",
+    "chambre": "assemblee"
+  },
+  "yannick jadot": {
+    "handle": "yjadot.bsky.social",
+    "nom": "Yannick Jadot",
+    "chambre": "senat"
+  },
+  "remi cardon": {
+    "handle": "cardon.bsky.social",
+    "nom": "Rémi Cardon",
+    "chambre": "senat"
+  },
+  "remi feraud": {
+    "handle": "remiferaud.bsky.social",
+    "nom": "Rémi Féraud",
+    "chambre": "senat"
+  },
+  "guillaume gontard": {
+    "handle": "guillaume-gontard.fr",
+    "nom": "Guillaume Gontard",
+    "chambre": "senat"
+  },
+  "alexandre ouizille": {
+    "handle": "alexandreouizille.fr",
+    "nom": "Alexandre Ouizille",
+    "chambre": "senat"
+  },
+  "thomas dossus": {
+    "handle": "thomasdossus.fr",
+    "nom": "Thomas Dossus",
+    "chambre": "senat"
+  },
+  "pierre ouzoulias": {
+    "handle": "pierreouzoulias.bsky.social",
+    "nom": "Pierre Ouzoulias",
+    "chambre": "senat"
+  },
+  "bernard jomier": {
+    "handle": "bernardjomier.bsky.social",
+    "nom": "Bernard Jomier",
+    "chambre": "senat"
+  },
+  "claude malhuret": {
+    "handle": "claudemalhuret.bsky.social",
+    "nom": "Claude Malhuret",
+    "chambre": "senat"
+  },
+  "sebastien pla": {
+    "handle": "sebastienpla.bsky.social",
+    "nom": "Sébastien Pla",
+    "chambre": "senat"
+  },
+  "daniel salmon": {
+    "handle": "danielsalmon.bsky.social",
+    "nom": "Daniel Salmon",
+    "chambre": "senat"
+  },
+  "fabien gay": {
+    "handle": "fabien-gay.fr",
+    "nom": "Fabien Gay",
+    "chambre": "senat"
+  },
+  "guy benarroche": {
+    "handle": "guybenarroche.bsky.social",
+    "nom": "Guy Benarroche",
+    "chambre": "senat"
+  },
+  "rachid temal": {
+    "handle": "rachidtemal.bsky.social",
+    "nom": "Rachid Temal",
+    "chambre": "senat"
+  },
+  "patrick kanner": {
+    "handle": "patrickkanner.bsky.social",
+    "nom": "Patrick Kanner",
+    "chambre": "senat"
+  },
+  "victorin lurel": {
+    "handle": "victorinlurel.bsky.social",
+    "nom": "Victorin Lurel",
+    "chambre": "senat"
+  },
+  "jacques fernique": {
+    "handle": "jacquesfernique.bsky.social",
+    "nom": "Jacques Fernique",
+    "chambre": "senat"
+  },
+  "gregory blanc": {
+    "handle": "gregoryblanc49.bsky.social",
+    "nom": "Grégory Blanc",
+    "chambre": "senat"
+  },
+  "michael weber": {
+    "handle": "webermichael.bsky.social",
+    "nom": "Michaël Weber",
+    "chambre": "senat"
+  },
+  "ronan dantec": {
+    "handle": "ronandantec.bsky.social",
+    "nom": "Ronan Dantec",
+    "chambre": "senat"
+  },
+  "sebastien fagnen": {
+    "handle": "sfagnen.bsky.social",
+    "nom": "Sébastien Fagnen",
+    "chambre": "senat"
+  },
+  "jerome durain": {
+    "handle": "jerome-durain.bsky.social",
+    "nom": "Jérôme Durain",
+    "chambre": "senat"
+  },
+  "akli mellouli": {
+    "handle": "aklim.bsky.social",
+    "nom": "Akli Mellouli",
+    "chambre": "senat"
+  },
+  "xavier iacovelli": {
+    "handle": "iacoxav.bsky.social",
+    "nom": "Xavier Iacovelli",
+    "chambre": "senat"
+  },
+  "didier marie": {
+    "handle": "didiermarie.bsky.social",
+    "nom": "Didier Marie",
+    "chambre": "senat"
+  },
+  "jeremy bacchi": {
+    "handle": "jeremybacchi.bsky.social",
+    "nom": "Jeremy Bacchi",
+    "chambre": "senat"
+  },
+  "jeanmarc vayssouzefaure": {
+    "handle": "jmvayssouze.bsky.social",
+    "nom": "Jean-Marc Vayssouze-Faure",
+    "chambre": "senat"
+  },
+  "yan chantrel": {
+    "handle": "yanchantrel.bsky.social",
+    "nom": "Yan Chantrel",
+    "chambre": "senat"
+  },
+  "mickael vallet": {
+    "handle": "mickaelvallet.bsky.social",
+    "nom": "Mickaël Vallet",
+    "chambre": "senat"
+  },
+  "loic herve": {
+    "handle": "loicherve.bsky.social",
+    "nom": "Loïc Hervé",
+    "chambre": "senat"
+  },
+  "david ros": {
+    "handle": "davidros91.bsky.social",
+    "nom": "David Ros",
+    "chambre": "senat"
+  },
+  "thierry cozic": {
+    "handle": "thcozic.bsky.social",
+    "nom": "Thierry Cozic",
+    "chambre": "senat"
+  },
+  "christophe chaillou": {
+    "handle": "c-chaillou.bsky.social",
+    "nom": "Christophe Chaillou",
+    "chambre": "senat"
+  },
+  "jeanbaptiste blanc": {
+    "handle": "jbblanc84.bsky.social",
+    "nom": "Jean-Baptiste Blanc",
+    "chambre": "senat"
+  },
+  "pierre barros": {
+    "handle": "pierrebarros.bsky.social",
+    "nom": "Pierre Barros",
+    "chambre": "senat"
+  },
+  "sophie briante guillemont": {
+    "handle": "sbg-senat.bsky.social",
+    "nom": "Sophie Briante Guillemont",
+    "chambre": "senat"
+  },
+  "colombe brossel": {
+    "handle": "cbrossel.bsky.social",
+    "nom": "Colombe Brossel",
+    "chambre": "senat"
+  },
+  "marion canales": {
+    "handle": "marioncanales.bsky.social",
+    "nom": "Marion Canalès",
+    "chambre": "senat"
+  },
+  "marieclaire carreregee": {
+    "handle": "m-c-c-g.bsky.social",
+    "nom": "Marie-Claire Carrere-Gee",
+    "chambre": "senat"
+  },
+  "helene conwaymouret": {
+    "handle": "hconwaymouret.bsky.social",
+    "nom": "Hélène Conway-Mouret",
+    "chambre": "senat"
+  },
+  "cecile cukierman": {
+    "handle": "cecilecukierman.bsky.social",
+    "nom": "Cécile Cukierman",
+    "chambre": "senat"
+  },
+  "monique de marco": {
+    "handle": "moniquedemarco.bsky.social",
+    "nom": "Monique de Marco",
+    "chambre": "senat"
+  },
+  "frederique espagnac": {
+    "handle": "fespagnac.bsky.social",
+    "nom": "Frédérique Espagnac",
+    "chambre": "senat"
+  },
+  "isabelle florennes": {
+    "handle": "iflrns92.bsky.social",
+    "nom": "Isabelle Florennes",
+    "chambre": "senat"
+  },
+  "antoinette guhl": {
+    "handle": "antoinetteguhl.bsky.social",
+    "nom": "Antoinette Guhl",
+    "chambre": "senat"
+  },
+  "annie le houerou": {
+    "handle": "annielehouerou.bsky.social",
+    "nom": "Annie Le Houérou",
+    "chambre": "senat"
+  },
+  "audrey linkenheld": {
+    "handle": "audreylinkenheld.bsky.social",
+    "nom": "Audrey Linkenheld",
+    "chambre": "senat"
+  },
+  "catherine morindesailly": {
+    "handle": "cmorindesailly.bsky.social",
+    "nom": "Catherine Morin-Desailly",
+    "chambre": "senat"
+  },
+  "corinne narassiguin": {
+    "handle": "corinnenara.bsky.social",
+    "nom": "Corinne Narassiguin",
+    "chambre": "senat"
+  },
+  "mathilde ollivier": {
+    "handle": "mathildeollivier.bsky.social",
+    "nom": "Mathilde Ollivier",
+    "chambre": "senat"
+  },
+  "raymonde poncet monge": {
+    "handle": "raymondeponcet.bsky.social",
+    "nom": "Raymonde Poncet Monge",
+    "chambre": "senat"
+  },
+  "laurence rossignol": {
+    "handle": "laurossignol.bsky.social",
+    "nom": "Laurence Rossignol",
+    "chambre": "senat"
+  },
+  "ghislaine senee": {
+    "handle": "ghislainesenee.bsky.social",
+    "nom": "Ghislaine Senée",
+    "chambre": "senat"
+  },
+  "anne souyris": {
+    "handle": "annesouyris.bsky.social",
+    "nom": "Anne Souyris",
+    "chambre": "senat"
+  },
+  "marieclaude varaillas": {
+    "handle": "mcvaraillas.bsky.social",
+    "nom": "Marie-Claude Varaillas",
+    "chambre": "senat"
+  },
+  "dominique verien": {
+    "handle": "dominiqueverien.bsky.social",
+    "nom": "Dominique Vérien",
+    "chambre": "senat"
+  },
+  "melanie vogel": {
+    "handle": "melanievogel.bsky.social",
+    "nom": "Mélanie Vogel",
+    "chambre": "senat"
+  },
+  "thomas pellerincarlin": {
+    "handle": "tpellerincarlin.bsky.social",
+    "nom": "Thomas Pellerin-Carlin",
+    "chambre": "europarl"
+  },
+  "raphael glucksmann": {
+    "handle": "raphaelglucksmann.bsky.social",
+    "nom": "Raphaël Glucksmann",
+    "chambre": "europarl"
+  },
+  "pierre jouvet": {
+    "handle": "pierrejouvet.fr",
+    "nom": "Pierre Jouvet",
+    "chambre": "europarl"
+  },
+  "david cormand": {
+    "handle": "davidcormand.bsky.social",
+    "nom": "David Cormand",
+    "chambre": "europarl"
+  },
+  "christophe grudler": {
+    "handle": "grudlerch.bsky.social",
+    "nom": "Christophe Grudler",
+    "chambre": "europarl"
+  },
+  "arash saeidi": {
+    "handle": "arashsaeidi.bsky.social",
+    "nom": "Arash Saeidi",
+    "chambre": "europarl"
+  },
+  "gregory allione": {
+    "handle": "gregoryallione.bsky.social",
+    "nom": "Grégory Allione",
+    "chambre": "europarl"
+  },
+  "pascal canfin": {
+    "handle": "pcanfin.bsky.social",
+    "nom": "Pascal Canfin",
+    "chambre": "europarl"
+  },
+  "sandro gozi": {
+    "handle": "sandrogozi.bsky.social",
+    "nom": "Sandro Gozi",
+    "chambre": "europarl"
+  },
+  "mounir satouri": {
+    "handle": "mounirsatouri.bsky.social",
+    "nom": "Mounir Satouri",
+    "chambre": "europarl"
+  },
+  "christophe clergeau": {
+    "handle": "christopheclergeau.bsky.social",
+    "nom": "Christophe Clergeau",
+    "chambre": "europarl"
+  },
+  "anthony smith": {
+    "handle": "smithanthony.bsky.social",
+    "nom": "Anthony Smith",
+    "chambre": "europarl"
+  },
+  "pierre larrouturou": {
+    "handle": "pierrelarrouturou.bsky.social",
+    "nom": "Pierre Larrouturou",
+    "chambre": "europarl"
+  },
+  "jeremy decerle": {
+    "handle": "jdecerle.bsky.social",
+    "nom": "Jérémy Decerle",
+    "chambre": "europarl"
+  },
+  "francois kalfon": {
+    "handle": "francoiskalfon.bsky.social",
+    "nom": "François Kalfon",
+    "chambre": "europarl"
+  },
+  "eric sargiacomo": {
+    "handle": "erics40.bsky.social",
+    "nom": "Eric Sargiacomo",
+    "chambre": "europarl"
+  },
+  "gilles boyer": {
+    "handle": "gillesboyer.bsky.social",
+    "nom": "Gilles Boyer",
+    "chambre": "europarl"
+  },
+  "nathalie loiseau": {
+    "handle": "nathalieloiseau.bsky.social",
+    "nom": "Nathalie Loiseau",
+    "chambre": "europarl"
+  },
+  "valerie hayer": {
+    "handle": "valeriehayer.bsky.social",
+    "nom": "Valérie Hayer",
+    "chambre": "europarl"
+  },
+  "valerie devaux": {
+    "handle": "devauxvalerie.bsky.social",
+    "nom": "Valérie Devaux",
+    "chambre": "europarl"
+  },
+  "emma rafowicz": {
+    "handle": "emmarafowicz.bsky.social",
+    "nom": "Emma Rafowicz",
+    "chambre": "europarl"
+  },
+  "melissa camara": {
+    "handle": "melissacamara.bsky.social",
+    "nom": "Mélissa Camara",
+    "chambre": "europarl"
+  },
+  "marina mesure": {
+    "handle": "marinamesure.bsky.social",
+    "nom": "Marina Mesure",
+    "chambre": "europarl"
+  },
+  "majdouline sbai": {
+    "handle": "majdoulinesbai.bsky.social",
+    "nom": "Majdouline Sbaï",
+    "chambre": "europarl"
+  },
+  "nora mebarek": {
+    "handle": "noramebarek.bsky.social",
+    "nom": "Nora Mebarek",
+    "chambre": "europarl"
+  },
+  "fabienne keller": {
+    "handle": "fabiennekeller.bsky.social",
+    "nom": "Fabienne Keller",
+    "chambre": "europarl"
+  },
+  "salima yenbou": {
+    "handle": "salimayenbou.bsky.social",
+    "nom": "Salima Yenbou",
+    "chambre": "europarl"
+  },
+  "irene tolleret": {
+    "handle": "itolleret.bsky.social",
+    "nom": "Irène Tolleret",
+    "chambre": "europarl"
+  },
+  "chloe ridel": {
+    "handle": "chloe-ridel.fr",
+    "nom": "Chloé Ridel",
+    "chambre": "europarl"
+  },
+  "claire fita": {
+    "handle": "clairefita.bsky.social",
+    "nom": "Claire Fita",
+    "chambre": "europarl"
+  },
+  "murielle laurent": {
+    "handle": "muriellelaurent.bsky.social",
+    "nom": "Murielle Laurent",
+    "chambre": "europarl"
+  },
+  "aurore lalucq": {
+    "handle": "aurorelalucq.bsky.social",
+    "nom": "Aurore Lalucq",
+    "chambre": "europarl"
+  },
+  "manon aubry": {
+    "handle": "manonaubryfr.bsky.social",
+    "nom": "Manon Aubry",
+    "chambre": "europarl"
+  },
+  "leila chaibi": {
+    "handle": "leilachaibi.bsky.social",
+    "nom": "Leïla Chaibi",
+    "chambre": "europarl"
+  },
+  "laurence farreng": {
+    "handle": "laurencefarreng.bsky.social",
+    "nom": "Laurence Farreng",
+    "chambre": "europarl"
+  },
+  "emma fourreau": {
+    "handle": "emma-fourreau.bsky.social",
+    "nom": "Emma Fourreau",
+    "chambre": "europarl"
+  },
+  "jeanmarc germain": {
+    "handle": "jmgermain.bsky.social",
+    "nom": "Jean-Marc Germain",
+    "chambre": "europarl"
+  },
+  "bernard guetta": {
+    "handle": "dodolasaumure.bsky.social",
+    "nom": "Bernard Guetta",
+    "chambre": "europarl"
+  },
+  "younous omarjee": {
+    "handle": "younousomarjee.bsky.social",
+    "nom": "Younous Omarjee",
+    "chambre": "europarl"
+  },
+  "marie toussaint": {
+    "handle": "marietouss1.bsky.social",
+    "nom": "Marie Toussaint",
+    "chambre": "europarl"
+  },
+  "stephanie yoncourtin": {
+    "handle": "syoncourtin.bsky.social",
+    "nom": "Stéphanie Yon-Courtin",
+    "chambre": "europarl"
+  }
+}

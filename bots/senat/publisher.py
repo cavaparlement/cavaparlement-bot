@@ -1,14 +1,13 @@
-import os, json, requests
+import os, json
 from datetime import date
 from pathlib import Path
 from atproto import Client
 from shared.utils import fmt_date, post_telegram
+from shared.bluesky_lookup import post_reply_with_mention
 from bots.senat.senator_lookup import lookup_senator as lookup_senator_info
-from bots.senat.senator_reply import post_senator_reply_bluesky
 
 HANDLE = os.getenv("BLUESKY_SENAT_IDENTIFIER", "")
 APP_PASSWORD = os.getenv("BLUESKY_SENAT_PASSWORD", "")
-TELEGRAM_CHANNEL = "@cavaparlement"
 DATES_FILE = "data/senat/dates.json"
 
 
@@ -51,11 +50,7 @@ def format_post(event, senateurs_info, dates):
             politique = ""
             hashtag = "#Senat"
         dates[collab] = today_str
-        lines = [
-            "📥 Arrivée · Sénat",
-            "🟢 " + collab,
-            "➡️ Rejoint l'équipe de " + sen,
-        ]
+        lines = ["📥 Arrivée · Sénat", "🟢 " + collab, "➡️ Rejoint l'équipe de " + sen]
         if politique:
             lines.append(politique)
         lines += ["📅 Depuis : " + fmt_date(today_str), "", hashtag]
@@ -74,11 +69,7 @@ def format_post(event, senateurs_info, dates):
         date_fin = fmt_date(today_str)
         date_debut = fmt_date(dates.get(collab, "")) if collab in dates else ""
         dates.pop(collab, None)
-        lines = [
-            "📤 Départ · Sénat",
-            "⚪ " + collab,
-            "❌ Quitte l'équipe de " + sen,
-        ]
+        lines = ["📤 Départ · Sénat", "⚪ " + collab, "❌ Quitte l'équipe de " + sen]
         if politique:
             lines.append(politique)
         if date_debut:
@@ -92,17 +83,13 @@ def format_post(event, senateurs_info, dates):
         nom, prenom = parse_nom_prenom(sen_to)
         info = lookup_senator_info(nom, prenom)
         if info:
-            politique = info["emoji"] + " " + info["groupe_court"] + " · " + info["groupe"]
+            politique = info["emoji"] + " " + info["groupe_court"]
             hashtag = "#Senat " + info["hashtag"]
         else:
             politique = ""
             hashtag = "#Senat"
         dates[collab] = today_str
-        lines = [
-            "🔁 Changement · Sénat",
-            "🔄 " + collab,
-            "➡️ Passe de " + sen_from + " à " + sen_to,
-        ]
+        lines = ["🔁 Changement · Sénat", "🔄 " + collab, "➡️ Passe de " + sen_from + " à " + sen_to]
         if politique:
             lines.append(politique)
         lines += ["📅 Depuis : " + fmt_date(today_str), "", hashtag]
@@ -115,12 +102,12 @@ def post_events(events, senateurs_info={}):
     dates = load_dates()
     for event in events:
         text = format_post(event, senateurs_info, dates)
+        if not text:
+            continue
         response = client.send_post(text=text)
-        print("Post Bluesky envoyé : " + text[:80] + "...")
+        print("Post Bluesky Sénat : " + text[:80] + "...")
+        post_telegram(text)
         sen = event.get("senateur") or event.get("to", "")
         if sen:
-            nom, prenom = parse_nom_prenom(sen)
-            if nom:
-                post_senator_reply_bluesky(client, response.uri, response.cid, nom, prenom)
-        post_telegram(text)
+            post_reply_with_mention(client, response.uri, response.cid, sen, "senat")
     save_dates(dates)

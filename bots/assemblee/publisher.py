@@ -1,13 +1,13 @@
-import os, json, requests
+import os, json
 from datetime import date
 from pathlib import Path
 from atproto import Client
 from shared.utils import fmt_date, post_telegram
+from shared.bluesky_lookup import post_reply_with_mention
 from shared.political_mapping import get_an_groupe_info
 
 HANDLE = os.getenv("BLUESKY_ASSEMBLEE_IDENTIFIER", "")
 APP_PASSWORD = os.getenv("BLUESKY_ASSEMBLEE_PASSWORD", "")
-TELEGRAM_CHANNEL = "@cavaparlement"
 DATES_FILE = "data/assemblee/dates.json"
 
 
@@ -117,7 +117,12 @@ def post_events(events, deputes_info={}):
     dates = load_dates()
     for event in events:
         text = format_post(event, deputes_info, dates)
-        client.send_post(text=text)
-        print("Post Bluesky AN envoyé : " + text[:80] + "...")
+        if not text:
+            continue
+        response = client.send_post(text=text)
+        print("Post Bluesky AN : " + text[:80] + "...")
         post_telegram(text)
+        dep = event.get("senateur") or event.get("to") or event.get("from", "")
+        if dep:
+            post_reply_with_mention(client, response.uri, response.cid, dep, "assemblee")
     save_dates(dates)

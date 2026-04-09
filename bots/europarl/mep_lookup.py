@@ -1,23 +1,13 @@
 """
-mep_lookup.py
-Lookup handle Bluesky pour les eurodéputés français.
-Compatible Python 3.9+
-
-Les clés de MEP_HANDLES suivent le format retourné par l'API EP Open Data :
-"Prénom Nom" (ex: "Raphaël Glucksmann", "Manon Aubry").
-
-La fonction get_mep_handle() essaie aussi le format inversé "Nom Prénom"
-et la normalisation sans accents pour couvrir les variantes.
+mep_lookup.py — utilise shared/bluesky_lookup.py (data/bluesky_handles.json)
+Garde la dict MEP_HANDLES comme fallback pour compatibilité.
 """
 
 import unicodedata
 from typing import Optional
+from shared.bluesky_lookup import get_handle as _get_handle_shared
 
-# ---------------------------------------------------------------------------
-# Handles Bluesky
-# Clé : "Prénom Nom" tel que retourné par l'API EP (foaf:givenName + foaf:familyName)
-# ---------------------------------------------------------------------------
-
+# Fallback hardcodé (conservé pour compatibilité)
 MEP_HANDLES = {
     "Thomas Pellerin-Carlin": "@tpellerincarlin.bsky.social",
     "Raphaël Glucksmann": "@raphaelglucksmann.bsky.social",
@@ -64,51 +54,33 @@ MEP_HANDLES = {
 }
 
 
-# ---------------------------------------------------------------------------
-# Lookup
-# ---------------------------------------------------------------------------
-
 def _normalize(s):
-    # type: (str) -> str
     nfkd = unicodedata.normalize("NFKD", s)
     return "".join(c for c in nfkd if not unicodedata.combining(c)).upper()
 
 
 def get_mep_handle(mep_name):
     # type: (str) -> Optional[str]
-    """
-    Retourne le handle Bluesky d'un eurodéputé à partir de son nom.
+    # 1. Cherche dans le JSON unifié (source principale)
+    handle = _get_handle_shared(mep_name, "europarl")
+    if handle:
+        return handle
 
-    Essaie dans l'ordre :
-    1. Correspondance directe (format API : "Prénom Nom")
-    2. Correspondance normalisée sans accents
-    3. Format inversé "Nom Prénom" (au cas où l'API renverrait ce format)
-
-    Ex:
-        get_mep_handle("Raphaël Glucksmann") -> "@raphaelglucksmann.bsky.social"
-        get_mep_handle("GLUCKSMANN Raphaël") -> "@raphaelglucksmann.bsky.social"
-    """
+    # 2. Fallback dict hardcodé
     mep_name = mep_name.strip()
-
-    # 1. Correspondance directe
     if mep_name in MEP_HANDLES:
-        return MEP_HANDLES[mep_name]
-
-    # 2. Sans accents
+        return MEP_HANDLES[mep_name].lstrip("@")
     name_norm = _normalize(mep_name)
     for k, v in MEP_HANDLES.items():
         if _normalize(k) == name_norm:
-            return v
-
-    # 3. Format inversé "Nom Prénom" -> essaie "Prénom Nom"
+            return v.lstrip("@")
     parts = mep_name.split(" ", 1)
     if len(parts) == 2:
         inverted = "{} {}".format(parts[1], parts[0])
         if inverted in MEP_HANDLES:
-            return MEP_HANDLES[inverted]
+            return MEP_HANDLES[inverted].lstrip("@")
         inv_norm = _normalize(inverted)
         for k, v in MEP_HANDLES.items():
             if _normalize(k) == inv_norm:
-                return v
-
+                return v.lstrip("@")
     return None
