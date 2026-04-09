@@ -23,7 +23,12 @@ jobs:
           BLUESKY_EUROPARL_PASSWORD: ${{ secrets.BLUESKY_EUROPARL_PASSWORD }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
 
-      - run: python scripts/update_photos.py
+      - run: |
+          if git diff --quiet data/europarl/; then
+            echo "Aucun changement de data, photos ignorées"
+          else
+            python scripts/update_photos.py
+          fi
 
       - run: |
           git config user.name "github-actions[bot]"
