@@ -1,1 +1,2508 @@
-{}
+{
+  "256869": {
+    "name": "Grégory ALLIONE",
+    "group": "Renew Europe Group",
+    "assistants": [
+      {
+        "name": "AKONEO EXPERTISE COMPTABLE (ex COMPTA&EXPERTS)",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Adrien Gregori Balthazar GRAFFAGNINO",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Anne-Michele DEPREZ",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Claire Maguy GENTA",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Eric BROCARDI",
+        "type": "Specialised service providers"
+      },
+      {
+        "name": "INÈS FLEUR MICHEL",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Jennifer Emilie RICHARD",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Jérémy SENATORE",
+        "type": "Local assistants"
+      },
+      {
+        "name": "MÉLISSA CHUQUET",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Valentin Rene Armand FABRE",
+        "type": "Accredited assistants (grouping)"
+      }
+    ]
+  },
+  "197691": {
+    "name": "Mathilde ANDROUËT",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "EXPERTELIA OUEST CONSEIL",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Franck MANDAROUX",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Georges-Henri MOREAU",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Quentin LIMONGI",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Thibault KERLIRZIN",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Thomas Alert DU CHALARD DE TAVEAU",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "197533": {
+    "name": "Manon AUBRY",
+    "group": "The Left group in the European Parliament - GUE/NGL",
+    "assistants": [
+      {
+        "name": "Basile Malo Pierre MAZADE-LECOURBE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Damien BASTIAN",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Gautier LANGLOIS",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Leo LATASSE",
+        "type": "Local assistants"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Thomas DAUPHIN",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "131580": {
+    "name": "Jordan BARDELLA",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Antonin Pierre-Louis BESSET",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Charles-Henri GALLOIS",
+        "type": "Local assistants"
+      },
+      {
+        "name": "EXPERTELIA OUEST CONSEIL",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Etienne Francois Marie DUHAZE",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "124760": {
+    "name": "Nicolas BAY",
+    "group": "European Conservatives and Reformists Group",
+    "assistants": [
+      {
+        "name": "Benoit VARDON",
+        "type": "Local assistants"
+      },
+      {
+        "name": "EXPERT ARA",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Eve FROGER",
+        "type": "Local assistants"
+      },
+      {
+        "name": "MATÉO PAUL ROLAND LEROY",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Sixte LABOUCHE",
+        "type": "Specialised service providers"
+      },
+      {
+        "name": "Tancrède Ange Charles Alain BOVERO",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "261797": {
+    "name": "Christophe BAY",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Alexandra PIEL",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "CLEMENCE BLANGEOIS",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Frank MARTIN",
+        "type": "Local assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Sullivan Lucien LE GALLOIS",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "197534": {
+    "name": "François-Xavier BELLAMY",
+    "group": "Group of the European People's Party (Christian Democrats)",
+    "assistants": [
+      {
+        "name": "Arnaud Olivier François POULAIN",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Augustin Louis Marie-Joseph TERNYNCK",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "CARBONNIER LAMAZE RASLE",
+        "type": "Specialised service providers"
+      },
+      {
+        "name": "Eric François Stéphane Marie-Joseph BONNEFOUS",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Krystyna POPOVA",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Laetitia SION",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "MARÍA CARPINTERO LANCHO",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "MONTBRIAL & ASSOCIÉS",
+        "type": "Specialised service providers"
+      },
+      {
+        "name": "SOLAES",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Sixtine Marie Louise DUFAY",
+        "type": "Accredited assistants (grouping)"
+      }
+    ]
+  },
+  "197577": {
+    "name": "Gilles BOYER",
+    "group": "Renew Europe Group",
+    "assistants": [
+      {
+        "name": "Charlotte Nicole MAILLY",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Claire Maguy GENTA",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Flobert Olivier Paul Marie BESSON",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Heather Anne BAILEY",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Jennifer Emilie RICHARD",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Valentin Rene Armand FABRE",
+        "type": "Accredited assistants (grouping)"
+      }
+    ]
+  },
+  "256878": {
+    "name": "Marie-Luce BRASIER-CLAIN",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Adrien Arnaud PIEROTTI",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Doriane VACCARI",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "256915": {
+    "name": "Mélissa CAMARA",
+    "group": "Group of the Greens/European Free Alliance",
+    "assistants": [
+      {
+        "name": "Alex Marco DEVAL",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Emmylou SIEBERTZ",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Fanny BAKLOUTI",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Jelena JOVANOVIC",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Lucas Theo TRIPOTEAU",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Marie Ines B VANDERHEYDEN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "96711": {
+    "name": "Pascal CANFIN",
+    "group": "Renew Europe Group",
+    "assistants": [
+      {
+        "name": "Antoine Fredy René LATRAN",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Claire Maguy GENTA",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Jennifer Emilie RICHARD",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Karl PINCHERELLE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Pauline Marie Annick FROUIN",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Solène Anne Aliette BURES",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Valentin Rene Armand FABRE",
+        "type": "Accredited assistants (grouping)"
+      }
+    ]
+  },
+  "197574": {
+    "name": "Damien CARÊME",
+    "group": "The Left group in the European Parliament - GUE/NGL",
+    "assistants": [
+      {
+        "name": "ALICE ROSALINE PORTAL",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Coralie GUILLOT",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Fanny Aude Marie PETIT",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Jelena JOVANOVIC",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "LOUISE ZAWA BENSLIMAN",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Laura KOELMAN",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Mallory Vollodia TETU",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "256921": {
+    "name": "Laurent CASTILLO",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "ADÈLE JEANNE GARANCE PUJADAS",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Christophe RIBES",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Florent LOMBARDO",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Lea COURTIAL",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Lucas Jean Daniel GRANDJEAN",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "197529": {
+    "name": "Leila CHAIBI",
+    "group": "The Left group in the European Parliament - GUE/NGL",
+    "assistants": [
+      {
+        "name": "ALICE ROSALINE PORTAL",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Christophe MASSON",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Nérine Ohiana DESPONDS",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Pablo Inti Luca DEHARO",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Théophile Jean Hector VINCENT",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Willy Gaëtan MONNIER",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "245018": {
+    "name": "Christophe CLERGEAU",
+    "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "assistants": [
+      {
+        "name": "Basile Jean Theophile GHESQUIERE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Lorène ARNOULT",
+        "type": "Trainees"
+      },
+      {
+        "name": "Marie Renée FINOT",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Marius Guy André Hugues GIRARD-BARBOT",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Maxime Charles-Albert Francois HERRMANN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Monique DAUBIER",
+        "type": "Local assistants"
+      },
+      {
+        "name": "PALOMA AGATHE MARINE BIESSY",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SAS LIMONGI CONSEIL",
+        "type": "Paying agents"
+      },
+      {
+        "name": "William BENAISSA",
+        "type": "Local assistants"
+      }
+    ]
+  },
+  "197503": {
+    "name": "David CORMAND",
+    "group": "Group of the Greens/European Free Alliance",
+    "assistants": [
+      {
+        "name": "Alex Marco DEVAL",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Cyrille MOREAU",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Emmylou SIEBERTZ",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Evence Marie-Anaïs GUINET-DANNONAY",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Marie Ines B VANDERHEYDEN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "NOË HENRY-DAVID HAUTBOIS",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Narmine ABOU BAKARI",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "236050": {
+    "name": "Marie DAUCHY",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Alexandre José Pierre PALIX",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Jerome COCHET",
+        "type": "Local assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Valérie BOCHET",
+        "type": "Local assistants"
+      }
+    ]
+  },
+  "197504": {
+    "name": "Jérémy DECERLE",
+    "group": "Renew Europe Group",
+    "assistants": [
+      {
+        "name": "Aurélien Pierre Antoine VAUCELLE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Aya ERRAJA",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Claire Maguy GENTA",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Jennifer Emilie RICHARD",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Luc Mathieu VERGEZ-PASCAL",
+        "type": "Local assistants"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Valentin Rene Armand FABRE",
+        "type": "Accredited assistants (grouping)"
+      }
+    ]
+  },
+  "256886": {
+    "name": "Valérie DELOGE",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Jeana-Ruth AMBROSIO",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Livio Patrick Pierre BOURGEAIS",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Margaux BOUQUANT",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Remi Marie Joseph Francois MEURIN",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "256870": {
+    "name": "Valérie DEVAUX",
+    "group": "Renew Europe Group",
+    "assistants": [
+      {
+        "name": "CLÉMENT JEAN PIERRE LEFEVRE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Claire Maguy GENTA",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Claudie Véronique Nicole GILOT",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Francine LEMONNIER",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Jennifer Emilie RICHARD",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Thibaut Philippe Francois CAULIER",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Valentin Rene Armand FABRE",
+        "type": "Accredited assistants (grouping)"
+      }
+    ]
+  },
+  "256874": {
+    "name": "Mélanie DISDIER",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Alexandre Patrice Sophian VIDAL",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Allisson Michèle Jeannine DARRIBERE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Isabelle DELHAYE",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Pierre-Antoine WATREMEZ",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Sébastien LEFEVRE",
+        "type": "Local assistants"
+      }
+    ]
+  },
+  "197589": {
+    "name": "Laurence FARRENG",
+    "group": "Renew Europe Group",
+    "assistants": [
+      {
+        "name": "Anne-Cecile Juliette Rachel GAULT",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Claire Maguy GENTA",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Eléonore Nirina Christine LE ROCH",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Hugo Xavier SALEK",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Jennifer Emilie RICHARD",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Valentin Rene Armand FABRE",
+        "type": "Accredited assistants (grouping)"
+      }
+    ]
+  },
+  "256906": {
+    "name": "Claire FITA",
+    "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "assistants": [
+      {
+        "name": "Com3Elles",
+        "type": "Specialised service providers"
+      },
+      {
+        "name": "HUGO JOAO-VICTOR PEREIRA",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Jean-Christophe PARIS",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Julianne Marie AUBERTOT",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Laurianne PÉRIÉ",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Maxime Charles-Albert Francois HERRMANN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "SAS LIMONGI CONSEIL",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "256913": {
+    "name": "Emma FOURREAU",
+    "group": "The Left group in the European Parliament - GUE/NGL",
+    "assistants": [
+      {
+        "name": "CHARLOTTE LÉAH RICCARDI",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Jules JOSEPH-GENESLAY",
+        "type": "Trainees"
+      },
+      {
+        "name": "Lina Jasmine BOUMEDIÈNE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Noé Pierre GAUCHARD",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Simon LECONTE",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Vincent Lucien DAIN",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "256876": {
+    "name": "Anne-Sophie FRIGOUT",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Corentin OSTORERO",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Evan JOFFROY BODET",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Jehanne Marie Rania SAKHI",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Marc Marie Antoine DE VERGNETTE DE LAMOTTE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "256896": {
+    "name": "Angéline FURET",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Eleonore Frederique Solange FARIZON",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "IMPACTIS",
+        "type": "Specialised service providers"
+      },
+      {
+        "name": "Kevin KAZAZIAN",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Romain GAUDIN",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "197628": {
+    "name": "Jean-Paul GARRAUD",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Kaja Karolina DZIEDZINSKA",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Laurent Albert Rene GUINIOT",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Vianney Marie Joseph Thomas VONDERSCHER",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "256901": {
+    "name": "Jean-Marc GERMAIN",
+    "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "assistants": [
+      {
+        "name": "Anouk RUBINSTEIN",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Elise Anaïs Minh PHAM-GIA",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Itshaham ISHAQ",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Marrec Edric SELOUS",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Maxime Charles-Albert Francois HERRMANN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "197694": {
+    "name": "Raphaël GLUCKSMANN",
+    "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "assistants": [
+      {
+        "name": "Charles KERIVEL",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Chloe BERTHON",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Lola Ambre JACCOD",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Maxime Charles-Albert Francois HERRMANN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "256919": {
+    "name": "Christophe GOMART",
+    "group": "Group of the European People's Party (Christian Democrats)",
+    "assistants": [
+      {
+        "name": "Augustin Louis Marie-Joseph TERNYNCK",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Lorraine Marie Christine Anh-Lan-Huong DANG-VU",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "MARÍA CARPINTERO LANCHO",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Noëlle Marie Edmée BENOIST",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Quentin René-Charles RIVET",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Sixtine Marie Louise DUFAY",
+        "type": "Accredited assistants (grouping)"
+      }
+    ]
+  },
+  "204419": {
+    "name": "Sandro GOZI",
+    "group": "Renew Europe Group",
+    "assistants": [
+      {
+        "name": "AKONEO EXPERTISE COMPTABLE (ex COMPTA&EXPERTS)",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Branimira TSVETANOVA MALDEGEM",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Claire Maguy GENTA",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "ENZO JUAN ISAÏE LELEU",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Francesco SCIOTTO",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Geraldine Helene Marie GEAY",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Jennifer Emilie RICHARD",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Nicola BERNARDINI",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Raquel Marta CORREA DOMENECH",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "TAOLA CONSULTANTS",
+        "type": "Specialised service providers"
+      },
+      {
+        "name": "Tancrede Coriolan Jean ADNOT",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Valentin Rene Armand FABRE",
+        "type": "Accredited assistants (grouping)"
+      }
+    ]
+  },
+  "94649": {
+    "name": "Catherine GRISET",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Audrey DAYMARD",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Benoist DELECOURT",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Luc LAHALLE",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "197557": {
+    "name": "Christophe GRUDLER",
+    "group": "Renew Europe Group",
+    "assistants": [
+      {
+        "name": "ANTOINE CHARLES JOSEPH SCHIBLER",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Claire Maguy GENTA",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Gregory GROSDIDIER",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Jennifer Emilie RICHARD",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "LA COMPTABILITE",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Léna Marie VIDBERG",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Malvina Francine Esther AMMOUN",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Renaud ROUSSELET",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Valentin Rene Armand FABRE",
+        "type": "Accredited assistants (grouping)"
+      }
+    ]
+  },
+  "197543": {
+    "name": "Bernard GUETTA",
+    "group": "Renew Europe Group",
+    "assistants": [
+      {
+        "name": "Benjamin JOPPKE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Claire Maguy GENTA",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Jennifer Emilie RICHARD",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Perrine ANDRZEJEWSKI",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Tamas David KUGYELA",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "VICTORIA ZUZA",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Valentin Rene Armand FABRE",
+        "type": "Accredited assistants (grouping)"
+      }
+    ]
+  },
+  "256912": {
+    "name": "Rima HASSAN",
+    "group": "The Left group in the European Parliament - GUE/NGL",
+    "assistants": [
+      {
+        "name": "Jelena JOVANOVIC",
+        "type": "Accredited assistants (grouping)"
+      }
+    ]
+  },
+  "135511": {
+    "name": "Valérie HAYER",
+    "group": "Renew Europe Group",
+    "assistants": [
+      {
+        "name": "ALEXIS LEGUILLÉ",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "ALTONEO Conseil",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Claire Maguy GENTA",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Jennifer Emilie RICHARD",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Marie-Julie FAYARD",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Pierre Julien LE TEXIER",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Quentin LANVIERGE",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Valentin Rene Armand FABRE",
+        "type": "Accredited assistants (grouping)"
+      }
+    ]
+  },
+  "256918": {
+    "name": "Céline IMART",
+    "group": "Group of the European People's Party (Christian Democrats)",
+    "assistants": [
+      {
+        "name": "Andréa Laure Marie MOULIN",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Augustin Louis Marie-Joseph TERNYNCK",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Claude-Edouard CROCHET",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "JÉRÉMIE ALEZRA",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Sixtine Marie Louise DUFAY",
+        "type": "Accredited assistants (grouping)"
+      }
+    ]
+  },
+  "189065": {
+    "name": "France JAMET",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Celine Josette Nouhad SAYAH",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Gwenael Yvan BLANCHO",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Laurent LATRUWE",
+        "type": "Local assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "197627": {
+    "name": "Virginie JORON",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Christine Marie-Françoise KLIPFEL",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Philippe BARRUEL",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Thomas Raymond Roger ESTEVE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Tristan Marc Jacques JARRAUD",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "256898": {
+    "name": "Pierre JOUVET",
+    "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "assistants": [
+      {
+        "name": "Anaïs MENOIRE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Laure Georgette Fernande DELCROIX",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Maxime Charles-Albert Francois HERRMANN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Nathanaël Adrien SUAUD",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SAS LIMONGI CONSEIL",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "256908": {
+    "name": "François KALFON",
+    "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "assistants": [
+      {
+        "name": "ANTOINE YVES BERNARD GUILLEMAN",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "CHIARA PANNUNZIO",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "LUCIE DELBOSC D'AUZON",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Maxime Charles-Albert Francois HERRMANN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "RAPHAEL PIERRE LOUIS FERRETTI",
+        "type": "Local assistants"
+      },
+      {
+        "name": "SAS LIMONGI CONSEIL",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Sacha Michel Ludwig LOIZEAU",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "22858": {
+    "name": "Fabienne KELLER",
+    "group": "Renew Europe Group",
+    "assistants": [
+      {
+        "name": "Amelle Anonciade GENEROSO",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "CABINET GROSS-HUGEL",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Claire Maguy GENTA",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Clément Marie HEBERLE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Helene NURVALA",
+        "type": "Assistants to the Quaestorate"
+      },
+      {
+        "name": "HÉLIAN LAURENT GÉRARD RENÉ GRANGE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Jennifer Emilie RICHARD",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Valentin Rene Armand FABRE",
+        "type": "Accredited assistants (grouping)"
+      }
+    ]
+  },
+  "256924": {
+    "name": "Sarah KNAFO",
+    "group": "Europe of Sovereign Nations Group",
+    "assistants": [
+      {
+        "name": "ACIEM",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Charles-Henri Joseph QUILLIARD",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Damien GRASSET",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "197697": {
+    "name": "Aurore LALUCQ",
+    "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "assistants": [
+      {
+        "name": "Arjuna Antoine Flamino Ayusca ANDRADE",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Arzu YASAR",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Aurore Christiane Aïcha CHARDONNET",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Hana MAAZOUN",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Maxime Charles-Albert Francois HERRMANN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "256899": {
+    "name": "Murielle LAURENT",
+    "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "assistants": [
+      {
+        "name": "Diane Aurore Sylvie BIHANNIC",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Elsa PEYRONNET",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Maxime Charles-Albert Francois HERRMANN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Nina Valentine J DEMIANOFF",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SAS LIMONGI CONSEIL",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "256920": {
+    "name": "Isabelle LE CALLENNEC",
+    "group": "Group of the European People's Party (Christian Democrats)",
+    "assistants": [
+      {
+        "name": "Augustin Louis Marie-Joseph TERNYNCK",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Aurore Marie Clotilde Marcelle LAIGNELOT",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "EXPERTELIA OUEST CONSEIL",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Paul Charles Marie Joseph HONORE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Sixtine Marie Louise DUFAY",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Stéphane DE SALLIER DUPIN",
+        "type": "Local assistants"
+      }
+    ]
+  },
+  "256872": {
+    "name": "Fabrice LEGGERI",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Alaïs Lydie Léontine SEGUY-COULON",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Albéric DOP",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "EVE MARIE JEANNE TESSIER",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Maximilien DUFOUR",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "256895": {
+    "name": "Julien LEONARDELLI",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Arthur PRADERE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Francois COSTANTINI",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Mathieu AJAC",
+        "type": "Local assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "197494": {
+    "name": "Nathalie LOISEAU",
+    "group": "Renew Europe Group",
+    "assistants": [
+      {
+        "name": "Charles Henri Jean-Paul CREPEAU",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Claire Maguy GENTA",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Dauphinelle Laure Aurelia CLEMENT",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Jennifer Emilie RICHARD",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Marie Ximena COTTE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "VIRGILE PIERRE PAUL SARDA",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Valentin Rene Armand FABRE",
+        "type": "Accredited assistants (grouping)"
+      }
+    ]
+  },
+  "256922": {
+    "name": "Marion MARÉCHAL",
+    "group": "European Conservatives and Reformists Group",
+    "assistants": [
+      {
+        "name": "Bruce John Louis-Marie MCKENNA",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Damien LEFEVRE",
+        "type": "Local assistants (grouping)"
+      },
+      {
+        "name": "EXPERTELIA OUEST CONSEIL",
+        "type": "Paying agents"
+      },
+      {
+        "name": "EXPERTELIA OUEST CONSEIL",
+        "type": "Paying agents (grouping)"
+      },
+      {
+        "name": "Marie-Clémence Gabrielle Thérèse DEJARDIN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Philippe Louis Robert SCHLEITER",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "197623": {
+    "name": "Thierry MARIANI",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "ANASTASIIA PETROVA",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Olivier Felix FISHER",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Sophie Anne Geraldine Marie Genevieve GUIL",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "204418": {
+    "name": "Nora MEBAREK",
+    "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "assistants": [
+      {
+        "name": "Jeremie HABIG",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Maxime Charles-Albert Francois HERRMANN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Pascale BOISTARD",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Paul Ugo JEAN",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SAS LIMONGI CONSEIL",
+        "type": "Paying agents"
+      },
+      {
+        "name": "VICTORIA MADELEINE ANH DAO FAURE-FANELLI",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "236053": {
+    "name": "Marina MESURE",
+    "group": "The Left group in the European Parliament - GUE/NGL",
+    "assistants": [
+      {
+        "name": "MEÏSSA BENOTMANE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "MÉGANE MARIE ELIZABETH DUBORGEL",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "NATHAN COLLE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Pauline SAUNIER",
+        "type": "Local assistants"
+      },
+      {
+        "name": "SARA NUR KHETTABI",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "72779": {
+    "name": "Nadine MORANO",
+    "group": "Group of the European People's Party (Christian Democrats)",
+    "assistants": [
+      {
+        "name": "Augustin Louis Marie-Joseph TERNYNCK",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Gilles-William GOLDNADEL",
+        "type": "Specialised service providers"
+      },
+      {
+        "name": "Gloria PUGELLE",
+        "type": "Local assistants"
+      },
+      {
+        "name": "MATHIEU MOIROUD",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Olivier GADAN",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Sixtine Marie Louise DUFAY",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "YZICO",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "256883": {
+    "name": "Aleksandar NIKOLIC",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Arthur Gilbert Maurice PINON",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "BRYAN JEAN-LOUIS DANIELLE ROBERT PECQUEUR",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Dimitri MANFROI",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Emma Pauline MINOT",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "197687": {
+    "name": "Philippe OLIVIER",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Christophe COMBAUT",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Eleonore Frederique Solange FARIZON",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Patricia Chagnon",
+        "type": "Local assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Thierry Camille COMBLE",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "30482": {
+    "name": "Younous OMARJEE",
+    "group": "The Left group in the European Parliament - GUE/NGL",
+    "assistants": [
+      {
+        "name": "Loan James Robert EGO",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Lorrain Jean Victor TRIERWEILER",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Olivier PLUMANDON",
+        "type": "Assistants to the Vice-Presidency"
+      },
+      {
+        "name": "Radoslav SOTH",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "256903": {
+    "name": "Thomas PELLERIN-CARLIN",
+    "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "assistants": [
+      {
+        "name": "CLOVIS LOUIS GÉRARD DIDIER POMART",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Charlotte Paule Simone ROUSSEAU",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Maxime Charles-Albert Francois HERRMANN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Nicolai Bernard Marie COULOMBEZ",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "ROSE NICOLETTE MARIE HARTWIG-PEILLON",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SAS LIMONGI CONSEIL",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Thibaut FOUET",
+        "type": "Local assistants"
+      }
+    ]
+  },
+  "30123": {
+    "name": "Guillaume PELTIER",
+    "group": "European Conservatives and Reformists Group",
+    "assistants": [
+      {
+        "name": "Ambrine MARCHISET",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Charles Marie Francis Gilles DE MEYER",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Damien LEFEVRE",
+        "type": "Local assistants (grouping)"
+      },
+      {
+        "name": "EXPERT ARA",
+        "type": "Paying agents"
+      },
+      {
+        "name": "EXPERTELIA OUEST CONSEIL",
+        "type": "Paying agents (grouping)"
+      },
+      {
+        "name": "Marie-Clémence Gabrielle Thérèse DEJARDIN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Pierre BERTRAND",
+        "type": "Local assistants"
+      }
+    ]
+  },
+  "126699": {
+    "name": "Gilles PENNELLE",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Astrid Valerie Marie COEURDEROY",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "ENGUERRAND MARIE FRANÇOIS FERRAND",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Elouan RACINEUX",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Grégoire DE FOURNAS",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "256877": {
+    "name": "Pascale PIERA",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Eric Basile BOUGNOUX",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Jean-Come JAMHOURI",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Marie Louise Claude Daniela CALIO",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Marine BILLIERES",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "256893": {
+    "name": "Pierre PIMPIE",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Antoine Bernard Charles MALARD",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "LILOU SCHEPERS",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Mickaël SAHIN LAURENT",
+        "type": "Local assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Simon Patrick DELVAL",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "256902": {
+    "name": "Emma RAFOWICZ",
+    "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "assistants": [
+      {
+        "name": "FANNY PÉCHEUX",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Joachim TAÏEB",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Louis DAUMAL",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Maxime Charles-Albert Francois HERRMANN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Maylis QUIVY",
+        "type": "Local assistants"
+      },
+      {
+        "name": "SAS LIMONGI CONSEIL",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "256882": {
+    "name": "Julie RECHAGNEUX",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Alexandre LEDOUX",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Carla Rabab MOUSSLY",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Flavie FOURNIER",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Grégoire HOUDAN",
+        "type": "Local assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Simon FLORES",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "256904": {
+    "name": "Chloé RIDEL",
+    "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "assistants": [
+      {
+        "name": "Aurélien LAPARRO",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Frideriki TSARNOS",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "JULIE ANNA ÉLISA DAVID",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Marianne Renée Micheline DOYEN",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Maxime Charles-Albert Francois HERRMANN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Tom Valentin Sylvain MERY",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "197690": {
+    "name": "André ROUGÉ",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "François Louis Charles André Marie VUILLEMIN",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Gauthier Moise Andre BOUCHET",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Hugo CORNET-CALDERON",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Massimo SBLENDORIO",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "256911": {
+    "name": "Arash SAEIDI",
+    "group": "The Left group in the European Parliament - GUE/NGL",
+    "assistants": [
+      {
+        "name": "ALICE ROSALINE PORTAL",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Jonathan MACCIONI",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "LÉO MÉTAYER",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Marie Laurence FLOCH",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Merwan Olivier PÂRIS",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Nérine Ohiana DESPONDS",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "PIERRE ARISTIDE JEAN RAMBAUD",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "88552": {
+    "name": "Julien SANCHEZ",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "EXPERTELIA OUEST CONSEIL",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Emile Georges LEURET",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Georges Mouktar HOKMI",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Norma Constanza CABALLERO GUZMAN",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Rachel SEMBACH",
+        "type": "Local assistants"
+      }
+    ]
+  },
+  "256905": {
+    "name": "Eric SARGIACOMO",
+    "group": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "assistants": [
+      {
+        "name": "BERTHILLE MARIE LAURE SIMON",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Frederic COURLEUX",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Maxime Charles-Albert Francois HERRMANN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Randy NEMOZ",
+        "type": "Local assistants"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Sebastien Henri Andre CROM",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "197500": {
+    "name": "Mounir SATOURI",
+    "group": "Group of the Greens/European Free Alliance",
+    "assistants": [
+      {
+        "name": "Alex Marco DEVAL",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Emmylou SIEBERTZ",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Guillaume DUVAL",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Magalie JURINE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Marie Ines B VANDERHEYDEN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Marion JEUNE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Nabila KERAMANE",
+        "type": "Local assistants"
+      },
+      {
+        "name": "PAUL ABEL THOMAS CARDON",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "256917": {
+    "name": "Majdouline SBAI",
+    "group": "Group of the Greens/European Free Alliance",
+    "assistants": [
+      {
+        "name": "Alex Marco DEVAL",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Ali RAHNI",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Carla Erinn Akouvi Modukpe DORKENOO",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Emmylou SIEBERTZ",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Evence Marie-Anaïs GUINET-DANNONAY",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Julie Elise Adelphine RUAUD",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Marie Ines B VANDERHEYDEN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Thys Charles Jean SIPMA",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "256910": {
+    "name": "Anthony SMITH",
+    "group": "The Left group in the European Parliament - GUE/NGL",
+    "assistants": [
+      {
+        "name": "Gaby HULOIS",
+        "type": "Local assistants"
+      },
+      {
+        "name": "MANON LEA MARLENE MILCENT",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Martin Jean-Claude Michel LEFEBVRE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Martin Mickael CARRET",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Zoé Esther Marie KAPPES",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "256871": {
+    "name": "Malika SOREL",
+    "group": "Non-attached Members",
+    "assistants": [
+      {
+        "name": "Paul Henri VAN DER WERFF",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "200345": {
+    "name": "Pierre-Romain THIONNET",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Jean Bertrand Marie METZINGER",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Stanislas Daniel Nicolas DUREUX",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "256888": {
+    "name": "Rody TOLASSY",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Laurent Saodier TAVERNIER",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Mathis Christophe Romain CHARLEY",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "97236": {
+    "name": "Marie TOUSSAINT",
+    "group": "Group of the Greens/European Free Alliance",
+    "assistants": [
+      {
+        "name": "Alex Marco DEVAL",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Arthur DE GRAVE",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Benjamin ROUDET",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Charlotte Julie Isabelle IZARD",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Dafina Natasha SAVIC",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Emmylou SIEBERTZ",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "MAINO MARVIN P VAN ALFEN",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Marie Ines B VANDERHEYDEN",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Massalé TOURÉ",
+        "type": "Local assistants"
+      },
+      {
+        "name": "SARL AS.C Accompagnement Service Point Conseil",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "256925": {
+    "name": "Laurence TROCHU",
+    "group": "European Conservatives and Reformists Group",
+    "assistants": [
+      {
+        "name": "Damien LEFEVRE",
+        "type": "Local assistants (grouping)"
+      },
+      {
+        "name": "EXPERTELIA OUEST CONSEIL",
+        "type": "Paying agents (grouping)"
+      },
+      {
+        "name": "Emilie Jeanne DUBOIS",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Jeanne Constance Yvonne DILLIES",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Paul-Louis Marie Frederic BOREAU DE ROINCE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Victor Paul Hans Arnaud LASTÉCOUÈRES",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "256875": {
+    "name": "Matthieu VALET",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Brice MORELLO",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Loic Thierry Georges SALIOU",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Marlon Jean Henri VANDAMME",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "5736": {
+    "name": "Alexandre VARAUT",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Pierre-Francois Christophe LANET",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Théo André Daniel CAUCHE",
+        "type": "Accredited assistants"
+      }
+    ]
+  },
+  "261796": {
+    "name": "Séverine WERBROUCK",
+    "group": "Patriots for Europe Group",
+    "assistants": [
+      {
+        "name": "Aude BRASTENHOFER",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Elisa MONNIER",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Lucas Léon René LANGRENEZ",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Marie-Nathalie LEGRAND-GONCALVES",
+        "type": "Local assistants"
+      },
+      {
+        "name": "Mayol Marie Jean Wulfran BOUDOUX D'HAUTEFEUILLE",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SIGNAT'S",
+        "type": "Paying agents"
+      }
+    ]
+  },
+  "197581": {
+    "name": "Stéphanie YON-COURTIN",
+    "group": "Renew Europe Group",
+    "assistants": [
+      {
+        "name": "Anne-Sophie CLEMENT",
+        "type": "Local assistants"
+      },
+      {
+        "name": "CLÉMENT CHAILLOU",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Claire Maguy GENTA",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "Jennifer Emilie RICHARD",
+        "type": "Accredited assistants (grouping)"
+      },
+      {
+        "name": "NELLY NAHAVANDI",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "SELAS REFLEX'EXPERTISE",
+        "type": "Paying agents"
+      },
+      {
+        "name": "Sarah Aldgia OKRICH",
+        "type": "Accredited assistants"
+      },
+      {
+        "name": "Valentin Rene Armand FABRE",
+        "type": "Accredited assistants (grouping)"
+      }
+    ]
+  }
+}
