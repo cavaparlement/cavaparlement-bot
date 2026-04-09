@@ -125,31 +125,16 @@ def get_french_meps() -> dict:
 def _parse_mep_assistants_page(soup: BeautifulSoup) -> list:
     """
     Parse la page /assistants d'un MEP individuel.
-    Essaie plusieurs structures HTML connues du site EP.
+    Structure EP : div.erpl_type-assistants > h4 (type) + span.erpl_assistant (noms)
     """
     results = []
-
-    # Structure principale : blocs par type d'assistant
-    for section in soup.select("div.erpl_mep-assistants-type, div.ep_gridrow"):
-        type_el   = section.select_one("h3, span.erpl_mep-assistants-type-title, strong")
+    for section in soup.select("div.erpl_type-assistants"):
+        type_el   = section.select_one("h4.es_title-h4")
         type_text = type_el.get_text(strip=True) if type_el else "Assistant"
-        for item in section.select("li, div.erpl_mep-assistants-name, span.ep_name"):
+        for item in section.select("span.erpl_assistant"):
             name = item.get_text(strip=True)
-            if name and name != type_text:
+            if name:
                 results.append({"name": name, "type": type_text})
-
-    # Fallback : table classique
-    if not results:
-        table = soup.find("table")
-        if table:
-            for row in table.find_all("tr")[1:]:
-                cols = row.find_all("td")
-                if len(cols) >= 2:
-                    name      = cols[0].get_text(strip=True)
-                    type_text = cols[1].get_text(strip=True)
-                    if name:
-                        results.append({"name": name, "type": type_text})
-
     return results
 
 
@@ -173,13 +158,20 @@ def get_assistants_for_mep(mep_id: str) -> list:
 
 
 def get_all_assistants_by_mep(french_mep_ids: set) -> dict:
-    print(f"-> Scraping des pages assistants ({len(french_mep_ids)} MEPs)...")
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    print(f"-> Scraping des pages assistants ({len(french_mep_ids)} MEPs, 5 workers)...")
     mep_to_assistants = {}
-    for i, mep_id in enumerate(sorted(french_mep_ids), 1):
-        assistants = get_assistants_for_mep(mep_id)
-        mep_to_assistants[mep_id] = assistants
-        print(f"  [{i}/{len(french_mep_ids)}] MEP {mep_id} : {len(assistants)} assistant(s)")
-        time.sleep(0.5)
+
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        futures = {executor.submit(get_assistants_for_mep, mep_id): mep_id for mep_id in sorted(french_mep_ids)}
+        done = 0
+        for future in as_completed(futures):
+            mep_id = futures[future]
+            assistants = future.result() or []
+            mep_to_assistants[mep_id] = assistants
+            done += 1
+            print(f"  [{done}/{len(french_mep_ids)}] MEP {mep_id} : {len(assistants)} assistant(s)")
+
     total = sum(len(v) for v in mep_to_assistants.values())
     print(f"  {total} entrées trouvées au total")
     return mep_to_assistants
@@ -320,16 +312,21 @@ def main():
 
     if is_first_run:
         print("⚠️  Premier run : construction de l'état initial, aucun post")
-
-    try:
-        french_meps = get_french_meps()
-    except Exception as e:
-        print(f"Erreur fatale (MEPs) : {e}")
-        sys.exit(1)
-
-    if not french_meps:
-        print("Aucun MEP trouvé — vérifier l'API EP")
-        sys.exit(1)
+        try:
+            french_meps = get_french_meps()
+        except Exception as e:
+            print(f"Erreur fatale (MEPs) : {e}")
+            sys.exit(1)
+        if not french_meps:
+            print("Aucun MEP trouvé — vérifier l'API EP")
+            sys.exit(1)
+    else:
+        # Runs suivants : on repart du state.json, pas besoin de l'API EP
+        print(f"-> MEPs chargés depuis state.json ({len(state)} MEPs)")
+        french_meps = {
+            mep_id: {"name": info["name"], "group": info["group"]}
+            for mep_id, info in state.items()
+        }
 
     try:
         current_by_mep = get_all_assistants_by_mep(set(french_meps.keys()))
