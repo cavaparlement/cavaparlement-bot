@@ -25,7 +25,7 @@ from bots.europarl.mep_lookup import get_mep_handle
 
 # ─── Configuration ────────────────────────────────────────────────────────────
 
-BLUESKY_HANDLE   = "cavaeuroparl.bsky.social"
+BLUESKY_HANDLE   = "pe.cavaparlement.eu"
 BLUESKY_PASSWORD = os.environ.get("BLUESKY_EUROPARL_PASSWORD")
 TELEGRAM_CHANNEL = "@cavaparlement"
 
