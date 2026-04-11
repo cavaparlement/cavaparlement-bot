@@ -39,6 +39,48 @@ HEADERS = {
 
 SESSION  = make_session()
 
+# ─── Hashtags Bluesky ─────────────────────────────────────────────────────────
+
+GROUP_HASHTAGS = {
+    "Renew Europe Group":                                            "#RenewEurope #RenewEU",
+    "European People's Party Group":                                 "#EPP #PPE",
+    "Group of the Progressive Alliance of Socialists and Democrats": "#SND #SocialistsAndDemocrats",
+    "European Conservatives and Reformists Group":                   "#ECR #ECRGroup",
+    "The Greens–European Free Alliance":                             "#GreensEFA #VertsALE",
+    "The Left group in the European Parliament":                     "#TheLeft #GUE",
+    "Patriots for Europe Group":                                     "#PatriotsForEurope #PfE",
+    "Europe of Sovereign Nations Group":                             "#ESN #SovereignNations",
+    "Non-attached Members":                                          "",
+}
+
+FIXED_TAGS = "#ParlementEuropéen #UE"
+
+
+def build_bluesky_post(body: str, group_key: str) -> str:
+    """
+    Assemble le post Bluesky avec hashtags groupe + tags fixes.
+    Troncature progressive si > 300 graphèmes :
+      1. Corps + hashtags groupe + tags fixes
+      2. Corps + tags fixes seulement
+      3. Corps seul (tronqué si nécessaire)
+    """
+    group_tags = GROUP_HASHTAGS.get(group_key, "")
+
+    tags_full    = f"{group_tags} {FIXED_TAGS}".strip()
+    tags_reduced = FIXED_TAGS
+
+    full = f"{body}\n\n{tags_full}".strip()
+    if len(full) <= 300:
+        return full
+
+    reduced = f"{body}\n\n{tags_reduced}".strip()
+    if len(reduced) <= 300:
+        return reduced
+
+    if len(body) > 300:
+        return body[:297] + "[…]"
+    return body
+
 
 # ─── Récupération des eurodéputés français ────────────────────────────────────
 
@@ -152,43 +194,35 @@ def save_state(state: dict) -> None:
 # ─── Formatage des posts ──────────────────────────────────────────────────────
 
 def _build_message(change: dict) -> dict:
-    emoji_type       = EP_TYPE_EMOJIS.get(change["assistant_type"].lower(), "👤")
-    type_label       = EP_TYPE_LABELS_FR.get(change["assistant_type"].lower(), change["assistant_type"])
-    mep_url          = f"{EP_SITE_BASE}/meps/en/{change['mep_id']}/ASSISTANTS"
-    group_key        = change.get("mep_group", "")
+    emoji_type  = EP_TYPE_EMOJIS.get(change["assistant_type"].lower(), "👤")
+    type_label  = EP_TYPE_LABELS_FR.get(change["assistant_type"].lower(), change["assistant_type"])
+    group_key   = change.get("mep_group", "")
     group_emoji, group_label = format_ep_group(group_key)
 
     if change["type"] == "arrival":
-        header    = "🇪🇺 Nouvelle arrivée au Parlement européen"
-        action_bs = (
+        header = "🇪🇺 Nouvelle arrivée au Parlement européen"
+        action = (
             f"{emoji_type} {change['assistant_name']} rejoint l'équipe de "
             f"{change['mep_name']} ({group_emoji} {group_label})"
         )
-        action_tg = (
-            f"{emoji_type} <b>{change['assistant_name']}</b> rejoint l'équipe de "
-            f"<b>{change['mep_name']}</b> ({group_emoji} {group_label})"
-        )
     else:
-        header    = "🇪🇺 Départ au Parlement européen"
-        action_bs = (
+        header = "🇪🇺 Départ au Parlement européen"
+        action = (
             f"{emoji_type} {change['assistant_name']} quitte l'équipe de "
             f"{change['mep_name']} ({group_emoji} {group_label})"
         )
-        action_tg = (
-            f"{emoji_type} <b>{change['assistant_name']}</b> quitte l'équipe de "
-            f"<b>{change['mep_name']}</b> ({group_emoji} {group_label})"
-        )
 
-    bluesky = f"{header}\n\n{action_bs}\n📋 {type_label}\n\n➡️ {mep_url}"
-    if len(bluesky) > 300:
-        bluesky = bluesky[:297] + "..."
-
+    # ── Telegram : plain text, aucun HTML, aucun lien ──
     telegram = (
         f"{header}\n\n"
-        f"{action_tg}\n"
-        f"📋 {type_label}\n\n"
-        f'➡️ <a href="{mep_url}">Voir la fiche EP</a>'
+        f"{action}\n"
+        f"📋 {type_label}"
     )
+
+    # ── Bluesky : hashtags avec troncature progressive ──
+    body = f"{header}\n\n{action}\n📋 {type_label}"
+    bluesky = build_bluesky_post(body, group_key)
+
     return {"bluesky": bluesky, "telegram": telegram}
 
 
