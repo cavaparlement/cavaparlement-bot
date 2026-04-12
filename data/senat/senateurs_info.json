@@ -1,1046 +1,2278 @@
 {
   "M. BENARROCHE Guy": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Groupe Écologiste — Solidarité et Territoires",
+    "departement": "Bouches-du-Rhône",
+    "matricule": "20110Q",
+    "groupe": "GEST"
   },
   "M. FAVREAU Gilbert": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Deux-Sèvres",
+    "matricule": "20038A",
+    "groupe": "LR"
   },
   "M. SIDO Bruno": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Haute-Marne",
+    "matricule": "01058X",
+    "groupe": "LR"
   },
   "Mme DURANTON Nicole": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Eure",
+    "matricule": "14249W"
   },
   "Mme PHINERA-HORTH Marie-Laure": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Guyane",
+    "matricule": "20146D"
   },
   "M. DELAHAYE Vincent": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Essonne",
+    "matricule": "11070L"
   },
   "Mme ESPAGNAC Frédérique": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Pyrénées-Atlantiques",
+    "matricule": "11110B"
   },
   "M. de LEGGE Dominique": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Ille-et-Vilaine",
+    "matricule": "08034U",
+    "groupe": "LR"
   },
   "Mme SCHALCK Elsa": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Bas-Rhin",
+    "matricule": "20098N",
+    "groupe": "LR"
   },
   "M. LEVI Pierre-Antoine": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Tarn-et-Garonne",
+    "matricule": "20052X"
   },
   "Mme CANALÈS Marion": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Puy-de-Dôme",
+    "matricule": "21045D"
   },
   "Mme SOUYRIS Anne": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Groupe Écologiste — Solidarité et Territoires",
+    "departement": "Paris",
+    "matricule": "21094N",
+    "groupe": "GEST"
   },
   "M. MARGUERITTE David": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Manche",
+    "matricule": "21486B",
+    "groupe": "LR"
   },
   "M. SAURY Hugues": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Loiret",
+    "matricule": "19421M",
+    "groupe": "LR"
   },
   "Mme BRIQUET Isabelle": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Haute-Vienne",
+    "matricule": "20080C"
   },
   "M. BRISSON Max": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Pyrénées-Atlantiques",
+    "matricule": "19621T",
+    "groupe": "LR"
   },
   "M. MÉDEVIELLE Pierre": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Haute-Garonne",
+    "matricule": "14221J",
+    "groupe": "INDEP"
   },
   "Mme ANTOINE Jocelyne": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Meuse",
+    "matricule": "21042A"
   },
   "M. LOZACH Jean-Jacques": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Creuse",
+    "matricule": "08012N"
   },
   "Mme EUSTACHE-BRINIO Jacqueline": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Val-d'Oise",
+    "matricule": "19673G",
+    "groupe": "LR"
   },
   "M. JOMIER Bernard": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Paris",
+    "matricule": "19683J"
   },
   "M. PELLEVAT Cyril": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Haute-Savoie",
+    "matricule": "14237S",
+    "groupe": "INDEP"
   },
   "M. LE GLEUT Ronan": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Français établis hors de France",
+    "matricule": "19709B",
+    "groupe": "LR"
   },
   "Mme GOY-CHAVENT Sylvie": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Ain",
+    "matricule": "08056B",
+    "groupe": "LR"
   },
   "M. GREMILLET Daniel": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Vosges",
+    "matricule": "14033T",
+    "groupe": "LR"
   },
   "M. SOL Jean": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Pyrénées-Orientales",
+    "matricule": "19703U",
+    "groupe": "LR"
   },
   "Mme GACQUERRE Amel": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Pas-de-Calais",
+    "matricule": "20286Q"
   },
   "Mme JOSEPH Else": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Ardennes",
+    "matricule": "20056C",
+    "groupe": "LR"
   },
   "M. PLA Sébastien": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Aude",
+    "matricule": "20030R"
   },
   "M. RUELLE Jean-Luc": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Français établis hors de France",
+    "matricule": "21036C",
+    "groupe": "LR"
   },
   "Mme BELRHITI Catherine": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Moselle",
+    "matricule": "19954N",
+    "groupe": "LR"
   },
   "M. KLINGER Christian": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Haut-Rhin",
+    "matricule": "20126Y",
+    "groupe": "LR"
   },
   "Mme LOISIER Anne-Catherine": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Côte-d'Or",
+    "matricule": "14205J"
   },
   "Mme BOYER Valérie": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Bouches-du-Rhône",
+    "matricule": "17737W",
+    "groupe": "LR"
   },
   "M. VOGEL Louis": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Seine-et-Marne",
+    "matricule": "21076L",
+    "groupe": "INDEP"
   },
   "M. BITZ Olivier": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Orne",
+    "matricule": "21043B"
   },
   "M. LE RUDULIER Stéphane": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Bouches-du-Rhône",
+    "matricule": "20108W",
+    "groupe": "LR"
   },
   "M. MÉRILLOU Serge": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Dordogne",
+    "matricule": "20028X"
   },
   "M. PAUL Philippe": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Finistère",
+    "matricule": "08047A",
+    "groupe": "LR"
   },
   "M. GROSVALET Philippe": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDSE",
+    "departement": "Loire-Atlantique",
+    "matricule": "21066J"
   },
   "M. GAY Fabien": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "Seine-Saint-Denis",
+    "matricule": "19695N",
+    "groupe": "CRCE-K"
   },
   "M. LEROY Henri": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Alpes-Maritimes",
+    "matricule": "19729F",
+    "groupe": "LR"
   },
   "Mme FLORENNES Isabelle": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Hauts-de-Seine",
+    "matricule": "19111A"
   },
   "Mme LOPEZ Vivette": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Gard",
+    "matricule": "14059S",
+    "groupe": "LR"
   },
   "Mme DARCOS Laure": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Essonne",
+    "matricule": "19693L",
+    "groupe": "INDEP"
   },
   "M. MARSEILLE Hervé": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Hauts-de-Seine",
+    "matricule": "11085T"
   },
   "Mme LERMYTTE Marie-Claude": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Nord",
+    "matricule": "21087P",
+    "groupe": "INDEP"
   },
   "M. MIZZON Jean-Marie": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Moselle",
+    "matricule": "19335Q"
   },
   "Mme BONNEFOY Nicole": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Charente",
+    "matricule": "08060W"
   },
   "M. ROHFRITSCH Teva": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Polynésie française",
+    "matricule": "20150Y"
   },
   "M. RAMBAUD Didier": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Isère",
+    "matricule": "19349W"
   },
   "Mme PUISSAT Frédérique": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Isère",
+    "matricule": "19679N",
+    "groupe": "LR"
   },
   "Mme LE HOUEROU Annie": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Côtes-d'Armor",
+    "matricule": "18193Q"
   },
   "Mme CARRÈRE Maryse": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDSE",
+    "departement": "Hautes-Pyrénées",
+    "matricule": "19629C"
   },
   "Mme BILLON Annick": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Vendée",
+    "matricule": "14030Q"
   },
   "Mme HARRIBEY Laurence": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Gironde",
+    "matricule": "19725B"
   },
   "M. THÉOPHILE Dominique": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Guadeloupe",
+    "matricule": "19301E"
   },
   "Mme de LA PROVÔTÉ Sonia": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Calvados",
+    "matricule": "19735D"
   },
   "M. JOYANDET Alain": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Haute-Saône",
+    "matricule": "95041E",
+    "groupe": "LR"
   },
   "M. BUVAL Frédéric": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Martinique",
+    "matricule": "21096Q"
   },
   "M. LEFÈVRE Antoine": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Aisne",
+    "matricule": "08010L",
+    "groupe": "LR"
   },
   "Mme MARTIN Pauline": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Loiret",
+    "matricule": "21058J",
+    "groupe": "LR"
   },
   "Mme DUMAS Catherine": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Paris",
+    "matricule": "07033P",
+    "groupe": "LR"
   },
   "M. XOWIE Robert Wienie": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "Nouvelle-Calédonie",
+    "matricule": "21030V",
+    "groupe": "CRCE-K"
   },
   "Mme MARGATÉ Marianne": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "Seine-et-Marne",
+    "matricule": "21075K",
+    "groupe": "CRCE-K"
   },
   "Mme MALET Viviane": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "La Réunion",
+    "matricule": "19657G",
+    "groupe": "LR"
   },
   "M. HUGONET Jean-Raymond": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Essonne",
+    "matricule": "19399H",
+    "groupe": "LR"
   },
   "M. VIAL Cédric": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Savoie",
+    "matricule": "20058E",
+    "groupe": "LR"
   },
   "M. JOLY Patrice": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Nièvre",
+    "matricule": "19531S"
   },
   "Mme DI FOLCO Catherine": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Rhône",
+    "matricule": "14215L",
+    "groupe": "LR"
   },
   "Mme BONFANTI-DOSSAT Christine": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Lot-et-Garonne",
+    "matricule": "19367Y",
+    "groupe": "LR"
   },
   "Mme CANAYER Agnès": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Seine-Maritime",
+    "matricule": "14053L",
+    "groupe": "LR"
   },
   "M. CANÉVET Michel": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Finistère",
+    "matricule": "14083S"
   },
   "M. MEIGNEN Thierry": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Seine-Saint-Denis",
+    "matricule": "20252E",
+    "groupe": "LR"
   },
   "M. BELIN Bruno": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Vienne",
+    "matricule": "20024T",
+    "groupe": "LR"
   },
   "Mme HAVET Nadège": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Finistère",
+    "matricule": "20106U"
   },
   "Mme PLUCHET Kristina": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Eure",
+    "matricule": "20118Y",
+    "groupe": "LR"
   },
   "M. GROSPERRIN Jacques": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Doubs",
+    "matricule": "14123H",
+    "groupe": "LR"
   },
   "Mme NOËL Sylviane": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Haute-Savoie",
+    "matricule": "19768N",
+    "groupe": "LR"
   },
   "Mme DELATTRE Nathalie": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDSE",
+    "departement": "Gironde",
+    "matricule": "19719D"
   },
   "Mme PATRU Anne-Sophie": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Ille-et-Vilaine",
+    "matricule": "21421H"
   },
   "M. FICHET Jean-Luc": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Finistère",
+    "matricule": "08045X"
   },
   "Mme HOUSSEAU Marie-Lise": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Tarn",
+    "matricule": "21415K"
   },
   "M. TEMAL Rachid": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Val-d'Oise",
+    "matricule": "19669L"
   },
   "Mme APOURCEAU-POLY Cathy": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "Pas-de-Calais",
+    "matricule": "19760E",
+    "groupe": "CRCE-K"
   },
   "M. BASQUIN Alexandre": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "Nord",
+    "matricule": "21460Q",
+    "groupe": "CRCE-K"
   },
   "Mme BLATRIX CONTAT Florence": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Ain",
+    "matricule": "20094J"
   },
   "M. RIETMANN Olivier": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Haute-Saône",
+    "matricule": "20054A",
+    "groupe": "LR"
   },
   "Mme ESTROSI SASSONE Dominique": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Alpes-Maritimes",
+    "matricule": "14187A",
+    "groupe": "LR"
   },
   "M. LAFON Laurent": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Val-de-Marne",
+    "matricule": "19611R"
   },
   "M. OMAR OILI Saïd": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Mayotte",
+    "matricule": "19331L"
   },
   "M. DELCROS Bernard": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Cantal",
+    "matricule": "14327T"
   },
   "Mme SILVANI Silvana": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "Meurthe-et-Moselle",
+    "matricule": "21049H",
+    "groupe": "CRCE-K"
   },
   "M. DAUBET Raphaël": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDSE",
+    "departement": "Lot",
+    "matricule": "21041Y"
   },
   "Mme JOUVE Mireille": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDSE",
+    "departement": "Bouches-du-Rhône",
+    "matricule": "14241N"
   },
   "M. FOLLIOT Philippe": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Tarn",
+    "matricule": "17023S"
   },
   "Mme BELLAMY Marie-Jeanne": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Vienne",
+    "matricule": "21125C",
+    "groupe": "LR"
   },
   "M. CAMBON Christian": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Val-de-Marne",
+    "matricule": "04042C",
+    "groupe": "LR"
   },
   "M. LAURENT Daniel": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Charente-Maritime",
+    "matricule": "08015R",
+    "groupe": "LR"
   },
   "Mme GUHL Antoinette": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Groupe Écologiste — Solidarité et Territoires",
+    "departement": "Paris",
+    "matricule": "21092L",
+    "groupe": "GEST"
   },
   "M. CADEC Alain": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Côtes-d'Armor",
+    "matricule": "20104S",
+    "groupe": "LR"
   },
   "M. LEMOYNE Jean-Baptiste": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Yonne",
+    "matricule": "14037X"
   },
   "M. MANDELLI Didier": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Vendée",
+    "matricule": "14031R",
+    "groupe": "LR"
   },
   "M. MARIE Didier": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Seine-Maritime",
+    "matricule": "14001X"
   },
   "Mme GUIDEZ Jocelyne": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Essonne",
+    "matricule": "19691J"
   },
   "M. CADIC Olivier": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Français établis hors de France",
+    "matricule": "14255U"
   },
   "M. CAZABONNE Alain": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Gironde",
+    "matricule": "19721W"
   },
   "M. JACQUIN Olivier": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Meurthe-et-Moselle",
+    "matricule": "19551W"
   },
   "M. FIALAIRE Bernard": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDSE",
+    "departement": "Rhône",
+    "matricule": "20132W"
   },
   "M. VAYSSOUZE-FAURE Jean-Marc": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Lot",
+    "matricule": "21031W"
   },
   "M. LAHELLEC Gérard": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "Côtes-d'Armor",
+    "matricule": "20102Q",
+    "groupe": "CRCE-K"
   },
   "Mme GOULET Nathalie": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Orne",
+    "matricule": "07004J"
   },
   "M. UZENAT Simon": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Morbihan",
+    "matricule": "21051B"
   },
   "M. DHERSIN Franck": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Nord",
+    "matricule": "15197G"
   },
   "M. BOURGI Hussein": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Hérault",
+    "matricule": "20114U"
   },
   "M. DARRAS Jérôme": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Pas-de-Calais",
+    "matricule": "21067K"
   },
   "M. CARDON Rémi": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Somme",
+    "matricule": "20060X"
   },
   "M. LOUAULT Vincent": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Indre-et-Loire",
+    "matricule": "21054E",
+    "groupe": "INDEP"
   },
   "M. PACCAUD Olivier": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Oise",
+    "matricule": "19573D",
+    "groupe": "LR"
   },
   "M. HUSSON Jean-François": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Meurthe-et-Moselle",
+    "matricule": "11048N",
+    "groupe": "LR"
   },
   "M. CAPUS Emmanuel": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Maine-et-Loire",
+    "matricule": "19545Y",
+    "groupe": "INDEP"
   },
   "Mme CUKIERMAN Cécile": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "Loire",
+    "matricule": "11056N",
+    "groupe": "CRCE-K"
   },
   "Mme DREXLER Sabine": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Haut-Rhin",
+    "matricule": "20124W",
+    "groupe": "LR"
   },
   "Mme VERMEILLET Sylvie": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Jura",
+    "matricule": "19479G"
   },
   "Mme JOURDA Gisèle": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Aude",
+    "matricule": "14097Y"
   },
   "Mme BRULIN Céline": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "Seine-Maritime",
+    "matricule": "19758L",
+    "groupe": "CRCE-K"
   },
   "M. RAYNAL Claude": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Haute-Garonne",
+    "matricule": "14225N"
   },
   "M. SAVOLDELLI Pascal": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "Val-de-Marne",
+    "matricule": "19687N",
+    "groupe": "CRCE-K"
   },
   "Mme GIRARDIN Annick": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDSE",
+    "departement": "Saint-Pierre-et-Miquelon",
+    "matricule": "21032X"
   },
   "M. FERNIQUE Jacques": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Groupe Écologiste — Solidarité et Territoires",
+    "departement": "Bas-Rhin",
+    "matricule": "20100N",
+    "groupe": "GEST"
   },
   "M. POINTEREAU Rémy": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Cher",
+    "matricule": "05012A",
+    "groupe": "LR"
   },
   "M. BOUAD Denis": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Gard",
+    "matricule": "20088L"
   },
   "Mme RICHER Marie-Pierre": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Cher",
+    "matricule": "19798U",
+    "groupe": "LR"
   },
   "M. FARGEOT Daniel": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Val-d'Oise",
+    "matricule": "21086N"
   },
   "M. CHAUVET Patrick": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Seine-Maritime",
+    "matricule": "20144B"
   },
   "Mme BRIANTE GUILLEMONT Sophie": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDSE",
+    "departement": "Français établis hors de France",
+    "matricule": "21404G"
   },
   "M. DEMILLY Stéphane": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Somme",
+    "matricule": "17229F"
   },
   "M. JEANSANNETAS Éric": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Creuse",
+    "matricule": "14121F"
   },
   "M. MENONVILLE Franck": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Meuse",
+    "matricule": "19563B"
   },
   "M. LUREL Victorin": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Guadeloupe",
+    "matricule": "12016W"
   },
   "M. DEVINAZ Gilbert-Luc": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Rhône",
+    "matricule": "19251M"
   },
   "M. MILON Alain": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Vaucluse",
+    "matricule": "04092N",
+    "groupe": "LR"
   },
   "Mme SENÉE Ghislaine": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Groupe Écologiste — Solidarité et Territoires",
+    "departement": "Yvelines",
+    "matricule": "21079P",
+    "groupe": "GEST"
   },
   "Mme CORBIERE NAMINZO Evelyne": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "La Réunion",
+    "matricule": "21034A",
+    "groupe": "CRCE-K"
   },
   "M. MALHURET Claude": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Allier",
+    "matricule": "14251Q",
+    "groupe": "INDEP"
   },
   "M. OUIZILLE Alexandre": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Oise",
+    "matricule": "21060C"
   },
   "Mme PANTEL Guylène": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDSE",
+    "departement": "Lozère",
+    "matricule": "19866P"
   },
   "Mme BROSSEL Colombe": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Paris",
+    "matricule": "21089R"
   },
   "M. LÉVRIER Martin": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Yvelines",
+    "matricule": "19697Q"
   },
   "Mme RICHARD Olivia": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Français établis hors de France",
+    "matricule": "21038E"
   },
   "M. BACCHI Jérémy": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "Bouches-du-Rhône",
+    "matricule": "20112S",
+    "groupe": "CRCE-K"
   },
   "M. de NICOLAY Louis-Jean": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Sarthe",
+    "matricule": "14169X",
+    "groupe": "LR"
   },
   "Mme NARASSIGUIN Corinne": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Seine-Saint-Denis",
+    "matricule": "18231D"
   },
   "Mme BORCHIO FONTIMP Alexandra": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Alpes-Maritimes",
+    "matricule": "20138D",
+    "groupe": "LR"
   },
   "M. MOHAMED SOILIHI Thani": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Mayotte",
+    "matricule": "11072N"
   },
   "M. BLEUNVEN Yves": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Morbihan",
+    "matricule": "21050A"
   },
   "Mme DOINEAU Élisabeth": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Mayenne",
+    "matricule": "14042U"
   },
   "M. CHEVROLLIER Guillaume": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Mayenne",
+    "matricule": "18083K",
+    "groupe": "LR"
   },
   "Mme DANIEL Karine": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Loire-Atlantique",
+    "matricule": "18395Y"
   },
   "M. ANGLARS Jean-Claude": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Aveyron",
+    "matricule": "20032T",
+    "groupe": "LR"
   },
   "Mme VOGEL Mélanie": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Groupe Écologiste — Solidarité et Territoires",
+    "departement": "Français établis hors de France",
+    "matricule": "20266L",
+    "groupe": "GEST"
   },
   "Mme DEVÉSA Brigitte": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Bouches-du-Rhône",
+    "matricule": "20248J"
   },
   "Mme GUILLOTIN Véronique": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDSE",
+    "departement": "Meurthe-et-Moselle",
+    "matricule": "19553Y"
   },
   "M. DARNAUD Mathieu": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Ardèche",
+    "matricule": "14259Y",
+    "groupe": "LR"
   },
   "Mme JOSENDE Lauriane": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Pyrénées-Orientales",
+    "matricule": "21044C",
+    "groupe": "LR"
   },
   "Mme AESCHLIMANN Marie-Do": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Hauts-de-Seine",
+    "matricule": "21071F",
+    "groupe": "LR"
   },
   "Mme CARLOTTI Marie-Arlette": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Bouches-du-Rhône",
+    "matricule": "12028B"
   },
   "M. MARC Alain": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Aveyron",
+    "matricule": "14111D",
+    "groupe": "INDEP"
   },
   "M. CAPO-CANELLAS Vincent": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Seine-Saint-Denis",
+    "matricule": "11053K"
   },
   "M. DAUBRESSE Marc-Philippe": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Nord",
+    "matricule": "04008A",
+    "groupe": "LR"
   },
   "M. COURTIAL Édouard": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Oise",
+    "matricule": "11115U"
   },
   "Mme GRUNY Pascale": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Aisne",
+    "matricule": "14026U",
+    "groupe": "LR"
   },
   "M. HERVÉ Loïc": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Haute-Savoie",
+    "matricule": "14179A"
   },
   "M. de MONTGOLFIER Albéric": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Eure-et-Loir",
+    "matricule": "08011M",
+    "groupe": "LR"
   },
   "Mme PRIMAS Sophie": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Yvelines",
+    "matricule": "11090Q",
+    "groupe": "LR"
   },
   "Mme GERBAUD Frédérique": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Indre",
+    "matricule": "14355X",
+    "groupe": "LR"
   },
   "M. RAPIN Jean-François": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Pas-de-Calais",
+    "matricule": "14331P",
+    "groupe": "LR"
   },
   "Mme NADILLE Solanges": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Guadeloupe",
+    "matricule": "21097R"
   },
   "M. RETAILLEAU Bruno": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Vendée",
+    "matricule": "04033B",
+    "groupe": "LR"
   },
   "M. TISSOT Jean-Claude": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Loire",
+    "matricule": "19413M"
   },
   "M. GONTARD Guillaume": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Groupe Écologiste — Solidarité et Territoires",
+    "departement": "Isère",
+    "matricule": "19347U",
+    "groupe": "GEST"
   },
   "M. MOUILLER Philippe": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Deux-Sèvres",
+    "matricule": "14071N",
+    "groupe": "LR"
   },
   "Mme MORIN-DESAILLY Catherine": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Seine-Maritime",
+    "matricule": "04070G"
   },
   "M. SÉNÉ Marc": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Bas-Rhin",
+    "matricule": "21510H",
+    "groupe": "LR"
   },
   "M. HINGRAY Jean": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Vosges",
+    "matricule": "20048C"
   },
   "M. ROS David": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Essonne",
+    "matricule": "21059K"
   },
   "Mme SCHILLINGER Patricia": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Haut-Rhin",
+    "matricule": "04045F"
   },
   "Mme de CIDRAC Marta": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Yvelines",
+    "matricule": "19701S",
+    "groupe": "LR"
   },
   "M. FRASSA Christophe-André": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Français établis hors de France",
+    "matricule": "08018U",
+    "groupe": "LR"
   },
   "M. GUERET Daniel": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Eure-et-Loir",
+    "matricule": "20068G",
+    "groupe": "LR"
   },
   "Mme PAOLI-GAGIN Vanina": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Aube",
+    "matricule": "20050V",
+    "groupe": "INDEP"
   },
   "M. BACCI Jean": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Var",
+    "matricule": "20076G",
+    "groupe": "LR"
   },
   "Mme RENAUD-GARABEDIAN Évelyne": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Français établis hors de France",
+    "matricule": "19705W",
+    "groupe": "LR"
   },
   "M. BLANC Étienne": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Rhône",
+    "matricule": "17367Q",
+    "groupe": "LR"
   },
   "M. HAYE Ludovic": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Haut-Rhin",
+    "matricule": "20128B"
   },
   "M. EBLÉ Vincent": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Seine-et-Marne",
+    "matricule": "11074Q"
   },
   "M. BURGOA Laurent": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Gard",
+    "matricule": "20090E",
+    "groupe": "LR"
   },
   "M. BARROS Pierre": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "Val-d'Oise",
+    "matricule": "21084L",
+    "groupe": "CRCE-K"
   },
   "M. VALLET Mickaël": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Charente-Maritime",
+    "matricule": "20064C"
   },
   "M. HOCHART Joshua": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Non inscrit",
+    "departement": "Nord",
+    "matricule": "21085M",
+    "groupe": "NI"
   },
   "Mme PONCET MONGE Raymonde": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Groupe Écologiste — Solidarité et Territoires",
+    "departement": "Rhône",
+    "matricule": "20130U",
+    "groupe": "GEST"
   },
   "M. KERN Claude": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Bas-Rhin",
+    "matricule": "14073Q"
   },
   "M. HENNO Olivier": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Nord",
+    "matricule": "19569H"
   },
   "M. MARTIN Pascal": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Seine-Maritime",
+    "matricule": "19826F"
   },
   "Mme OLLIVIER Mathilde": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Groupe Écologiste — Solidarité et Territoires",
+    "departement": "Français établis hors de France",
+    "matricule": "21037D",
+    "groupe": "GEST"
   },
   "Mme MOUTON Marie-Pierre": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Drôme",
+    "matricule": "21534R",
+    "groupe": "LR"
   },
   "M. SZPINER Francis": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Paris",
+    "matricule": "21095P",
+    "groupe": "LR"
   },
   "M. KULIMOETOKE Mikaele": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Iles Wallis et Futuna",
+    "matricule": "20016T"
   },
   "Mme PETRUS Annick": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Saint-Martin",
+    "matricule": "20148F",
+    "groupe": "LR"
   },
   "M. PIEDNOIR Stéphane": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Maine-et-Loire",
+    "matricule": "19533U",
+    "groupe": "LR"
   },
   "Mme GRÉAUME Michelle": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "Nord",
+    "matricule": "19565D",
+    "groupe": "CRCE-K"
   },
   "M. RAVIER Stéphane": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Non inscrit",
+    "departement": "Bouches-du-Rhône",
+    "matricule": "14055N",
+    "groupe": "NI"
   },
   "M. VERZELEN Pierre-Jean": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Aisne",
+    "matricule": "20122U",
+    "groupe": "INDEP"
   },
   "Mme SOLLOGOUB Nadia": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Nièvre",
+    "matricule": "19713W"
   },
   "M. GENET Fabien": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Saône-et-Loire",
+    "matricule": "20120S",
+    "groupe": "LR"
   },
   "Mme VENTALON Anne": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Ardèche",
+    "matricule": "20026V",
+    "groupe": "LR"
   },
   "Mme IMBERT Corinne": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Charente-Maritime",
+    "matricule": "14213J",
+    "groupe": "LR"
   },
   "Mme POUMIROL Emilienne": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Haute-Garonne",
+    "matricule": "17965H"
   },
   "M. STANZIONE Lucien": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Vaucluse",
+    "matricule": "20084G"
   },
   "M. MICHAU Jean-Jacques": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Ariège",
+    "matricule": "20018V"
   },
   "M. LAUGIER Michel": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Yvelines",
+    "matricule": "19699S"
   },
   "Mme GOSSELIN Béatrice": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Manche",
+    "matricule": "20180F",
+    "groupe": "LR"
   },
   "Mme VALENTE LE HIR Sylvie": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Oise",
+    "matricule": "21061D",
+    "groupe": "LR"
   },
   "M. LONGEOT Jean-François": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Doubs",
+    "matricule": "14219Q"
   },
   "Mme JACQUEMET Annick": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Doubs",
+    "matricule": "20066E"
   },
   "M. MICHALLET Damien": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Isère",
+    "matricule": "21080G",
+    "groupe": "LR"
   },
   "M. LAMÉNIE Marc": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Ardennes",
+    "matricule": "07029T",
+    "groupe": "INDEP"
   },
   "M. BLANC Grégory": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Groupe Écologiste — Solidarité et Territoires",
+    "departement": "Maine-et-Loire",
+    "matricule": "21048G",
+    "groupe": "GEST"
   },
   "Mme BOURCIER Corinne": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Maine-et-Loire",
+    "matricule": "21046E",
+    "groupe": "INDEP"
   },
   "M. JADOT Yannick": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Groupe Écologiste — Solidarité et Territoires",
+    "departement": "Paris",
+    "matricule": "21093M",
+    "groupe": "GEST"
   },
   "M. CHAIZE Patrick": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Ain",
+    "matricule": "14038Y",
+    "groupe": "LR"
   },
   "Mme MULLER-BRONN Laurence": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Bas-Rhin",
+    "matricule": "20096L",
+    "groupe": "LR"
   },
   "M. HOUPERT Alain": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Côte-d'Or",
+    "matricule": "08069G",
+    "groupe": "LR"
   },
   "M. LARCHER Gérard": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Yvelines",
+    "matricule": "86034E",
+    "groupe": "LR"
   },
   "M. BONNUS Michel": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Var",
+    "matricule": "20078J",
+    "groupe": "LR"
   },
   "Mme EVREN Agnès": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Paris",
+    "matricule": "21091K",
+    "groupe": "LR"
   },
   "M. SZCZUREK Christopher": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Non inscrit",
+    "departement": "Pas-de-Calais",
+    "matricule": "21069M",
+    "groupe": "NI"
   },
   "M. ROIRON Pierre-Alain": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Indre-et-Loire",
+    "matricule": "21056G"
   },
   "M. FAGNEN Sébastien": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Manche",
+    "matricule": "21062E"
   },
   "Mme PERROT Évelyne": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Aube",
+    "matricule": "19745F"
   },
   "M. PATRIAT François": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Côte-d'Or",
+    "matricule": "08061X"
   },
   "M. FOUASSIN Stéphane": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "La Réunion",
+    "matricule": "21033Y"
   },
   "Mme VARAILLAS Marie-Claude": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "Dordogne",
+    "matricule": "20046A",
+    "groupe": "CRCE-K"
   },
   "M. PARIGI Paul Toussaint": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Haute-Corse",
+    "matricule": "20036X"
   },
   "Mme CHAIN-LARCHÉ Anne": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Seine-et-Marne",
+    "matricule": "14329V",
+    "groupe": "LR"
   },
   "Mme BESSIN-GUERIN Marie-Pierre": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Loire-Atlantique",
+    "matricule": "21514M",
+    "groupe": "INDEP"
   },
   "M. CUYPERS Pierre": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Seine-et-Marne",
+    "matricule": "14357A",
+    "groupe": "LR"
   },
   "M. PANUNZI Jean-Jacques": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Corse-du-Sud",
+    "matricule": "14191V",
+    "groupe": "LR"
   },
   "M. ROUX Jean-Yves": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDSE",
+    "departement": "Alpes de Haute-Provence",
+    "matricule": "14107H"
   },
   "Mme NÉDÉLEC Anne-Marie": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Haute-Marne",
+    "matricule": "21039F",
+    "groupe": "LR"
   },
   "Mme MONIER Marie-Pierre": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Drôme",
+    "matricule": "14109K"
   },
   "M. CHAILLOU Christophe": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Loiret",
+    "matricule": "21057H"
   },
   "M. NOUGEIN Claude": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Corrèze",
+    "matricule": "14253S",
+    "groupe": "LR"
   },
   "M. CABANEL Henri": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDSE",
+    "departement": "Hérault",
+    "matricule": "14207L"
   },
   "Mme BERTHET Martine": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Savoie",
+    "matricule": "19575F",
+    "groupe": "LR"
   },
   "Mme ROSSIGNOL Laurence": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Val-de-Marne",
+    "matricule": "11045K"
   },
   "M. COZIC Thierry": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Sarthe",
+    "matricule": "20070A"
   },
   "M. GOLD Éric": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDSE",
+    "departement": "Puy-de-Dôme",
+    "matricule": "19387D"
   },
   "M. CHANTREL Yan": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Français établis hors de France",
+    "matricule": "20264J"
   },
   "M. DUPLOMB Laurent": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Haute-Loire",
+    "matricule": "19507S",
+    "groupe": "LR"
   },
   "M. KHALIFÉ Khalifé": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Moselle",
+    "matricule": "21081H",
+    "groupe": "LR"
   },
   "M. MASSET Michel": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDSE",
+    "departement": "Lot-et-Garonne",
+    "matricule": "21040X"
   },
   "M. BILHAC Christian": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDSE",
+    "departement": "Hérault",
+    "matricule": "20116W"
   },
   "Mme ROBERT Sylvie": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Ille-et-Vilaine",
+    "matricule": "14229S"
   },
   "M. CHEVALIER Cédric": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Marne",
+    "matricule": "21065H",
+    "groupe": "INDEP"
   },
   "M. GUIOL André": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDSE",
+    "departement": "Var",
+    "matricule": "20072C"
   },
   "M. WATTEBLED Dany": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Nord",
+    "matricule": "19585H",
+    "groupe": "INDEP"
   },
   "Mme CONWAY-MOURET Hélène": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Français établis hors de France",
+    "matricule": "11027H"
   },
   "M. CORBISEZ Jean-Pierre": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "Pas-de-Calais",
+    "matricule": "19681G",
+    "groupe": "CRCE-K"
   },
   "Mme ROMAGNY Anne-Sophie": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Marne",
+    "matricule": "21064G"
   },
   "M. KANNER Patrick": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Nord",
+    "matricule": "14021P"
   },
   "Mme de LA GONTRIE Marie-Pierre": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Paris",
+    "matricule": "19649G"
   },
   "Mme LAVARDE Christine": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Hauts-de-Seine",
+    "matricule": "19711U",
+    "groupe": "LR"
   },
   "M. BROSSAT Ian": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "Paris",
+    "matricule": "21088Q",
+    "groupe": "CRCE-K"
   },
   "M. ALLIZARD Pascal": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Calvados",
+    "matricule": "14133K",
+    "groupe": "LR"
   },
   "Mme JOURDA Muriel": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Morbihan",
+    "matricule": "19447X",
+    "groupe": "LR"
   },
   "Mme DUMONT Françoise": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Var",
+    "matricule": "20074E",
+    "groupe": "LR"
   },
   "Mme de MARCO Monique": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Groupe Écologiste — Solidarité et Territoires",
+    "departement": "Gironde",
+    "matricule": "20142Y",
+    "groupe": "GEST"
   },
   "M. SALMON Daniel": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Groupe Écologiste — Solidarité et Territoires",
+    "departement": "Ille-et-Vilaine",
+    "matricule": "20092G",
+    "groupe": "GEST"
   },
   "Mme LINKENHELD Audrey": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Nord",
+    "matricule": "18207D"
   },
   "M. BRAULT Jean-Luc": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Loir-et-Cher",
+    "matricule": "21052C",
+    "groupe": "INDEP"
   },
   "M. MONTAUGÉ Franck": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Gers",
+    "matricule": "14257W"
   },
   "M. MELLOULI Akli": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Groupe Écologiste — Solidarité et Territoires",
+    "departement": "Val-de-Marne",
+    "matricule": "21073H",
+    "groupe": "GEST"
   },
   "Mme BOURGUIGNON Brigitte": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Pas-de-Calais",
+    "matricule": "18045D"
   },
   "Mme LASSARADE Florence": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Gironde",
+    "matricule": "19723Y",
+    "groupe": "LR"
   },
   "M. FÉRAUD Rémi": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Paris",
+    "matricule": "19647E"
   },
   "M. SAUTAREL Stéphane": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Cantal",
+    "matricule": "20044X",
+    "groupe": "LR"
   },
   "M. ROCHETTE Pierre-Jean": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Loire",
+    "matricule": "21070E",
+    "groupe": "INDEP"
   },
   "M. DUROX Aymeric": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Non inscrit",
+    "departement": "Seine-et-Marne",
+    "matricule": "21074J",
+    "groupe": "NI"
   },
   "M. DELIA Jean-Marc": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Alpes-Maritimes",
+    "matricule": "21470S",
+    "groupe": "LR"
   },
   "M. REYNAUD Hervé": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Loire",
+    "matricule": "21068L",
+    "groupe": "LR"
   },
   "Mme HERZOG Christine": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Moselle",
+    "matricule": "19685L"
   },
   "M. LAOUEDJ Ahmed": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDSE",
+    "departement": "Seine-Saint-Denis",
+    "matricule": "21078N"
   },
   "Mme VÉRIEN Dominique": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Yonne",
+    "matricule": "19749K"
   },
   "Mme CARRÈRE-GÉE Marie-Claire": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Paris",
+    "matricule": "21090J",
+    "groupe": "LR"
   },
   "Mme DEMAS Patricia": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Alpes-Maritimes",
+    "matricule": "20140W",
+    "groupe": "LR"
   },
   "M. MAUREY Hervé": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Eure",
+    "matricule": "08009T"
   },
   "Mme LUBIN Monique": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Landes",
+    "matricule": "17779H"
   },
   "M. CHATILLON Alain": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Haute-Garonne",
+    "matricule": "08028W",
+    "groupe": "LR"
   },
   "M. PATIENT Georges": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Guyane",
+    "matricule": "08073C"
   },
   "Mme TETUANUI Lana": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Polynésie française",
+    "matricule": "14275Y"
   },
   "Mme CONCONNE Catherine": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Martinique",
+    "matricule": "19295A"
   },
   "M. VOGEL Jean Pierre": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Sarthe",
+    "matricule": "14173T",
+    "groupe": "LR"
   },
   "Mme DESEYNE Chantal": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Eure-et-Loir",
+    "matricule": "14217N",
+    "groupe": "LR"
   },
   "M. NATUREL Georges": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Nouvelle-Calédonie",
+    "matricule": "21029D",
+    "groupe": "LR"
   },
   "M. DANTEC Ronan": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Groupe Écologiste — Solidarité et Territoires",
+    "departement": "Loire-Atlantique",
+    "matricule": "11065P",
+    "groupe": "GEST"
   },
   "M. CAMBIER Guislain": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Nord",
+    "matricule": "21083K"
   },
   "M. BUFFET François-Noël": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Rhône",
+    "matricule": "04047H",
+    "groupe": "LR"
   },
   "M. BOYER Jean-Marc": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Puy-de-Dôme",
+    "matricule": "19383Y",
+    "groupe": "LR"
   },
   "M. CIGOLOTTI Olivier": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Haute-Loire",
+    "matricule": "14267Y"
   },
   "M. SOMON Laurent": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Somme",
+    "matricule": "20062A",
+    "groupe": "LR"
   },
   "M. SAVIN Michel": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Isère",
+    "matricule": "11043H",
+    "groupe": "LR"
   },
   "M. BLANC Jean-Baptiste": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Vaucluse",
+    "matricule": "20086J",
+    "groupe": "LR"
   },
   "M. GRAND Jean-Pierre": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Hérault",
+    "matricule": "14211G",
+    "groupe": "INDEP"
   },
   "M. KERROUCHE Éric": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Landes",
+    "matricule": "19489J"
   },
   "M. PERRIN Cédric": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Territoire de Belfort",
+    "matricule": "14193X",
+    "groupe": "LR"
   },
   "M. IACOVELLI Xavier": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Hauts-de-Seine",
+    "matricule": "19591F"
   },
   "Mme CAZEBONNE Samantha": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Français établis hors de France",
+    "matricule": "19057M"
   },
   "M. PERNOT Clément": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Jura",
+    "matricule": "21047F",
+    "groupe": "LR"
   },
   "M. ARNAUD Jean-Michel": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Hautes-Alpes",
+    "matricule": "14189C"
   },
   "Mme CIUNTU Marie-Carole": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Val-de-Marne",
+    "matricule": "21072G",
+    "groupe": "LR"
   },
   "Mme MATRAY Paulette": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Saône-et-Loire",
+    "matricule": "21512K"
   },
   "M. BRUYEN Christian": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Marne",
+    "matricule": "21063F",
+    "groupe": "LR"
   },
   "M. PAUMIER Jean-Gérard": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Indre-et-Loire",
+    "matricule": "21055F",
+    "groupe": "LR"
   },
   "M. BONNEAU François": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Charente",
+    "matricule": "20042V"
   },
   "M. DUFFOURG Alain": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Gers",
+    "matricule": "20040T"
   },
   "Mme BÉLIM Audrey": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "La Réunion",
+    "matricule": "21035B"
   },
   "Mme ARTIGALAS Viviane": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Hautes-Pyrénées",
+    "matricule": "19631V"
   },
   "M. PILLEFER Bernard": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Loir-et-Cher",
+    "matricule": "21053D"
   },
   "M. DOSSUS Thomas": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Groupe Écologiste — Solidarité et Territoires",
+    "departement": "Rhône",
+    "matricule": "20134Y",
+    "groupe": "GEST"
   },
   "M. BAZIN Arnaud": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Val-d'Oise",
+    "matricule": "19667J",
+    "groupe": "LR"
   },
   "M. BONHOMME François": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Tarn-et-Garonne",
+    "matricule": "14069U",
+    "groupe": "LR"
   },
   "Mme MICOULEAU Brigitte": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Haute-Garonne",
+    "matricule": "14223L",
+    "groupe": "LR"
   },
   "Mme SAINT-PÉ Denise": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "UC",
+    "departement": "Pyrénées-Atlantiques",
+    "matricule": "19619A"
   },
   "M. BUIS Bernard": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "RDPI",
+    "departement": "Drôme",
+    "matricule": "19782L"
   },
   "M. KAROUTCHI Roger": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Hauts-de-Seine",
+    "matricule": "99004R",
+    "groupe": "LR"
   },
   "M. CHASSEING Daniel": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Indépendants — République et Territoires",
+    "departement": "Corrèze",
+    "matricule": "14195A",
+    "groupe": "INDEP"
   },
   "Mme GARNIER Laurence": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Loire-Atlantique",
+    "matricule": "20172F",
+    "groupe": "LR"
   },
   "Mme FÉRET Corinne": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Calvados",
+    "matricule": "14281W"
   },
   "Mme MERCIER Marie": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Saône-et-Loire",
+    "matricule": "14147R",
+    "groupe": "LR"
   },
   "M. REDON-SARRAZY Christian": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Haute-Vienne",
+    "matricule": "20082E"
   },
   "Mme JACQUES Micheline": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Saint-Barthélemy",
+    "matricule": "20034V",
+    "groupe": "LR"
   },
   "M. GILLÉ Hervé": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Gironde",
+    "matricule": "19820Y"
   },
   "M. ZIANE Adel": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Seine-Saint-Denis",
+    "matricule": "21077M"
   },
   "M. WEBER Michaël": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "SER",
+    "departement": "Moselle",
+    "matricule": "21082J"
   },
   "M. OUZOULIAS Pierre": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Communiste Républicain Citoyen et Écologiste — Kanaky",
+    "departement": "Hauts-de-Seine",
+    "matricule": "19593H",
+    "groupe": "CRCE-K"
   },
   "Mme BELLUROT Nadine": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Indre",
+    "matricule": "20022R",
+    "groupe": "LR"
   },
   "M. ROJOUAN Bruno": {
-    "en_exercice": true
+    "en_exercice": true,
+    "groupe_label": "Les Républicains",
+    "departement": "Allier",
+    "matricule": "20020P",
+    "groupe": "LR"
   }
 }

@@ -4616,1716 +4616,2858 @@
     "mandat_clos": true
   },
   "Brigand Hubert": {
-    "an_id": "793508"
+    "an_id": "793508",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Ménaché Yaël": {
-    "an_id": "795786"
+    "an_id": "795786",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Meurin Pierre": {
-    "an_id": "793852"
+    "an_id": "793852",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Thiébaut Vincent": {
-    "an_id": "722336"
+    "an_id": "722336",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Dombre Coste Fanny": {
-    "an_id": "606573"
+    "an_id": "606573",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Melchior Graziella": {
-    "an_id": "719338"
+    "an_id": "719338",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Benbrahim Karim": {
-    "an_id": "841315"
+    "an_id": "841315",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Berrios Sylvain": {
-    "an_id": "687214"
+    "an_id": "687214",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Guetté Clémence": {
-    "an_id": "795310"
+    "an_id": "795310",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Latombe Philippe": {
-    "an_id": "721984"
+    "an_id": "721984",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Sorre Bertrand": {
-    "an_id": "720190"
+    "an_id": "720190",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Ménagé Thomas": {
-    "an_id": "794322"
+    "an_id": "794322",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Tryzna Nicolas": {
-    "an_id": "842121"
+    "an_id": "842121",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Lepvraud Murielle": {
-    "an_id": "793532"
+    "an_id": "793532",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Carbonnel Pierre-Henri": {
-    "an_id": "841973"
+    "an_id": "841973",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République"
   },
   "Brugerolles Julien": {
-    "an_id": "794710"
+    "an_id": "794710",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Galzy Stéphanie": {
-    "an_id": "793892"
+    "an_id": "793892",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Bazin Thibault": {
-    "an_id": "642847"
+    "an_id": "642847",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Bellamy Béatrice": {
-    "an_id": "795278"
+    "an_id": "795278",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Salmon Emeric": {
-    "an_id": "794954"
+    "an_id": "794954",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Bruneau Joël": {
-    "an_id": "840817"
+    "an_id": "840817",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Frappé Thierry": {
-    "an_id": "794678"
+    "an_id": "794678",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Regol Sandra": {
-    "an_id": "794778"
+    "an_id": "794778",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "de Courson Charles": {
-    "an_id": "942"
+    "an_id": "942",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Iordanoff Jérémie": {
-    "an_id": "794022"
+    "an_id": "794022",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Petit Frédéric": {
-    "an_id": "721182"
+    "an_id": "721182",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Josso Sandrine": {
-    "an_id": "720038"
+    "an_id": "720038",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Thillaye Sabine": {
-    "an_id": "719822"
+    "an_id": "719822",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Pantel Sophie": {
-    "an_id": "841381"
+    "an_id": "841381",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Dufau Peio": {
-    "an_id": "841633"
+    "an_id": "841633",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Schellenberger Raphaël": {
-    "an_id": "721314"
+    "an_id": "721314",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Castor Jean-Victor": {
-    "an_id": "795868"
+    "an_id": "795868",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Obono Danièle": {
-    "an_id": "721960"
+    "an_id": "721960",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Roseren Xavier": {
-    "an_id": "721458"
+    "an_id": "721458",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Tavernier Boris": {
-    "an_id": "841713"
+    "an_id": "841713",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Vigier Jean-Pierre": {
-    "an_id": "607090"
+    "an_id": "607090",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Thiébault-Martinez Céline": {
-    "an_id": "841893"
+    "an_id": "841893",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Dirx Benjamin": {
-    "an_id": "722382"
+    "an_id": "722382",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Arnault Raphaël": {
-    "an_id": "842105"
+    "an_id": "842105",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Humbert Sébastien": {
-    "an_id": "842085"
+    "an_id": "842085",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Allegret-Pilot Alexandre": {
-    "an_id": "841067"
+    "an_id": "841067",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République"
   },
   "Lelouis Gisèle": {
-    "an_id": "793290"
+    "an_id": "793290",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Reid Arbelot Mereana": {
-    "an_id": "795240"
+    "an_id": "795240",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Gérard Félicie": {
-    "an_id": "794470"
+    "an_id": "794470",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Simion Arnaud": {
-    "an_id": "841091"
+    "an_id": "841091",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Auzanot Bénédicte": {
-    "an_id": "796118"
+    "an_id": "796118",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Leseul Gérard": {
-    "an_id": "774958"
+    "an_id": "774958",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Bouquin Manon": {
-    "an_id": "841131"
+    "an_id": "841131",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Rimbert Catherine": {
-    "an_id": "841981"
+    "an_id": "841981",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Vignon Corinne": {
-    "an_id": "719512"
+    "an_id": "719512",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Herbillon Michel": {
-    "an_id": "1630"
+    "an_id": "1630",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Seo Mikaele": {
-    "an_id": "757225"
+    "an_id": "757225",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Gouffier Valente Guillaume": {
-    "an_id": "721296"
+    "an_id": "721296",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Thevenot Prisca": {
-    "an_id": "795920"
+    "an_id": "795920",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Bernalicis Ugo": {
-    "an_id": "720430"
+    "an_id": "720430",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Jenft Pascal": {
-    "an_id": "841439"
+    "an_id": "841439",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Vannier Paul": {
-    "an_id": "795596"
+    "an_id": "795596",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Le Feur Sandrine": {
-    "an_id": "719412"
+    "an_id": "719412",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Houlié Sacha": {
-    "an_id": "722150"
+    "an_id": "722150",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Monnet Yannick": {
-    "an_id": "793174"
+    "an_id": "793174",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Portes Thomas": {
-    "an_id": "796062"
+    "an_id": "796062",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Brocard Blandine": {
-    "an_id": "721336"
+    "an_id": "721336",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Bony Jean-Yves": {
-    "an_id": "266793"
+    "an_id": "266793",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Nilor Jean-Philippe": {
-    "an_id": "610654"
+    "an_id": "610654",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Corneloup Josiane": {
-    "an_id": "722390"
+    "an_id": "722390",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Kasbarian Guillaume": {
-    "an_id": "719372"
+    "an_id": "719372",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Pahun Jimmy": {
-    "an_id": "720334"
+    "an_id": "720334",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Marais-Beuil Claire": {
-    "an_id": "841563"
+    "an_id": "841563",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Gonzalez José": {
-    "an_id": "793362"
+    "an_id": "793362",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Fiévet Jean-Marie": {
-    "an_id": "722134"
+    "an_id": "722134",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Lam Thomas": {
-    "an_id": "842125"
+    "an_id": "842125",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Attal Gabriel": {
-    "an_id": "722190"
+    "an_id": "722190",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Got Pascale": {
-    "an_id": "331973"
+    "an_id": "331973",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Brosse Anthony": {
-    "an_id": "794330"
+    "an_id": "794330",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Ricourt Vaginay Sophie": {
-    "an_id": "840657"
+    "an_id": "840657",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République"
   },
   "Mazars Stéphane": {
-    "an_id": "677483"
+    "an_id": "677483",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Lucas-Lundy Benjamin": {
-    "an_id": "795636"
+    "an_id": "795636",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Favennec-Bécot Yannick": {
-    "an_id": "267042"
+    "an_id": "267042",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Evrard Auguste": {
-    "an_id": "841621"
+    "an_id": "841621",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Olive Karl": {
-    "an_id": "795722"
+    "an_id": "795722",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Ray Nicolas": {
-    "an_id": "793094"
+    "an_id": "793094",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Carrière Sylvain": {
-    "an_id": "793912"
+    "an_id": "793912",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Duplessy Emmanuel": {
-    "an_id": "841351"
+    "an_id": "841351",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Rodwell Charles": {
-    "an_id": "795528"
+    "an_id": "795528",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Mandon Emmanuel": {
-    "an_id": "794114"
+    "an_id": "794114",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Yadan Caroline": {
-    "an_id": "795046"
+    "an_id": "795046",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Pannier-Runacher Agnès": {
-    "an_id": "759832"
+    "an_id": "759832",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Maudet Damien": {
-    "an_id": "795422"
+    "an_id": "795422",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Roumégas Jean-Louis": {
-    "an_id": "606545"
+    "an_id": "606545",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Ben Cheikh Karim": {
-    "an_id": "795454"
+    "an_id": "795454",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Grégoire Olivia": {
-    "an_id": "721764"
+    "an_id": "721764",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Saint-Paul Laetitia": {
-    "an_id": "720138"
+    "an_id": "720138",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Brulebois Danielle": {
-    "an_id": "719890"
+    "an_id": "719890",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Tjibaou Emmanuel": {
-    "an_id": "842299"
+    "an_id": "842299",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Cazeneuve Pierre": {
-    "an_id": "795864"
+    "an_id": "795864",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Taillé-Polian Sophie": {
-    "an_id": "736201"
+    "an_id": "736201",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Di Filippo Fabien": {
-    "an_id": "720386"
+    "an_id": "720386",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Mercier Estelle": {
-    "an_id": "841463"
+    "an_id": "841463",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Ramos Richard": {
-    "an_id": "720092"
+    "an_id": "720092",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Gery Jonathan": {
-    "an_id": "841737"
+    "an_id": "841737",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Hollande François": {
-    "an_id": "1654"
+    "an_id": "1654",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Dupont Stella": {
-    "an_id": "643175"
+    "an_id": "643175",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Lenoir Bartolomé": {
-    "an_id": "840983"
+    "an_id": "840983",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République"
   },
   "Chatelain Cyrielle": {
-    "an_id": "794008"
+    "an_id": "794008",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Michoux Éric": {
-    "an_id": "841769"
+    "an_id": "841769",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République"
   },
   "Bazin-Malgras Valérie": {
-    "an_id": "718884"
+    "an_id": "718884",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Fruchon Alix": {
-    "an_id": "841151"
+    "an_id": "841151",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Leboucher Élise": {
-    "an_id": "795108"
+    "an_id": "795108",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Guiniot Michel": {
-    "an_id": "794734"
+    "an_id": "794734",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Missoffe Joséphine": {
-    "an_id": "795962"
+    "an_id": "795962",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Delaporte Arthur": {
-    "an_id": "793394"
+    "an_id": "793394",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Darrieussecq Geneviève": {
-    "an_id": "719914"
+    "an_id": "719914",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Serva Olivier": {
-    "an_id": "720960"
+    "an_id": "720960",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Lebec Marie": {
-    "an_id": "721852"
+    "an_id": "721852",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Poussier-Winsback Marie-Agnès": {
-    "an_id": "795270"
+    "an_id": "795270",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Huwart Harold": {
-    "an_id": "841017"
+    "an_id": "841017",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Habib David": {
-    "an_id": "1592"
+    "an_id": "1592",
+    "groupe": "NI",
+    "groupe_label": "Non inscrit"
   },
   "Fait Philippe": {
-    "an_id": "794658"
+    "an_id": "794658",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Amrani Farida": {
-    "an_id": "795588"
+    "an_id": "795588",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Mattei Jean-Paul": {
-    "an_id": "720728"
+    "an_id": "720728",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Lemaire Didier": {
-    "an_id": "794838"
+    "an_id": "794838",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Jacobelli Laurent": {
-    "an_id": "794598"
+    "an_id": "794598",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Spillebout Violette": {
-    "an_id": "794486"
+    "an_id": "794486",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Coggia Nathalie": {
-    "an_id": "795402"
+    "an_id": "795402",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Chudeau Roger": {
-    "an_id": "794198"
+    "an_id": "794198",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Gabarron Julien": {
-    "an_id": "841139"
+    "an_id": "841139",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Gumbs Frantz": {
-    "an_id": "795258"
+    "an_id": "795258",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Parmentier-Lecocq Charlotte": {
-    "an_id": "720480"
+    "an_id": "720480",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Boucard Ian": {
-    "an_id": "721816"
+    "an_id": "721816",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Limongi Julien": {
-    "an_id": "841873"
+    "an_id": "841873",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Delannoy Sandra": {
-    "an_id": "840119"
+    "an_id": "840119",
+    "groupe": "NI",
+    "groupe_label": "Non inscrit"
   },
   "Bonnet Nicolas": {
-    "an_id": "841507"
+    "an_id": "841507",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Dive Julien": {
-    "an_id": "712015"
+    "an_id": "712015",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Lioret René": {
-    "an_id": "840967"
+    "an_id": "840967",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Naegelen Christophe": {
-    "an_id": "721486"
+    "an_id": "721486",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Guibert Julien": {
-    "an_id": "841451"
+    "an_id": "841451",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Clavet Bruno": {
-    "an_id": "840159"
+    "an_id": "840159",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Autain Clémentine": {
-    "an_id": "588884"
+    "an_id": "588884",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Beaurain José": {
-    "an_id": "793158"
+    "an_id": "793158",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Weber Frédéric": {
-    "an_id": "841479"
+    "an_id": "841479",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Hablot Stéphane": {
-    "an_id": "841471"
+    "an_id": "841471",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Roussel Fabrice": {
-    "an_id": "841327"
+    "an_id": "841327",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Taurinya Andrée": {
-    "an_id": "794106"
+    "an_id": "794106",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Travert Stéphane": {
-    "an_id": "607395"
+    "an_id": "607395",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Rivière Joseph": {
-    "an_id": "842227"
+    "an_id": "842227",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Eskenazi Romain": {
-    "an_id": "842195"
+    "an_id": "842195",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Amirshahi Pouria": {
-    "an_id": "610968"
+    "an_id": "610968",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Brard Jean-Michel": {
-    "an_id": "841339"
+    "an_id": "841339",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Ferrer Sylvie": {
-    "an_id": "794870"
+    "an_id": "794870",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Lalanne Sandrine": {
-    "an_id": "795390"
+    "an_id": "795390",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Fégné Denis": {
-    "an_id": "841665"
+    "an_id": "841665",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Erodi Karen": {
-    "an_id": "795844"
+    "an_id": "795844",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Bannier Géraldine": {
-    "an_id": "720256"
+    "an_id": "720256",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Naillet Philippe": {
-    "an_id": "643157"
+    "an_id": "643157",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Belouassa-Cherifi Anaïs": {
-    "an_id": "841657"
+    "an_id": "841657",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Delautrette Stéphane": {
-    "an_id": "795430"
+    "an_id": "795430",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Viry Stéphane": {
-    "an_id": "721474"
+    "an_id": "721474",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Grelier Jean-Carles": {
-    "an_id": "267318"
+    "an_id": "267318",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Colombani Paul-André": {
-    "an_id": "719286"
+    "an_id": "719286",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Lechanteux Julie": {
-    "an_id": "796026"
+    "an_id": "796026",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Panot Mathilde": {
-    "an_id": "720892"
+    "an_id": "720892",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Martinez Michèle": {
-    "an_id": "794770"
+    "an_id": "794770",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Rolland Vincent": {
-    "an_id": "266808"
+    "an_id": "266808",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Riester Franck": {
-    "an_id": "335758"
+    "an_id": "335758",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Lahais Tristan": {
-    "an_id": "841223"
+    "an_id": "841223",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Vicot Roger": {
-    "an_id": "794494"
+    "an_id": "794494",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Laisney Maxime": {
-    "an_id": "795516"
+    "an_id": "795516",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Goulet Florence": {
-    "an_id": "794418"
+    "an_id": "794418",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Bompard Manuel": {
-    "an_id": "793444"
+    "an_id": "793444",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Fesneau Marc": {
-    "an_id": "719938"
+    "an_id": "719938",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Pena Marc": {
-    "an_id": "840793"
+    "an_id": "840793",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Buisson Jérôme": {
-    "an_id": "793134"
+    "an_id": "793134",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Hamdane Zahia": {
-    "an_id": "841947"
+    "an_id": "841947",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Isaac-Sibille Cyrille": {
-    "an_id": "722374"
+    "an_id": "722374",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Gruet Justine": {
-    "an_id": "794058"
+    "an_id": "794058",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Lottiaux Philippe": {
-    "an_id": "795974"
+    "an_id": "795974",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Ruffin François": {
-    "an_id": "722142"
+    "an_id": "722142",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Mongardien Christophe": {
-    "an_id": "842147"
+    "an_id": "842147",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Balanant Erwan": {
-    "an_id": "719558"
+    "an_id": "719558",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Riotton Véronique": {
-    "an_id": "721426"
+    "an_id": "721426",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Chavent Marc": {
-    "an_id": "840721"
+    "an_id": "840721",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République"
   },
   "Taupiac David": {
-    "an_id": "793796"
+    "an_id": "793796",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Petit Maud": {
-    "an_id": "721234"
+    "an_id": "721234",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Vermorel-Marques Antoine": {
-    "an_id": "794118"
+    "an_id": "794118",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Frébault Moerani": {
-    "an_id": "840235"
+    "an_id": "840235",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Castellani Michel": {
-    "an_id": "719138"
+    "an_id": "719138",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Genetet Anne": {
-    "an_id": "721024"
+    "an_id": "721024",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Barthès Christophe": {
-    "an_id": "793238"
+    "an_id": "793238",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Mazaury Laurent": {
-    "an_id": "841931"
+    "an_id": "841931",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Buchou Stéphane": {
-    "an_id": "722000"
+    "an_id": "722000",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Dutremble Aurélien": {
-    "an_id": "841761"
+    "an_id": "841761",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Sitzenstuhl Charles": {
-    "an_id": "794802"
+    "an_id": "794802",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Ott Hubert": {
-    "an_id": "794830"
+    "an_id": "794830",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Arenas Rodrigo": {
-    "an_id": "795084"
+    "an_id": "795084",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Henriet Pierre": {
-    "an_id": "722070"
+    "an_id": "722070",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Gosselin Philippe": {
-    "an_id": "266797"
+    "an_id": "266797",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Davi Hendrik": {
-    "an_id": "793452"
+    "an_id": "793452",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Cathala Gabrielle": {
-    "an_id": "842187"
+    "an_id": "842187",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Clouet Hadrien": {
-    "an_id": "793736"
+    "an_id": "793736",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "de Lépinau Hervé": {
-    "an_id": "642988"
+    "an_id": "642988",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Martin Élisa": {
-    "an_id": "342384"
+    "an_id": "342384",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Lepers Guillaume": {
-    "an_id": "695512"
+    "an_id": "695512",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Chenu Sébastien": {
-    "an_id": "720468"
+    "an_id": "720468",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Calvez Céline": {
-    "an_id": "721750"
+    "an_id": "721750",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Giletti Frank": {
-    "an_id": "796034"
+    "an_id": "796034",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Lecoq Jean-Paul": {
-    "an_id": "335612"
+    "an_id": "335612",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Bourgeaux Jean-Luc": {
-    "an_id": "342240"
+    "an_id": "342240",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Diouara Aly": {
-    "an_id": "842155"
+    "an_id": "842155",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Cadalen Pierre-Yves": {
-    "an_id": "841023"
+    "an_id": "841023",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Criaud Michel": {
-    "an_id": "794430"
+    "an_id": "794430",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "David Alain": {
-    "an_id": "1008"
+    "an_id": "1008",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Mesmeur Marie": {
-    "an_id": "841215"
+    "an_id": "841215",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Albertini Xavier": {
-    "an_id": "794278"
+    "an_id": "794278",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Coquerel Éric": {
-    "an_id": "721202"
+    "an_id": "721202",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Thierry Nicolas": {
-    "an_id": "793948"
+    "an_id": "793948",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Baptiste Christian": {
-    "an_id": "643143"
+    "an_id": "643143",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Minard Christelle": {
-    "an_id": "643104"
+    "an_id": "643104",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Diaz Edwige": {
-    "an_id": "793928"
+    "an_id": "793928",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Marchive Bastien": {
-    "an_id": "795730"
+    "an_id": "795730",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Masséglia Denis": {
-    "an_id": "720146"
+    "an_id": "720146",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Laporte Hélène": {
-    "an_id": "794354"
+    "an_id": "794354",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Martin Patrice": {
-    "an_id": "841825"
+    "an_id": "841825",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Sansu Nicolas": {
-    "an_id": "605745"
+    "an_id": "605745",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Midy Paul": {
-    "an_id": "795664"
+    "an_id": "795664",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Allemand Marie-José": {
-    "an_id": "840665"
+    "an_id": "840665",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Proença Christophe": {
-    "an_id": "841367"
+    "an_id": "841367",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Martin Alexandra": {
-    "an_id": "793342"
+    "an_id": "793342",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Keloua Hachi Fatiha": {
-    "an_id": "795156"
+    "an_id": "795156",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Fuchs Bruno": {
-    "an_id": "722284"
+    "an_id": "722284",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Violland Anne-Cécile": {
-    "an_id": "795026"
+    "an_id": "795026",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Echaniz Inaki": {
-    "an_id": "794854"
+    "an_id": "794854",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Rousseau Aurélien": {
-    "an_id": "826635"
+    "an_id": "826635",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Jolivet François": {
-    "an_id": "719778"
+    "an_id": "719778",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Pirès Beaune Christine": {
-    "an_id": "608172"
+    "an_id": "608172",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Golliot Antoine": {
-    "an_id": "841605"
+    "an_id": "841605",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Brun Philippe": {
-    "an_id": "793624"
+    "an_id": "793624",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Klinkert Brigitte": {
-    "an_id": "643184"
+    "an_id": "643184",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Da Conceicao Carvalho Nathalie": {
-    "an_id": "795644"
+    "an_id": "795644",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Tabarot Michèle": {
-    "an_id": "267794"
+    "an_id": "267794",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Pollet Lisette": {
-    "an_id": "793656"
+    "an_id": "793656",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Colin-Oesterlé Nathalie": {
-    "an_id": "841431"
+    "an_id": "841431",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Blanchet Christophe": {
-    "an_id": "719024"
+    "an_id": "719024",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Saint-Pasteur Sébastien": {
-    "an_id": "841243"
+    "an_id": "841243",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Jourdan Chantal": {
-    "an_id": "643192"
+    "an_id": "643192",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Bolo Philippe": {
-    "an_id": "720162"
+    "an_id": "720162",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Fournier Charles": {
-    "an_id": "793980"
+    "an_id": "793980",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Amblard Maxime": {
-    "an_id": "841495"
+    "an_id": "841495",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Gokel Julien": {
-    "an_id": "841539"
+    "an_id": "841539",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "de Fleurian Marc": {
-    "an_id": "841613"
+    "an_id": "841613",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Chaix Bernard": {
-    "an_id": "840701"
+    "an_id": "840701",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République"
   },
   "Colombier Caroline": {
-    "an_id": "793548"
+    "an_id": "793548",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Allisio Franck": {
-    "an_id": "793432"
+    "an_id": "793432",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Odoul Julien": {
-    "an_id": "795552"
+    "an_id": "795552",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Monnier Thibaut": {
-    "an_id": "840915"
+    "an_id": "840915",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Garin Marie-Charlotte": {
-    "an_id": "795010"
+    "an_id": "795010",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Grangier Géraldine": {
-    "an_id": "793592"
+    "an_id": "793592",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Baumel Laurent": {
-    "an_id": "606793"
+    "an_id": "606793",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Mauvieux Kévin": {
-    "an_id": "793616"
+    "an_id": "793616",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Blanchard Benoît": {
-    "an_id": "842183"
+    "an_id": "842183",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Peu Stéphane": {
-    "an_id": "721270"
+    "an_id": "721270",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Portarrieu Jean-François": {
-    "an_id": "719528"
+    "an_id": "719528",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Chikirou Sophia": {
-    "an_id": "791812"
+    "an_id": "791812",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Cormier-Bouligeon François": {
-    "an_id": "719118"
+    "an_id": "719118",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Tanguy Liliana": {
-    "an_id": "719550"
+    "an_id": "719550",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Larrouquis Benoît": {
-    "an_id": "795334"
+    "an_id": "795334",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Juvin Philippe": {
-    "an_id": "346782"
+    "an_id": "346782",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Valletoux Frédéric": {
-    "an_id": "795350"
+    "an_id": "795350",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Miller Laure": {
-    "an_id": "817203"
+    "an_id": "817203",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Lejeune Claire": {
-    "an_id": "842029"
+    "an_id": "842029",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Vigier Philippe": {
-    "an_id": "331582"
+    "an_id": "331582",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Herouin-Léautey Florence": {
-    "an_id": "841813"
+    "an_id": "841813",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Bothorel Éric": {
-    "an_id": "642695"
+    "an_id": "642695",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Ludmann Véronique": {
-    "an_id": "794578"
+    "an_id": "794578",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Lahmar Abdelkader": {
-    "an_id": "841729"
+    "an_id": "841729",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Benoit Thierry": {
-    "an_id": "332228"
+    "an_id": "332228",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Roy Sophie-Laurence": {
-    "an_id": "842097"
+    "an_id": "842097",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Hervieu Catherine": {
-    "an_id": "840947"
+    "an_id": "840947",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Guitton Jordan": {
-    "an_id": "793218"
+    "an_id": "793218",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Trébuchet Vincent": {
-    "an_id": "840685"
+    "an_id": "840685",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République"
   },
   "Ceccoli François-Xavier": {
-    "an_id": "841047"
+    "an_id": "841047",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Piron Béatrice": {
-    "an_id": "721844"
+    "an_id": "721844",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Bilongo Carlos Martens": {
-    "an_id": "795616"
+    "an_id": "795616",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Bellay Béatrice": {
-    "an_id": "842211"
+    "an_id": "842211",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Tivoli Lionel": {
-    "an_id": "793298"
+    "an_id": "793298",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Robert-Dehault Laurence": {
-    "an_id": "794442"
+    "an_id": "794442",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Gaillard Perceval": {
-    "an_id": "796070"
+    "an_id": "796070",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Jacques Jean-Michel": {
-    "an_id": "720354"
+    "an_id": "720354",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Bigot Guillaume": {
-    "an_id": "842001"
+    "an_id": "842001",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Caron Aymeric": {
-    "an_id": "796090"
+    "an_id": "796090",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Alexandre Laurent": {
-    "an_id": "793262"
+    "an_id": "793262",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Sicard Anne": {
-    "an_id": "842255"
+    "an_id": "842255",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Turquois Nicolas": {
-    "an_id": "722162"
+    "an_id": "722162",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Le Gall Arnaud": {
-    "an_id": "795672"
+    "an_id": "795672",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Fugit Jean-Luc": {
-    "an_id": "722366"
+    "an_id": "722366",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Morel Louise": {
-    "an_id": "794810"
+    "an_id": "794810",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Pilato René": {
-    "an_id": "817211"
+    "an_id": "817211",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Sabatou Alexandre": {
-    "an_id": "794570"
+    "an_id": "794570",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Taché Emmanuel": {
-    "an_id": "793382"
+    "an_id": "793382",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Kervran Loïc": {
-    "an_id": "719052"
+    "an_id": "719052",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "D'Intorni Christelle": {
-    "an_id": "793322"
+    "an_id": "793322",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Hetzel Patrick": {
-    "an_id": "608416"
+    "an_id": "608416",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Boyard Louis": {
-    "an_id": "795318"
+    "an_id": "795318",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Duparay Lionel": {
-    "an_id": "870009"
+    "an_id": "870009",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Chenevard Yannick": {
-    "an_id": "795908"
+    "an_id": "795908",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Lopez-Liguori Aurélien": {
-    "an_id": "793904"
+    "an_id": "793904",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Magnier David": {
-    "an_id": "841587"
+    "an_id": "841587",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Saint-Martin Arnaud": {
-    "an_id": "841845"
+    "an_id": "841845",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Lubet Marie-Philippe": {
-    "an_id": "879389"
+    "an_id": "879389",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Boudié Florent": {
-    "an_id": "606507"
+    "an_id": "606507",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Tanguy Jean-Philippe": {
-    "an_id": "795778"
+    "an_id": "795778",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Dufosset Alexandre": {
-    "an_id": "840135"
+    "an_id": "840135",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Poueyto Josy": {
-    "an_id": "720720"
+    "an_id": "720720",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Pfeffer Kévin": {
-    "an_id": "794582"
+    "an_id": "794582",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Pouzyreff Natalia": {
-    "an_id": "721916"
+    "an_id": "721916",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Casterman Eddy": {
-    "an_id": "840075"
+    "an_id": "840075",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Ferracci Marc": {
-    "an_id": "795884"
+    "an_id": "795884",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Muller Serge": {
-    "an_id": "793696"
+    "an_id": "793696",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Barusseau Fabrice": {
-    "an_id": "840829"
+    "an_id": "840829",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Dubré-Chirat Nicole": {
-    "an_id": "720154"
+    "an_id": "720154",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Le Meur Annaïg": {
-    "an_id": "719388"
+    "an_id": "719388",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Firmin Le Bodo Agnès": {
-    "an_id": "267780"
+    "an_id": "267780",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Le Coq Aurélien": {
-    "an_id": "841515"
+    "an_id": "841515",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Michelet Maxime": {
-    "an_id": "841395"
+    "an_id": "841395",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République"
   },
   "Sother Thierry": {
-    "an_id": "841681"
+    "an_id": "841681",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Loir Christine": {
-    "an_id": "793672"
+    "an_id": "793672",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Rauch Isabelle": {
-    "an_id": "720552"
+    "an_id": "720552",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Christophle Paul": {
-    "an_id": "840903"
+    "an_id": "840903",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Bex Christophe": {
-    "an_id": "793772"
+    "an_id": "793772",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Joubert Florence": {
-    "an_id": "840869"
+    "an_id": "840869",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Sebaihi Sabrina": {
-    "an_id": "795808"
+    "an_id": "795808",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Vos Frédéric-Pierre": {
-    "an_id": "841575"
+    "an_id": "841575",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Engrand Christine": {
-    "an_id": "794718"
+    "an_id": "794718",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Maximi Marianne": {
-    "an_id": "794686"
+    "an_id": "794686",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Saulignac Hervé": {
-    "an_id": "340343"
+    "an_id": "340343",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Taché Aurélien": {
-    "an_id": "720952"
+    "an_id": "720952",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Le Nabour Christine": {
-    "an_id": "719756"
+    "an_id": "719756",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Josserand Sylvie": {
-    "an_id": "841075"
+    "an_id": "841075",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Ratenon Jean-Hugues": {
-    "an_id": "721062"
+    "an_id": "721062",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Santiago Isabelle": {
-    "an_id": "774960"
+    "an_id": "774960",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Sanquer Nicole": {
-    "an_id": "721110"
+    "an_id": "721110",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Nosbé Sandrine": {
-    "an_id": "841191"
+    "an_id": "841191",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Girard Christian": {
-    "an_id": "793102"
+    "an_id": "793102",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Lechon Nadine": {
-    "an_id": "840857"
+    "an_id": "840857",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Panonacle Sophie": {
-    "an_id": "719632"
+    "an_id": "719632",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Mendes Ludovic": {
-    "an_id": "720370"
+    "an_id": "720370",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Warsmann Jean-Luc": {
-    "an_id": "2952"
+    "an_id": "2952",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Gassilloud Thomas": {
-    "an_id": "722358"
+    "an_id": "722358",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Froger Martine": {
-    "an_id": "822617"
+    "an_id": "822617",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Ledoux Vincent": {
-    "an_id": "712014"
+    "an_id": "712014",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Runel Sandrine": {
-    "an_id": "841717"
+    "an_id": "841717",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Labaronne Daniel": {
-    "an_id": "719798"
+    "an_id": "719798",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Pradié Aurélien": {
-    "an_id": "720100"
+    "an_id": "720100",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Mathiasin Max": {
-    "an_id": "720976"
+    "an_id": "720976",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Potier Dominique": {
-    "an_id": "607553"
+    "an_id": "607553",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Buffet Françoise": {
-    "an_id": "794798"
+    "an_id": "794798",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Rixain Marie-Pierre": {
-    "an_id": "722252"
+    "an_id": "722252",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Godard Océane": {
-    "an_id": "840939"
+    "an_id": "840939",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Boumertit Idir": {
-    "an_id": "794938"
+    "an_id": "794938",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Masson Alexandra": {
-    "an_id": "793314"
+    "an_id": "793314",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Arrighi Christine": {
-    "an_id": "793780"
+    "an_id": "793780",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Ronceret Anne-Sophie": {
-    "an_id": "841927"
+    "an_id": "841927",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Fayssat Olivier": {
-    "an_id": "840773"
+    "an_id": "840773",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République"
   },
   "K/Bidi Émeline": {
-    "an_id": "795998"
+    "an_id": "795998",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Gernigon François": {
-    "an_id": "794234"
+    "an_id": "794234",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Metzdorf Nicolas": {
-    "an_id": "795176"
+    "an_id": "795176",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Diop Dieynaba": {
-    "an_id": "841919"
+    "an_id": "841919",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Soudais Ersilia": {
-    "an_id": "795466"
+    "an_id": "795466",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Lebon Karine": {
-    "an_id": "774962"
+    "an_id": "774962",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Mansouri Hanane": {
-    "an_id": "841183"
+    "an_id": "841183",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République"
   },
   "Coulomme Jean-François": {
-    "an_id": "795136"
+    "an_id": "795136",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Ranc Angélique": {
-    "an_id": "793230"
+    "an_id": "793230",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Bonnivard Émilie": {
-    "an_id": "721410"
+    "an_id": "721410",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Fernandes Emmanuel": {
-    "an_id": "794786"
+    "an_id": "794786",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Pribetich Pierre": {
-    "an_id": "840955"
+    "an_id": "840955",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Breton Xavier": {
-    "an_id": "330008"
+    "an_id": "330008",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Meunier Frédérique": {
-    "an_id": "719272"
+    "an_id": "719272",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Legrain Sarah": {
-    "an_id": "791824"
+    "an_id": "791824",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Legavre Jérôme": {
-    "an_id": "795298"
+    "an_id": "795298",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Vuibert Lionel": {
-    "an_id": "793194"
+    "an_id": "793194",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Belhaddad Belkhir": {
-    "an_id": "720362"
+    "an_id": "720362",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Le Pen Marine": {
-    "an_id": "720614"
+    "an_id": "720614",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Youssouffa Estelle": {
-    "an_id": "796078"
+    "an_id": "796078",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Baubry Romain": {
-    "an_id": "793374"
+    "an_id": "793374",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Ibled Catherine": {
-    "an_id": "795954"
+    "an_id": "795954",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Girard Damien": {
-    "an_id": "841419"
+    "an_id": "841419",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Joncour Tiffany": {
-    "an_id": "841749"
+    "an_id": "841749",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "William Jiovanny": {
-    "an_id": "720992"
+    "an_id": "720992",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Vallaud Boris": {
-    "an_id": "719930"
+    "an_id": "719930",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Hadizadeh Ayda": {
-    "an_id": "842263"
+    "an_id": "842263",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Faucillon Elsa": {
-    "an_id": "721896"
+    "an_id": "721896",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Roullaud Béatrice": {
-    "an_id": "795410"
+    "an_id": "795410",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Faure Olivier": {
-    "an_id": "609332"
+    "an_id": "609332",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Bamana Anchya": {
-    "an_id": "842279"
+    "an_id": "842279",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Braun-Pivet Yaël": {
-    "an_id": "721908"
+    "an_id": "721908",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Maurel Emmanuel": {
-    "an_id": "842271"
+    "an_id": "842271",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Loubet Alexandre": {
-    "an_id": "794590"
+    "an_id": "794590",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Croizier Laurent": {
-    "an_id": "793716"
+    "an_id": "793716",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Verny Gérault": {
-    "an_id": "840809"
+    "an_id": "840809",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République"
   },
   "Bonnet Sylvie": {
-    "an_id": "719968"
+    "an_id": "719968",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Louwagie Véronique": {
-    "an_id": "608016"
+    "an_id": "608016",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Pochon Marie": {
-    "an_id": "793664"
+    "an_id": "793664",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Capdevielle Colette": {
-    "an_id": "608264"
+    "an_id": "608264",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Besse Véronique": {
-    "an_id": "309643"
+    "an_id": "309643",
+    "groupe": "NI",
+    "groupe_label": "Non inscrit"
   },
   "Amiot Ségolène": {
-    "an_id": "794138"
+    "an_id": "794138",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Aviragnet Joël": {
-    "an_id": "642764"
+    "an_id": "642764",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Portier Alexandre": {
-    "an_id": "794994"
+    "an_id": "794994",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Rossi Valérie": {
-    "an_id": "840673"
+    "an_id": "840673",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Blanc Sophie": {
-    "an_id": "794886"
+    "an_id": "794886",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Lingemann Delphine": {
-    "an_id": "794702"
+    "an_id": "794702",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Piquemal François": {
-    "an_id": "793756"
+    "an_id": "793756",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Barnier Michel": {
-    "an_id": "368"
+    "an_id": "368",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Le Peih Nicole": {
-    "an_id": "720342"
+    "an_id": "720342",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Saintoul Aurélien": {
-    "an_id": "795982"
+    "an_id": "795982",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Thomin Mélanie": {
-    "an_id": "793816"
+    "an_id": "793816",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Descoeur Vincent": {
-    "an_id": "330909"
+    "an_id": "330909",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Voynet Dominique": {
-    "an_id": "2940"
+    "an_id": "2940",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Tesson Thierry": {
-    "an_id": "841553"
+    "an_id": "841553",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Renault Matthias": {
-    "an_id": "841955"
+    "an_id": "841955",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Stambach-Terrenoir Anne": {
-    "an_id": "793744"
+    "an_id": "793744",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Battistel Marie-Noëlle": {
-    "an_id": "342415"
+    "an_id": "342415",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Hignet Mathilde": {
-    "an_id": "794082"
+    "an_id": "794082",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Cazeneuve Jean-René": {
-    "an_id": "719472"
+    "an_id": "719472",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Lenormand Stéphane": {
-    "an_id": "795244"
+    "an_id": "795244",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Trouvé Aurélie": {
-    "an_id": "795164"
+    "an_id": "795164",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Gustave Steevy": {
-    "an_id": "842013"
+    "an_id": "842013",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Bénard Édouard": {
-    "an_id": "796106"
+    "an_id": "796106",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Armand Antoine": {
-    "an_id": "795144"
+    "an_id": "795144",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Rambaud Stéphane": {
-    "an_id": "795966"
+    "an_id": "795966",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Thiériot Jean-Louis": {
-    "an_id": "643089"
+    "an_id": "643089",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Alfandari Henri": {
-    "an_id": "793992"
+    "an_id": "793992",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Meizonnet Nicolas": {
-    "an_id": "719436"
+    "an_id": "719436",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Caure Vincent": {
-    "an_id": "842311"
+    "an_id": "842311",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Hamelet Marine": {
-    "an_id": "795900"
+    "an_id": "795900",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Tavel Matthias": {
-    "an_id": "794166"
+    "an_id": "794166",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Ciotti Éric": {
-    "an_id": "330240"
+    "an_id": "330240",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Goulet Perrine": {
-    "an_id": "720560"
+    "an_id": "720560",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Panosyan-Bouvet Astrid": {
-    "an_id": "795050"
+    "an_id": "795050",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Marsaud Sandra": {
-    "an_id": "719080"
+    "an_id": "719080",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Bouloux Mickaël": {
-    "an_id": "794094"
+    "an_id": "794094",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Cordier Pierre": {
-    "an_id": "718850"
+    "an_id": "718850",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Pauget Éric": {
-    "an_id": "718784"
+    "an_id": "718784",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "de Maistre Élisabeth": {
-    "an_id": "842141"
+    "an_id": "842141",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Dogor-Such Sandrine": {
-    "an_id": "794762"
+    "an_id": "794762",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Bonnet Arnaud": {
-    "an_id": "841885"
+    "an_id": "841885",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Falorni Olivier": {
-    "an_id": "605694"
+    "an_id": "605694",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Marion Christophe": {
-    "an_id": "794206"
+    "an_id": "794206",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Balage El Mariky Léa": {
-    "an_id": "841701"
+    "an_id": "841701",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Lhardit Laurent": {
-    "an_id": "840765"
+    "an_id": "840765",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Lavalette Laure": {
-    "an_id": "795912"
+    "an_id": "795912",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Peytavie Sébastien": {
-    "an_id": "793708"
+    "an_id": "793708",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Dufour Alma": {
-    "an_id": "795200"
+    "an_id": "795200",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Oziol Nathalie": {
-    "an_id": "793872"
+    "an_id": "793872",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Bourouaha Soumya": {
-    "an_id": "720838"
+    "an_id": "720838",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Rousseau Sandrine": {
-    "an_id": "795076"
+    "an_id": "795076",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Bergantz Anne": {
-    "an_id": "805166"
+    "an_id": "805166",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Raux Jean-Claude": {
-    "an_id": "794154"
+    "an_id": "794154",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Récalde Marie": {
-    "an_id": "341981"
+    "an_id": "341981",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Gillet Yoann": {
-    "an_id": "793832"
+    "an_id": "793832",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Bernhardt Théo": {
-    "an_id": "841645"
+    "an_id": "841645",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Weissberg Christopher": {
-    "an_id": "795326"
+    "an_id": "795326",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Vidal Annie": {
-    "an_id": "722102"
+    "an_id": "722102",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Nadeau Marcellin": {
-    "an_id": "795820"
+    "an_id": "795820",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Lauzzana Michel": {
-    "an_id": "720022"
+    "an_id": "720022",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Cazenave Thomas": {
-    "an_id": "793940"
+    "an_id": "793940",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Markowsky Pascal": {
-    "an_id": "840837"
+    "an_id": "840837",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Cosson Mickaël": {
-    "an_id": "793520"
+    "an_id": "793520",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Pic Anna": {
-    "an_id": "794270"
+    "an_id": "794270",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Becht Olivier": {
-    "an_id": "642935"
+    "an_id": "642935",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Causse Lionel": {
-    "an_id": "719922"
+    "an_id": "719922",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Amard Gabriel": {
-    "an_id": "794906"
+    "an_id": "794906",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Bloch Matthieu": {
-    "an_id": "840889"
+    "an_id": "840889",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République"
   },
   "Brun Fabrice": {
-    "an_id": "718838"
+    "an_id": "718838",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Feld Mathilde": {
-    "an_id": "841251"
+    "an_id": "841251",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Houssin Timothée": {
-    "an_id": "793632"
+    "an_id": "793632",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Tonussi Romain": {
-    "an_id": "840781"
+    "an_id": "840781",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Perez Thierry": {
-    "an_id": "841199"
+    "an_id": "841199",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Martineau Éric": {
-    "an_id": "795100"
+    "an_id": "795100",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Alloncle Charles": {
-    "an_id": "841207"
+    "an_id": "841207",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République"
   },
   "Borne Élisabeth": {
-    "an_id": "717161"
+    "an_id": "717161",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Patrier-Leitus Jérémie": {
-    "an_id": "793398"
+    "an_id": "793398",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Maillot Frédéric": {
-    "an_id": "796010"
+    "an_id": "796010",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Nury Jérôme": {
-    "an_id": "720644"
+    "an_id": "720644",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Molac Paul": {
-    "an_id": "607619"
+    "an_id": "607619",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Oberti Jacques": {
-    "an_id": "841107"
+    "an_id": "841107",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Levavasseur Katiana": {
-    "an_id": "793608"
+    "an_id": "793608",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Schreck Philippe": {
-    "an_id": "796050"
+    "an_id": "796050",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Liso Brigitte": {
-    "an_id": "720446"
+    "an_id": "720446",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Latrèche Alim": {
-    "an_id": "857021"
+    "an_id": "857021",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Le Bourgeois Robert": {
-    "an_id": "841837"
+    "an_id": "841837",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Guedj Jérôme": {
-    "an_id": "1567"
+    "an_id": "1567",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "de Pélichy Constance": {
-    "an_id": "841359"
+    "an_id": "841359",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Boulogne Anthony": {
-    "an_id": "841487"
+    "an_id": "841487",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Prud'homme Loïc": {
-    "an_id": "719578"
+    "an_id": "719578",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Garot Guillaume": {
-    "an_id": "333285"
+    "an_id": "333285",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Boccaletti Frédéric": {
-    "an_id": "796042"
+    "an_id": "796042",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Ballard Philippe": {
-    "an_id": "794562"
+    "an_id": "794562",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Bataille Jean-Pierre": {
-    "an_id": "267763"
+    "an_id": "267763",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Ozenne Julie": {
-    "an_id": "842045"
+    "an_id": "842045",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Anglade Pieyre-Alexandre": {
-    "an_id": "721158"
+    "an_id": "721158",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Valentin Antoine": {
-    "an_id": "878242"
+    "an_id": "878242",
+    "groupe": "UDR",
+    "groupe_label": "Union des droites pour la République"
   },
   "Karamanli Marietta": {
-    "an_id": "335054"
+    "an_id": "335054",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Delpech Julie": {
-    "an_id": "794982"
+    "an_id": "794982",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Florquin Guillaume": {
-    "an_id": "840143"
+    "an_id": "840143",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Califer Elie": {
-    "an_id": "795762"
+    "an_id": "795762",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Sas Eva": {
-    "an_id": "610002"
+    "an_id": "610002",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Rousset Jean-François": {
-    "an_id": "793270"
+    "an_id": "793270",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Lachaud Bastien": {
-    "an_id": "720846"
+    "an_id": "720846",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Léaument Antoine": {
-    "an_id": "795746"
+    "an_id": "795746",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Biteau Benoît": {
-    "an_id": "840997"
+    "an_id": "840997",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Abomangoli Nadège": {
-    "an_id": "795228"
+    "an_id": "795228",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Laernoes Julie": {
-    "an_id": "794146"
+    "an_id": "794146",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Huyghe Sébastien": {
-    "an_id": "267200"
+    "an_id": "267200",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Taverne Michaël": {
-    "an_id": "794502"
+    "an_id": "794502",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Terlier Jean": {
-    "an_id": "721584"
+    "an_id": "721584",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Dragon Nicolas": {
-    "an_id": "793146"
+    "an_id": "793146",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Bovet Jorys": {
-    "an_id": "793182"
+    "an_id": "793182",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Blin Anne-Laure": {
-    "an_id": "774954"
+    "an_id": "774954",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Maillard Sylvain": {
-    "an_id": "717379"
+    "an_id": "717379",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Marchio Matthieu": {
-    "an_id": "794530"
+    "an_id": "794530",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Falcon Frédéric": {
-    "an_id": "793246"
+    "an_id": "793246",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Kerbrat Andy": {
-    "an_id": "794130"
+    "an_id": "794130",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Dessigny Jocelyn": {
-    "an_id": "793166"
+    "an_id": "793166",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Berville Hervé": {
-    "an_id": "719218"
+    "an_id": "719218",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Fouquart Emmanuel": {
-    "an_id": "840801"
+    "an_id": "840801",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Givernet Olga": {
-    "an_id": "718674"
+    "an_id": "718674",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Bonnecarrère Philippe": {
-    "an_id": "569"
+    "an_id": "569",
+    "groupe": "NI",
+    "groupe_label": "Non inscrit"
   },
   "Parmentier Caroline": {
-    "an_id": "794670"
+    "an_id": "794670",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Sabatini Anaïs": {
-    "an_id": "794894"
+    "an_id": "794894",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Plassard Christophe": {
-    "an_id": "793572"
+    "an_id": "793572",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Neuder Yannick": {
-    "an_id": "794038"
+    "an_id": "794038",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Corbière Alexis": {
-    "an_id": "721210"
+    "an_id": "721210",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Griseti Monique": {
-    "an_id": "840757"
+    "an_id": "840757",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Wauquiez Laurent": {
-    "an_id": "267285"
+    "an_id": "267285",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Lecamp Pascal": {
-    "an_id": "795374"
+    "an_id": "795374",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Abadie-Amiel Audrey": {
-    "an_id": "793214"
+    "an_id": "793214",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Rimane Davy": {
-    "an_id": "795876"
+    "an_id": "795876",
+    "groupe": "GDR",
+    "groupe_label": "Gauche Démocrate et Républicaine"
   },
   "Rouaux Claudia": {
-    "an_id": "342196"
+    "an_id": "342196",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Grenon Daniel": {
-    "an_id": "795540"
+    "an_id": "795540",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Dalloz Marie-Christine": {
-    "an_id": "332523"
+    "an_id": "332523",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Duby-Muller Virginie": {
-    "an_id": "608826"
+    "an_id": "608826",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Taite Jean-Pierre": {
-    "an_id": "794178"
+    "an_id": "794178",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Errante Sophie": {
-    "an_id": "607193"
+    "an_id": "607193",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Bilde Bruno": {
-    "an_id": "720822"
+    "an_id": "720822",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Le Fur Corentin": {
-    "an_id": "840979"
+    "an_id": "840979",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Bouyx Bertrand": {
-    "an_id": "719032"
+    "an_id": "719032",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Daubié Romain": {
-    "an_id": "793122"
+    "an_id": "793122",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Liégeon Eric": {
-    "an_id": "642725"
+    "an_id": "642725",
+    "groupe": "DR",
+    "groupe_label": "Droite Républicaine"
   },
   "Cernon Bérenger": {
-    "an_id": "842037"
+    "an_id": "842037",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Lorho Marie-France": {
-    "an_id": "721932"
+    "an_id": "721932",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Blairy Emmanuel": {
-    "an_id": "720668"
+    "an_id": "720668",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Courbon Pierrick": {
-    "an_id": "841295"
+    "an_id": "841295",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   },
   "Lakrafi Amélia": {
-    "an_id": "721004"
+    "an_id": "721004",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Belluco Lisa": {
-    "an_id": "795362"
+    "an_id": "795362",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Létard Valérie": {
-    "an_id": "227089"
+    "an_id": "227089",
+    "groupe": "LIOT",
+    "groupe_label": "Libertés, Indépendants, Outre-mer et Territoires"
   },
   "Bordes Pascale": {
-    "an_id": "793844"
+    "an_id": "793844",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Villedieu Antoine": {
-    "an_id": "794946"
+    "an_id": "794946",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Rancoule Julien": {
-    "an_id": "793254"
+    "an_id": "793254",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Batho Delphine": {
-    "an_id": "335999"
+    "an_id": "335999",
+    "groupe": "EcoS",
+    "groupe_label": "Écologiste et Social"
   },
   "Le Gac Didier": {
-    "an_id": "719404"
+    "an_id": "719404",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Jolly Alexis": {
-    "an_id": "794030"
+    "an_id": "794030",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Le Grip Constance": {
-    "an_id": "345722"
+    "an_id": "345722",
+    "groupe": "EPR",
+    "groupe_label": "Ensemble pour la République"
   },
   "Marcangeli Laurent": {
-    "an_id": "605782"
+    "an_id": "605782",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Mélin Joëlle": {
-    "an_id": "793354"
+    "an_id": "793354",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Dussausaye Gaëtan": {
-    "an_id": "842073"
+    "an_id": "842073",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Simonnet Danielle": {
-    "an_id": "796018"
+    "an_id": "796018",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Magnier Lise": {
-    "an_id": "720230"
+    "an_id": "720230",
+    "groupe": "HOR",
+    "groupe_label": "Horizons & Indépendants"
   },
   "Mette Sophie": {
-    "an_id": "719640"
+    "an_id": "719640",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Padey Didier": {
-    "an_id": "795124"
+    "an_id": "795124",
+    "groupe": "Dem",
+    "groupe_label": "Les Démocrates"
   },
   "Bentz Christophe": {
-    "an_id": "794434"
+    "an_id": "794434",
+    "groupe": "RN",
+    "groupe_label": "Rassemblement National"
   },
   "Meunier Manon": {
-    "an_id": "795482"
+    "an_id": "795482",
+    "groupe": "LFI-NFP",
+    "groupe_label": "La France insoumise - Nouveau Front Populaire"
   },
   "Hervieu Céline": {
-    "an_id": "841853"
+    "an_id": "841853",
+    "groupe": "SOC",
+    "groupe_label": "Socialistes et apparentés"
   }
 }
