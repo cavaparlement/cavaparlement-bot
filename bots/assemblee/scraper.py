@@ -37,25 +37,43 @@ def download_and_parse() -> dict:
     return result
 
 def fetch_deputes_info() -> dict:
+    # Charger l'existant pour préserver les mandats clos
+    existing = {}
+    try:
+        with open("data/assemblee/deputes_info.json", encoding="utf-8") as f:
+            existing = json.load(f)
+    except Exception:
+        pass
+
     info = {}
     try:
         rows = fetch_csv(AN_CSV_DEPUTES, delimiter=",")
         print("Colonnes députés:", list(rows[0].keys()) if rows else "vide")
         for row in rows:
             prenom = row.get("Prénom", "").strip()
-            nom = row.get("Nom", "").strip()
+            nom    = row.get("Nom", "").strip()
+            an_id  = row.get("identifiant", "").strip()
             if not nom:
                 continue
-            cle = (nom + " " + prenom).upper()
+            # Clé format "Nom Prénom" (mixte) — identique au snapshot des collabs
+            cle = nom + " " + prenom
             info[cle] = {
-                "groupe": row.get("Groupe politique (abrégé)", "").strip(),
+                "an_id":        an_id,
+                "groupe":       row.get("Groupe politique (abrégé)", "").strip(),
                 "groupe_label": row.get("Groupe politique (complet)", "").strip(),
-                "departement": row.get("Département", "").strip(),
-                "region": row.get("Région", "").strip(),
-                "circo": row.get("Numéro de circonscription", "").strip(),
+                "departement":  row.get("Département", "").strip(),
+                "region":       row.get("Région", "").strip(),
+                "circo":        row.get("Numéro de circonscription", "").strip(),
             }
     except Exception as e:
         print("Erreur CSV députés: " + str(e))
+
+    # Réinjecter les mandats clos depuis l'existant (ils ne sont plus dans le CSV actifs)
+    for k, v in existing.items():
+        if v.get("mandat_clos") and k not in info:
+            info[k] = v
+
+    print(f"fetch_deputes_info: {len(info)} entrées ({sum(1 for v in info.values() if v.get('groupe_label'))} avec groupe)")
     return info
 
 def save_snapshot(data: dict, path="data/assemblee/snapshot.json"):
