@@ -196,7 +196,7 @@ def _open_mandat(db: Client, collab_id: int, elu_id: Optional[int],
             "elu_id":           elu_id,
             "chambre":          chambre,
             "date_debut":       today,
-            "actif":            True,
+            
             "confiance":        "bot",
             "type_collab":      type_collab or None,
         },
@@ -216,7 +216,7 @@ def _close_mandat(db: Client, collab_id: int, chambre: str, today: str) -> None:
     )
     if resp.data:
         db.table("mandats_collaborateurs").update(
-            {"actif": False, "date_fin": today}
+            {"date_fin": today}
         ).eq("id", resp.data[0]["id"]).execute()
 
 
