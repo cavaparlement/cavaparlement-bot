@@ -123,7 +123,7 @@ def migrate_assemblee():
             "elu_id":           elu_id,
             "chambre":          "assemblee",
             "date_debut":       None,
-            "confiance":        "migration",
+            "confiance":        "faible",
             "notes":            "Importé depuis snapshot AN",
         })
 
@@ -162,7 +162,7 @@ def migrate_senat():
                 "elu_id":           elu_id,
                 "chambre":          "senat",
                 "date_debut":       None,
-                "confiance":        "migration",
+                "confiance":        "faible",
                 "notes":            "Importé depuis snapshot Sénat",
             })
             if len(batch) >= 100:
@@ -206,7 +206,7 @@ def migrate_europarl():
                 "elu_id":           elu_id,
                 "chambre":          "europarl",
                 "date_debut":       None,
-                "confiance":        "migration",
+                "confiance":        "faible",
                 "notes":            atype or "Importé depuis state EP",
             })
             if len(batch) >= 100:
