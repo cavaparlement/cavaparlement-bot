@@ -302,7 +302,7 @@ def push_events(events: list, parlementaires_info: dict, chambre: str) -> dict:
                 "collaborateur_id": collab_id,
                 "elu_id":           elu_id,
                 "date":             today,
-                "groupe_sigle":     groupe_sigle or None,
+                "groupe":     groupe_sigle or None,
                 "groupe_label":     groupe_label or None,
                 "departement":      departement  or None,
                 "source_id":        SOURCE_ID.get(chambre, 1),
