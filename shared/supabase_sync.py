@@ -1,15 +1,16 @@
 """
-shared/supabase_sync.py — CavaParlement
-Accès Supabase basé sur le schéma réel (vérifié le 13/04/2026).
+shared/supabase_sync.py
+=======================
+Accès Supabase pour tous les bots CavaParlement.
 
-Corrections vs version initiale :
-  - mandats_collaborateurs : pas de colonne `actif` → actif = date_fin IS NULL
-  - chambre en DB : 'assemblee' / 'senat' / 'europarl'  (minuscules, pas 'AN')
-  - nom_normalise : lowercase  (ex: 'alexandre allegret pilot')
-  - mouvements : colonnes dénormalisées collaborateur_nom, elu_nom,
-                 elu_from_id/nom, elu_to_id/nom  (pas elu_precedent_id)
-  - type sans accents : 'arrivee' / 'depart' / 'transfert'
-  - source_id dans mouvements : UUID → on utilise le champ `source` text
+Remplace :
+  - load_snapshot() / save_snapshot()  → load_snapshot() / push_events()
+  - append_events() / update_history() → push_events()
+  - load_state() / save_state()        → load_ep_state() / push_ep_events()
+
+Secrets GitHub Actions requis :
+  SUPABASE_URL         https://pmnlfzwfolqeoxaottit.supabase.co
+  SUPABASE_SERVICE_KEY <service_role key — à régénérer dans le Dashboard>
 """
 
 import os
@@ -23,26 +24,8 @@ from supabase import create_client, Client
 
 logger = logging.getLogger(__name__)
 
-# ── Mapping chambre bot → chambre DB ─────────────────────────────────────────
-CHAMBRE_DB = {
-    "AN":        "assemblee",
-    "Senat":     "senat",
-    "Europarl":  "europarl",
-    "assemblee": "assemblee",
-    "senat":     "senat",
-    "europarl":  "europarl",
-}
-
-# ── Mapping type avec accents → sans accents ─────────────────────────────────
-TYPE_DB = {
-    "arrivée":   "arrivee",
-    "arrivee":   "arrivee",
-    "arrival":   "arrivee",
-    "départ":    "depart",
-    "depart":    "depart",
-    "departure": "depart",
-    "transfert": "transfert",
-}
+# ── IDs table `sources` ───────────────────────────────────────────────────────
+SOURCE_ID = {"AN": 1, "Senat": 2, "Europarl": 3}
 
 
 # ── Connexion ─────────────────────────────────────────────────────────────────
@@ -54,41 +37,40 @@ def _client() -> Client:
     return create_client(url, key)
 
 
-# ── Normalisation (miroir du SQL : lowercase, sans accents, sans ponctuation) ─
+# ── Normalisation (miroir de normalize_nom() SQL) ────────────────────────────
 def _norm(s: str) -> str:
     nfd = unicodedata.normalize("NFD", s or "")
     ascii_ = "".join(c for c in nfd if unicodedata.category(c) != "Mn")
-    cleaned = re.sub(r"[^a-z0-9 ]", "", ascii_.lower())
-    return re.sub(r"\s+", " ", cleaned).strip()
+    return re.sub(r"[^A-Z0-9 ]", "", ascii_.upper()).strip()
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# LECTURE DU SNAPSHOT
+# LECTURE DU SNAPSHOT (remplace load_snapshot / load_state)
 # ─────────────────────────────────────────────────────────────────────────────
 
-def load_snapshot(chambre_bot: str) -> dict:
+def load_snapshot(chambre: str) -> dict:
     """
-    Retourne le snapshot actuel depuis Supabase (mandats actifs = date_fin IS NULL).
-    Format : {"Nom Elu": ["Collab A", "Collab B", ...], ...}
+    Retourne le snapshot actuel depuis Supabase (mandats actifs).
+
+    Format retourné identique aux anciens snapshot.json :
+        {"Nom Elu": ["Collab A", "Collab B", ...], ...}
+
+    chambre : "AN" | "Senat"
     """
-    chambre = CHAMBRE_DB[chambre_bot]
     db = _client()
-
     resp = (
         db.table("mandats_collaborateurs")
         .select("elus(nom_complet), collaborateurs(nom_complet)")
         .eq("chambre", chambre)
-        .is_("date_fin", "null")
+        .eq("actif", True)
         .execute()
     )
-
     snapshot = {}
     for row in resp.data:
-        elu_nom    = (row.get("elus")          or {}).get("nom_complet", "")
+        elu_nom   = (row.get("elus")   or {}).get("nom_complet", "")
         collab_nom = (row.get("collaborateurs") or {}).get("nom_complet", "")
         if elu_nom and collab_nom:
             snapshot.setdefault(elu_nom, []).append(collab_nom)
-
     logger.info("Snapshot Supabase %s : %d élus, %d collabs",
                 chambre, len(snapshot), sum(len(v) for v in snapshot.values()))
     return snapshot
@@ -97,14 +79,25 @@ def load_snapshot(chambre_bot: str) -> dict:
 def load_ep_state() -> dict:
     """
     Retourne l'état Europarl depuis Supabase.
-    Format : {"ep_id": {"name": "...", "group": "...", "assistants": [...]}}
+
+    Format retourné identique à l'ancien state.json :
+        {
+          "ep_id": {
+            "name": "...",
+            "group": "...",
+            "assistants": [{"name": "...", "type": "..."}, ...]
+          }
+        }
+
+    La colonne `ep_id` contient l'identifiant numérique EP (ex: "256869"),
+    cohérent avec `an_id` (AN) et `matricule` (Sénat).
     """
     db = _client()
-
+    # Récupère les élus EP avec leur ep_id (identifiant numérique EP)
     elus_resp = (
         db.table("elus")
         .select("id, ep_id, nom_complet, groupe_label")
-        .eq("chambre", "europarl")
+        .eq("chambre", "Europarl")
         .not_.is_("ep_id", "null")
         .execute()
     )
@@ -112,27 +105,27 @@ def load_ep_state() -> dict:
         return {}
 
     elu_ids = [e["id"] for e in elus_resp.data]
-
     mandats_resp = (
         db.table("mandats_collaborateurs")
-        .select("elu_id, collaborateurs(nom_complet), notes")
-        .eq("chambre", "europarl")
-        .is_("date_fin", "null")
+        .select("elu_id, collaborateurs(nom_complet), type_collab")
+        .eq("chambre", "Europarl")
+        .eq("actif", True)
         .in_("elu_id", elu_ids)
         .execute()
     )
 
+    # Index des assistants par elu_id (interne Supabase)
     assistants_by_elu = {}
     for m in mandats_resp.data:
         eid   = m["elu_id"]
         name  = (m.get("collaborateurs") or {}).get("nom_complet", "")
-        atype = m.get("notes") or "Assistant"
+        atype = m.get("type_collab", "Assistant")
         if name:
             assistants_by_elu.setdefault(eid, []).append({"name": name, "type": atype})
 
     state = {}
     for elu in elus_resp.data:
-        ep_id = str(elu["ep_id"])
+        ep_id = str(elu["ep_id"])   # identifiant numérique EP ("256869", "197691", ...)
         state[ep_id] = {
             "name":       elu["nom_complet"],
             "group":      elu.get("groupe_label", ""),
@@ -144,42 +137,39 @@ def load_ep_state() -> dict:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# HELPERS
+# HELPERS — lookup / upsert collaborateurs et élus
 # ─────────────────────────────────────────────────────────────────────────────
 
-def _find_elu_id(db: Client, nom: str, chambre: str) -> Optional[str]:
-    # Stratégie 1 : ilike sur nom_complet
+def _find_elu_id(db: Client, nom: str, chambre: str) -> Optional[int]:
+    norm = _norm(nom)
     resp = (
         db.table("elus")
         .select("id")
         .eq("chambre", chambre)
-        .ilike("nom_complet", nom.strip())
+        .eq("nom_normalise", norm)
         .limit(1)
         .execute()
     )
     if resp.data:
         return resp.data[0]["id"]
-
-    # Stratégie 2 : tous les mots significatifs dans nom_normalise
-    norm = _norm(nom)
-    mots = [m for m in norm.split() if len(m) > 2]
-    if mots:
+    # Fallback : match partiel sur le premier mot (nom de famille)
+    parts = norm.split()
+    if parts:
         resp2 = (
             db.table("elus")
-            .select("id, nom_normalise")
+            .select("id")
             .eq("chambre", chambre)
-            .ilike("nom_normalise", f"%{mots[0]}%")
+            .ilike("nom_normalise", f"{parts[0]}%")
+            .limit(1)
             .execute()
         )
-        for row in resp2.data:
-            if all(m in row["nom_normalise"] for m in mots):
-                return row["id"]
-
+        if resp2.data:
+            return resp2.data[0]["id"]
     logger.warning("Élu introuvable : %s (%s)", nom, chambre)
     return None
 
 
-def _upsert_collab(db: Client, nom: str) -> str:
+def _upsert_collab(db: Client, nom: str) -> int:
     norm = _norm(nom)
     resp = (
         db.table("collaborateurs")
@@ -198,7 +188,39 @@ def _upsert_collab(db: Client, nom: str) -> str:
     return ins.data[0]["id"]
 
 
-def _is_duplicate(db: Client, collab_id: str, type_mv: str,
+def _open_mandat(db: Client, collab_id: int, elu_id: Optional[int],
+                 chambre: str, today: str, type_collab: str = "") -> None:
+    db.table("mandats_collaborateurs").upsert(
+        {
+            "collaborateur_id": collab_id,
+            "elu_id":           elu_id,
+            "chambre":          chambre,
+            "date_debut":       today,
+            "actif":            True,
+            "confiance":        "bot",
+            "type_collab":      type_collab or None,
+        },
+        on_conflict="collaborateur_id,elu_id,chambre,date_debut",
+    ).execute()
+
+
+def _close_mandat(db: Client, collab_id: int, chambre: str, today: str) -> None:
+    resp = (
+        db.table("mandats_collaborateurs")
+        .select("id")
+        .eq("collaborateur_id", collab_id)
+        .eq("chambre", chambre)
+        .eq("actif", True)
+        .limit(1)
+        .execute()
+    )
+    if resp.data:
+        db.table("mandats_collaborateurs").update(
+            {"actif": False, "date_fin": today}
+        ).eq("id", resp.data[0]["id"]).execute()
+
+
+def _is_duplicate(db: Client, collab_id: int, type_mv: str,
                   chambre: str, today: str) -> bool:
     resp = (
         db.table("mouvements")
@@ -213,108 +235,87 @@ def _is_duplicate(db: Client, collab_id: str, type_mv: str,
     return bool(resp.data)
 
 
-def _open_mandat(db: Client, collab_id: str, elu_id: Optional[str],
-                 chambre: str, today: str, notes: str = "") -> None:
-    db.table("mandats_collaborateurs").insert({
-        "collaborateur_id": collab_id,
-        "elu_id":           elu_id,
-        "chambre":          chambre,
-        "date_debut":       today,
-        "confiance":        "bot",
-        "notes":            notes or None,
-    }).execute()
-
-
-def _close_mandat(db: Client, collab_id: str, chambre: str, today: str) -> None:
-    resp = (
-        db.table("mandats_collaborateurs")
-        .select("id")
-        .eq("collaborateur_id", collab_id)
-        .eq("chambre", chambre)
-        .is_("date_fin", "null")
-        .limit(1)
-        .execute()
-    )
-    if resp.data:
-        db.table("mandats_collaborateurs").update(
-            {"date_fin": today}
-        ).eq("id", resp.data[0]["id"]).execute()
-
-
 # ─────────────────────────────────────────────────────────────────────────────
-# ÉCRITURE DES EVENTS — AN / SÉNAT
+# ÉCRITURE DES EVENTS (remplace append_events + save_snapshot)
 # ─────────────────────────────────────────────────────────────────────────────
 
-def push_events(events: list, parlementaires_info: dict, chambre_bot: str) -> dict:
+def push_events(events: list, parlementaires_info: dict, chambre: str) -> dict:
     """
     Pousse les events AN/Sénat vers Supabase.
-    chambre_bot : "AN" | "Senat"
+    Insère dans `mouvements` + met à jour `mandats_collaborateurs`.
+
+    `events` : liste produite par shared/diff.py compute_diff()
+        {"type": "arrivée"|"départ"|"transfert",
+         "collaborateur": str,
+         "senateur": str,          # arrivée / départ
+         "from": str, "to": str}   # transfert
+
+    `parlementaires_info` : dict {nom_elu: {groupe, groupe_label, departement, ...}}
     """
     if not events:
         return {"inseres": 0, "doublons": 0, "erreurs": 0}
 
-    chambre = CHAMBRE_DB[chambre_bot]
-    db      = _client()
-    today   = date.today().isoformat()
-    stats   = {"inseres": 0, "doublons": 0, "erreurs": 0}
-
-    def _get_info(nom_elu: str) -> dict:
-        key = nom_elu.upper().replace("M. ", "").replace("MME ", "").strip()
-        return parlementaires_info.get(key, {})
+    db    = _client()
+    today = date.today().isoformat()
+    stats = {"inseres": 0, "doublons": 0, "erreurs": 0}
 
     for ev in events:
         try:
-            type_mv   = TYPE_DB.get(ev["type"], ev["type"])
-            collab    = ev["collaborateur"]
+            type_mv = ev["type"]  # "arrivée", "départ", "transfert"
+            collab  = ev["collaborateur"]
             collab_id = _upsert_collab(db, collab)
 
-            if type_mv in ("arrivee", "depart"):
-                elu_nom      = ev["senateur"]
-                elu_id       = _find_elu_id(db, elu_nom, chambre)
-                info         = _get_info(elu_nom)
-                elu_from_id  = None
-                elu_from_nom = None
-                elu_to_id    = None
-                elu_to_nom   = None
+            # ── Lookup élu + infos groupe ──────────────────────────────────
+            if type_mv in ("arrivée", "arrivee", "départ", "depart"):
+                elu_nom  = ev["senateur"]
+                elu_id   = _find_elu_id(db, elu_nom, chambre)
+                key      = elu_nom.upper().replace("M. ", "").replace("MME ", "").strip()
+                info     = parlementaires_info.get(key, {})
+                elu_prec_id = None
 
             elif type_mv == "transfert":
-                elu_from_nom = ev["from"]
-                elu_to_nom   = ev["to"]
-                elu_nom      = elu_to_nom
-                elu_id       = _find_elu_id(db, elu_to_nom, chambre)
-                elu_from_id  = _find_elu_id(db, elu_from_nom, chambre)
-                elu_to_id    = elu_id
-                info         = _get_info(elu_to_nom)
+                elu_nom      = ev["to"]
+                elu_nom_prec = ev["from"]
+                elu_id       = _find_elu_id(db, elu_nom, chambre)
+                elu_prec_id  = _find_elu_id(db, elu_nom_prec, chambre)
+                key          = elu_nom.upper().replace("M. ", "").replace("MME ", "").strip()
+                info         = parlementaires_info.get(key, {})
             else:
-                logger.warning("Type inconnu : %s", ev["type"])
+                logger.warning("Type inconnu : %s", type_mv)
                 stats["erreurs"] += 1
                 continue
 
+            groupe_sigle = info.get("groupe", "")
+            groupe_label = info.get("groupe_label", "")
+            departement  = info.get("departement", "")
+
+            # ── Anti-doublon ───────────────────────────────────────────────
             if _is_duplicate(db, collab_id, type_mv, chambre, today):
+                logger.info("Doublon ignoré : %s %s", type_mv, collab)
                 stats["doublons"] += 1
                 continue
 
-            db.table("mouvements").insert({
-                "chambre":           chambre,
-                "type":              type_mv,
-                "date":              today,
-                "collaborateur_id":  collab_id,
-                "collaborateur_nom": collab,
-                "elu_id":            elu_id,
-                "elu_nom":           elu_nom,
-                "elu_from_id":       elu_from_id,
-                "elu_from_nom":      elu_from_nom,
-                "elu_to_id":         elu_to_id,
-                "elu_to_nom":        elu_to_nom,
-                "groupe":            info.get("groupe") or None,
-                "groupe_label":      info.get("groupe_label") or None,
-                "departement":       info.get("departement") or None,
-                "source":            f"bot_{chambre}",
-            }).execute()
+            # ── Insert mouvement ───────────────────────────────────────────
+            payload = {
+                "type":             type_mv,
+                "chambre":          chambre,
+                "collaborateur_id": collab_id,
+                "elu_id":           elu_id,
+                "date":             today,
+                "groupe_sigle":     groupe_sigle or None,
+                "groupe_label":     groupe_label or None,
+                "departement":      departement  or None,
+                "source_id":        SOURCE_ID.get(chambre, 1),
+            }
+            if elu_prec_id:
+                payload["elu_precedent_id"] = elu_prec_id
 
-            if type_mv == "arrivee":
+            db.table("mouvements").insert(payload).execute()
+
+            # ── Mise à jour mandats ────────────────────────────────────────
+            if type_mv in ("arrivée", "arrivee"):
                 _open_mandat(db, collab_id, elu_id, chambre, today)
-            elif type_mv == "depart":
+            elif type_mv in ("départ", "depart"):
                 _close_mandat(db, collab_id, chambre, today)
             elif type_mv == "transfert":
                 _close_mandat(db, collab_id, chambre, today)
@@ -331,15 +332,15 @@ def push_events(events: list, parlementaires_info: dict, chambre_bot: str) -> di
     return stats
 
 
-# ─────────────────────────────────────────────────────────────────────────────
-# ÉCRITURE DES EVENTS — EUROPARL
-# ─────────────────────────────────────────────────────────────────────────────
-
 def push_ep_events(changes: list) -> dict:
     """
     Pousse les changements Europarl vers Supabase.
-    changes : [{"type": "arrival"|"departure", "mep_name": str,
-                "mep_group": str, "assistant_name": str, "assistant_type": str}]
+    Insère dans `mouvements` + met à jour `mandats_collaborateurs`.
+
+    `changes` : liste produite par bots/europarl/bot.py
+        {"type": "arrival"|"departure",
+         "mep_id": str, "mep_name": str, "mep_group": str,
+         "assistant_name": str, "assistant_type": str}
     """
     if not changes:
         return {"inseres": 0, "doublons": 0, "erreurs": 0}
@@ -348,33 +349,34 @@ def push_ep_events(changes: list) -> dict:
     today = date.today().isoformat()
     stats = {"inseres": 0, "doublons": 0, "erreurs": 0}
 
+    # Mapping type anglais → type français (cohérence avec les autres chambres)
+    TYPE_MAP = {"arrival": "arrivée", "departure": "départ"}
+
     for ch in changes:
         try:
-            type_mv   = TYPE_DB.get(ch["type"], ch["type"])
+            type_mv   = TYPE_MAP.get(ch["type"], ch["type"])
             collab_id = _upsert_collab(db, ch["assistant_name"])
-            elu_id    = _find_elu_id(db, ch["mep_name"], "europarl")
+            elu_id    = _find_elu_id(db, ch["mep_name"], "Europarl")
 
-            if _is_duplicate(db, collab_id, type_mv, "europarl", today):
+            if _is_duplicate(db, collab_id, type_mv, "Europarl", today):
                 stats["doublons"] += 1
                 continue
 
             db.table("mouvements").insert({
-                "chambre":           "europarl",
-                "type":              type_mv,
-                "date":              today,
-                "collaborateur_id":  collab_id,
-                "collaborateur_nom": ch["assistant_name"],
-                "elu_id":            elu_id,
-                "elu_nom":           ch["mep_name"],
-                "groupe_label":      ch.get("mep_group") or None,
-                "source":            "bot_europarl",
+                "type":             type_mv,
+                "chambre":          "Europarl",
+                "collaborateur_id": collab_id,
+                "elu_id":           elu_id,
+                "date":             today,
+                "groupe_label":     ch.get("mep_group") or None,
+                "source_id":        SOURCE_ID["Europarl"],
             }).execute()
 
-            if type_mv == "arrivee":
-                _open_mandat(db, collab_id, elu_id, "europarl", today,
-                             notes=ch.get("assistant_type", ""))
+            if ch["type"] == "arrival":
+                _open_mandat(db, collab_id, elu_id, "Europarl", today,
+                             type_collab=ch.get("assistant_type", ""))
             else:
-                _close_mandat(db, collab_id, "europarl", today)
+                _close_mandat(db, collab_id, "Europarl", today)
 
             stats["inseres"] += 1
 
@@ -382,6 +384,7 @@ def push_ep_events(changes: list) -> dict:
             logger.error("Erreur Supabase EP event %s : %s", ch, exc)
             stats["erreurs"] += 1
 
-    logger.info("Supabase europarl — insérés: %d | doublons: %d | erreurs: %d",
+    logger.info("Supabase Europarl — insérés: %d | doublons: %d | erreurs: %d",
                 stats["inseres"], stats["doublons"], stats["erreurs"])
     return stats
+
