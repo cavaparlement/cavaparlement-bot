@@ -1,7 +1,7 @@
-from bots.senat.scraper import download_pdf, parse_pdf, save_snapshot, load_snapshot, fetch_senateurs_info
+from bots.senat.scraper import download_pdf, parse_pdf, fetch_senateurs_info
 from bots.senat.diff import compute_diff
 from bots.senat.publisher import post_events
-from bots.senat.update_history import append_events
+from shared.supabase_sync import load_snapshot, push_events
 from atproto import Client
 from datetime import date
 from pathlib import Path
@@ -50,25 +50,37 @@ def run():
     new_data = parse_pdf(pdf)
     total = sum(len(v) for v in new_data.values())
     print(str(len(new_data)) + " senateurs, " + str(total) + " collaborateurs trouves")
+
     print("Recuperation infos senateurs...")
     senateurs_info = fetch_senateurs_info()
     print(str(len(senateurs_info)) + " senateurs enrichis")
-    with open("data/senat/senateurs_info.json", "w", encoding="utf-8") as f:
-        json.dump(senateurs_info, f, ensure_ascii=False, indent=2)
-    old_data = load_snapshot()
+
+    print("Chargement snapshot depuis Supabase...")
+    old_data = load_snapshot("Senat")
+
     if not old_data:
-        print("Premier run - snapshot sauvegarde, aucun post.")
-        save_snapshot(new_data)
+        print("Premier run (Supabase vide) — initialisation des mandats, aucun post.")
+        fake_events = [
+            {"type": "arrivée", "collaborateur": collab, "senateur": senateur}
+            for senateur, collabs in new_data.items()
+            for collab in collabs
+        ]
+        push_events(fake_events, senateurs_info, "Senat")
         return
+
     events = compute_diff(old_data, new_data)
     print(str(len(events)) + " changement(s) detecte(s)")
+
     if events:
         save_compteur(0)
-        append_events(events, senateurs_info, chambre="senat")
+        # Bluesky + Telegram (inchangé)
         post_events(events, senateurs_info)
+        # Supabase : mouvements + mandats (remplace save_snapshot + append_events)
+        stats = push_events(events, senateurs_info, "Senat")
+        print(f"Supabase Senat — {stats['inseres']} insérés, {stats['doublons']} doublons, {stats['erreurs']} erreurs")
     else:
         post_ras()
-    save_snapshot(new_data)
+
     print("Done.")
 
 if __name__ == "__main__":
