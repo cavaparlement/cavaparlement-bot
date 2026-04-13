@@ -1,7 +1,7 @@
-from bots.assemblee.scraper import download_and_parse, save_snapshot, load_snapshot, fetch_deputes_info
+from bots.assemblee.scraper import download_and_parse, fetch_deputes_info
 from bots.assemblee.publisher import post_events
-from bots.senat.diff import compute_diff
-from bots.senat.update_history import append_events
+from shared.diff import compute_diff
+from shared.supabase_sync import load_snapshot, push_events
 from atproto import Client
 from datetime import date
 from pathlib import Path
@@ -48,25 +48,38 @@ def run():
     new_data = download_and_parse()
     total = sum(len(v) for v in new_data.values())
     print(str(len(new_data)) + " députés, " + str(total) + " collaborateurs trouvés")
+
     print("Récupération infos députés...")
     deputes_info = fetch_deputes_info()
     print(str(len(deputes_info)) + " députés enrichis")
-    with open("data/assemblee/deputes_info.json", "w", encoding="utf-8") as f:
-        json.dump(deputes_info, f, ensure_ascii=False, indent=2)
-    old_data = load_snapshot()
+
+    print("Chargement snapshot depuis Supabase...")
+    old_data = load_snapshot("AN")
+
     if not old_data:
-        print("Premier run - snapshot sauvegardé, aucun post.")
-        save_snapshot(new_data)
+        print("Premier run (Supabase vide) — initialisation des mandats, aucun post.")
+        # Initialise les mandats actifs dans Supabase depuis le scrape actuel
+        fake_events = [
+            {"type": "arrivée", "collaborateur": collab, "senateur": depute}
+            for depute, collabs in new_data.items()
+            for collab in collabs
+        ]
+        push_events(fake_events, deputes_info, "AN")
         return
+
     events = compute_diff(old_data, new_data)
     print(str(len(events)) + " changement(s) détecté(s)")
+
     if events:
         save_compteur(0)
-        append_events(events, deputes_info, chambre="assemblee")
+        # Bluesky + Telegram (inchangé)
         post_events(events, deputes_info)
+        # Supabase : mouvements + mandats (remplace save_snapshot + append_events)
+        stats = push_events(events, deputes_info, "AN")
+        print(f"Supabase AN — {stats['inseres']} insérés, {stats['doublons']} doublons, {stats['erreurs']} erreurs")
     else:
         post_ras()
-    save_snapshot(new_data)
+
     print("Done.")
 
 if __name__ == "__main__":
