@@ -22,6 +22,8 @@ jobs:
           BLUESKY_SENAT_IDENTIFIER: ${{ secrets.BLUESKY_SENAT_IDENTIFIER }}
           BLUESKY_SENAT_PASSWORD: ${{ secrets.BLUESKY_SENAT_PASSWORD }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
 
       - run: python scripts/update_photos.py
 
