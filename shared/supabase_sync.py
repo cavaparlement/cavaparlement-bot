@@ -82,19 +82,23 @@ def load_ep_state() -> dict:
 
     Format retourné identique à l'ancien state.json :
         {
-          "mep_id": {
+          "ep_id": {
             "name": "...",
             "group": "...",
             "assistants": [{"name": "...", "type": "..."}, ...]
           }
         }
+
+    La colonne `ep_id` contient l'identifiant numérique EP (ex: "256869"),
+    cohérent avec `an_id` (AN) et `matricule` (Sénat).
     """
     db = _client()
-    # Récupère les élus EP avec leurs mandats actifs
+    # Récupère les élus EP avec leur ep_id (identifiant numérique EP)
     elus_resp = (
         db.table("elus")
-        .select("id, source_id, nom_complet, groupe_label")
+        .select("id, ep_id, nom_complet, groupe_label")
         .eq("chambre", "Europarl")
+        .not_.is_("ep_id", "null")
         .execute()
     )
     if not elus_resp.data:
@@ -110,19 +114,19 @@ def load_ep_state() -> dict:
         .execute()
     )
 
-    # Index des assistants par elu_id
+    # Index des assistants par elu_id (interne Supabase)
     assistants_by_elu = {}
     for m in mandats_resp.data:
-        eid  = m["elu_id"]
-        name = (m.get("collaborateurs") or {}).get("nom_complet", "")
+        eid   = m["elu_id"]
+        name  = (m.get("collaborateurs") or {}).get("nom_complet", "")
         atype = m.get("type_collab", "Assistant")
         if name:
             assistants_by_elu.setdefault(eid, []).append({"name": name, "type": atype})
 
     state = {}
     for elu in elus_resp.data:
-        mep_id = str(elu["source_id"])   # EP numeric ID stocké dans source_id
-        state[mep_id] = {
+        ep_id = str(elu["ep_id"])   # identifiant numérique EP ("256869", "197691", ...)
+        state[ep_id] = {
             "name":       elu["nom_complet"],
             "group":      elu.get("groupe_label", ""),
             "assistants": assistants_by_elu.get(elu["id"], []),
