@@ -21,6 +21,7 @@ from shared.political_mapping import (
     EP_TYPE_EMOJIS, EP_TYPE_LABELS_FR,
     format_ep_group,
 )
+from shared.supabase_sync import load_ep_state, push_ep_events
 from bots.europarl.mep_lookup import get_mep_handle
 
 # ─── Configuration ────────────────────────────────────────────────────────────
@@ -176,19 +177,9 @@ def get_all_assistants_by_mep(french_mep_ids: set) -> dict:
     return mep_to_assistants
 
 
-# ─── State ────────────────────────────────────────────────────────────────────
-
-def load_state() -> dict:
-    if os.path.exists(STATE_FILE) and os.path.getsize(STATE_FILE) > 5:
-        with open(STATE_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {}
-
-
-def save_state(state: dict) -> None:
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(state, f, ensure_ascii=False, indent=2)
-    print(f"  State sauvegardé ({len(state)} MEPs)")
+# ─── State (Supabase) ─────────────────────────────────────────────────────────
+# load_state()  → shared.supabase_sync.load_ep_state()
+# save_state()  → shared.supabase_sync.push_ep_events()  (implicite dans main)
 
 
 # ─── Formatage des posts ──────────────────────────────────────────────────────
@@ -298,11 +289,12 @@ def main():
     print("  CavaEuroparl — suivi des collaborateurs des MEPs FR")
     print("=" * 55)
 
-    state        = load_state()
+    print("-> Chargement de l'état depuis Supabase...")
+    state        = load_ep_state()
     is_first_run = len(state) == 0
 
     if is_first_run:
-        print("⚠️  Premier run : construction de l'état initial, aucun post")
+        print("⚠️  Premier run (Supabase vide) : construction de l'état initial, aucun post")
         try:
             french_meps = get_french_meps()
         except Exception as e:
@@ -312,8 +304,7 @@ def main():
             print("Aucun MEP trouvé — vérifier l'API EP")
             sys.exit(1)
     else:
-        # Runs suivants : on repart du state.json, pas besoin de l'API EP
-        print(f"-> MEPs chargés depuis state.json ({len(state)} MEPs)")
+        print(f"-> MEPs chargés depuis Supabase ({len(state)} MEPs)")
         french_meps = {
             mep_id: {"name": info["name"], "group": info["group"]}
             for mep_id, info in state.items()
@@ -362,11 +353,32 @@ def main():
                   f"{change['mep_name']} ({change['mep_group']})")
             publish_change(change)
             time.sleep(3)
+
+        # Écriture dans Supabase (remplace save_state)
+        stats = push_ep_events(changes)
+        print(f"Supabase EP — {stats['inseres']} insérés, {stats['doublons']} doublons, {stats['erreurs']} erreurs")
+
     else:
-        if not is_first_run:
+        if is_first_run:
+            # Premier run : initialise tous les mandats dans Supabase
+            init_changes = [
+                {
+                    "type": "arrival",
+                    "mep_id": mep_id,
+                    "mep_name": info["name"],
+                    "mep_group": info["group"],
+                    "assistant_name": a["name"],
+                    "assistant_type": a["type"],
+                }
+                for mep_id, info in new_state.items()
+                for a in info["assistants"]
+            ]
+            if init_changes:
+                push_ep_events(init_changes)
+                print(f"  Initialisation Supabase : {len(init_changes)} mandats créés")
+        else:
             print("\n  Aucun changement aujourd'hui.")
 
-    save_state(new_state)
     print("\n✅ Terminé")
 
 
