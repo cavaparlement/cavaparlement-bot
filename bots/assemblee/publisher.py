@@ -112,17 +112,26 @@ def format_post(event, deputes_info, dates):
 
 
 def post_events(events, deputes_info={}):
-    client = Client()
-    client.login(HANDLE, APP_PASSWORD)
+    try:
+        client = Client()
+        client.login(HANDLE, APP_PASSWORD)
+    except Exception as e:
+        print(f"[ERREUR] Login Bluesky AN échoué — posts annulés : {e}")
+        raise
+
     dates = load_dates()
     for event in events:
         text = format_post(event, deputes_info, dates)
         if not text:
             continue
-        response = client.send_post(text=text)
-        print("Post Bluesky AN : " + text[:80] + "...")
-        post_telegram(text)
-        dep = event.get("senateur") or event.get("to") or event.get("from", "")
-        if dep:
-            post_reply_with_mention(client, response.uri, response.cid, dep, "assemblee")
+        try:
+            response = client.send_post(text=text)
+            print("Post Bluesky AN : " + text[:80] + "...")
+            post_telegram(text)
+            dep = event.get("senateur") or event.get("to") or event.get("from", "")
+            if dep:
+                post_reply_with_mention(client, response.uri, response.cid, dep, "assemblee")
+        except Exception as e:
+            print(f"[ERREUR] Post échoué pour {event.get('collaborateur', '?')} : {e}")
+
     save_dates(dates)
